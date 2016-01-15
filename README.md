@@ -62,3 +62,4 @@ Signed,
 - Cory Burgett ([@baguette](https://github.com/baguette)), Developer
 - Sina Khelil ([@incognos](https://github.com/incognos) Principal Engineer at Advisory Board Company
 - Matija Abicic ([@matijaabicic](https://github.com/matijaabicic)), Head of Products at Sysrepublic Inc.
+- Alex Kavon ([@alexkavon](https://github.com/alexkavon)), Engineer
