@@ -122,3 +122,4 @@ Signed,
 - Martín Ciparelli ([@mciparelli](https://github.com/mciparelli)), OSS pusher and Front End enthusiast
 - Chaouki Dhib ([@chaodhib](https://github.com/chaodhib)), Developer
 - Joel Berman (@j0el][https://github.com/j0el)) OSS Lover
+- Alex Phillips ([@alex-phillips](https://github.com/alex-phillips)), Software Developer
