@@ -76,3 +76,4 @@ Signed,
 - Carlos Alexandro Becker ([@caarlos0](https://github.com/caarlos0)), Developer
 - Harald Nagel ([@haraldnagel](https://github.com/haraldnagel)), Developer
 - Vikram Tiwari ([@VikramTiwari](https://github.com/VikramTiwari)), Full Stack Developer
+- Julio Protzek ([@julioprotzek](https://github.com/julioprotzek)), Founder at flama.me
