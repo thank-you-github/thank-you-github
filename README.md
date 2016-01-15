@@ -27,4 +27,5 @@ Signed,
 - John Drago ([@jdrago999](https://github.com/jdrago999)), Developer
 - Josh Kurz ([@jkurz](https://github.com/jkurz)), BA
 - Joshua Burns ([@jdburnz](https://github.com/jdburnz)), CTO at A2I Wheel & Tire
+- Mathias Bogaert ([@analytically](https://github.com/analytically)), Developer
 - *Your signature here*
