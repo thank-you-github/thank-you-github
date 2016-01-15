@@ -60,6 +60,7 @@ Signed,
 - Blake Niemyjski ([@niemyjski](https://github.com/niemyjski)), Architect at [Exceptionless](https://github.com/exceptionless/Exceptionless)
 - Alex Clark ([@aclark4life](https://github.com/aclark4life)), Python Web Developer
 - Cory Burgett ([@baguette](https://github.com/baguette)), Developer
+- Alex Phillips ([@alex-phillips](https://github.com/alex-phillips)), Software Developer
 - Sina Khelil ([@incognos](https://github.com/incognos) Principal Engineer at Advisory Board Company
 - Matija Abicic ([@matijaabicic](https://github.com/matijaabicic)), Head of Products at Sysrepublic Inc.
 - Andrius Putna ([@fordnox](https://github.com/fordnox)), Developer
