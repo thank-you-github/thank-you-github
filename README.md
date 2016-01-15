@@ -39,4 +39,5 @@ Signed,
 - Zeeshan Mughal ([@zixan](https://github.com/zixan)), Creator of [UberFareEstimator](http://uberfareestimator.co)
 - Andrea Bergamasco ([@vjandrea](https://github.com/vjandrea)), Developer
 - Jon Swanson ([@swansong](https://github.com/swansong)), Software Engineer at Rakuten Marketing
+- Caleb Madrigal([@calebmadrigal](https://github.com/calebmadrigal), Software Engineer
 - *Your signature here*
