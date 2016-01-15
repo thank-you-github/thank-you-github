@@ -81,3 +81,4 @@ Signed,
 - Maximilian Felgenhauer ([@felgenh3](https://github.com/felgenh3)), Full Stack Software Engineer
 - Chris Tate ([@ctate](https://github.com/ctate)), Autocode maintainer
 - Patricio Rojas ([@brujo696](https://github.com/brujo696)), Cofounder at irricrop.com
+- Kailan Blanks ([@kblanks(https://github.com/kblanks)), Developer
