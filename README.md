@@ -97,3 +97,4 @@ Signed,
 - Leo Natan ([@LeoNatan](https://github.com/LeoNatan))
 - `Dear Github` ([@dear-github](https://github.com/dear-github/dear-github)), OSS maintainers who love GitHub and want to improve it
 - Aman Gautam ([@aman-gautam](http://github.com/aman-gautam), CTO, ClickEinstein.com
+- Manuel Ebert ([@maebert](https://github.com/maebert)), Founder of [summer.ai](http://www.summer.ai) & [open source](https://github.com/maebert/jrnl) developer
