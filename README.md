@@ -25,4 +25,5 @@ Signed,
 - David Pacioianu ([@davidpacioianu](https://github.com/davidpacioianu)), CEO at PixelCan
 - Drew Morris ([@drewry](https://github.com/drewry)), Developer
 - John Drago ([@jdrago999](https://github.com/jdrago999)), Developer
+- Milkey Mouse ([@milkey-mouse](https://github.com/milkey-mouse)), Student
 - *Your signature here*
