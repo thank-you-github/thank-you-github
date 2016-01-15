@@ -26,4 +26,5 @@ Signed,
 - Drew Morris ([@drewry](https://github.com/drewry)), Developer
 - John Drago ([@jdrago999](https://github.com/jdrago999)), Developer
 - Josh Kurz ([@jkurz](https://github.com/jkurz)), BA
+- Joshua Burns ([@jdburnz](https://github.com/jdburnz)), CTO at A2I Wheel & Tire
 - *Your signature here*
