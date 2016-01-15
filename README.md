@@ -36,4 +36,5 @@ Signed,
 - Burak Sarıca ([@buraksarica](https://github.com/buraksarica)), ABIS Technology
 - Paul Carey ([@paulccarey](https://github.com/paulccarey)), [Partner at Source[Lab]](http://sourcelab.technology/)
 - Oussama Issaoui ([@thesubr00t](https://github.com/thesubr00t)), Full Stack Developer at Emiketic
+- Zeeshan Mughal ([@zixan](https://github.com/zixan)), Creator of [UberFareEstimator](http://uberfareestimator.co)
 - *Your signature here*
