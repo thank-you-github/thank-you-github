@@ -105,3 +105,4 @@ Signed,
 - Francisco Presencia ([@franciscop](https://github.com/franciscop)), creator of Picnic CSS and Umbrella JS
 - Chuck Sakoda ([@csakoda](https://github.com/csakoda)), Developer
 - Ryan Schachte ([@schachte](https://github.com/schachte)), Software Engineer
+- Tom Baranes ([@tbaranes](https://github.com/tbaranes)), iOS Developer
