@@ -44,4 +44,5 @@ Signed,
 - Alexander Kuleshov ([@0xAX](https://github.com/0xAX)), Erlang/Elixir developer at traveping, author of linux-insides
 - Daniel Doubrovkine ([@dblock](https://github.com/dblock)), [Ruby Grape](http://www.ruby-grape.org/), CTO Artsy.net
 - Edouard Chin ([@Edouard-chin](https://github.com/Edouard-chin)), Developer
+- Josh Stanfield ([@p5k6](https://github.com/p5k6)), Data Engineer
 - *Your signature here*
