@@ -19,3 +19,4 @@ GitHub, thank you very much.
 Signed,
 
 - Xavier Noria ([@fxn](https://github.com/fxn)), Ruby on Rails core team member
+- *Your signature here*
