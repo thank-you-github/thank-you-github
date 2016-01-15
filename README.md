@@ -101,3 +101,4 @@ Signed,
 - Marin Usalj ([@supermarin](http://github.com/supermarin), Developer
 - Yosbel Marin ([@yosbelms](https://github.com/yosbelms))
 - Ricardo Cabello ([@mrdoob](https://github.com/mrdoob)), maintainer of three.js
+- Chuck Sakoda ([@csakoda](https://github.com/csakoda)), Developer
