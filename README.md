@@ -122,3 +122,5 @@ Signed,
 - Martín Ciparelli ([@mciparelli](https://github.com/mciparelli)), OSS pusher and Front End enthusiast
 - Chaouki Dhib ([@chaodhib](https://github.com/chaodhib)), Developer
 - Joel Berman (@j0el][https://github.com/j0el)) OSS Lover
+- Bao Nguyen (@sysbot][https://github.com/sysbot)) Network Engineer at
+  [Fastly](https://www.fastly.com)
