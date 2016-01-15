@@ -99,9 +99,6 @@ Signed,
 - Aman Gautam ([@aman-gautam](http://github.com/aman-gautam), CTO, ClickEinstein.com
 - Manuel Ebert ([@maebert](https://github.com/maebert)), Founder of [summer.ai](http://www.summer.ai) & [open source](https://github.com/maebert/jrnl) developer
 - Marin Usalj ([@supermarin](http://github.com/supermarin), Developer
-- Yosbel Marin ([@yosbelms](https://github.com/yosbelms)), Full Stack Developer, Creator and maintainer of [Cor](http://yosbelms.github.io/cor/) language
-- Andrew Turner ([@galenandrew](https://github.com/galenandrew)), Technical Leader, Engineer, and Speaker
+- Yosbel Marin ([@yosbelms](https://github.com/yosbelms))
 - Ricardo Cabello ([@mrdoob](https://github.com/mrdoob)), maintainer of three.js
-- Francisco Presencia ([@franciscop](https://github.com/franciscop)), creator of Picnic CSS and Umbrella JS
-- Chuck Sakoda ([@csakoda](https://github.com/csakoda)), Developer
-- Ryan Schachte ([@schachte](https://github.com/schachte)), Software Engineer
+- Akash Tandon ([@analyticalmonk](https://github.com/analyticalmonk)), OSS loving undergrad & GSoC'15 alumni
