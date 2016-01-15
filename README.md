@@ -79,3 +79,4 @@ Signed,
 - Julio Protzek ([@julioprotzek](https://github.com/julioprotzek)), Founder at flama.me
 - Jim Thompson ([@gonzopancho](https://github.com/gonzopancho)), Head of development for pfSense.org
 - Maximilian Felgenhauer ([@felgenh3](https://github.com/felgenh3)), Full Stack Software Engineer
+- Chris Tate ([@ctate](https://github.com/ctate)), Autocode maintainer
