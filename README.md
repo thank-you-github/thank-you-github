@@ -135,3 +135,4 @@ Signed,
 - Paul Maunders ([@paulmaunders](https://github.com/paulmaunders)), Developer
 - Marcelo Barbosa ([@marcbarbosa](https://github.com/marcbarbosa)), Software Engineer
 - Mark van Duijker ([@mvanduijker](https://github.com/mvanduijker)), Developer
+- Oakley Hall ([@ohall](https://github.com/ohall)), Developer
