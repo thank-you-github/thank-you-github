@@ -96,3 +96,4 @@ Signed,
 - Waldir Bertazzi Junior ([@waldirbertazzijr](https://github.com/waldirbertazzijr)), Cofounder at geocast.com.br
 - José Luis Quintana ([@joseluisq](https://github.com/joseluisq)), Web Developer
 - Leo Natan ([@LeoNatan](https://github.com/LeoNatan))
+- Manuel Ebert ([@maebert](https://github.com/maebert)), Founder of [summer.ai](http://www.summer.ai) & [open source](https://github.com/maebert/jrnl) developer
