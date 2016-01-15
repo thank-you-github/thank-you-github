@@ -87,3 +87,4 @@ Signed,
 - Ann Paul ([@annp89](https://github.com/annp89)), Engineer at Prism Skylabs
 - Leonardo Ruhland ([@leoruhland](https://github.com/leoruhland)), Developer
 - Paul Knopf ([@theonlylawislove](https://github.com/theonlylawislove)), Developer
+- Přemysl Donát ([@masa331](https://github.com/Masa331)), Web Developer
