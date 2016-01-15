@@ -36,5 +36,5 @@ Signed,
 - Burak Sarıca ([@buraksarica](https://github.com/buraksarica)), ABIS Technology
 - Paul Carey ([@paulccarey](https://github.com/paulccarey)), [Partner at Source[Lab]](http://sourcelab.technology/)
 - Oussama Issaoui ([@thesubr00t](https://github.com/thesubr00t)), Full Stack Developer at Emiketic
-- David Shure ([@david4shure](https://github.com/david4shure)), Developer
+- David Shure ([@david4shure](https://github.com/david4shure)), Software Engineer
 - *Your signature here*
