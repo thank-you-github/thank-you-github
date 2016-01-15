@@ -130,3 +130,4 @@ Signed,
 - Jacob Gadikian ([@faddat](https://github.com/faddat)), Geek
 - Stephane Bruckert ([@stephanebruckert](https://github.com/stephanebruckert)), Full Stack Developer
 - Carles Jove i Buxeda ([@carlesjove](https://github.com/carlesjove)), Developer and OS contributor
+- Charlie Hagedorn ([@4kbt](https://github.com/4kbt)), Physicist at CENPA, University of Washington
