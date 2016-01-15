@@ -131,3 +131,4 @@ Signed,
 - Stephane Bruckert ([@stephanebruckert](https://github.com/stephanebruckert)), Full Stack Developer
 - Carles Jove i Buxeda ([@carlesjove](https://github.com/carlesjove)), Developer and OS contributor
 - Charlie Hagedorn ([@4kbt](https://github.com/4kbt)), Physicist at CENPA, University of Washington
+- Denys Telezhkin ([@DenHeadless](https://github.com/denheadless)), iOS Developer at [MLSDev](https://mlsdev.com) and OSS contributor
