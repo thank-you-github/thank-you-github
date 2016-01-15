@@ -50,4 +50,5 @@ Signed,
 - Aritra Ghosh Dastidar ([@aritraghoshdastidar] (https://github.com/aritraghoshdastidar)), Growth Hacker at Intuit Inc
 - Vincent Grafé ([@vgrafe](https://github.com/vgrafe)), Developer
 - Jacob Evans ([@jacobtheevans](https://github.com/jacobtheevans)), Developer
+- Rick Wouters ([@raketwissenschaftler](https://github.com/raketwissenschaftler)), Developer
 - *Your signature here*
