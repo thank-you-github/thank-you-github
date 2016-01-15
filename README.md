@@ -27,4 +27,5 @@ Signed,
 - Drew Morris ([@drewry](https://github.com/drewry)), Developer
 - John Drago ([@jdrago999](https://github.com/jdrago999)), Developer
 - Josh Kurz ([@jkurz](https://github.com/jkurz)), BA
+- Luís Fernando Guedes ([@fernandoguedes](https://github.com/fernandoguedes)), Bower Contributor
 - *Your signature here*
