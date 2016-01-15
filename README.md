@@ -99,5 +99,5 @@ Signed,
 - Aman Gautam ([@aman-gautam](http://github.com/aman-gautam), CTO, ClickEinstein.com
 - Manuel Ebert ([@maebert](https://github.com/maebert)), Founder of [summer.ai](http://www.summer.ai) & [open source](https://github.com/maebert/jrnl) developer
 - Marin Usalj ([@supermarin](http://github.com/supermarin), Developer
-- Yosbel Marin ([@yosbelms](https://github.com/yosbelms))
+- Yosbel Marin ([@yosbelms](https://github.com/yosbelms)), Full Stack Developer, Creator and maintainer of [Cor](http://yosbelms.github.io/cor/) language
 - Ricardo Cabello ([@mrdoob](https://github.com/mrdoob)), maintainer of three.js
