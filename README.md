@@ -90,3 +90,4 @@ Signed,
 - Přemysl Donát ([@masa331](https://github.com/Masa331)), Web Developer
 - Alex Meswarb ([@ameswarb](https://github.com/ameswarb)), Developer
 - Alessio Fanelli ([@FanaHOVA](https://github.com/FanaHOVA)), Developer
+- Teodor Szente ([@teosz](https://github.com/teosz)), Developer
