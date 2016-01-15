@@ -27,4 +27,5 @@ Signed,
 - John Drago ([@jdrago999](https://github.com/jdrago999)), Developer
 - Josh Kurz ([@jkurz](https://github.com/jkurz)), BA
 - Joshua Burns ([@jdburnz](https://github.com/jdburnz)), CTO at A2I Wheel & Tire
+- Mark Story ([@markstory](https://github.com/markstory)), CakePHP core team member.
 - *Your signature here*
