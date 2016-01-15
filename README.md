@@ -64,5 +64,4 @@ Signed,
 - Matija Abicic ([@matijaabicic](https://github.com/matijaabicic)), Head of Products at Sysrepublic Inc.
 - Andrius Putna ([@fordnox](https://github.com/fordnox)), Developer
 - Seth Webster ([@sethwebster](https://github.com/sethwebster)), CTO at TentSquare, inc.
-- Justin Aiken ([@JustinAiken](https://github.com/JustinAiken)), Ruby on Rails engineer at [UserTesting](https://www.usertesting.com)
-- Milkey Mouse ([@milkey-mouse](https://github.com/milkey-mouse)), Student
+- Vikram Tiwari ([@VikramTiwari](https://github.com/VikramTiwari)), Full Stack Developer
