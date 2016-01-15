@@ -60,4 +60,5 @@ Signed,
 - Blake Niemyjski ([@niemyjski](https://github.com/niemyjski)), Architect at [Exceptionless](https://github.com/exceptionless/Exceptionless)
 - Alex Clark ([@aclark4life](https://github.com/aclark4life)), Python Web Developer
 - Cory Burgett ([@baguette](https://github.com/baguette)), Developer
+- Sina Khelil ([@incognos](https://github.com/incognos) Principal Engineer at Advisory Board Company
 - Carlos Alexandro Becker ([@caarlos0](https://github.com/caarlos0)), Developer
