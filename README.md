@@ -68,3 +68,4 @@ Signed,
 - Milkey Mouse ([@milkey-mouse](https://github.com/milkey-mouse)), Student
 - David Nuon ([@davidnuon](https://github.com/davidnuon)), Developer
 - Phil Royer ([@littletinman](https://github.com/littletinman)), Developer
+- Ryan T. Hosford ([@rthbound](https://github.com/rthbound)), Sr. Software Developer at ChipRewards Inc.
