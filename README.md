@@ -70,3 +70,4 @@ Signed,
 - Phil Royer ([@littletinman](https://github.com/littletinman)), Developer
 - Ryan T. Hosford ([@rthbound](https://github.com/rthbound)), Sr. Software Developer at ChipRewards Inc.
 - David Shure ([@david4shure](https://github.com/david4shure)), Software Engineer
+- Chris Kottom ([@chriskottom](https://github.com/chriskottom)), Developer
