@@ -88,3 +88,4 @@ Signed,
 - Leonardo Ruhland ([@leoruhland](https://github.com/leoruhland)), Developer
 - Paul Knopf ([@theonlylawislove](https://github.com/theonlylawislove)), Developer
 - Přemysl Donát ([@masa331](https://github.com/Masa331)), Web Developer
+- Alex Meswarb ([@ameswarb](https://github.com/ameswarb)), Developer
