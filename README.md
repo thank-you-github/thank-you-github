@@ -85,3 +85,4 @@ Signed,
 - Juan Camilo Osorio ([@jcoc611](https://github.com/jcoc611)), Undergrad at the University of Toronto
 - Kailan Blanks ([@kblanks(https://github.com/kblanks)), Developer
 - Ann Paul ([@annp89](https://github.com/annp89)), Engineer at Prism Skylabs
+- Leonardo Ruhland ([@leoruhland](https://github.com/leoruhland)), Developer
