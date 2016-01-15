@@ -149,3 +149,4 @@ Signed,
 - Alexander Harchenko ([@morontt](https://github.com/morontt)), Developer
 - Luke Elliott ([@revlucio](https://github.com/revlucio)), Developer
 - Bruno Rocha ([@rochacbruno](https://github.com/rochacbruno)), Software Artist at [CathoLabs](http://www.catholabs.com) & [Quokka CMS](http://quokkaproject.org)
+- Cris Mihalache ([@f3rno](http://f3rno.com)), Software Engineer
