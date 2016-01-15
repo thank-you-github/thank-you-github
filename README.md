@@ -45,4 +45,5 @@ Signed,
 - Daniel Doubrovkine ([@dblock](https://github.com/dblock)), [Ruby Grape](http://www.ruby-grape.org/), CTO Artsy.net
 - Edouard Chin ([@Edouard-chin](https://github.com/Edouard-chin)), Developer
 - Andrey Nering ([@andreynering](https://github.com/andreynering)), Software Developer
+- Adam Grant ([@adamjgrant](https://github.com/adamjgrant)), Rails and Front end developer in Cupertino, CA
 - *Your signature here*
