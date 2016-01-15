@@ -56,3 +56,4 @@ Signed,
 - Vikash Tiwari ([@tiwarivikash](https://github.com/tiwarivikash)), Software Engineer
 - Anthony Pipkin ([@apipkin](https://github.com/apipkin)), Software Developer (across various teams and companies)
 - Graham Weldon ([@predominant](https://github.com/predominant))
+- Alex Clark ([@aclark4life](https://github.com/aclark4life)), Python Web Developer
