@@ -35,4 +35,5 @@ Signed,
 - Jacob Hamblin ([@jacobhamblin](https://github.com/jacobhamblin)), Developer
 - Burak Sarıca ([@buraksarica](https://github.com/buraksarica)), ABIS Technology
 - Paul Carey ([@paulccarey](https://github.com/paulccarey)), [Partner at Source[Lab]](http://sourcelab.technology/)
+- Andrea Bergamasco ([@vjandrea](https://github.com/vjandrea)), Developer
 - *Your signature here*
