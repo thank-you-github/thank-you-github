@@ -57,3 +57,4 @@ Signed,
 - Anthony Pipkin ([@apipkin](https://github.com/apipkin)), Software Developer (across various teams and companies)
 - Graham Weldon ([@predominant](https://github.com/predominant))
 - Evol Mark Johnson ([@ejohnsonw](https://github.com/ejohnsonw)), www.generatron.com, Software architect
+- Blake Niemyjski ([@niemyjski](https://github.com/niemyjski)), Architect at [Exceptionless](https://github.com/exceptionless/Exceptionless)
