@@ -83,3 +83,4 @@ Signed,
 - Patricio Rojas ([@brujo696](https://github.com/brujo696)), Cofounder at irricrop.com
 - Raphael Amorim ([@raphamorim](http://github/com/raphamorim)), Software Developer
 - Juan Camilo Osorio ([@jcoc611](https://github.com/jcoc611)), Undergrad at the University of Toronto
+- Kailan Blanks ([@kblanks(https://github.com/kblanks)), Developer
