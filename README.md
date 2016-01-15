@@ -125,3 +125,4 @@ Signed,
 - Alex Phillips ([@alex-phillips](https://github.com/alex-phillips)), Software Developer
 - Süleyman Vardar ([@vardars](https://github.com/vardars)), Full Stack Developer
 - Jarrod Spillers ([@jspillers](https://github.com/jspillers)), Full Stack Developer
+- Jacob Gadikian ([@faddat](https://github.com/faddat)), Geek
