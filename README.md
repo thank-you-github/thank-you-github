@@ -81,7 +81,7 @@ Signed,
 - Maximilian Felgenhauer ([@felgenh3](https://github.com/felgenh3)), Full Stack Software Engineer
 - Chris Tate ([@ctate](https://github.com/ctate)), Autocode maintainer
 - Patricio Rojas ([@brujo696](https://github.com/brujo696)), Cofounder at irricrop.com
-- Raphael Amorim ([@raphamorim](http://github/com/raphamorim)), Software Developer
+- Raphael Amorim ([@raphamorim](http://github.com/raphamorim)), Software Developer
 - Juan Camilo Osorio ([@jcoc611](https://github.com/jcoc611)), Undergrad at the University of Toronto
 - Kailan Blanks ([@kblanks](https://github.com/kblanks)), Developer
 - Ann Paul ([@annp89](https://github.com/annp89)), Engineer at Prism Skylabs
