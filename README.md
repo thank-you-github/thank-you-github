@@ -27,6 +27,7 @@ Signed,
 - John Drago ([@jdrago999](https://github.com/jdrago999)), Developer
 - Josh Kurz ([@jkurz](https://github.com/jkurz)), BA
 - Joshua Burns ([@jdburnz](https://github.com/jdburnz)), CTO at A2I Wheel & Tire
+<<<<<<< 5c7c38bb402d34ac99d93f4d2f6da7a1c0cc3330
 - Justin Wayne ([@jcwayne](https://github.com/jcwayne)), CIO at BIG Inventory
 - Mark Story ([@markstory](https://github.com/markstory)), CakePHP core team member
 - Luís Fernando Guedes ([@fernandoguedes](https://github.com/fernandoguedes)), Bower Contributor
@@ -51,4 +52,5 @@ Signed,
 - Vincent Grafé ([@vgrafe](https://github.com/vgrafe)), Developer
 - Jacob Evans ([@jacobtheevans](https://github.com/jacobtheevans)), Developer
 - Rick Wouters ([@raketwissenschaftler](https://github.com/raketwissenschaftler)), Developer
+- Justin Aiken ([@JustinAiken](https://github.com/JustinAiken)), Ruby on Rails engineer at [UserTesting](https://www.usertesting.com)
 - *Your signature here*
