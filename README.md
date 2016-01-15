@@ -43,4 +43,5 @@ Signed,
 - Sylvain Perron ([@slvnperron](https://github.com/slvnperron)), SE from Quebec
 - Alexander Kuleshov ([@0xAX](https://github.com/0xAX)), Erlang/Elixir developer at traveping, author of linux-insides
 - Daniel Doubrovkine ([@dblock](https://github.com/dblock)), [Ruby Grape](http://www.ruby-grape.org/), CTO Artsy.net
+- Daniel Lockard ([@daniellockard](https://github.com/daniellockard], Developer
 - *Your signature here*
