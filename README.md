@@ -86,3 +86,4 @@ Signed,
 - Kailan Blanks ([@kblanks(https://github.com/kblanks)), Developer
 - Ann Paul ([@annp89](https://github.com/annp89)), Engineer at Prism Skylabs
 - Leonardo Ruhland ([@leoruhland](https://github.com/leoruhland)), Developer
+- Paul Knopf ([@theonlylawislove](https://github.com/theonlylawislove)), Developer
