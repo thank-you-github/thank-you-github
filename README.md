@@ -64,3 +64,14 @@ Signed,
 - Matija Abicic ([@matijaabicic](https://github.com/matijaabicic)), Head of Products at Sysrepublic Inc.
 - Andrius Putna ([@fordnox](https://github.com/fordnox)), Developer
 - Julio Protzek ([@julioprotzek](https://github.com/julioprotzek)), Founder at flama.me
+- Seth Webster ([@sethwebster](https://github.com/sethwebster)), CTO at TentSquare, inc.
+- Justin Aiken ([@JustinAiken](https://github.com/JustinAiken)), Ruby on Rails engineer at [UserTesting](https://www.usertesting.com)
+- Milkey Mouse ([@milkey-mouse](https://github.com/milkey-mouse)), Student
+- David Nuon ([@davidnuon](https://github.com/davidnuon)), Developer
+- Phil Royer ([@littletinman](https://github.com/littletinman)), Developer
+- Ryan T. Hosford ([@rthbound](https://github.com/rthbound)), Sr. Software Developer at ChipRewards Inc.
+- David Shure ([@david4shure](https://github.com/david4shure)), Software Engineer
+- Chris Kottom ([@chriskottom](https://github.com/chriskottom)), Developer
+- Mathias Bogaert ([@analytically](https://github.com/analytically)), Developer
+- Eugene Istrati ([@eistrati](https://github.com/eistrati)), AWS Technology Partner @ [Mitoc Group](http://www.mitocgroup.com) and Chief Everything Officer @ [DEEP Marketplace](https://www.deep.mg)
+
