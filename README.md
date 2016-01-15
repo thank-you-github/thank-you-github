@@ -33,4 +33,5 @@ Signed,
 - Sadjow Leão ([@sadjow](https://github.com/sadjow)), Software Developer
 - Keith Lewis ([@Jacrys] (https://github.com/jacrys), [@TrinityComputers](https://github.com/TrinityComputers)), Owner/Lead Dev at Trinity Computers
 - Jacob Hamblin ([@jacobhamblin](https://github.com/jacobhamblin)), Developer
+- Caleb Madrigal([@calebmadrigal](https://github.com/calebmadrigal), Software Engineer
 - *Your signature here*
