@@ -90,3 +90,4 @@ Signed,
 - Přemysl Donát ([@masa331](https://github.com/Masa331)), Web Developer
 - Alex Meswarb ([@ameswarb](https://github.com/ameswarb)), Developer
 - Alessio Fanelli ([@FanaHOVA](https://github.com/FanaHOVA)), Developer
+- Waldir Bertazzi Junior ([@waldirbertazzijr](https://github.com/waldirbertazzijr)), Cofounder at geocast.com.br
