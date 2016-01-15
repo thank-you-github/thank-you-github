@@ -65,3 +65,4 @@ Signed,
 - Andrius Putna ([@fordnox](https://github.com/fordnox)), Developer
 - Seth Webster ([@sethwebster](https://github.com/sethwebster)), CTO at TentSquare, inc.
 - Justin Aiken ([@JustinAiken](https://github.com/JustinAiken)), Ruby on Rails engineer at [UserTesting](https://www.usertesting.com)
+- Milkey Mouse ([@milkey-mouse](https://github.com/milkey-mouse)), Student
