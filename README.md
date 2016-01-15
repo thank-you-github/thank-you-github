@@ -133,3 +133,4 @@ Signed,
 - Charlie Hagedorn ([@4kbt](https://github.com/4kbt)), Physicist at CENPA, University of Washington
 - Denys Telezhkin ([@DenHeadless](https://github.com/denheadless)), iOS Developer at [MLSDev](https://mlsdev.com) and OSS contributor
 - Paul Maunders ([@paulmaunders](https://github.com/paulmaunders)), Developer
+- Marcelo Barbosa ([@marcbarbosa](https://github.com/marcbarbosa)), Software Engineer
