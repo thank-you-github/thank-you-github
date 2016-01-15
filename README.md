@@ -74,5 +74,4 @@ Signed,
 - Mathias Bogaert ([@analytically](https://github.com/analytically)), Developer
 - Eugene Istrati ([@eistrati](https://github.com/eistrati)), AWS Technology Partner @ [Mitoc Group](http://www.mitocgroup.com) and Chief Everything Officer @ [DEEP Marketplace](https://www.deep.mg)
 - Carlos Alexandro Becker ([@caarlos0](https://github.com/caarlos0)), Developer
-- Harald Nagel ([@haraldnagel](https://github.com/haraldnagel)), Developer
-- Vikram Tiwari ([@VikramTiwari](https://github.com/VikramTiwari)), Full Stack Developer
+- Patricio Rojas ([@brujo696](https://github.com/brujo696)), Cofounder at irricrop.com
