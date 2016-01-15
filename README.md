@@ -77,3 +77,4 @@ Signed,
 - Harald Nagel ([@haraldnagel](https://github.com/haraldnagel)), Developer
 - Vikram Tiwari ([@VikramTiwari](https://github.com/VikramTiwari)), Full Stack Developer
 - Julio Protzek ([@julioprotzek](https://github.com/julioprotzek)), Founder at flama.me
+- Jim Thompson ([@gonzopancho](https://github.com/gonzopancho)), Head of development for pfSense.org
