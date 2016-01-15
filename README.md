@@ -26,4 +26,5 @@ Signed,
 - Drew Morris ([@drewry](https://github.com/drewry)), Developer
 - John Drago ([@jdrago999](https://github.com/jdrago999)), Developer
 - Josh Kurz ([@jkurz](https://github.com/jkurz)), BA
+- Oussama Issaoui ([@thesubr00t](https://github.com/thesubr00t)), Full Stack Developer at Emiketic
 - *Your signature here*
