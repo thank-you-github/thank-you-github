@@ -108,3 +108,4 @@ Signed,
 - Tom Baranes ([@tbaranes](https://github.com/tbaranes)), iOS Developer
 - Gastón I. Silva ([@givanse](https://github.com/givanse)), OSS contributor
 - Akash Tandon ([@analyticalmonk](https://github.com/analyticalmonk)), OSS loving undergrad & GSoC'15 alumni
+- Victor Gama ([@victorgama](https://github.com/victorgama)), Software Engineer
