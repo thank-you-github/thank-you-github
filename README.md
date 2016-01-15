@@ -114,3 +114,4 @@ Signed,
 - Spiros Gerokostas ([@sger](https://github.com/sger)), Developer
 - John Kotz ([@jk47](https://github.com/jk47])), Developer
 - Herbert Shin ([@initbar](https://github.com/initbar)), a student who loves git and GitHub ღ˘⌣˘ღ
+- Zeh Fernandes ([@zehfernandes](https://github.com/zehfernandes)), Product Designer
