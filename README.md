@@ -54,3 +54,4 @@ Signed,
 - Josh Stanfield ([@p5k6](https://github.com/p5k6)), Data Engineer
 - Daniel Lockard ([@daniellockard](https://github.com/daniellockard])), Developer
 - Vikash Tiwari ([@tiwarivikash](https://github.com/tiwarivikash)), Software Engineer
+- Anthony Pipkin ([@apipkin](https://github.com/apipkin)), Software Developer (across various teams and companies)
