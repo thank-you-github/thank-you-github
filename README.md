@@ -38,4 +38,5 @@ Signed,
 - Oussama Issaoui ([@thesubr00t](https://github.com/thesubr00t)), Full Stack Developer at Emiketic
 - Zeeshan Mughal ([@zixan](https://github.com/zixan)), Creator of [UberFareEstimator](http://uberfareestimator.co)
 - Andrea Bergamasco ([@vjandrea](https://github.com/vjandrea)), Developer
+- Jon Swanson ([@swansong](https://github.com/swansong)), Software Engineer at Rakuten Marketing
 - *Your signature here*
