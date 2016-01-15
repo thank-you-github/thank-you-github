@@ -129,3 +129,4 @@ Signed,
 - Davi Marcondes Moreira ([@devdrops](https://github.com/devdrops)), Developer
 - Jacob Gadikian ([@faddat](https://github.com/faddat)), Geek
 - Stephane Bruckert ([@stephanebruckert](https://github.com/stephanebruckert)), Full Stack Developer
+- Charlie Hagedorn ([@4kbt](https://github.com/4kbt)), Physicist at CENPA, University of Washington
