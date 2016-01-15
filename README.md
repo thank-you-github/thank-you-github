@@ -49,4 +49,5 @@ Signed,
 - Abdul Hagi ([@ballerabdude](https://github.com/ballerabdude)), Software Developer at Turner Broadcasting
 - Aritra Ghosh Dastidar ([@aritraghoshdastidar] (https://github.com/aritraghoshdastidar)), Growth Hacker at Intuit Inc
 - Vincent Grafé ([@vgrafe](https://github.com/vgrafe)), Developer
+- David Shure ([@david4shure](https://github.com/david4shure)), Software Engineer
 - *Your signature here*
