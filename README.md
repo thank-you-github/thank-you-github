@@ -30,4 +30,5 @@ Signed,
 - Justin Wayne ([@jcwayne](https://github.com/jcwayne)), CIO at BIG Inventory
 - Mark Story ([@markstory](https://github.com/markstory)), CakePHP core team member.
 - Luís Fernando Guedes ([@fernandoguedes](https://github.com/fernandoguedes)), Bower Contributor
+- Sadjow Leão ([@sadjow](https://github.com/sadjow)), Software Developer
 - *Your signature here*
