@@ -103,3 +103,4 @@ Signed,
 - Andrew Turner ([@galenandrew](https://github.com/galenandrew)), Technical Leader, Engineer, and Speaker
 - Ricardo Cabello ([@mrdoob](https://github.com/mrdoob)), maintainer of three.js
 - Francisco Presencia ([@franciscop](https://github.com/franciscop)), creator of Picnic CSS and Umbrella JS
+- Chuck Sakoda ([@csakoda](https://github.com/csakoda)), Developer
