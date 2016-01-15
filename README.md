@@ -39,7 +39,7 @@ Signed,
 - Zeeshan Mughal ([@zixan](https://github.com/zixan)), Creator of [UberFareEstimator](http://uberfareestimator.co)
 - Andrea Bergamasco ([@vjandrea](https://github.com/vjandrea)), Developer
 - Jon Swanson ([@swansong](https://github.com/swansong)), Software Engineer at Rakuten Marketing
-- Caleb Madrigal ([@calebmadrigal](https://github.com/calebmadrigal), Software Engineer
+- Caleb Madrigal ([@calebmadrigal](https://github.com/calebmadrigal)), Software Engineer
 - Sylvain Perron ([@slvnperron](https://github.com/slvnperron)), SE from Quebec
 - Alexander Kuleshov ([@0xAX](https://github.com/0xAX)), Erlang/Elixir developer at traveping, author of linux-insides
 - *Your signature here*
