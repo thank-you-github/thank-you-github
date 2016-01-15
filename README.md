@@ -124,3 +124,4 @@ Signed,
 - Joel Berman (@j0el][https://github.com/j0el)) OSS Lover
 - Alex Phillips ([@alex-phillips](https://github.com/alex-phillips)), Software Developer
 - Süleyman Vardar ([@vardars](https://github.com/vardars)), Full Stack Developer
+- Jarrod Spillers ([@jspillers](https://github.com/jspillers)), Full Stack Developer
