@@ -28,4 +28,5 @@ Signed,
 - Josh Kurz ([@jkurz](https://github.com/jkurz)), BA
 - Joshua Burns ([@jdburnz](https://github.com/jdburnz)), CTO at A2I Wheel & Tire
 - Justin Wayne ([@jcwayne](https://github.com/jcwayne)), CIO at BIG Inventory
+- Paul Carey ([@paulccarey](https://github.com/paulccarey)), [Partner at Source[Lab]](http://sourcelab.technology/)
 - *Your signature here*
