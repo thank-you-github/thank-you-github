@@ -99,3 +99,4 @@ Signed,
 - Aman Gautam ([@aman-gautam](http://github.com/aman-gautam), CTO, ClickEinstein.com
 - Manuel Ebert ([@maebert](https://github.com/maebert)), Founder of [summer.ai](http://www.summer.ai) & [open source](https://github.com/maebert/jrnl) developer
 - Marin Usalj ([@supermarin](http://github.com/supermarin), Developer
+- Yosbel Marin ([@yosbelms](https://github.com/yosbelms))
