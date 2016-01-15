@@ -125,3 +125,4 @@ Signed,
 - Alex Phillips ([@alex-phillips](https://github.com/alex-phillips)), Software Developer
 - Süleyman Vardar ([@vardars](https://github.com/vardars)), Full Stack Developer
 - Jarrod Spillers ([@jspillers](https://github.com/jspillers)), Full Stack Developer
+- Bao Nguyen (@sysbot][https://github.com/sysbot)) Network Engineer at [Fastly](https://www.fastly.com)
