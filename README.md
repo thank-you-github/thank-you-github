@@ -10,7 +10,8 @@ a consequence of their hard work, their platform _earned_ its hegemony.
 
 Nowadays doing Open Source is infinitely easier thanks to you, GitHub. You've
 provided the tools and the social conventions to make those days a thing of the
-past. Your impact in the Open Source movement is unprecedented.
+past. All free and without ads or malware (looking at you SourceForge). Your impact 
+in the Open Source movement is unprecedented.
 
 We want to express our gratitude for all you've done and do for Open Source.
 
@@ -21,3 +22,4 @@ Signed,
 - Xavier Noria ([@fxn](https://github.com/fxn)), Ruby on Rails core team member
 - Jose Diaz-Gonzalez ([@josegonzalez](https://github.com/josegonzalez)), CakePHP and Dokku core team member
 - Denis Savitskiy ([@sadfuzzy](https://github.com/sadfuzzy)), Ruby on Rails engineer at Source[Lab]
+- Tiernan OToole([@tiernano][https://github.com/tiernano)) IT Consultant, Dublin, Ireland
