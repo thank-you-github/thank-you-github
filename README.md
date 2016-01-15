@@ -134,3 +134,4 @@ Signed,
 - Denys Telezhkin ([@DenHeadless](https://github.com/denheadless)), iOS Developer at [MLSDev](https://mlsdev.com) and OSS contributor
 - Paul Maunders ([@paulmaunders](https://github.com/paulmaunders)), Developer
 - Marcelo Barbosa ([@marcbarbosa](https://github.com/marcbarbosa)), Software Engineer
+- Mark van Duijker ([@mvanduijker](https://github.com/mvanduijker)), Developer
