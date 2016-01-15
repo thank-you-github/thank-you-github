@@ -47,4 +47,5 @@ Signed,
 - Andrey Nering ([@andreynering](https://github.com/andreynering)), Software Developer
 - Adam Grant ([@adamjgrant](https://github.com/adamjgrant)), Rails and Front end developer in Cupertino, CA
 - Abdul Hagi ([@ballerabdude](https://github.com/ballerabdude)), Software Developer at Turner Broadcasting
+- Aritra Ghosh Dastidar ([@aritraghoshdastidar] (https://github.com/aritraghoshdastidar)), Growth Hacker at Intuit Inc
 - *Your signature here*
