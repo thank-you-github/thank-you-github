@@ -110,3 +110,4 @@ Signed,
 - Akash Tandon ([@analyticalmonk](https://github.com/analyticalmonk)), OSS loving undergrad & GSoC'15 alumni
 - Victor Gama ([@victorgama](https://github.com/victorgama)), Software Engineer
 - Peter Lyons ([@focusaurus](https://github.com/focusaurus)), Developer
+- Herbert Shin ([@initbar](https://github.com/initbar)), a student who loves git and GitHub ღ˘⌣˘ღ
