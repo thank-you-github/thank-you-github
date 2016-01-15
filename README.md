@@ -148,3 +148,4 @@ Signed,
 - Derek Myers ([@dmyers](https://github.com/dmyers)), Software Developer
 - Alexander Harchenko ([@morontt](https://github.com/morontt)), Developer
 - Luke Elliott ([@revlucio](https://github.com/revlucio)), Developer
+- Bruno Rocha ([@rochacbruno](https://github.com/rochacbruno)), Software Artist at [CathoLabs](http://www.catholabs.com) & [Quokka CMS](http://quokkaproject.org)
