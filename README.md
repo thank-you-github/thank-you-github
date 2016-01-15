@@ -87,4 +87,4 @@ Signed,
 - Ann Paul ([@annp89](https://github.com/annp89)), Engineer at Prism Skylabs
 - Leonardo Ruhland ([@leoruhland](https://github.com/leoruhland)), Developer
 - Paul Knopf ([@theonlylawislove](https://github.com/theonlylawislove)), Developer
-- Huqiu Liao ([@liaohuqiu](https://github.com/liaohuqiu)), Full Stack Engineer (Top ranked in USA](http://github-awards.com/users/search?login=liaohuqiu)
+- Huqiu Liao ([@liaohuqiu](https://github.com/liaohuqiu)), Full Stack Engineer [Top ranked in USA](http://github-awards.com/users/search?login=liaohuqiu)
