@@ -116,3 +116,4 @@ Signed,
 - Herbert Shin ([@initbar](https://github.com/initbar)), a student who loves git and GitHub ღ˘⌣˘ღ
 - Zeh Fernandes ([@zehfernandes](https://github.com/zehfernandes)), Product Designer
 - Gustavo Schmidt ([@gustavoschmidt](https://github.com/gustavoschmidt)), Software Engineer
+- Matthieu Collé ([@raiseandfall](https://github.com/raiseandfall)), Full Stack Developer
