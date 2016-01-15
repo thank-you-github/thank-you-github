@@ -121,7 +121,7 @@ Signed,
 - Christian Fei ([@christian-fei](https://github.com/christian-fei)), Developer at [XPeppers](http://xpeppers.com/)
 - Martín Ciparelli ([@mciparelli](https://github.com/mciparelli)), OSS pusher and Front End enthusiast
 - Chaouki Dhib ([@chaodhib](https://github.com/chaodhib)), Developer
-- Joel Berman (@j0el][https://github.com/j0el)) OSS Lover
+- Joel Berman [@j0el](https://github.com/j0el)) OSS Lover
 - Alex Phillips ([@alex-phillips](https://github.com/alex-phillips)), Software Developer
 - Süleyman Vardar ([@vardars](https://github.com/vardars)), Full Stack Developer
 - Jarrod Spillers ([@jspillers](https://github.com/jspillers)), Full Stack Developer
