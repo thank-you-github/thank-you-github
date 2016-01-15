@@ -31,4 +31,5 @@ Signed,
 - Mark Story ([@markstory](https://github.com/markstory)), CakePHP core team member.
 - Luís Fernando Guedes ([@fernandoguedes](https://github.com/fernandoguedes)), Bower Contributor
 - Sadjow Leão ([@sadjow](https://github.com/sadjow)), Software Developer
+- Keith Lewis ([@Jacrys] (https://github.com/jacrys), [@TrinityComputers](https://github.com/TrinityComputers)), Owner/Lead Dev at Trinity Computers
 - *Your signature here*
