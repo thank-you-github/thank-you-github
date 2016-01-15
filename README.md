@@ -104,3 +104,4 @@ Signed,
 - Ricardo Cabello ([@mrdoob](https://github.com/mrdoob)), maintainer of three.js
 - Francisco Presencia ([@franciscop](https://github.com/franciscop)), creator of Picnic CSS and Umbrella JS
 - Chuck Sakoda ([@csakoda](https://github.com/csakoda)), Developer
+- Ryan Schachte ([@schachte](https://github.com/schachte)), Software Engineer
