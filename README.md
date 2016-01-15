@@ -67,3 +67,5 @@ Signed,
 - Justin Aiken ([@JustinAiken](https://github.com/JustinAiken)), Ruby on Rails engineer at [UserTesting](https://www.usertesting.com)
 - Milkey Mouse ([@milkey-mouse](https://github.com/milkey-mouse)), Student
 - David Nuon ([@davidnuon](https://github.com/davidnuon)), Developer
+- Ryan T. Hosford ([@rthbound](https://github.com/rthbound)), Sr. Software Developer at ChipRewards Inc.
+- *Your signature here*
