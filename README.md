@@ -147,3 +147,4 @@ Signed,
 - Jonathan Herpêche ([@herpec-j](https://github.com/herpec-j)), R&D Software Engineer at Agueris
 - Derek Myers ([@dmyers](https://github.com/dmyers)), Software Developer
 - Alexander Harchenko ([@morontt](https://github.com/morontt)), Developer
+- Luke Elliott ([@revlucio](https://github.com/revlucio)), Developer
