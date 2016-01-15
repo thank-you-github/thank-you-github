@@ -94,3 +94,4 @@ Signed,
 - Teodor Szente ([@teosz](https://github.com/teosz)), Developer
 - Waldir Bertazzi Junior ([@waldirbertazzijr](https://github.com/waldirbertazzijr)), Cofounder at geocast.com.br
 - José Luis Quintana ([@joseluisq](https://github.com/joseluisq)), Web Developer
+- Leo Natan ([@LeoNatan](https://github.com/LeoNatan))
