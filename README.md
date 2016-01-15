@@ -25,4 +25,5 @@ Signed,
 - Vishnu Ks ([@hackerkid](https://github.com/hackerkid)), Undergrad at IIIT Allahabad
 - David Pacioianu ([@davidpacioianu](https://github.com/davidpacioianu)), CEO at PixelCan
 - Drew Morris ([@drewry](https://github.com/drewry)), Developer
+- John Drago ([@jdrago999](https://github.com/jdrago999)), Developer
 - *Your signature here*
