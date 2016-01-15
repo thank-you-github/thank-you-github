@@ -91,3 +91,4 @@ Signed,
 - Alex Meswarb ([@ameswarb](https://github.com/ameswarb)), Developer
 - Alessio Fanelli ([@FanaHOVA](https://github.com/FanaHOVA)), Developer
 - Huqiu Liao ([@liaohuqiu](https://github.com/liaohuqiu)), Full Stack Engineer (Top ranked in USA](http://github-awards.com/users/search?login=liaohuqiu)
+- Teodor Szente ([@teosz](https://github.com/teosz)), Developer
