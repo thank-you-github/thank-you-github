@@ -111,3 +111,4 @@ Signed,
 - Victor Gama ([@victorgama](https://github.com/victorgama)), Software Engineer
 - Peter Lyons ([@focusaurus](https://github.com/focusaurus)), Developer
 - Shidhin C R ([@shidhincr](https://github.com/shidhincr)), FrontEnd Engineer
+- Zeh Fernandes ([@zehfernandes](https://github.com/zehfernandes)), Product Designer
