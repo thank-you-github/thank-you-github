@@ -61,3 +61,4 @@ Signed,
 - Alex Clark ([@aclark4life](https://github.com/aclark4life)), Python Web Developer
 - Cory Burgett ([@baguette](https://github.com/baguette)), Developer
 - Sina Khelil ([@incognos](https://github.com/incognos) Principal Engineer at Advisory Board Company
+- Matija Abicic ([@matijaabicic](https://github.com/matijaabicic)), Head of Products at Sysrepublic Inc.
