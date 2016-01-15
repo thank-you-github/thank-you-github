@@ -155,3 +155,4 @@ Signed,
 - Todd Qualls ([@tqheel](https://github.com/tqheel)), Software Developer
 - Lucas S. ([@AgtLucas](https://github.com/AgtLucas)), Web Developer
 - Honza Dvorsky ([@czechboy0](https://github.com/czechboy0)), Grateful Human
+- Brent Garner ([@bgarner](https://github.com/bgarner)), Software Developer
