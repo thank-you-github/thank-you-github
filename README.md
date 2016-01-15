@@ -137,3 +137,4 @@ Signed,
 - Mark van Duijker ([@mvanduijker](https://github.com/mvanduijker)), Developer
 - Fernando Moreira ([@nandomoreirame](https://github.com/nandomoreirame)), Front-end Developer
 - Oakley Hall ([@ohall](https://github.com/ohall)), Developer
+- Fernando Daciuk ([@fdaciuk](https://github.com/fdaciuk)), Developer
