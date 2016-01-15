@@ -51,3 +51,4 @@ Signed,
 - Vincent Grafé ([@vgrafe](https://github.com/vgrafe)), Developer
 - Jacob Evans ([@jacobtheevans](https://github.com/jacobtheevans)), Developer
 - Sagiv Ofek ([@sagivo](https://github.com/sagivo)), algorithms playground maintainer
+- Josh Stanfield ([@p5k6](https://github.com/p5k6)), Data Engineer
