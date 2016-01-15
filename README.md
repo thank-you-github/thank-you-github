@@ -152,4 +152,5 @@ Signed,
 - Cris Mihalache ([@f3rno](http://f3rno.com)), Software Engineer
 - Jim Slattery ([@jim-slattery-rs](https://github.com/jim-slattery-rs)), Developer
 - Edwin Cruz ([@softr8](https://github.com/softr8)), VP of Engineering at [MagmaLabs](http://www.magmalabs.io/)
-- Todd Qualls ([@tqheel](https://github.com/tqheel), Software Developer
+- Todd Qualls ([@tqheel](https://github.com/tqheel)), Software Developer
+- Lucas S. ([@AgtLucas](https://github.com/AgtLucas)), Web Developer
