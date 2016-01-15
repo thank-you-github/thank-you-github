@@ -26,4 +26,5 @@ Signed,
 - Drew Morris ([@drewry](https://github.com/drewry)), Developer
 - John Drago ([@jdrago999](https://github.com/jdrago999)), Developer
 - Josh Kurz ([@jkurz](https://github.com/jkurz)), BA
+- Phil Royer ([@littletinman](https://github.com/littletinman)), Developer
 - *Your signature here*
