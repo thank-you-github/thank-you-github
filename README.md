@@ -118,3 +118,4 @@ Signed,
 - Gustavo Schmidt ([@gustavoschmidt](https://github.com/gustavoschmidt)), Software Engineer
 - Matthieu Collé ([@raiseandfall](https://github.com/raiseandfall)), Full Stack Developer
 - Tute Costa ([@tute](https://github.com/tute)), OSS contributor and maintainer
+- Christian Fei ([@christian-fei](https://github.com/christian-fei)), Developer at [XPeppers](http://xpeppers.com/)
