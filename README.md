@@ -158,3 +158,4 @@ Signed,
 - Brent Garner ([@bgarner](https://github.com/bgarner)), Software Developer
 - Sartaj Singh ([@leosartaj](https://github.com/leosartaj)), SymPy Developer
 - Shiven Mian ([@shivenmian](https://github.com/shivenmian)), Student Software Developer
+- Alex Demchenko ([@pilot](https://github.com/pilot)), CEO at [LazyAnts](http://lazy-ants.com)
