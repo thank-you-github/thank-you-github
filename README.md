@@ -145,3 +145,4 @@ Signed,
 - David Muto ([@pseudomuto](https://github.com/pseudomuto)), Software Developer
 - Jean Lucas ([@jeanleonino](https://github.com/jeanleonino)), Software Developer
 - Jonathan Herpêche ([@herpec-j](https://github.com/herpec-j)), R&D Software Engineer at Agueris
+- Jim Slattery ([@jim-slattery-rs](https://github.com/jim-slattery-rs)), Developer
