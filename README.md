@@ -106,3 +106,4 @@ Signed,
 - Chuck Sakoda ([@csakoda](https://github.com/csakoda)), Developer
 - Ryan Schachte ([@schachte](https://github.com/schachte)), Software Engineer
 - Tom Baranes ([@tbaranes](https://github.com/tbaranes)), iOS Developer
+- Gastón I. Silva ([@givanse](https://github.com/givanse)), OSS contributor
