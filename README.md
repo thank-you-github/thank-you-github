@@ -22,5 +22,5 @@ Signed,
 - Jose Diaz-Gonzalez ([@josegonzalez](https://github.com/josegonzalez)), CakePHP and Dokku core team member
 - Denis Savitskiy ([@sadfuzzy](https://github.com/sadfuzzy)), Ruby on Rails engineer at Source[Lab]
 - Vishnu Ks ([@hackerkid](https://github.com/hackerkid)), Undergrad at IIIT Allahabad
-- David Pacioianu ([@davidpacioianu](https://github.com/davidpacioianu)), CEO at PixelCan
+- Phil Royer ([@littletinman](https://github.com/littletinman)), Independent Game Developer using GitHub, Atom, and LibGDX in core workflow. 
 - *Your signature here*
