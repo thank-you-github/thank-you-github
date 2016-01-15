@@ -126,3 +126,4 @@ Signed,
 - Süleyman Vardar ([@vardars](https://github.com/vardars)), Full Stack Developer
 - Jarrod Spillers ([@jspillers](https://github.com/jspillers)), Full Stack Developer
 - Bao Nguyen (@sysbot][https://github.com/sysbot)) Network Engineer at [Fastly](https://www.fastly.com)
+- Davi Marcondes Moreira ([@devdrops](https://github.com/devdrops)), Developer
