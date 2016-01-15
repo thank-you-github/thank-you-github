@@ -119,3 +119,4 @@ Signed,
 - Matthieu Collé ([@raiseandfall](https://github.com/raiseandfall)), Full Stack Developer
 - Tute Costa ([@tute](https://github.com/tute)), OSS contributor and maintainer
 - Christian Fei ([@christian-fei](https://github.com/christian-fei)), Developer at [XPeppers](http://xpeppers.com/)
+- Martín Ciparelli ([@mciparelli](https://github.com/mciparelli)), OSS pusher and Front End enthusiast
