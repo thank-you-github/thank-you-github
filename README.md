@@ -95,4 +95,4 @@ Signed,
 - Waldir Bertazzi Junior ([@waldirbertazzijr](https://github.com/waldirbertazzijr)), Cofounder at geocast.com.br
 - José Luis Quintana ([@joseluisq](https://github.com/joseluisq)), Web Developer
 - Leo Natan ([@LeoNatan](https://github.com/LeoNatan))
-- `Dear Github` ([@dear-github](https://github.com/dear-github/dear-github)), OSS maintainers who live Github and want to improve it.
+- `Dear Github` ([@dear-github](https://github.com/dear-github/dear-github)), OSS maintainers who love GitHub and want to improve it
