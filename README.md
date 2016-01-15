@@ -142,3 +142,4 @@ Signed,
 - Brandon Cordell ([@brandoncordell](https://github.com/brandoncordell)), Lead Developer at [ATLAS](http://atlasforworkforce.com)
 - Steve Kallestad ([@nevets](https://github.com/nevetS)), Software Engineer and OSS enthusiast/contributor
 - Manan Wason ([@mananwason](https://github.com/mananwason)), Student, Full Stack Developer and OSS Contributor
+- David Muto ([@pseudomuto](https://github.com/pseudomuto)), Software Developer
