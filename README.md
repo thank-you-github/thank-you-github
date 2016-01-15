@@ -135,3 +135,4 @@ Signed,
 - Paul Maunders ([@paulmaunders](https://github.com/paulmaunders)), Developer
 - Marcelo Barbosa ([@marcbarbosa](https://github.com/marcbarbosa)), Software Engineer
 - Mark van Duijker ([@mvanduijker](https://github.com/mvanduijker)), Developer
+- Fernando Moreira ([@nandomoreirame](https://github.com/nandomoreirame)), Front-end Developer
