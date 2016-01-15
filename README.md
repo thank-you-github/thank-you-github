@@ -67,3 +67,4 @@ Signed,
 - Justin Aiken ([@JustinAiken](https://github.com/JustinAiken)), Ruby on Rails engineer at [UserTesting](https://www.usertesting.com)
 - Milkey Mouse ([@milkey-mouse](https://github.com/milkey-mouse)), Student
 - David Nuon ([@davidnuon](https://github.com/davidnuon)), Developer
+- Phil Royer ([@littletinman](https://github.com/littletinman)), Developer
