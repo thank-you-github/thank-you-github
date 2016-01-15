@@ -139,3 +139,4 @@ Signed,
 - Oakley Hall ([@ohall](https://github.com/ohall)), Developer
 - Fernando Daciuk ([@fdaciuk](https://github.com/fdaciuk)), Developer
 - Gopal Adhikari ([@qubbit](https://github.com/qubbit)), Software Developer
+- Brandon Cordell ([@brandoncordell](https://github.com/brandoncordell)), Lead Developer at [ATLAS](http://atlasforworkforce.com)
