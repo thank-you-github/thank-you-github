@@ -36,5 +36,17 @@ Signed,
 - Burak Sarıca ([@buraksarica](https://github.com/buraksarica)), ABIS Technology
 - Paul Carey ([@paulccarey](https://github.com/paulccarey)), [Partner at Source[Lab]](http://sourcelab.technology/)
 - Oussama Issaoui ([@thesubr00t](https://github.com/thesubr00t)), Full Stack Developer at Emiketic
+- Zeeshan Mughal ([@zixan](https://github.com/zixan)), Creator of [UberFareEstimator](http://uberfareestimator.co)
+- Andrea Bergamasco ([@vjandrea](https://github.com/vjandrea)), Developer
+- Jon Swanson ([@swansong](https://github.com/swansong)), Software Engineer at Rakuten Marketing
+- Caleb Madrigal ([@calebmadrigal](https://github.com/calebmadrigal)), Software Engineer
+- Sylvain Perron ([@slvnperron](https://github.com/slvnperron)), SE from Quebec
+- Alexander Kuleshov ([@0xAX](https://github.com/0xAX)), Erlang/Elixir developer at traveping, author of linux-insides
+- Daniel Doubrovkine ([@dblock](https://github.com/dblock)), [Ruby Grape](http://www.ruby-grape.org/), CTO Artsy.net
+- Edouard Chin ([@Edouard-chin](https://github.com/Edouard-chin)), Developer
+- Andrey Nering ([@andreynering](https://github.com/andreynering)), Software Developer
+- Adam Grant ([@adamjgrant](https://github.com/adamjgrant)), Rails and Front end developer in Cupertino, CA
+- Abdul Hagi ([@ballerabdude](https://github.com/ballerabdude)), Software Developer at Turner Broadcasting
+- Aritra Ghosh Dastidar ([@aritraghoshdastidar] (https://github.com/aritraghoshdastidar)), Growth Hacker at Intuit Inc
 - David Shure ([@david4shure](https://github.com/david4shure)), Software Engineer
 - *Your signature here*
