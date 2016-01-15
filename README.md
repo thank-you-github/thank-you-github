@@ -22,4 +22,4 @@ Signed,
 - Jose Diaz-Gonzalez ([@josegonzalez](https://github.com/josegonzalez)), CakePHP and Dokku core team member
 - Denis Savitskiy ([@sadfuzzy](https://github.com/sadfuzzy)), Ruby on Rails engineer at Source[Lab]
 - Vishnu Ks ([@hackerkid](https://github.com/hackerkid)), Undergrad at IIIT Allahabad
-- *Your signature here*
+- Keith Lewis ([@Jacrys] (https://github.com/jacrys), [@TrinityComputers](https://github.com/TrinityComputers)), Owner/Lead Dev at Trinity Computers
