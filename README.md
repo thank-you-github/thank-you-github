@@ -143,3 +143,4 @@ Signed,
 - Steve Kallestad ([@nevets](https://github.com/nevetS)), Software Engineer and OSS enthusiast/contributor
 - Manan Wason ([@mananwason](https://github.com/mananwason)), Student, Full Stack Developer and OSS Contributor
 - David Muto ([@pseudomuto](https://github.com/pseudomuto)), Software Developer
+- Jean Lucas ([@jeanleonino](https://github.com/jeanleonino)), Software Developer
