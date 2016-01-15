@@ -5,7 +5,7 @@ had their own workflow, patches circulated in emails, issues were reported in
 a myriad ways, and if anyone wanted to contribute they had to figure out every
 project's rules.
 
-Then, a handful of guys took the challenge to build an awesome platform and as
+Then, a handful of people took the challenge to build an awesome platform and as
 a consequence of their hard work, their platform _earned_ its hegemony.
 
 Nowadays doing Open Source is infinitely easier thanks to you, GitHub. You've
@@ -48,7 +48,4 @@ Signed,
 - Adam Grant ([@adamjgrant](https://github.com/adamjgrant)), Rails and Front end developer in Cupertino, CA
 - Abdul Hagi ([@ballerabdude](https://github.com/ballerabdude)), Software Developer at Turner Broadcasting
 - Aritra Ghosh Dastidar ([@aritraghoshdastidar] (https://github.com/aritraghoshdastidar)), Growth Hacker at Intuit Inc
-- Vincent Grafé ([@vgrafe](https://github.com/vgrafe)), Developer
-- Jacob Evans ([@jacobtheevans](https://github.com/jacobtheevans)), Developer
-- Rick Wouters ([@raketwissenschaftler](https://github.com/raketwissenschaftler)), Developer
 - *Your signature here*
