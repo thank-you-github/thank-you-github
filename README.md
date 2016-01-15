@@ -117,3 +117,4 @@ Signed,
 - Zeh Fernandes ([@zehfernandes](https://github.com/zehfernandes)), Product Designer
 - Gustavo Schmidt ([@gustavoschmidt](https://github.com/gustavoschmidt)), Software Engineer
 - Matthieu Collé ([@raiseandfall](https://github.com/raiseandfall)), Full Stack Developer
+- Tute Costa ([@tute](https://github.com/tute)), OSS contributor and maintainer
