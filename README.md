@@ -102,3 +102,4 @@ Signed,
 - Yosbel Marin ([@yosbelms](https://github.com/yosbelms))
 - Andrew Turner ([@galenandrew](https://github.com/galenandrew)), Technical Leader, Engineer, and Speaker
 - Ricardo Cabello ([@mrdoob](https://github.com/mrdoob)), maintainer of three.js
+- Tom Baranes ([@tbaranes](https://github.com/tbaranes)), iOS Developer
