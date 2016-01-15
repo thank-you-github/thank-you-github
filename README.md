@@ -100,4 +100,5 @@ Signed,
 - Manuel Ebert ([@maebert](https://github.com/maebert)), Founder of [summer.ai](http://www.summer.ai) & [open source](https://github.com/maebert/jrnl) developer
 - Marin Usalj ([@supermarin](http://github.com/supermarin), Developer
 - Yosbel Marin ([@yosbelms](https://github.com/yosbelms))
+- Andrew Turner ([@galenandrew](https://github.com/galenandrew)), Technical Leader, Engineer, and Speaker
 - Ricardo Cabello ([@mrdoob](https://github.com/mrdoob)), maintainer of three.js
