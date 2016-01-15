@@ -31,4 +31,5 @@ Signed,
 - Mark Story ([@markstory](https://github.com/markstory)), CakePHP core team member.
 - Luís Fernando Guedes ([@fernandoguedes](https://github.com/fernandoguedes)), Bower Contributor
 - Sadjow Leão ([@sadjow](https://github.com/sadjow)), Software Developer
+- Jon Swanson ([@swansong](https://github.com/swansong)), Software Engineer at Rakuten Marketing
 - *Your signature here*
