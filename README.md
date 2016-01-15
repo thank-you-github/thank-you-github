@@ -129,3 +129,4 @@ Signed,
 - Davi Marcondes Moreira ([@devdrops](https://github.com/devdrops)), Developer
 - Jacob Gadikian ([@faddat](https://github.com/faddat)), Geek
 - Stephane Bruckert ([@stephanebruckert](https://github.com/stephanebruckert)), Full Stack Developer
+- Carles Jove i Buxeda ([@carlesjove](https://github.com/carlesjove)), Developer and OS contributor
