@@ -63,3 +63,4 @@ Signed,
 - Sina Khelil ([@incognos](https://github.com/incognos) Principal Engineer at Advisory Board Company
 - Matija Abicic ([@matijaabicic](https://github.com/matijaabicic)), Head of Products at Sysrepublic Inc.
 - Andrius Putna ([@fordnox](https://github.com/fordnox)), Developer
+- Seth Webster ([@sethwebster](https://github.com/sethwebster)), CTO at TentSquare, inc.
