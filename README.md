@@ -28,4 +28,5 @@ Signed,
 - Josh Kurz ([@jkurz](https://github.com/jkurz)), BA
 - Joshua Burns ([@jdburnz](https://github.com/jdburnz)), CTO at A2I Wheel & Tire
 - Justin Wayne ([@jcwayne](https://github.com/jcwayne)), CIO at BIG Inventory
+- Mark Story ([@markstory](https://github.com/markstory)), CakePHP core team member.
 - *Your signature here*
