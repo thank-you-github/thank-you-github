@@ -136,3 +136,4 @@ Signed,
 - Marcelo Barbosa ([@marcbarbosa](https://github.com/marcbarbosa)), Software Engineer
 - Mark van Duijker ([@mvanduijker](https://github.com/mvanduijker)), Developer
 - Fernando Moreira ([@nandomoreirame](https://github.com/nandomoreirame)), Front-end Developer
+- Oakley Hall ([@ohall](https://github.com/ohall)), Developer
