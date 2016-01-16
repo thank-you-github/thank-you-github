@@ -161,3 +161,4 @@ Signed,
 - Alex Demchenko ([@pilot](https://github.com/pilot)), CEO at [LazyAnts](http://lazy-ants.com)
 - Marcelo Haskell Camargo ([@haskellcamargo](https://github.com/haskellcamargo)), Programming languages designer
 - Cees-Jan Kiewiet ([@wyrihaximus](https://github.com/wyrihaximus)), Software Engineer
+- Jaime Iniesta ([@jaimeiniesta](https://github.com/jaimeiniesta)), Ruby on Rails consultant
