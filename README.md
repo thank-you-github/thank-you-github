@@ -169,3 +169,4 @@ Signed,
 - Jeff Dutil ([@JDutil](https://github.com/JDutil)), Software Engineer
 - Silas Silva ([@silas-ss](https://github.com/silas-ss)), Full Stack Developer
 - Tanu Hari Dixit ([@tokencolour](https://github.com/tokencolour)), Student
+- Abhishek Bundela ([@abhishekbundela](https://github.com/abhishekbundela)), Student
