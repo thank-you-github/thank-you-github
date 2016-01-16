@@ -189,3 +189,4 @@ Signed,
 - Yuriy Kushch ([@ykushch](https://github.com/ykushch)), Development Lead at [DataArt](http://dataart.com/)
 - Helio Oliveira ([@heliohead](https://github.com/heliohead)), Developer, Unix Advocate
 - Mikkel Bonde ([@spriz](https://github.com/spriz)), Software Engineer
+- Alexander Garmatenko ([@athlonUA](https://github.com/athlonUA)), Developer at [LazyAnts](http://lazy-ants.com)
