@@ -195,3 +195,4 @@ Signed,
 - Michael Rash ([@mrash](https://github.com/mrash)), Creator of [Cipherdyne Security](https://cipherdyne.org)
 - unbug ([@unbug](https://github.com/unbug)), Author of [MIHTool](http://www.mihtool.com/) and [Codelf](http://unbug.github.io/codelf/)
 - Adam Johnson ([@adamchainz](https://github.com/adamchainz)), Devloper
+- Louis Solofrizzo ([@ne02ptzero](https://github.com/Ne02ptzero)), Software Developer
