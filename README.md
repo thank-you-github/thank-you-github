@@ -221,3 +221,4 @@ Signed,
 - Philippe Loctaux ([@ploctaux](https://github.com/ploctaux)), Software Developer
 - Gaurav Ragtah ([@gragtah](https://github.com/gragtah)), Student, Software Engineer, Startup founder
 - Mukesh M ([@silentninja](https://github.com/silentninja)), Software Developer
+- Stefan Ric ([@cybre](https://github.com/cybre)), Software Developer
