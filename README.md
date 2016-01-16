@@ -216,3 +216,4 @@ Signed,
 - Justin Cohen ([@justincoh](https://github.com/justincoh)), Developer
 - Thomas Mansencal ([@KelSolaar](https://github.com/KelSolaar)), Developer at colour-science.org
 - Domenico Luciani ([@dlion](https://github.com/dlion)), Software Developer
+- Pratyush Nalam ([@pratnala](https://github.com/pratnala)), Student
