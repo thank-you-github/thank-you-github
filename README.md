@@ -209,3 +209,4 @@ Signed,
 - Kevin Quillen ([@kevinquillen](https://github.com/kevinquillen)), Drupal Practice Lead at [Velir](http://www.velir.com)
 - Alessandro Nadalin ([@odino](https://github.com/odino)), VP technology at [Namshi](https://www.namshi.com)
 - David Mackay ([@JX7P](https://github.com/JX7P), Development Lead and Critical Theory of Programming Languages Researcher for [JX Objective-C](https://github.com/JX7P/JXobjC)
+- Andrew Sun ([@as-com](https://github.com/as-com)), Kitten Hugger
