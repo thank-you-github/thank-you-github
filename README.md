@@ -165,3 +165,4 @@ Signed,
 - Vinicius Reis ([@vinicius73](https://github.com/vinicius73)), Full Stack Web Developer
 - Preston Parry ([@ClimbsRocks](https://github.com/ClimbsRocks)), Author, [machineJS](https://github.com/ClimbsRocks/machineJS)
 - Mário Idival ([@marioidival](https://github.com/marioidival)), Software Developer
+- Patrick Mazulo ([@mazulo](https://github.com/mazulo)), Web Developer and Co-Founder at [DunderLabs](https://github.com/dunderlabs)
