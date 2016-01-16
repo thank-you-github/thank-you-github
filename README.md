@@ -200,3 +200,4 @@ Signed,
 - Julio Reyes ([@nemesiscodex](https://github.com/nemesiscodex)), Software Developer and Open Source enthusiast
 - Wasim Thabraze ([@waseem18](https://github.com/waseem18)), Founder of Openflock, Open Source enthusiast
 - Borhane Eddine Guemidi ([@guemidiborhane](https://github.com/guemidiborhane)), Web Developer, Rails & Laravel principally
+- Derek Stavis ([@derekstavis](https://github.com/derekstavis)), [Oh My Fish](https://github.com/oh-my-fish/oh-my-fish) core developer
