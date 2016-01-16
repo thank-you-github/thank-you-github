@@ -162,3 +162,4 @@ Signed,
 - Marcelo Haskell Camargo ([@haskellcamargo](https://github.com/haskellcamargo)), Programming languages designer
 - Cees-Jan Kiewiet ([@wyrihaximus](https://github.com/wyrihaximus)), Software Engineer
 - Jaime Iniesta ([@jaimeiniesta](https://github.com/jaimeiniesta)), Ruby on Rails consultant
+- Vinicius Reis ([@vinicius73](https://github.com/vinicius73)), Full Stack Web Developer
