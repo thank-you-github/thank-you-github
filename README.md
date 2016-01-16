@@ -16,7 +16,7 @@ We want to express our gratitude for all you've done and do for Open Source.
 
 GitHub, thank you very much.
 
-* And a big big Thank You to Linus Torvalds, whithout git - Github would not exist, you know.*
+And a big Thank You to Linus Torvalds for creating git. Without FOSS git, Github would not exist.
 
 Signed,
 
