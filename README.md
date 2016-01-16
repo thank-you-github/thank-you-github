@@ -174,3 +174,4 @@ Signed,
 - Mohit Kumar Bajoria ([@mbj36](https://github.com/mbj36)), Developer
 - Siddharth Kannan ([@icyflame](https://github.com/icyflame)), Student at [IIT Kharagpur](http://iitkgp.ac.in) and Web developer (NodeJS, Ruby on Rails)
 - Manh Tuan ([@J2TeaM](https://github.com/J2TeaM)), Full Stack Developer at J2TeaM
+- Carlos Ribeiro ([@duduribeiro](https://github.com/duduribeiro)), Software Engineer
