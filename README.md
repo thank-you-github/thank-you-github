@@ -177,3 +177,4 @@ Signed,
 - Carlos Ribeiro ([@duduribeiro](https://github.com/duduribeiro)), Software Engineer
 - Eduard Urbach ([@blitzprog](https://github.com/blitzprog)), Developer
 - Gudvit ([@DIMASSS4889](https://github.com/DIMASSS4889)), Front end Developer
+- Robert Winkler ([@RobWin](https://github.com/RobWin)), Software Developer
