@@ -194,7 +194,7 @@ Signed,
 - Javier Zapata ([@nkm](https://github.com/nkm)), Web Developer
 - Michael Rash ([@mrash](https://github.com/mrash)), Creator of [Cipherdyne Security](https://cipherdyne.org)
 - unbug ([@unbug](https://github.com/unbug)), Author of [MIHTool](http://www.mihtool.com/) and [Codelf](http://unbug.github.io/codelf/)
-- Adam Johnson ([@adamchainz](https://github.com/adamchainz)), Devloper
+- Adam Johnson ([@adamchainz](https://github.com/adamchainz)), Developer
 - Louis Solofrizzo ([@ne02ptzero](https://github.com/Ne02ptzero)), Software Developer
 - Aditya Kapoor ([@aditya-kapoor](https://github.com/aditya-kapoor)), Software Developer and Rails Core Contributor
 - Julio Reyes ([@nemesiscodex](https://github.com/nemesiscodex)), Software Developer and Open Source enthusiast
@@ -205,3 +205,4 @@ Signed,
 - Matt Traynham ([@mtraynham](https://github.com/mtraynham)), Software Developer
 - Vitor Lobão ([@magusd](https://github.com/magusd)), CTO @ [SimpleGuest](http://simpleguest.co)
 - Michael Banzon ([@mbanzon](https://github.com/mbanzon)), CTO at [ABC Softwork](http://abcsoftwork.com)
+- Pratyush Nalam ([@pratnala](https://github.com/pratnala)), Student
