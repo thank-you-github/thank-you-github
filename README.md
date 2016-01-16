@@ -172,3 +172,4 @@ Signed,
 - Abhishek Bundela ([@abhishekbundela](https://github.com/abhishekbundela)), Student
 - Rémi ROBERT ([@remirobert](https://github.com/tqheel)), Student, iOS developer
 - Mohit Kumar Bajoria ([@mbj36](https://github.com/mbj36)), Developer
+- Siddharth Kannan ([@icyflame](https://github.com/icyflame)), Student at [IIT Kharagpur](http://iitkgp.ac.in) and Web developer (NodeJS, Ruby on Rails)
