@@ -203,3 +203,4 @@ Signed,
 - Derek Stavis ([@derekstavis](https://github.com/derekstavis)), [Oh My Fish](https://github.com/oh-my-fish/oh-my-fish) core developer
 - Faisal Siddiqi ([@fsiddiqi](https://github.com/fsiddiqi)), Architect and Distinguished Engineer at [CSC](http://www.csc.com/siddiqi)
 - Matt Traynham ([@mtraynham](https://github.com/mtraynham)), Software Developer
+- Vitor Lobão ([@magusd](https://github.com/magusd)), CTO @ [SimpleGuest](http://simpleguest.co)
