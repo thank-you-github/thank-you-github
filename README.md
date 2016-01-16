@@ -198,3 +198,4 @@ Signed,
 - Louis Solofrizzo ([@ne02ptzero](https://github.com/Ne02ptzero)), Software Developer
 - Aditya Kapoor ([@aditya-kapoor](https://github.com/aditya-kapoor)), Software Developer and Rails Core Contributor
 - Julio Reyes ([@nemesiscodex](https://github.com/nemesiscodex)), Software Developer and Open Source enthusiast
+- Vitor Lobão ([@magusd](https://github.com/magusd)), CTO @ [SimpleGuest](http://simpleguest.co)
