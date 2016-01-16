@@ -215,3 +215,4 @@ Signed,
 - Soumya Ray ([@soumyaray](https://github.com/soumyaray)), Associate Professor, National Tsing Hua University, Taiwan
 - Justin Cohen ([@justincoh](https://github.com/justincoh)), Developer
 - Thomas Mansencal ([@KelSolaar](https://github.com/KelSolaar)), Developer at colour-science.org
+- Domenico Luciani ([@dlion](https://github.com/dlion)), Software Developer
