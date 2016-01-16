@@ -164,3 +164,4 @@ Signed,
 - Jaime Iniesta ([@jaimeiniesta](https://github.com/jaimeiniesta)), Ruby on Rails consultant
 - Vinicius Reis ([@vinicius73](https://github.com/vinicius73)), Full Stack Web Developer
 - Preston Parry ([@ClimbsRocks](https://github.com/ClimbsRocks)), Author, [machineJS](https://github.com/ClimbsRocks/machineJS)
+- Siddharth Kannan ([@icyflame](https://github.com/icyflame)), Student at [IIT Kharagpur](http://iitkgp.ac.in) and Web developer (NodeJS, Ruby on Rails)
