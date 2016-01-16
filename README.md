@@ -181,3 +181,4 @@ Signed,
 - Jimson Liang ([@ruijun](https://github.com/ruijun)), Android Developer
 - Nashwan Doaqan ([@nash-ye](https://github.com/nash-ye)), Web Developer
 - Alexander Pyatkin ([@aspyatkin](https://github.com/aspyatkin)), Software engineer at [Indigo Byte Systems, LLC](http://indigobyte.com)
+- Marc Gayle ([@marcamillion][https://github.com/marcamillion)), Builder of Web Products, primarily with Rails.
