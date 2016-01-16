@@ -196,3 +196,4 @@ Signed,
 - unbug ([@unbug](https://github.com/unbug)), Author of [MIHTool](http://www.mihtool.com/) and [Codelf](http://unbug.github.io/codelf/)
 - Adam Johnson ([@adamchainz](https://github.com/adamchainz)), Devloper
 - Louis Solofrizzo ([@ne02ptzero](https://github.com/Ne02ptzero)), Software Developer
+- Aditya Kapoor ([@aditya-kapoor](https://github.com/aditya-kapoor)), Software Developer and Rails Core Contributor
