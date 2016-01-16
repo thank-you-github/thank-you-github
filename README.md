@@ -193,3 +193,4 @@ Signed,
 - Vibhanshu Chaturvedi ([@vibhanshuc](https://github.com/vibhanshuc)), Developer at [91springboard](http://91springboard.com)
 - Javier Zapata ([@nkm](https://github.com/nkm)), Web Developer
 - Michael Rash ([@mrash](https://github.com/mrash)), Creator of [Cipherdyne Security](https://cipherdyne.org)
+- unbug ([@unbug](https://github.com/unbug)), Author of [MIHTool](http://www.mihtool.com/) and [Codelf](http://unbug.github.io/codelf/)
