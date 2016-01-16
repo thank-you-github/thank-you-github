@@ -160,3 +160,4 @@ Signed,
 - Shiven Mian ([@shivenmian](https://github.com/shivenmian)), Student Software Developer
 - Alex Demchenko ([@pilot](https://github.com/pilot)), CEO at [LazyAnts](http://lazy-ants.com)
 - Marcelo Haskell Camargo ([@haskellcamargo](https://github.com/haskellcamargo)), Programming languages designer
+- Cees-Jan Kiewiet ([@wyrihaximus](https://github.com/wyrihaximus)), Software Engineer
