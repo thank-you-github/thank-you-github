@@ -212,3 +212,4 @@ Signed,
 - Andrew Sun ([@as-com](https://github.com/as-com)), Kitten Hugger
 - Krish Munot ([@krishmunot](https://github.com/krishmunot)), Developer
 - Wellington Pardim ([@wellpardim](https://github.com/Wellpardim/)), Student
+- Soumya Ray ([@soumyaray](https://github.com/soumyaray)), Associate Professor, National Tsing Hua University, Taiwan
