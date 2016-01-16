@@ -198,3 +198,4 @@ Signed,
 - Louis Solofrizzo ([@ne02ptzero](https://github.com/Ne02ptzero)), Software Developer
 - Aditya Kapoor ([@aditya-kapoor](https://github.com/aditya-kapoor)), Software Developer and Rails Core Contributor
 - Julio Reyes ([@nemesiscodex](https://github.com/nemesiscodex)), Software Developer and Open Source enthusiast
+- Derek Stavis ([@derekstavis](https://github.com/derekstavis)), [Oh My Fish](https://github.com/oh-my-fish/oh-my-fish) core developer
