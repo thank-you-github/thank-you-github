@@ -217,3 +217,4 @@ Signed,
 - Thomas Mansencal ([@KelSolaar](https://github.com/KelSolaar)), Developer at colour-science.org
 - Domenico Luciani ([@dlion](https://github.com/dlion)), Software Developer
 - Pratyush Nalam ([@pratnala](https://github.com/pratnala)), Student
+- Danil Dubrovsky ([@FRedEnergy](https://github.com/FRedEnergy)), Software Engineer and OSS contributor
