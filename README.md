@@ -171,3 +171,4 @@ Signed,
 - Tanu Hari Dixit ([@tokencolour](https://github.com/tokencolour)), Student
 - Abhishek Bundela ([@abhishekbundela](https://github.com/abhishekbundela)), Student
 - Rémi ROBERT ([@remirobert](https://github.com/tqheel)), Student, iOS developer
+- Mohit Kumar Bajoria ([@mbj36](https://github.com/mbj36)), Developer
