@@ -192,3 +192,4 @@ Signed,
 - Alexander Garmatenko ([@athlonUA](https://github.com/athlonUA)), Developer at [LazyAnts](http://lazy-ants.com)
 - Vibhanshu Chaturvedi ([@vibhanshuc](https://github.com/vibhanshuc)), Developer at [91springboard](http://91springboard.com)
 - Javier Zapata ([@nkm](https://github.com/nkm)), Web Developer
+- Louis Solofrizzo ([@ne02ptzero](https://github.com/Ne02ptzero)), Software Developer
