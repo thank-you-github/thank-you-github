@@ -197,3 +197,4 @@ Signed,
 - Adam Johnson ([@adamchainz](https://github.com/adamchainz)), Devloper
 - Louis Solofrizzo ([@ne02ptzero](https://github.com/Ne02ptzero)), Software Developer
 - Aditya Kapoor ([@aditya-kapoor](https://github.com/aditya-kapoor)), Software Developer and Rails Core Contributor
+- Borhane Eddine Guemidi ([@guemidiborhane](https://github.com/guemidiborhane)), Web Developer, Rails & Laravel principally
