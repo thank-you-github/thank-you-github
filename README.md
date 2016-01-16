@@ -176,3 +176,4 @@ Signed,
 - Manh Tuan ([@J2TeaM](https://github.com/J2TeaM)), Full Stack Developer at J2TeaM
 - Carlos Ribeiro ([@duduribeiro](https://github.com/duduribeiro)), Software Engineer
 - Eduard Urbach ([@blitzprog](https://github.com/blitzprog)), Developer
+- Gudvit ([@DIMASSS4889](https://github.com/DIMASSS4889)), Front end Developer
