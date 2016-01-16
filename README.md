@@ -204,3 +204,4 @@ Signed,
 - Faisal Siddiqi ([@fsiddiqi](https://github.com/fsiddiqi)), Architect and Distinguished Engineer at [CSC](http://www.csc.com/siddiqi)
 - Matt Traynham ([@mtraynham](https://github.com/mtraynham)), Software Developer
 - Vitor Lobão ([@magusd](https://github.com/magusd)), CTO @ [SimpleGuest](http://simpleguest.co)
+- Michael Banzon ([@mbanzon](https://github.com/mbanzon)), CTO at [ABC Softwork](http://abcsoftwork.com)
