@@ -206,3 +206,4 @@ Signed,
 - Vitor Lobão ([@magusd](https://github.com/magusd)), CTO @ [SimpleGuest](http://simpleguest.co)
 - Michael Banzon ([@mbanzon](https://github.com/mbanzon)), CTO at [ABC Softwork](http://abcsoftwork.com)
 - Pratyush Nalam ([@pratnala](https://github.com/pratnala)), Student
+- Gaurav Ragtah ([@gragtah](https://github.com/gragtah)), Student, Software Engineer, Startup founder
