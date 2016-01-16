@@ -199,3 +199,4 @@ Signed,
 - Aditya Kapoor ([@aditya-kapoor](https://github.com/aditya-kapoor)), Software Developer and Rails Core Contributor
 - Julio Reyes ([@nemesiscodex](https://github.com/nemesiscodex)), Software Developer and Open Source enthusiast
 - Wasim Thabraze ([@waseem18](https://github.com/waseem18)), Founder of Openflock, Open Source enthusiast
+- Borhane Eddine Guemidi ([@guemidiborhane](https://github.com/guemidiborhane)), Web Developer, Rails & Laravel principally
