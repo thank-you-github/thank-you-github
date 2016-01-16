@@ -170,3 +170,4 @@ Signed,
 - Silas Silva ([@silas-ss](https://github.com/silas-ss)), Full Stack Developer
 - Tanu Hari Dixit ([@tokencolour](https://github.com/tokencolour)), Student
 - Abhishek Bundela ([@abhishekbundela](https://github.com/abhishekbundela)), Student
+- Rémi ROBERT ([@remirobert](https://github.com/tqheel)), Student, iOS developer
