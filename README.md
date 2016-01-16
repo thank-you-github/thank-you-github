@@ -159,3 +159,4 @@ Signed,
 - Sartaj Singh ([@leosartaj](https://github.com/leosartaj)), SymPy Developer
 - Shiven Mian ([@shivenmian](https://github.com/shivenmian)), Student Software Developer
 - Alex Demchenko ([@pilot](https://github.com/pilot)), CEO at [LazyAnts](http://lazy-ants.com)
+- Cees-Jan Kiewiet ([@wyrihaximus](https://github.com/wyrihaximus)), Software Engineer
