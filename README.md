@@ -186,3 +186,4 @@ Signed,
 - Marc Gayle ([@marcamillion](https://github.com/marcamillion)), Builder of Web Products, primarily with Rails
 - Yuzhong Wen ([@supermartian](https://github.com/supermartian)), Student, Linux developer at [SSRG@VT](http://www.ssrg.ece.vt.edu)
 - Xiaofei Wu ([@teaey](https://github.com/teaey)),A Good Father,Software Engineer
+- Yuriy Kushch ([@ykushch](https://github.com/ykushch)), Development Lead at [DataArt](http://dataart.com/)
