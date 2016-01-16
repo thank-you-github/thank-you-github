@@ -16,6 +16,8 @@ We want to express our gratitude for all you've done and do for Open Source.
 
 GitHub, thank you very much.
 
+And a big Thank You to Linus Torvalds for creating git. Without FOSS git, Github would not exist.
+
 Signed,
 
 - Xavier Noria ([@fxn](https://github.com/fxn)), Ruby on Rails core team member
