@@ -182,3 +182,4 @@ Signed,
 - Nashwan Doaqan ([@nash-ye](https://github.com/nash-ye)), Web Developer
 - Alexander Pyatkin ([@aspyatkin](https://github.com/aspyatkin)), Software engineer at [Indigo Byte Systems, LLC](http://indigobyte.com)
 - Shivaji Varma Pusapati Venkata([@shivajivarma](https://github.com/shivajivarma)), Software Developer
+- Uladzimir Mihura ([@trnl](https://github.com/trnl)), System Architect at [EPAM Systems](http://epam.com)
