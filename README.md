@@ -179,3 +179,4 @@ Signed,
 - Gudvit ([@DIMASSS4889](https://github.com/DIMASSS4889)), Front end Developer
 - Robert Winkler ([@RobWin](https://github.com/RobWin)), Software Developer
 - Jimson Liang ([@ruijun](https://github.com/ruijun)), Android Developer
+- Nashwan Doaqan ([@nash-ye](https://github.com/nash-ye)), Web Developer
