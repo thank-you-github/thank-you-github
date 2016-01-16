@@ -213,3 +213,4 @@ Signed,
 - Krish Munot ([@krishmunot](https://github.com/krishmunot)), Developer
 - Wellington Pardim ([@wellpardim](https://github.com/Wellpardim/)), Student
 - Soumya Ray ([@soumyaray](https://github.com/soumyaray)), Associate Professor, National Tsing Hua University, Taiwan
+- Justin Cohen ([@justincoh](https://github.com/justincoh)), Developer
