@@ -205,3 +205,4 @@ Signed,
 - Matt Traynham ([@mtraynham](https://github.com/mtraynham)), Software Developer
 - Vitor Lobão ([@magusd](https://github.com/magusd)), CTO @ [SimpleGuest](http://simpleguest.co)
 - Michael Banzon ([@mbanzon](https://github.com/mbanzon)), CTO at [ABC Softwork](http://abcsoftwork.com)
+- Danil Dubrovsky ([@FRedEnergy](https://github.com/FRedEnergy)), Software Engineer and OSS contributor
