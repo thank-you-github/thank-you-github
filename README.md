@@ -163,3 +163,4 @@ Signed,
 - Cees-Jan Kiewiet ([@wyrihaximus](https://github.com/wyrihaximus)), Software Engineer
 - Jaime Iniesta ([@jaimeiniesta](https://github.com/jaimeiniesta)), Ruby on Rails consultant
 - Vinicius Reis ([@vinicius73](https://github.com/vinicius73)), Full Stack Web Developer
+- Preston Parry ([@ClimbsRocks](https://github.com/ClimbsRocks)), Author, [machineJS](https://github.com/ClimbsRocks/machineJS)
