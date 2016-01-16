@@ -202,3 +202,4 @@ Signed,
 - Borhane Eddine Guemidi ([@guemidiborhane](https://github.com/guemidiborhane)), Web Developer, Rails & Laravel principally
 - Derek Stavis ([@derekstavis](https://github.com/derekstavis)), [Oh My Fish](https://github.com/oh-my-fish/oh-my-fish) core developer
 - Faisal Siddiqi ([@fsiddiqi](https://github.com/fsiddiqi)), Architect and Distinguished Engineer at [CSC](http://www.csc.com/siddiqi)
+- Matt Traynham ([@mtraynham](https://github.com/mtraynham)), Software Developer
