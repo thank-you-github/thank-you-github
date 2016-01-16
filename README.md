@@ -198,4 +198,4 @@ Signed,
 - Louis Solofrizzo ([@ne02ptzero](https://github.com/Ne02ptzero)), Software Developer
 - Aditya Kapoor ([@aditya-kapoor](https://github.com/aditya-kapoor)), Software Developer and Rails Core Contributor
 - Julio Reyes ([@nemesiscodex](https://github.com/nemesiscodex)), Software Developer and Open Source enthusiast
-- Faisal Siddiqi ([@fsiddiqi](https://github.com/fsiddiqi)), Architect and Distinguished Engineer at [CSC](http://www.csc.com)
+- Faisal Siddiqi ([@fsiddiqi](https://github.com/fsiddiqi)), Architect and Distinguished Engineer at [CSC](http://www.csc.com/siddiqi)
