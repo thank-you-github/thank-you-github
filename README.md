@@ -194,3 +194,4 @@ Signed,
 - Javier Zapata ([@nkm](https://github.com/nkm)), Web Developer
 - Michael Rash ([@mrash](https://github.com/mrash)), Creator of [Cipherdyne Security](https://cipherdyne.org)
 - unbug ([@unbug](https://github.com/unbug)), Author of [MIHTool](http://www.mihtool.com/) and [Codelf](http://unbug.github.io/codelf/)
+- Adam Johnson ([@adamchainz](https://github.com/adamchainz)), Devloper
