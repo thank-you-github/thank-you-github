@@ -205,3 +205,4 @@ Signed,
 - Matt Traynham ([@mtraynham](https://github.com/mtraynham)), Software Developer
 - Vitor Lobão ([@magusd](https://github.com/magusd)), CTO @ [SimpleGuest](http://simpleguest.co)
 - Michael Banzon ([@mbanzon](https://github.com/mbanzon)), CTO at [ABC Softwork](http://abcsoftwork.com)
+- Kevin Quillen ([@kevinquillen](https://github.com/kevinquillen)), Drupal Practice Lead at [Velir](http://www.velir.com)
