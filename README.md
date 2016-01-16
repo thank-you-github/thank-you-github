@@ -218,3 +218,4 @@ Signed,
 - Domenico Luciani ([@dlion](https://github.com/dlion)), Software Developer
 - Pratyush Nalam ([@pratnala](https://github.com/pratnala)), Student
 - Danil Dubrovsky ([@FRedEnergy](https://github.com/FRedEnergy)), Software Engineer and OSS contributor
+- Philippe Loctaux ([@ploctaux](https://github.com/ploctaux)), Software Developer
