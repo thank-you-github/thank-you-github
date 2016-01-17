@@ -260,3 +260,4 @@ Signed,
 - Talayhan Samet ([@stalayhan](https://github.com/stalayhan)), Full Stack Developer
 - Matheus de Alcantara ([@demhydraz](https://github.com/demhydraz)), Amateur Software Developer
 - ligi ([@ligi](https://github.com/ligi)), Dev
+- Nathan van der Werf ([@dogiedog](https://github.com/dogiedog)), Software Engineer
