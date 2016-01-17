@@ -258,3 +258,4 @@ Signed,
 - Harshit Dwivedi (https://github.com/the-dagger), Android Developer
 - Mandar Shinde ([@Mandar-Shinde](https://github.com/Mandar-Shinde)), Software Developer
 - Talayhan Samet ([@stalayhan](https://github.com/stalayhan)), Full Stack Developer
+- Matheus de Alcantara ([@demhydraz](https://github.com/demhydraz)), Amateur Software Developer
