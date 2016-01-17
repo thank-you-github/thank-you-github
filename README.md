@@ -239,3 +239,4 @@ Signed,
 - Chris Warrick ([@Kwpolska](https://github.com/Kwpolska)), Python Software Developer
 - Enrico D'Ortenzio ([@enricocid](https://github.com/enricocid)), Amateur Software Developer
 - Veaceslav Gaidarji ([@donvigo](https://github.com/donvigo)), Android/iOS Developer
+- Pascal Raszyk ([@posixpascal](https://github.com/posixpascal)), Batman, Full-Stack Web Developer
