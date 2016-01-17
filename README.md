@@ -223,3 +223,4 @@ Signed,
 - Mukesh M ([@silentninja](https://github.com/silentninja)), Software Developer
 - Stefan Ric ([@cybre](https://github.com/cybre)), Software Developer
 - Krish Munot ([@krishmunot](https://github.com/krishmunot)), Developer
+- Ranjith Kumar ([@ranji2612](https://github.com/ranji2612)), Developer
