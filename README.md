@@ -80,7 +80,7 @@ Signed,
 - Jim Thompson ([@gonzopancho](https://github.com/gonzopancho)), Head of development for pfSense.org
 - Maximilian Felgenhauer ([@felgenh3](https://github.com/felgenh3)), Full Stack Software Engineer
 - Chris Tate ([@ctate](https://github.com/ctate)), Autocode maintainer
-- Patricio Rojas ([@brujo696](https://github.com/brujo696)), Cofounder at irricrop.com
+- Patricio Rojas ([@brujo696](https://github.com/brujo696)), Cofounder at irricrops.com
 - Raphael Amorim ([@raphamorim](http://github.com/raphamorim)), Software Developer
 - Juan Camilo Osorio ([@jcoc611](https://github.com/jcoc611)), Undergrad at the University of Toronto
 - Kailan Blanks ([@kblanks](https://github.com/kblanks)), Developer
@@ -208,7 +208,7 @@ Signed,
 - Hoang Tran ([@hoangqt](https://github.com/hoangqt)), Software Developer
 - Kevin Quillen ([@kevinquillen](https://github.com/kevinquillen)), Drupal Practice Lead at [Velir](http://www.velir.com)
 - Alessandro Nadalin ([@odino](https://github.com/odino)), VP technology at [Namshi](https://www.namshi.com)
-- David Mackay ([@JX7P](https://github.com/JX7P), Development Lead and Critical Theory of Programming Languages Researcher for [JX Objective-C](https://github.com/JX7P/JXobjC)
+- David Mackay ([@JX7P](https://github.com/JX7P)), Development Lead and Critical Theory of Programming Languages Researcher for [JX Objective-C](https://github.com/JX7P/JXobjC)
 - Andrew Sun ([@as-com](https://github.com/as-com)), Kitten Hugger
 - Krish Munot ([@krishmunot](https://github.com/krishmunot)), Developer
 - Wellington Pardim ([@wellpardim](https://github.com/Wellpardim/)), Student
@@ -220,3 +220,22 @@ Signed,
 - Danil Dubrovsky ([@FRedEnergy](https://github.com/FRedEnergy)), Software Engineer and OSS contributor
 - Philippe Loctaux ([@ploctaux](https://github.com/ploctaux)), Software Developer
 - Gaurav Ragtah ([@gragtah](https://github.com/gragtah)), Student, Software Engineer, Startup founder
+- Mukesh M ([@silentninja](https://github.com/silentninja)), Software Developer
+- Stefan Ric ([@cybre](https://github.com/cybre)), Software Developer
+- Krish Munot ([@krishmunot](https://github.com/krishmunot)), Developer
+- Andrew Quebe ([@Andrew-Quebe](https://github.com/Andrew-Quebe)), Student, Android Developer, Web Developer
+- Wil WL ([@wilstenholme](https://github.com/wilstenholme)), Learner
+- Chandra Vedantham ([@chandu](https://github.com/chandu)), Developer
+- H Senem ([@hsen](https://github.com/hsen-dev)), Full Stack Developer
+- Ranjith Kumar ([@ranji2612](https://github.com/ranji2612)), Developer
+- Yoann Moinet ([@yoannmoinet](https://github.com/yoannmoinet)), Software Engineer, [Autodesk](http://www.autodesk.com)
+- David Caccavella ([@dthree](https://github.com/dthree)), Non-profit Developer
+- Ramon Fried ([@mellowcandle](https://github.com/mellowcandle)), Software Developer
+- Brandon Buck ([@bbuck](https://github.com/bbuck)), Senior Software Engineer at The Honest Company
+- Jerome Chai ([@jc1987](https://github.com/jc1987)), Software Developer 
+- Medet Tleukabiluly ([@vko-online](https://github.com/vko-online)), Full-Stack Software Developer
+- Nguyen Van Anh ([@anhskohbo](https://github.com/anhskohbo)), Web Developer
+- Alex Cruz ([@Mazda--](https://github.com/Mazda--)), Software Developer
+- Chris Warrick ([@Kwpolska](https://github.com/Kwpolska)), Python Software Developer
+- Enrico D'Ortenzio ([@enricocid](https://github.com/enricocid)), Amateur Software Developer
+- Veaceslav Gaidarji ([@donvigo](https://github.com/donvigo)), Android/iOS Developer
