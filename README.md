@@ -228,3 +228,4 @@ Signed,
 - Chandra Vedantham ([@chandu](https://github.com/chandu)), Developer
 - H Senem ([@hsen](https://github.com/hsen-dev)), Full Stack Developer
 - Ranjith Kumar ([@ranji2612](https://github.com/ranji2612)), Developer
+- Yoann Moinet ([@yoannmoinet](https://github.com/yoannmoinet)), Software Engineer, [Autodesk](http://www.autodesk.com)
