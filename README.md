@@ -249,3 +249,4 @@ Signed,
 - Heinrich Reimer ([@HeinrichReimer](http://github.com/HeinrichReimer)), Android Developer
 - Calle Svensson ([@ZetaTwo](http://github.com/ZetaTwo)), IT-security consultant
 - Matej Nemček ([@yangwao](https://github.com/yangwao)), hackerspace founder [Progressbar](https://www.progressbar.sk), [Nodeschool Bratislava](https://github.com/nodeschool/bratislava) organiser, Full-Stack Web Developer
+- Bidyut Mukherjee ([@gokussjx](https://github.com/gokussjx)), Student, Developer
