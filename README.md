@@ -252,3 +252,4 @@ Signed,
 - Bidyut Mukherjee ([@gokussjx](https://github.com/gokussjx)), Student, Developer
 - Davide Pastore ([@DavidePastore](https://github.com/DavidePastore)), Developer
 - Jens Driller ([@jenzz](https://github.com/jenzz)), Android Dev
+- Daimajia ([@daimajia](https://github.com/daimajia)), Android & Node Developer
