@@ -241,3 +241,4 @@ Signed,
 - Veaceslav Gaidarji ([@donvigo](https://github.com/donvigo)), Android/iOS Developer
 - Pascal Raszyk ([@posixpascal](https://github.com/posixpascal)), Batman, Full-Stack Web Developer
 - Ashhar Hasan ([@hashhar](https://github.com/hashhar)), Student
+- Nicholas Chum ([@nicholaschum](http://github.com/nicholaschum)), Android Themer and App Developer
