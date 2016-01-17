@@ -256,3 +256,4 @@ Signed,
 - Sandeep Gupta ([@sangupta](https://github.com/sangupta)), Software Developer
 - Mariam AlJamea ([@Maryom](https://github.com/Maryom)), iOS Developer
 - Harshit Dwivedi (https://github.com/the-dagger), Android Developer
+- Mandar Shinde ([@Mandar-Shinde](https://github.com/Mandar-Shinde)), Software Developer
