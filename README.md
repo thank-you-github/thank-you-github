@@ -232,3 +232,4 @@ Signed,
 - David Caccavella ([@dthree](https://github.com/dthree)), Non-profit Developer
 - Ramon Fried ([@mellowcandle](https://github.com/mellowcandle)), Software Developer
 - Brandon Buck ([@bbuck](https://github.com/bbuck)), Senior Software Engineer at The Honest Company
+- Jerome Chai ([@jc1987](https://github.com/jc1987)), Software Developer 
