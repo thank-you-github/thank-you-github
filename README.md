@@ -247,3 +247,4 @@ Signed,
 - Theo Armour ([@theo-armour](https://github.com/theo-armour)), Developer
 - Asindu Drileba ([@as1ndu](https://github.com/as1ndu)), Programusician Scientist :D
 - Heinrich Reimer ([@HeinrichReimer](http://github.com/HeinrichReimer)), Android Developer
+- Calle Svensson ([@ZetaTwo](http://github.com/ZetaTwo)), IT-security consultant
