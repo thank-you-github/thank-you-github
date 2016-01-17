@@ -248,3 +248,4 @@ Signed,
 - Asindu Drileba ([@as1ndu](https://github.com/as1ndu)), Programusician Scientist :D
 - Heinrich Reimer ([@HeinrichReimer](http://github.com/HeinrichReimer)), Android Developer
 - Calle Svensson ([@ZetaTwo](http://github.com/ZetaTwo)), IT-security consultant
+- Matej Nemček ([@yangwao](https://github.com/yangwao)), hackerspace founder [Progressbar](https://www.progressbar.sk), [Nodeschool Bratislava](https://github.com/nodeschool/bratislava) organiser, Full-Stack Web Developer
