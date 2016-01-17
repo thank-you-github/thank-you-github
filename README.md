@@ -240,3 +240,4 @@ Signed,
 - Enrico D'Ortenzio ([@enricocid](https://github.com/enricocid)), Amateur Software Developer
 - Veaceslav Gaidarji ([@donvigo](https://github.com/donvigo)), Android/iOS Developer
 - Pascal Raszyk ([@posixpascal](https://github.com/posixpascal)), Batman, Full-Stack Web Developer
+- Asindu Drileba ([@as1ndu](https://github.com/as1ndu)), Programusician Scientist :D
