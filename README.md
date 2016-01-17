@@ -227,3 +227,4 @@ Signed,
 - Wil WL ([@wilstenholme](https://github.com/wilstenholme)), Learner
 - Chandra Vedantham ([@chandu](https://github.com/chandu)), Developer
 - H Senem ([@hsen](https://github.com/hsen-dev)), Full Stack Developer
+- Ranjith Kumar ([@ranji2612](https://github.com/ranji2612)), Developer
