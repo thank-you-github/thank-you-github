@@ -259,3 +259,4 @@ Signed,
 - Mandar Shinde ([@Mandar-Shinde](https://github.com/Mandar-Shinde)), Software Developer
 - Talayhan Samet ([@stalayhan](https://github.com/stalayhan)), Full Stack Developer
 - Matheus de Alcantara ([@demhydraz](https://github.com/demhydraz)), Amateur Software Developer
+- ligi ([@ligi](https://github.com/ligi)), Dev
