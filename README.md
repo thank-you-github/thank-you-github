@@ -238,3 +238,4 @@ Signed,
 - Alex Cruz ([@Mazda--](https://github.com/Mazda--)), Software Developer
 - Chris Warrick ([@Kwpolska](https://github.com/Kwpolska)), Python Software Developer
 - Enrico D'Ortenzio ([@enricocid](https://github.com/enricocid)), Amateur Software Developer
+- Veaceslav Gaidarji ([@donvigo](https://github.com/donvigo)), Android/iOS Developer
