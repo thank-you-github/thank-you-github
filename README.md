@@ -232,7 +232,7 @@ Signed,
 - David Caccavella ([@dthree](https://github.com/dthree)), Non-profit Developer
 - Ramon Fried ([@mellowcandle](https://github.com/mellowcandle)), Software Developer
 - Brandon Buck ([@bbuck](https://github.com/bbuck)), Senior Software Engineer at The Honest Company
-- Jerome Chai ([@jc1987](https://github.com/jc1987)), Software Developer 
+- Jerome Chai ([@jc1987](https://github.com/jc1987)), Software Developer
 - Medet Tleukabiluly ([@vko-online](https://github.com/vko-online)), Full-Stack Software Developer
 - Nguyen Van Anh ([@anhskohbo](https://github.com/anhskohbo)), Web Developer
 - Alex Cruz ([@Mazda--](https://github.com/Mazda--)), Software Developer
@@ -244,3 +244,4 @@ Signed,
 - Nicholas Chum ([@nicholaschum](http://github.com/nicholaschum)), Android Themer and App Developer
 - Alessio Felicioni ([@afelicioni](https://github.com/afelicioni)), Developer & IT Operations, formerly CTO @ [WebDesignProduction](http://www.wdpro.it/), [Lavorint](http://www.lavorint.it/) and [cerca.com](http://www.cerca.com/)
 - Anggiajuang Patria ([@anggiaj](https://github.com/anggiaj)), Software Developer
+- Theo Armour ([@theo-armour](https://github.com/theo-armour)), Developer
