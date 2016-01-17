@@ -244,3 +244,4 @@ Signed,
 - Nicholas Chum ([@nicholaschum](http://github.com/nicholaschum)), Android Themer and App Developer
 - Alessio Felicioni ([@afelicioni](https://github.com/afelicioni)), Developer & IT Operations, formerly CTO @ [WebDesignProduction](http://www.wdpro.it/), [Lavorint](http://www.lavorint.it/) and [cerca.com](http://www.cerca.com/)
 - Anggiajuang Patria ([@anggiaj](https://github.com/anggiaj)), Software Developer
+- Matheus de Alcantara ([@demhydraz](https://github.com/demhydraz)), Amateur Software Developer   
