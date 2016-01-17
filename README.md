@@ -262,3 +262,4 @@ Signed,
 - ligi ([@ligi](https://github.com/ligi)), Dev
 - Nathan van der Werf ([@dogiedog](https://github.com/dogiedog)), Software Engineer
 - Pasquale Boemio ([@helloiampau](https://github.com/helloIAmPau)), Full Stack Developer
+- Michele Lacorte ([@michelelacorte](https://github.com/michelelacorte)), Student, Android Developer
