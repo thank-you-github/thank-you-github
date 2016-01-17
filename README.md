@@ -263,3 +263,4 @@ Signed,
 - Nathan van der Werf ([@dogiedog](https://github.com/dogiedog)), Software Engineer
 - Pasquale Boemio ([@helloiampau](https://github.com/helloIAmPau)), Full Stack Developer
 - Michele Lacorte ([@michelelacorte](https://github.com/michelelacorte)), Student, Android Developer
+- Andrea D'Amico ([@adamico](https://github.com/adamico)), Ruby on Rails Full-Stack Developer
