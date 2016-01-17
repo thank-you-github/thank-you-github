@@ -231,3 +231,4 @@ Signed,
 - Yoann Moinet ([@yoannmoinet](https://github.com/yoannmoinet)), Software Engineer, [Autodesk](http://www.autodesk.com)
 - David Caccavella ([@dthree](https://github.com/dthree)), Non-profit Developer
 - Ramon Fried ([@mellowcandle](https://github.com/mellowcandle)), Software Developer
+- Brandon Buck ([@bbuck](https://github.com/bbuck)), Senior Software Engineer at The Honest Company
