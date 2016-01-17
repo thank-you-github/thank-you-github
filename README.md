@@ -235,3 +235,4 @@ Signed,
 - Jerome Chai ([@jc1987](https://github.com/jc1987)), Software Developer 
 - Medet Tleukabiluly ([@vko-online](https://github.com/vko-online)), Full-Stack Software Developer
 - Nguyen Van Anh ([@anhskohbo](https://github.com/anhskohbo)), Web Developer
+- Alex Cruz ([@Mazda--](https://github.com/Mazda--)), Software Developer
