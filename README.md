@@ -255,3 +255,4 @@ Signed,
 - Daimajia ([@daimajia](https://github.com/daimajia)), Android & Node Developer
 - Sandeep Gupta ([@sangupta](https://github.com/sangupta)), Software Developer
 - Mariam AlJamea ([@Maryom](https://github.com/Maryom)), iOS Developer
+- Harshit Dwivedi (https://github.com/the-dagger), Android Developer
