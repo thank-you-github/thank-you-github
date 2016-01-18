@@ -292,3 +292,4 @@ Signed,
 - Jannik Richter ([@nikrich](https://github.com/nikrich)), Developer
 - Yun Liu ([@liu-yun](https://github.com/liu-yun)), Student, Develper
 - Peter Goldsborough ([@goldsborough](https://github.com/goldsborough)), Student at TUM
+- Jorden Whitefield ([@lordqwerty](https://github.com/lordqwerty)), Doctoral Student / Developer
