@@ -306,3 +306,4 @@ Signed,
 - Robin Temme ([@zwerch](https://github.com/zwerch)), Full Stack Developer
 - Adamo ([@aerendir](https://github.com/Aerendir)) Crespi, [Passionate developer](http://aerendir.me) [Italy]
 - Pascal Lehr ([@plehr](https://github.com/plehr)), Developer
+- Oleg Nechiporenko ([@onechiporenko](https://github.com/onechiporenko)), Developer
