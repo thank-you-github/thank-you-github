@@ -276,3 +276,4 @@ Signed,
 - Teng Liu ([@sdnuliu](https://github.com/sdnuliu)), Android Developer
 - Kevin ([@KevinOfNeu](https://github.com/KevinOfNeu)), Full Stack Developer
 - Brian Lee ([@metasmile](https://github.com/metasmile)), Product Developer, Creator of [Elie](http://elie.camera)
+- Jared Allard ([@jaredallard](https://github.com/jaredallard), Maintainer of [nexe](https://github.com/jaredallard/nexe), Web Dev / Backend Eng.
