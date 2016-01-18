@@ -307,3 +307,4 @@ Signed,
 - Adamo ([@aerendir](https://github.com/Aerendir)) Crespi, [Passionate developer](http://aerendir.me) [Italy]
 - Pascal Lehr ([@plehr](https://github.com/plehr)), Developer
 - Oleg Nechiporenko ([@onechiporenko](https://github.com/onechiporenko)), Developer
+- Scott Romack ([@ShaggyDude](https://github.com/ShaggyDude)), UI Guy
