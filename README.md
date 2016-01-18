@@ -267,3 +267,4 @@ Signed,
 - Jacob Davidson ([@Reklino](https://github.com/Reklino)), Drinker of Coffee, Learner of Things
 - Dennis Lebhardt ([@rc420head]
 (https://github.com/rc420head)), CandyRoms Developer
+- Jacky Alciné ([@jalcine](https://github.com/jalcine)), Software Engineer
