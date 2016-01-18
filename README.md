@@ -294,3 +294,4 @@ Signed,
 - Peter Goldsborough ([@goldsborough](https://github.com/goldsborough)), Student at TUM
 - Jorden Whitefield ([@lordqwerty](https://github.com/lordqwerty)), Doctoral Student / Developer
 - Manu Mohan A ([@a-manumohan](https://github.com/a-manumohan)), Mobile Application Developer, Learner
+- Steve Edson ([@SteveEdson](https://github.com/SteveEdson)), Developer
