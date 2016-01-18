@@ -291,3 +291,4 @@ Signed,
 - Morgan Giraud ([@morgangiraud](https://github.com/morgangiraud)), CTO [@explee](https://github.com/explee)
 - Jannik Richter ([@nikrich](https://github.com/nikrich)), Developer
 - Yun Liu ([@liu-yun](https://github.com/liu-yun)), Student, Develper
+- Manu Mohan A ([@a-manumohan](https://github.com/a-manumohan)), Mobile Application Developer, Learner
