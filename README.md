@@ -286,4 +286,4 @@ Signed,
 - Anuj Pahuja ([@alasin](https://github.com/alasin)), Developer
 - Nadeem Khan ([@NadeemKhan](https://github.com/nadeemkhan)), Mobile Apps & Web Developer
 - Junior Xu ([@Junxy](https://github.com/Junxy)) Developer at [Anker](http://www.anker.com)
-- Richard Clayton ([@rclayton-the-terrible](https://github.com/rclayton-the-terrible)), Principal Software Engineer [YouEye](youeye.com)
+- Sergei O. Udalov ([@sergio-fry](https://github.com/sergio-fry)), [Developer at Source[Lab]](http://sourcelab.technology/)
