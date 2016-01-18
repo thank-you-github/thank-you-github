@@ -265,3 +265,4 @@ Signed,
 - Michele Lacorte ([@michelelacorte](https://github.com/michelelacorte)), Student, Android Developer
 - Andrea D'Amico ([@adamico](https://github.com/adamico)), Ruby on Rails Full-Stack Developer
 - Jacob Davidson ([@Reklino](https://github.com/Reklino)), Drinker of Coffee, Learner of Things
+- Shen Lin ([@shawnlinboy](https://github.com/shawnlinboy)), Software Engineer at [Meizu China](http://www.meizu.com/)
