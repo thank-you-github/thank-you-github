@@ -265,3 +265,5 @@ Signed,
 - Michele Lacorte ([@michelelacorte](https://github.com/michelelacorte)), Student, Android Developer
 - Andrea D'Amico ([@adamico](https://github.com/adamico)), Ruby on Rails Full-Stack Developer
 - Jacob Davidson ([@Reklino](https://github.com/Reklino)), Drinker of Coffee, Learner of Things
+- Dennis Lebhardt ([@rc420head]
+(https://github.com/rc420head)), CandyRoms Developer
