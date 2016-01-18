@@ -285,3 +285,4 @@ Signed,
 - 朱承浩 ([@neo1218](https://github.com/neo1218)) python学习者, 热爱开源的人
 - Anuj Pahuja ([@alasin](https://github.com/alasin)), Developer
 - Nadeem Khan ([@NadeemKhan](https://github.com/nadeemkhan)), Mobile Apps & Web Developer
+- Junior Xu ([@Junxy](https://github.com/Junxy)) Developer at [Anker](http://www.anker.com)
