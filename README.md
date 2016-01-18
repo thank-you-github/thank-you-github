@@ -265,3 +265,5 @@ Signed,
 - Michele Lacorte ([@michelelacorte](https://github.com/michelelacorte)), Student, Android Developer
 - Andrea D'Amico ([@adamico](https://github.com/adamico)), Ruby on Rails Full-Stack Developer
 - Jacob Davidson ([@Reklino](https://github.com/Reklino)), Drinker of Coffee, Learner of Things
+- Idrees Dargahwala ([@sMartAgent47]
+(https://github.com/sMartAgent47)), Creator of a Custom ROM 
