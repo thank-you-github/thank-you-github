@@ -309,3 +309,4 @@ Signed,
 - Oleg Nechiporenko ([@onechiporenko](https://github.com/onechiporenko)), Developer
 - Scott Romack ([@ShaggyDude](https://github.com/ShaggyDude)), UI Guy
 - सिद्धांत भवनानी(Sidhant Bhavnani) ([@cosmicAsymmetry](https://github.com/cosmicAsymmetry)), Maker of stuff.
+- Dean Butcher ([@ButchDean](https://github.com/ButchDean)), Game Developer
