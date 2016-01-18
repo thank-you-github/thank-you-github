@@ -291,3 +291,4 @@ Signed,
 - Morgan Giraud ([@morgangiraud](https://github.com/morgangiraud)), CTO [@explee](https://github.com/explee)
 - Jannik Richter ([@nikrich](https://github.com/nikrich)), Developer
 - Yun Liu ([@liu-yun](https://github.com/liu-yun)), Student, Develper
+- Lucas Bento da Silva ([@lucasbsilva](https://github.com/lucasbsilva)), Full Stack Developer
