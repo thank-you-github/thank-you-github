@@ -301,3 +301,4 @@ Signed,
 - Max Cameron ([@mcameron](https://github.com/mcameron)), Developer [smolder](http://sky-shiny.github.io/smolder)
 - Gil Goncalves ([@lurst](https://github.com/lurst)), Software Developer
 - Arne Bahlo ([@bahlo](https://github.com/bahlo)), Full Stack Developer
+- Joe Simpson ([@kennydude](https://github.com/kennydude)), Web Developer
