@@ -308,3 +308,4 @@ Signed,
 - Pascal Lehr ([@plehr](https://github.com/plehr)), Developer
 - Oleg Nechiporenko ([@onechiporenko](https://github.com/onechiporenko)), Developer
 - Scott Romack ([@ShaggyDude](https://github.com/ShaggyDude)), UI Guy
+- सिद्धांत भवनानी(Sidhant Bhavnani) ([@cosmicAsymmetry](https://github.com/cosmicAsymmetry)), Maker of stuff.
