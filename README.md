@@ -296,3 +296,4 @@ Signed,
 - Manu Mohan A ([@a-manumohan](https://github.com/a-manumohan)), Mobile Application Developer, Learner
 - Steve Edson ([@SteveEdson](https://github.com/SteveEdson)), Developer
 - Lucas Bento da Silva ([@lucasbsilva](https://github.com/lucasbsilva)), Full Stack Developer
+- Troy Feng ([@yort-feng](https://github.com/yort-feng)) Developer at [Anker](http://www.anker.com)
