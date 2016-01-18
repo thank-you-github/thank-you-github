@@ -281,3 +281,4 @@ Signed,
 - Binea Xu ([@xu6148152](https://github.com/xu6148152)), Android Developer, React Learner
 - Nam Pham ([@nampnq](https://github.com/nampnq)), Developer
 - Emerson Carvalho ([@emersonbroga](https://github.com/emersonbroga)), Software Engineer
+- Chetan Raj ([@chetanraj](https://github.com/chetanraj)), Software Engineer @ [Snapwiz](https://snapwiz.com), JS Lover [JSEssentials](http://chetanraj.in/jsessentials/)
