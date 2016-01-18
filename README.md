@@ -265,3 +265,4 @@ Signed,
 - Michele Lacorte ([@michelelacorte](https://github.com/michelelacorte)), Student, Android Developer
 - Andrea D'Amico ([@adamico](https://github.com/adamico)), Ruby on Rails Full-Stack Developer
 - Jacob Davidson ([@Reklino](https://github.com/Reklino)), Drinker of Coffee, Learner of Things
+- Richard Clayton ([@rclayton-the-terrible](https://github.com/rclayton-the-terrible)), Principal Software Engineer [YouEye](youeye.com)
