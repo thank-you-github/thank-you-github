@@ -275,3 +275,4 @@ Signed,
 - José Lopes ([@forkd](https://github.com/forkd)), infosec analyst at [Cemig](https://www.cemig.com.br), Open Source enthusiast
 - Teng Liu ([@sdnuliu](https://github.com/sdnuliu)), Android Developer
 - Kevin ([@KevinOfNeu](https://github.com/KevinOfNeu)), Full Stack Developer
+- Brian Lee ([@metasmile](https://github.com/metasmile)), Product Developer, Creator of [Elie](http://elie.camera)
