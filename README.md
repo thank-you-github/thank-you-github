@@ -274,3 +274,4 @@ Signed,
 - Eddie Hsu ([@demiurga](https://github.com/demiurga)), Full Stack Developer
 - José Lopes ([@forkd](https://github.com/forkd)), infosec analyst at [Cemig](https://www.cemig.com.br), Open Source enthusiast
 - Teng Liu ([@sdnuliu](https://github.com/sdnuliu)), Android Developer
+- Kevin ([@KevinOfNeu](https://github.com/KevinOfNeu)), Full Stack Developer
