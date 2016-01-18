@@ -272,3 +272,4 @@ Signed,
 - Alexander Snurnikov ([@admix](https://github.com/admix)), Software Engineer/Architect at MPAC
 - Idrees Dargahwala ([@sMartAgent47](https://github.com/sMartAgent47)), Creator of a Custom ROM
 - Eddie Hsu ([@demiurga](https://github.com/demiurga)), Full Stack Developer
+- José Lopes ([@forkd](https://github.com/forkd)), infosec analyst at [Cemig](https://www.cemig.com.br), Open Source enthusiast
