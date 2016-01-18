@@ -291,3 +291,4 @@ Signed,
 - Morgan Giraud ([@morgangiraud](https://github.com/morgangiraud)), CTO [@explee](https://github.com/explee)
 - Jannik Richter ([@nikrich](https://github.com/nikrich)), Developer
 - Yun Liu ([@liu-yun](https://github.com/liu-yun)), Student, Develper
+- Peter Goldsborough ([@goldsborough](https://github.com/goldsborough)), Student at TUM
