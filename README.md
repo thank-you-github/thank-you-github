@@ -270,3 +270,4 @@ Signed,
 - Jacky Alciné ([@jalcine](https://github.com/jalcine)), Software Engineer
 - Floyda ([@FloydaGitHub](https://github.com/FloydaGitHub)), Game Developer
 - Alexander Snurnikov ([@admix](https://github.com/admix)), Software Engineer/Architect at MPAC
+- Idrees Dargahwala ([@sMartAgent47](https://github.com/sMartAgent47)), Creator of a Custom ROM
