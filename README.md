@@ -269,3 +269,4 @@ Signed,
 (https://github.com/rc420head)), CandyRoms Developer
 - Jacky Alciné ([@jalcine](https://github.com/jalcine)), Software Engineer
 - Floyda ([@FloydaGitHub](https://github.com/FloydaGitHub)), Game Developer
+- Alexander Snurnikov ([@admix](https://github.com/admix)), Software Engineer/Architect at MPAC
