@@ -280,3 +280,4 @@ Signed,
 - Shen Lin ([@shawnlinboy](https://github.com/shawnlinboy)), Software Engineer at [Meizu China](http://www.meizu.com/)
 - Binea Xu ([@xu6148152](https://github.com/xu6148152)), Android Developer, React Learner
 - Nam Pham ([@nampnq](https://github.com/nampnq)), Developer
+- Emerson Carvalho ([@emersonbroga](https://github.com/emersonbroga)), Software Engineer
