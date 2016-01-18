@@ -279,3 +279,4 @@ Signed,
 - Jared Allard ([@jaredallard](https://github.com/jaredallard), Maintainer of [nexe](https://github.com/jaredallard/nexe), Web Dev / Backend Eng.
 - Shen Lin ([@shawnlinboy](https://github.com/shawnlinboy)), Software Engineer at [Meizu China](http://www.meizu.com/)
 - Binea Xu ([@xu6148152](https://github.com/xu6148152)), Android Developer, React Learner
+- Nam Pham ([@nampnq](https://github.com/nampnq)), Developer
