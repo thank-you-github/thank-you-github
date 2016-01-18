@@ -305,3 +305,4 @@ Signed,
 - Yorick de Wid ([@yorickdewid](https://github.com/yorickdewid)), Full Stack Developer
 - Robin Temme ([@zwerch](https://github.com/zwerch)), Full Stack Developer
 - Adamo ([@aerendir](https://github.com/Aerendir)) Crespi, [Passionate developer](http://aerendir.me) [Italy]
+- Pascal Lehr ([@plehr](https://github.com/plehr)), Developer
