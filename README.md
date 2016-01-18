@@ -284,3 +284,4 @@ Signed,
 - Chetan Raj ([@chetanraj](https://github.com/chetanraj)), Software Engineer @ [Snapwiz](https://snapwiz.com), JS Lover [JSEssentials](http://chetanraj.in/jsessentials/)
 - 朱承浩 ([@neo1218](https://github.com/neo1218)) python学习者, 热爱开源的人
 - Anuj Pahuja ([@alasin](https://github.com/alasin)), Developer
+- Nadeem Khan ([@NadeemKhan](https://github.com/nadeemkhan)), Mobile Apps & Web Developer
