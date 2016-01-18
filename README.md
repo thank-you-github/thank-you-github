@@ -300,3 +300,4 @@ Signed,
 - Sergei O. Udalov ([@sergio-fry](https://github.com/sergio-fry)), [Developer at Source[Lab]](http://sourcelab.technology/)
 - Max Cameron ([@mcameron](https://github.com/mcameron)), Developer [smolder](http://sky-shiny.github.io/smolder)
 - Gil Goncalves ([@lurst](https://github.com/lurst)), Software Developer
+- Arne Bahlo ([@bahlo](https://github.com/bahlo)), Full Stack Developer
