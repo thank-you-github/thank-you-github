@@ -268,3 +268,4 @@ Signed,
 - Dennis Lebhardt ([@rc420head]
 (https://github.com/rc420head)), CandyRoms Developer
 - Jacky Alciné ([@jalcine](https://github.com/jalcine)), Software Engineer
+- Floyda ([@FloydaGitHub](https://github.com/FloydaGitHub)), Game Developer
