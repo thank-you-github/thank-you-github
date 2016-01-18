@@ -282,3 +282,4 @@ Signed,
 - Nam Pham ([@nampnq](https://github.com/nampnq)), Developer
 - Emerson Carvalho ([@emersonbroga](https://github.com/emersonbroga)), Software Engineer
 - Chetan Raj ([@chetanraj](https://github.com/chetanraj)), Software Engineer @ [Snapwiz](https://snapwiz.com), JS Lover [JSEssentials](http://chetanraj.in/jsessentials/)
+- 朱承浩 ([@neo1218](https://github.com/neo1218)) python学习者, 热爱开源的人
