@@ -36,7 +36,7 @@ Signed,
 - Burak Sarıca ([@buraksarica](https://github.com/buraksarica)), ABIS Technology
 - Paul Carey ([@paulccarey](https://github.com/paulccarey)), [Partner at Source[Lab]](http://sourcelab.technology/)
 - Oussama Issaoui ([@thesubr00t](https://github.com/thesubr00t)), Full Stack Developer at Emiketic
-- Zeeshan Mughal ([@zixan](https://github.com/zixan)), Creator of [UberFareEstimator](http://uberfareestimator.co)
+- Zeeshan Mughal ([@zixan](https://github.com/zixan)), Creator of [UberFareEstimator](http://www.uberfareestimator.co/)
 - Andrea Bergamasco ([@vjandrea](https://github.com/vjandrea)), Developer
 - Jon Swanson ([@swansong](https://github.com/swansong)), Software Engineer at Rakuten Marketing
 - Caleb Madrigal ([@calebmadrigal](https://github.com/calebmadrigal)), Software Engineer
@@ -81,7 +81,7 @@ Signed,
 - Maximilian Felgenhauer ([@felgenh3](https://github.com/felgenh3)), Full Stack Software Engineer
 - Chris Tate ([@ctate](https://github.com/ctate)), Autocode maintainer
 - Patricio Rojas ([@brujo696](https://github.com/brujo696)), Cofounder at irricrops.com
-- Raphael Amorim ([@raphamorim](http://github.com/raphamorim)), Software Developer
+- Raphael Amorim ([@raphamorim](https://github.com/raphamorim)), Software Developer
 - Juan Camilo Osorio ([@jcoc611](https://github.com/jcoc611)), Undergrad at the University of Toronto
 - Kailan Blanks ([@kblanks](https://github.com/kblanks)), Developer
 - Ann Paul ([@annp89](https://github.com/annp89)), Engineer at Prism Skylabs
@@ -96,9 +96,9 @@ Signed,
 - José Luis Quintana ([@joseluisq](https://github.com/joseluisq)), Web Developer
 - Leo Natan ([@LeoNatan](https://github.com/LeoNatan))
 - `Dear Github` ([@dear-github](https://github.com/dear-github/dear-github)), OSS maintainers who love GitHub and want to improve it
-- Aman Gautam ([@aman-gautam](http://github.com/aman-gautam), CTO, ClickEinstein.com
-- Manuel Ebert ([@maebert](https://github.com/maebert)), Founder of [summer.ai](http://www.summer.ai) & [open source](https://github.com/maebert/jrnl) developer
-- Marin Usalj ([@supermarin](http://github.com/supermarin), Developer
+- Aman Gautam ([@aman-gautam](https://github.com/aman-gautam), CTO, ClickEinstein.com
+- Manuel Ebert ([@maebert](https://github.com/maebert)), Founder of [summer.ai](http://summer.ai/) & [open source](https://github.com/maebert/jrnl) developer
+- Marin Usalj ([@supermarin](https://github.com/supermarin), Developer
 - Yosbel Marin ([@yosbelms](https://github.com/yosbelms)), Full Stack Developer, Creator and maintainer of [Cor](http://yosbelms.github.io/cor/) language
 - Andrew Turner ([@galenandrew](https://github.com/galenandrew)), Technical Leader, Engineer, and Speaker
 - Ricardo Cabello ([@mrdoob](https://github.com/mrdoob)), maintainer of three.js
@@ -118,7 +118,7 @@ Signed,
 - Gustavo Schmidt ([@gustavoschmidt](https://github.com/gustavoschmidt)), Software Engineer
 - Matthieu Collé ([@raiseandfall](https://github.com/raiseandfall)), Full Stack Developer
 - Tute Costa ([@tute](https://github.com/tute)), OSS contributor and maintainer
-- Christian Fei ([@christian-fei](https://github.com/christian-fei)), Developer at [XPeppers](http://xpeppers.com/)
+- Christian Fei ([@christian-fei](https://github.com/christian-fei)), Developer at [XPeppers](http://www.xpeppers.com/)
 - Martín Ciparelli ([@mciparelli](https://github.com/mciparelli)), OSS pusher and Front End enthusiast
 - Chaouki Dhib ([@chaodhib](https://github.com/chaodhib)), Developer
 - Joel Berman ([@j0el](https://github.com/j0el)) OSS Lover
@@ -148,7 +148,7 @@ Signed,
 - Derek Myers ([@dmyers](https://github.com/dmyers)), Software Developer
 - Alexander Harchenko ([@morontt](https://github.com/morontt)), Developer
 - Luke Elliott ([@revlucio](https://github.com/revlucio)), Developer
-- Bruno Rocha ([@rochacbruno](https://github.com/rochacbruno)), Software Artist at [CathoLabs](http://www.catholabs.com) & [Quokka CMS](http://quokkaproject.org)
+- Bruno Rocha ([@rochacbruno](https://github.com/rochacbruno)), Software Artist at [CathoLabs](http://catholabs.com/) & [Quokka CMS](http://quokkaproject.org)
 - Cris Mihalache ([@f3rno](http://f3rno.com)), Software Engineer
 - Jim Slattery ([@jim-slattery-rs](https://github.com/jim-slattery-rs)), Developer
 - Edwin Cruz ([@softr8](https://github.com/softr8)), VP of Engineering at [MagmaLabs](http://www.magmalabs.io/)
@@ -182,15 +182,15 @@ Signed,
 - Nashwan Doaqan ([@nash-ye](https://github.com/nash-ye)), Web Developer
 - Alexander Pyatkin ([@aspyatkin](https://github.com/aspyatkin)), Software engineer at [Indigo Byte Systems, LLC](http://indigobyte.com)
 - Shivaji Varma Pusapati Venkata([@shivajivarma](https://github.com/shivajivarma)), Software Developer
-- Uladzimir Mihura ([@trnl](https://github.com/trnl)), System Architect at [EPAM Systems](http://epam.com)
+- Uladzimir Mihura ([@trnl](https://github.com/trnl)), System Architect at [EPAM Systems](http://www.epam.com/)
 - Marc Gayle ([@marcamillion](https://github.com/marcamillion)), Builder of Web Products, primarily with Rails
 - Yuzhong Wen ([@supermartian](https://github.com/supermartian)), Student, Linux developer at [SSRG@VT](http://www.ssrg.ece.vt.edu)
 - Xiaofei Wu ([@teaey](https://github.com/teaey)),A Good Father,Software Engineer
-- Yuriy Kushch ([@ykushch](https://github.com/ykushch)), Development Lead at [DataArt](http://dataart.com/)
+- Yuriy Kushch ([@ykushch](https://github.com/ykushch)), Development Lead at [DataArt](http://www.dataart.com/)
 - Helio Oliveira ([@heliohead](https://github.com/heliohead)), Developer, Unix Advocate
 - Mikkel Bonde ([@spriz](https://github.com/spriz)), Software Engineer
 - Alexander Garmatenko ([@athlonUA](https://github.com/athlonUA)), Developer at [LazyAnts](http://lazy-ants.com)
-- Vibhanshu Chaturvedi ([@vibhanshuc](https://github.com/vibhanshuc)), Developer at [91springboard](http://91springboard.com)
+- Vibhanshu Chaturvedi ([@vibhanshuc](https://github.com/vibhanshuc)), Developer at [91springboard](http://www.91springboard.com/)
 - Javier Zapata ([@nkm](https://github.com/nkm)), Web Developer
 - Michael Rash ([@mrash](https://github.com/mrash)), Creator of [Cipherdyne Security](https://cipherdyne.org)
 - unbug ([@unbug](https://github.com/unbug)), Author of [MIHTool](http://www.mihtool.com/) and [Codelf](http://unbug.github.io/codelf/)
@@ -241,13 +241,13 @@ Signed,
 - Veaceslav Gaidarji ([@donvigo](https://github.com/donvigo)), Android/iOS Developer
 - Pascal Raszyk ([@posixpascal](https://github.com/posixpascal)), Batman, Full-Stack Web Developer
 - Ashhar Hasan ([@hashhar](https://github.com/hashhar)), Student
-- Nicholas Chum ([@nicholaschum](http://github.com/nicholaschum)), Android Themer and App Developer
+- Nicholas Chum ([@nicholaschum](https://github.com/nicholaschum)), Android Themer and App Developer
 - Alessio Felicioni ([@afelicioni](https://github.com/afelicioni)), Developer & IT Operations, formerly CTO @ [WebDesignProduction](http://www.wdpro.it/), [Lavorint](http://www.lavorint.it/) and [cerca.com](http://www.cerca.com/)
 - Anggiajuang Patria ([@anggiaj](https://github.com/anggiaj)), Software Developer
 - Theo Armour ([@theo-armour](https://github.com/theo-armour)), Developer
 - Asindu Drileba ([@as1ndu](https://github.com/as1ndu)), Programusician Scientist :D
-- Heinrich Reimer ([@HeinrichReimer](http://github.com/HeinrichReimer)), Android Developer
-- Calle Svensson ([@ZetaTwo](http://github.com/ZetaTwo)), IT-security consultant
+- Heinrich Reimer ([@HeinrichReimer](https://github.com/HeinrichReimer)), Android Developer
+- Calle Svensson ([@ZetaTwo](https://github.com/ZetaTwo)), IT-security consultant
 - Matej Nemček ([@yangwao](https://github.com/yangwao)), hackerspace founder [Progressbar](https://www.progressbar.sk), [Nodeschool Bratislava](https://github.com/nodeschool/bratislava) organiser, Full-Stack Web Developer
 - Bidyut Mukherjee ([@gokussjx](https://github.com/gokussjx)), Student, Developer
 - Davide Pastore ([@DavidePastore](https://github.com/DavidePastore)), Developer
