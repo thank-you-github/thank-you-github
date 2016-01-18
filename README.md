@@ -289,4 +289,4 @@ Signed,
 - Richard Clayton ([@rclayton-the-terrible](https://github.com/rclayton-the-terrible)), Principal Software Engineer [YouEye](youeye.com)
 - Daniele Campogiani ([@dcampogiani](https://github.com/dcampogiani)), Developer
 - Morgan Giraud ([@morgangiraud](https://github.com/morgangiraud)), CTO [@explee](https://github.com/explee)
-- Jannik Richter ([@nikrich](https://github.com/morgangiraud)), Developer
+- Jannik Richter ([@nikrich](https://github.com/nikrich)), Developer
