@@ -320,3 +320,4 @@ Signed,
 - James Feigel ([@jfeigel](https://github.com/jfeigel)), Software Developer
 - Tony Adams ([@atadams](https://github.com/atadams)), Web Developer
 - Elias Ponvert ([@eponvert](https://github.com/eponvert)), Director of Data Science, People Pattern
+- Hari KT ([@harikt](https://github.com/harikt)), [Aura PHP](https://github.com/auraphp/) Team Member
