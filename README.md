@@ -312,3 +312,4 @@ Signed,
 - Dean Butcher ([@ButchDean](https://github.com/ButchDean)), Game Developer
 - Michael Sanford ([@michaelsanford](https://github.com/michaelsanford)), Software Developer
 - Flavio Mascetti ([@MascioSpam](https://github.com/MascioSpam)), Student
+- Joshua Olson ([@MrMormon](https://github.com/MrMormon)), Student and Future Developer
