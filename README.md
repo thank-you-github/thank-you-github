@@ -316,3 +316,4 @@ Signed,
 - Matheus A. Brasil ([@mabrasil](https://github.com/mabrasil)), Full Stack Developer
 - Luciano Coutinho ([@lucianocoutinho](https://github.com/lucianocoutinho)), Software Engineer
 - Kamran Mackey ([@KamranMackey](https://github.com/KamranMackey)), Student
+- Alwin Drenth ([@adrenth](https://github.com/adrenth)), Software Engineer
