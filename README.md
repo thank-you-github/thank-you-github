@@ -317,3 +317,4 @@ Signed,
 - Luciano Coutinho ([@lucianocoutinho](https://github.com/lucianocoutinho)), Software Engineer
 - Kamran Mackey ([@KamranMackey](https://github.com/KamranMackey)), Student
 - Alwin Drenth ([@adrenth](https://github.com/adrenth)), Software Engineer
+- Akli Reguig ([@ragnoros](https://github.com/ragnoros)), Software Engineer
