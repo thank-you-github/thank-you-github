@@ -313,3 +313,4 @@ Signed,
 - Michael Sanford ([@michaelsanford](https://github.com/michaelsanford)), Software Developer
 - Flavio Mascetti ([@MascioSpam](https://github.com/MascioSpam)), Student
 - Joshua Olson ([@MrMormon](https://github.com/MrMormon)), Student and Future Developer
+- Matheus A. Brasil ([@mabrasil](https://github.com/mabrasil)), Full Stack Developer
