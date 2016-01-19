@@ -314,3 +314,4 @@ Signed,
 - Flavio Mascetti ([@MascioSpam](https://github.com/MascioSpam)), Student
 - Joshua Olson ([@MrMormon](https://github.com/MrMormon)), Student and Future Developer
 - Matheus A. Brasil ([@mabrasil](https://github.com/mabrasil)), Full Stack Developer
+- Luciano Coutinho ([@lucianocoutinho](https://github.com/lucianocoutinho)), Software Engineer
