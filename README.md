@@ -322,3 +322,4 @@ Signed,
 - Elias Ponvert ([@eponvert](https://github.com/eponvert)), Director of Data Science, People Pattern
 - Hari KT ([@harikt](https://github.com/harikt)), [Aura PHP](https://github.com/auraphp/) Team Member
 - Ibrahim Jarif ([@jarifibrahim](https://github.com/jarifibrahim)), Student
+- Vinod Pahuja ([@vinodpahuja](https://github.com/vinodpahuja)), Principle Developer
