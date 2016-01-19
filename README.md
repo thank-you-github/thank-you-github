@@ -310,3 +310,4 @@ Signed,
 - Scott Romack ([@ShaggyDude](https://github.com/ShaggyDude)), UI Guy
 - सिद्धांत भवनानी(Sidhant Bhavnani) ([@cosmicAsymmetry](https://github.com/cosmicAsymmetry)), Maker of stuff.
 - Dean Butcher ([@ButchDean](https://github.com/ButchDean)), Game Developer
+- Michael Sanford ([@michaelsanford](https://github.com/michaelsanford)), Software Developer
