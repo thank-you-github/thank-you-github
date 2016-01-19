@@ -319,3 +319,4 @@ Signed,
 - Alwin Drenth ([@adrenth](https://github.com/adrenth)), Software Engineer
 - James Feigel ([@jfeigel](https://github.com/jfeigel)), Software Developer
 - Tony Adams ([@atadams](https://github.com/atadams)), Web Developer
+- Vinod Pahuja ([@vinodpahuja](https://github.com/vinodpahuja)), Principle Developer
