@@ -308,7 +308,7 @@ Signed,
 - Pascal Lehr ([@plehr](https://github.com/plehr)), Developer
 - Oleg Nechiporenko ([@onechiporenko](https://github.com/onechiporenko)), Developer
 - Scott Romack ([@ShaggyDude](https://github.com/ShaggyDude)), UI Guy
-- सिद्धांत भवनानी(Sidhant Bhavnani) ([@cosmicAsymmetry](https://github.com/cosmicAsymmetry)), Maker of stuff.
+- सिद्धांत भवनानी (Sidhant Bhavnani) ([@cosmicAsymmetry](https://github.com/cosmicAsymmetry)), Maker of stuff.
 - Dean Butcher ([@ButchDean](https://github.com/ButchDean)), Game Developer
 - Michael Sanford ([@michaelsanford](https://github.com/michaelsanford)), Software Developer
 - Flavio Mascetti ([@MascioSpam](https://github.com/MascioSpam)), Student
