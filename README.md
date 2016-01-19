@@ -323,3 +323,4 @@ Signed,
 - Hari KT ([@harikt](https://github.com/harikt)), [Aura PHP](https://github.com/auraphp/) Team Member
 - Ibrahim Jarif ([@jarifibrahim](https://github.com/jarifibrahim)), Student
 - Vinod Pahuja ([@vinodpahuja](https://github.com/vinodpahuja)), Principle Developer
+- Carles Climent ([@carlescliment](https://github.com/carlescliment)), Software Developer
