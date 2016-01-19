@@ -315,3 +315,4 @@ Signed,
 - Joshua Olson ([@MrMormon](https://github.com/MrMormon)), Student and Future Developer
 - Matheus A. Brasil ([@mabrasil](https://github.com/mabrasil)), Full Stack Developer
 - Luciano Coutinho ([@lucianocoutinho](https://github.com/lucianocoutinho)), Software Engineer
+- Kamran Mackey ([@KamranMackey](https://github.com/KamranMackey)), Student
