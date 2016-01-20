@@ -326,3 +326,4 @@ Signed,
 - Carles Climent ([@carlescliment](https://github.com/carlescliment)), Software Developer
 - Ray Lugo, Jr. ([@rlugojr](https://github.com/rlugojr)), Just another human, keeping busy until the inevitable.
 - 安正超 ([@overtrue](https://github.com/overtrue)), Software Developer
+- Max Roeleveld ([@doenietzomoeilijk](https://github.com/doenietzomoeilijk)), Developer of Software
