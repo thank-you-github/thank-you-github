@@ -332,3 +332,4 @@ Signed,
 - Andrew Lord ([@andrewlord1990](https://github.com/andrewlord1990)), Android & Games Developer
 - Max Roeleveld ([@doenietzomoeilijk](https://github.com/doenietzomoeilijk)), Developer of Software
 - Mukesh KR ([@codejets](https://github.com/codejets)), UI Developer
+- Arjun Mayilvaganan([@arjunmayilvaganan](https://github.com/arjunmayilvaganan)), Student, Scripting and Full Stack development.
