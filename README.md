@@ -331,3 +331,4 @@ Signed,
 - Sanne Grinovero ([@Sanne](https://github.com/Sanne)), Hibernate team.
 - Andrew Lord ([@andrewlord1990](https://github.com/andrewlord1990)), Android & Games Developer
 - Max Roeleveld ([@doenietzomoeilijk](https://github.com/doenietzomoeilijk)), Developer of Software
+- Arjun Mayilvaganan([@arjunmayilvaganan](https://github.com/arjunmayilvaganan)), Student, Scripting and Full Stack development.
