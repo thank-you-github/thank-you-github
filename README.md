@@ -329,3 +329,4 @@ Signed,
 - 高翔 ([@phoenixgao](https://github.com/phoenixgao)), A developer on earth.
 - Alex Buschle ([@alexwbuschle](https://github.com/alexwbuschle)), Software Engineer
 - Sanne Grinovero ([@Sanne](https://github.com/Sanne)), Hibernate team.
+- Andrew Lord ([@andrewlord1990](https://github.com/andrewlord1990)), Android & Games Developer
