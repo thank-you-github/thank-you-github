@@ -327,3 +327,4 @@ Signed,
 - Ray Lugo, Jr. ([@rlugojr](https://github.com/rlugojr)), Just another human, keeping busy until the inevitable.
 - 安正超 ([@overtrue](https://github.com/overtrue)), Software Developer
 - 高翔 ([@phoenixgao](https://github.com/phoenixgao)), A developer on earth.
+- Alex Buschle ([@alexwbuschle](https://github.com/alexwbuschle)), Software Engineer
