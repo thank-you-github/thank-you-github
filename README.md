@@ -334,4 +334,4 @@ Signed,
 - Mukesh KR ([@codejets](https://github.com/codejets)), UI Developer
 - Arjun Mayilvaganan ([@arjunmayilvaganan](https://github.com/arjunmayilvaganan)), Student, Scripting and Full Stack development.
 - 李锐 ([@RryLee](https://github.com/rrylee)), Software Developer
--J.D. Flynn ([@JDDoesDev](https://github.com/jddoesdev)), Web Developer
+- J.D. Flynn ([@JDDoesDev](https://github.com/jddoesdev)), Web Developer
