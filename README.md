@@ -336,4 +336,4 @@ Signed,
 - 李锐 ([@RryLee](https://github.com/rrylee)), Software Developer
 - J.D. Flynn ([@JDDoesDev](https://github.com/jddoesdev)), Web Developer
 - Guillaume Lefrant ([@LeNiglo](https://github.com/LeNiglo)), Web Developer & Designer
-
+- Nathan Youngman ([@nathany](https://github.com/nathany)), Developer & Author
