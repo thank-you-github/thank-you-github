@@ -338,3 +338,4 @@ Signed,
 - Guillaume Lefrant ([@LeNiglo](https://github.com/LeNiglo)), Web Developer & Designer
 - Vinicius Souza ([@vsouza](https://github.com/vsouza)), Software Developer
 
+- Nathan Youngman ([@nathany](https://github.com/nathany)), Developer & Author
