@@ -335,3 +335,5 @@ Signed,
 - Arjun Mayilvaganan ([@arjunmayilvaganan](https://github.com/arjunmayilvaganan)), Student, Scripting and Full Stack development.
 - 李锐 ([@RryLee](https://github.com/rrylee)), Software Developer
 - J.D. Flynn ([@JDDoesDev](https://github.com/jddoesdev)), Web Developer
+- Guillaume Lefrant ([@LeNiglo](https://github.com/LeNiglo)), Web Developer & Designer
+
