@@ -336,4 +336,5 @@ Signed,
 - 李锐 ([@RryLee](https://github.com/rrylee)), Software Developer
 - J.D. Flynn ([@JDDoesDev](https://github.com/jddoesdev)), Web Developer
 - Guillaume Lefrant ([@LeNiglo](https://github.com/LeNiglo)), Web Developer & Designer
+- Vinicius Souza ([@vsouza](https://github.com/vsouza)), Software Developer
 
