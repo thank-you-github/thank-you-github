@@ -340,3 +340,4 @@ Signed,
 - Nathan Youngman ([@nathany](https://github.com/nathany)), Developer & Author
 - 陈阳 ([@matthiascy](https://github.com/matthiascy)), Game Developer
 - Manjunath Reddy ([@manju16832003](https://github.com/manju16832003)), API and Search Engineer
+- AMiT Kumar [@aktech](https://github.com/aktech), SymPy Developer
