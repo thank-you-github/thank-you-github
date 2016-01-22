@@ -337,5 +337,5 @@ Signed,
 - J.D. Flynn ([@JDDoesDev](https://github.com/jddoesdev)), Web Developer
 - Guillaume Lefrant ([@LeNiglo](https://github.com/LeNiglo)), Web Developer & Designer
 - Vinicius Souza ([@vsouza](https://github.com/vsouza)), Software Developer
-
 - Nathan Youngman ([@nathany](https://github.com/nathany)), Developer & Author
+- 陈阳 ([@matthiascy](https://github.com/matthiascy)), Game Developer
