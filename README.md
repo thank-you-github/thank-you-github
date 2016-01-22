@@ -31,7 +31,7 @@ Signed,
 - Mark Story ([@markstory](https://github.com/markstory)), CakePHP core team member
 - Luís Fernando Guedes ([@fernandoguedes](https://github.com/fernandoguedes)), Bower Contributor
 - Sadjow Leão ([@sadjow](https://github.com/sadjow)), Software Developer
-- Keith Lewis ([@Jacrys] (https://github.com/jacrys), [@TrinityComputers](https://github.com/TrinityComputers)), Owner/Lead Dev at Trinity Computers
+- Keith Lewis ([@Jacrys](https://github.com/jacrys), [@TrinityComputers](https://github.com/TrinityComputers)), Owner/Lead Dev at Trinity Computers
 - Jacob Hamblin ([@jacobhamblin](https://github.com/jacobhamblin)), Developer
 - Burak Sarıca ([@buraksarica](https://github.com/buraksarica)), ABIS Technology
 - Paul Carey ([@paulccarey](https://github.com/paulccarey)), [Partner at Source[Lab]](http://sourcelab.technology/)
@@ -47,7 +47,7 @@ Signed,
 - Andrey Nering ([@andreynering](https://github.com/andreynering)), Software Developer
 - Adam Grant ([@adamjgrant](https://github.com/adamjgrant)), Rails and Front end developer in Cupertino, CA
 - Abdul Hagi ([@ballerabdude](https://github.com/ballerabdude)), Software Developer at Turner Broadcasting
-- Aritra Ghosh Dastidar ([@aritraghoshdastidar] (https://github.com/aritraghoshdastidar)), Growth Hacker at Intuit Inc
+- Aritra Ghosh Dastidar ([@aritraghoshdastidar](https://github.com/aritraghoshdastidar)), Growth Hacker at Intuit Inc
 - Vincent Grafé ([@vgrafe](https://github.com/vgrafe)), Developer
 - Jacob Evans ([@jacobtheevans](https://github.com/jacobtheevans)), Developer
 - Sagiv Ofek ([@sagivo](https://github.com/sagivo)), algorithms playground maintainer
