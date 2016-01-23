@@ -344,3 +344,4 @@ Signed,
 - MummyDing ([@MummyDing](https://github.com/MummyDing)), Android Developer & Student
 - Archit Verma ([@architv](https://github.com/architv)), Student, Open Source Enthusiast
 - codedoc ([matrixorz](https://github.com/matrixorz)),Software Developer
+- Isagani Mendoza ([@ibmendoza](https://github.com/ibmendoza)), [IrisMQ](https://github.com/irismq)
