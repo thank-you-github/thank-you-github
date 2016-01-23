@@ -18,7 +18,6 @@ GitHub, thank you very much.
 
 Signed,
 
-- Isagani Mendoza ([@ibmendoza](https://github.com/ibmendoza)), IrisMQ
 - Xavier Noria ([@fxn](https://github.com/fxn)), Ruby on Rails core team member
 - Jose Diaz-Gonzalez ([@josegonzalez](https://github.com/josegonzalez)), CakePHP and Dokku core team member
 - Denis Savitskiy ([@sadfuzzy](https://github.com/sadfuzzy)), Ruby on Rails engineer at Source[Lab]
@@ -344,3 +343,4 @@ Signed,
 - AMiT Kumar ([@aktech](https://github.com/aktech)), SymPy Developer
 - MummyDing ([@MummyDing](https://github.com/MummyDing)), Android Developer & Student
 - Archit Verma ([@architv](https://github.com/architv)), Student, Open Source Enthusiast
+- Isagani Mendoza ([@ibmendoza](https://github.com/ibmendoza)), [IrisMQ](https://github.com/irismq)
