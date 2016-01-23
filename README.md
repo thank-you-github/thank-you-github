@@ -343,3 +343,4 @@ Signed,
 - AMiT Kumar ([@aktech](https://github.com/aktech)), SymPy Developer
 - MummyDing ([@MummyDing](https://github.com/MummyDing)), Android Developer & Student
 - Archit Verma ([@architv](https://github.com/architv)), Student, Open Source Enthusiast
+- codedoc ([matrixorz](https://github.com/matrixorz)),Software Developer
