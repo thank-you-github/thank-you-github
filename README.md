@@ -345,3 +345,4 @@ Signed,
 - Archit Verma ([@architv](https://github.com/architv)), Student, Open Source Enthusiast
 - codedoc ([matrixorz](https://github.com/matrixorz)),Software Developer
 - Isagani Mendoza ([@ibmendoza](https://github.com/ibmendoza)), [IrisMQ](https://github.com/irismq)
+- 温梦剑 ([@A-W-C-J](https://github.com/A-W-C-J)), Student, Android Developer
