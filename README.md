@@ -347,3 +347,4 @@ Signed,
 - Isagani Mendoza ([@ibmendoza](https://github.com/ibmendoza)), [IrisMQ](https://github.com/irismq)
 - 温梦剑 ([@A-W-C-J](https://github.com/A-W-C-J)), Student, Android Developer
 - Vishesh Ahuja ([@vish94](https://github.com/vish94)), Student, Delhi College of Engineering
+- Rod Lin ([@rod-lin](https://github.com/rod-lin)), Student, yet another developer
