@@ -349,3 +349,4 @@ Signed,
 - Vishesh Ahuja ([@vish94](https://github.com/vish94)), Student, Delhi College of Engineering
 - Oleksii Fedorov ([@waterlink](https://github.com/waterlink)), Developer
 - Cyriaque Delaunay ([@CYRIAQU3](https://github.com/CYRIAQU3)), Developer
+- Eric Dupertuis ([@EricDupertuis](https://github.com/EricDupertuis)), Student, Web Developer
