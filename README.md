@@ -350,3 +350,4 @@ Signed,
 - Oleksii Fedorov ([@waterlink](https://github.com/waterlink)), Developer
 - Cyriaque Delaunay ([@CYRIAQU3](https://github.com/CYRIAQU3)), Developer
 - Eric Dupertuis ([@EricDupertuis](https://github.com/EricDupertuis)), Student, Web Developer
+- Rod Lin ([@rod-lin](https://github.com/rod-lin)), Student, yet another developer
