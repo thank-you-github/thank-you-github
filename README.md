@@ -348,3 +348,4 @@ Signed,
 - 温梦剑 ([@A-W-C-J](https://github.com/A-W-C-J)), Student, Android Developer
 - Vishesh Ahuja ([@vish94](https://github.com/vish94)), Student, Delhi College of Engineering
 - Oleksii Fedorov ([@waterlink](https://github.com/waterlink)), Developer
+- Cyriaque Delaunay ([@CYRIAQU3](https://github.com/CYRIAQU3)), Developer
