@@ -60,7 +60,7 @@ Signed,
 - Blake Niemyjski ([@niemyjski](https://github.com/niemyjski)), Architect at [Exceptionless](https://github.com/exceptionless/Exceptionless)
 - Alex Clark ([@aclark4life](https://github.com/aclark4life)), Python Web Developer
 - Cory Burgett ([@baguette](https://github.com/baguette)), Developer
-- Sina Khelil ([@incognos](https://github.com/incognos) Principal Engineer at Advisory Board Company
+- Sina Khelil ([@incognos](https://github.com/incognos)), Principal Engineer at Advisory Board Company
 - Matija Abicic ([@matijaabicic](https://github.com/matijaabicic)), Head of Products at Sysrepublic Inc.
 - Andrius Putna ([@fordnox](https://github.com/fordnox)), Developer
 - Seth Webster ([@sethwebster](https://github.com/sethwebster)), CTO at TentSquare, inc.
@@ -96,9 +96,9 @@ Signed,
 - José Luis Quintana ([@joseluisq](https://github.com/joseluisq)), Web Developer
 - Leo Natan ([@LeoNatan](https://github.com/LeoNatan))
 - `Dear Github` ([@dear-github](https://github.com/dear-github/dear-github)), OSS maintainers who love GitHub and want to improve it
-- Aman Gautam ([@aman-gautam](https://github.com/aman-gautam), CTO, ClickEinstein.com
+- Aman Gautam ([@aman-gautam](https://github.com/aman-gautam)), CTO, ClickEinstein.com
 - Manuel Ebert ([@maebert](https://github.com/maebert)), Founder of [summer.ai](http://summer.ai/) & [open source](https://github.com/maebert/jrnl) developer
-- Marin Usalj ([@supermarin](https://github.com/supermarin), Developer
+- Marin Usalj ([@supermarin](https://github.com/supermarin)), Developer
 - Yosbel Marin ([@yosbelms](https://github.com/yosbelms)), Full Stack Developer, Creator and maintainer of [Cor](http://yosbelms.github.io/cor/) language
 - Andrew Turner ([@galenandrew](https://github.com/galenandrew)), Technical Leader, Engineer, and Speaker
 - Ricardo Cabello ([@mrdoob](https://github.com/mrdoob)), maintainer of three.js
@@ -276,7 +276,7 @@ Signed,
 - Teng Liu ([@sdnuliu](https://github.com/sdnuliu)), Android Developer
 - Kevin ([@KevinOfNeu](https://github.com/KevinOfNeu)), Full Stack Developer
 - Brian Lee ([@metasmile](https://github.com/metasmile)), Product Developer, Creator of [Elie](http://elie.camera)
-- Jared Allard ([@jaredallard](https://github.com/jaredallard), Maintainer of [nexe](https://github.com/jaredallard/nexe), Web Dev / Backend Eng.
+- Jared Allard ([@jaredallard](https://github.com/jaredallard)), Maintainer of [nexe](https://github.com/jaredallard/nexe), Web Dev / Backend Eng.
 - Shen Lin ([@shawnlinboy](https://github.com/shawnlinboy)), Software Engineer at [Meizu China](http://www.meizu.com/)
 - Binea Xu ([@xu6148152](https://github.com/xu6148152)), Android Developer, React Learner
 - Nam Pham ([@nampnq](https://github.com/nampnq)), Developer
