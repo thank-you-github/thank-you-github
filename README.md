@@ -354,3 +354,4 @@ Signed,
 - Linganesan([@linganesan](https://github.com/linganesan)), who loves open source
 - Wassim Chegham ([@manekinekko](https://github.com/manekinekko)), JavaScript hacker and Open Source lover
 - Oleh Kukil ([@flashbag](https://github.com/flashbag)), Full Stack JavaScript dev, Open Source and Linux lover
+- Arvind Mehra ([@arvindmehra](https://github.com/arvindmehra)), Full Stack Developer
