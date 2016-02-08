@@ -2,7 +2,7 @@ Dear GitHub,
 
 Before 2007, the way to participate in Open Source was fragmented. Each project
 had their own workflow, patches circulated in emails, issues were reported in
-a myriad ways, and if anyone wanted to contribute they had to figure out every
+a myriad of ways, and if anyone wanted to contribute they had to figure out every
 project's rules.
 
 Then, a handful of people took the challenge to build an awesome platform and as
@@ -357,3 +357,4 @@ Signed,
 - Arvind Mehra ([@arvindmehra](https://github.com/arvindmehra)), Full Stack Developer
 - Devansh Dalal ([@devanshdalal](https://github.com/devanshdalal)), Software Engineer
 - Maz Jaleel ([@mazyod](https://github.com/mazyod)), Software Engineer
+- Patrick Hart ([@thrifus](https://github.com/thrifus)), Software Developer
