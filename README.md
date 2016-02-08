@@ -357,3 +357,4 @@ Signed,
 - Arvind Mehra ([@arvindmehra](https://github.com/arvindmehra)), Full Stack Developer
 - Devansh Dalal ([@devanshdalal](https://github.com/devanshdalal)), Software Engineer
 - Maz Jaleel ([@mazyod](https://github.com/mazyod)), Software Engineer
+- Arya Antaputra ([@petewarrior](https://github.com/mazyod)), Laravel, Unity, node.js developer
