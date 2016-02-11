@@ -359,3 +359,4 @@ Signed,
 - Maz Jaleel ([@mazyod](https://github.com/mazyod)), Software Engineer
 - Patrick Hart ([@thrifus](https://github.com/thrifus)), Software Developer
 - C. A. Hart ([@hartca](https://github.com/hartca)), Software Developer
+- Varun Agrawal ([@varunagrawal](https://github.com/varunagrawal)), Graduate Student, College of Computing Georgia Tech
