@@ -365,3 +365,4 @@ Signed,
 - Mrugesh Mohapatra ([@raisedadead](https://github.com/raisedadead)), Developer
 - Joshua K. Farrar ([@sent1nel](https://github.com/sent1nel)), JavaScript geek hacking on [DigitalGov Search](http://search.digitalgov.gov/)
 - Frieder Bluemle ([@friederbluemle](https://github.com/friederbluemle)), Software Engineer
+- Pedro Paulo de Amorim([@ppamorim](https://github.com/ppamorim)), Mobile Developer
