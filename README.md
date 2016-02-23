@@ -367,3 +367,4 @@ Signed,
 - Frieder Bluemle ([@friederbluemle](https://github.com/friederbluemle)), Software Engineer
 - Pedro Paulo de Amorim ([@ppamorim](https://github.com/ppamorim)), Mobile Developer
 - Santosh Wadghule ([@mechanicles](https://github.com/mechanicles)), Software Developer
+- Marcus Hammarberg ([@marcusoftnet](http://www.marcusoft.net)), Software contractor / Agile consultant
