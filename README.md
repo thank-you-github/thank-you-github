@@ -368,3 +368,4 @@ Signed,
 - Pedro Paulo de Amorim ([@ppamorim](https://github.com/ppamorim)), Mobile Developer
 - Santosh Wadghule ([@mechanicles](https://github.com/mechanicles)), Software Developer
 - Mustapha Babatunde Oluwaleke ([@toystars](https://github.com/toystars)), Software Developer (Web and Mobile)
+- Jake Prather ([@Jakehp](https://github.com/Jakehp)), dude
