@@ -369,3 +369,4 @@ Signed,
 - Santosh Wadghule ([@mechanicles](https://github.com/mechanicles)), Software Developer
 - Mustapha Babatunde Oluwaleke ([@toystars](https://github.com/toystars)), Software Developer (Web and Mobile)
 - Jake Prather ([@Jakehp](https://github.com/Jakehp)), dude
+- Nikhil  ([@Nikhil-z](https://github.com/Nikhil_z)), Software Developr (Android)
