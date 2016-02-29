@@ -375,3 +375,4 @@ Signed,
 - Filipe Carmona ([@carmona](https://github.com/carmona)), Front End Developer, Brazil
 - Wendell Adriel Luiz Silva ([@WendellAdriel](https://github.com/WendellAdriel)), Full Stack Developer ([http://wendelladriel.github.io](http://wendelladriel.github.io)), Brazil
 - J. Teles（[@teles](https://github.com/teles)) , Front end developer at [vivadecora.com.br](https://www.vivadecora.com.br), Brazil
+- Marcus Hammarberg ([@marcusoftnet](https://github.com/marcusoftnet)), Software contractor / Agile consultant
