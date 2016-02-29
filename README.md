@@ -371,3 +371,4 @@ Signed,
 - Jake Prather ([@Jakehp](https://github.com/Jakehp)), dude
 - Nikhil  ([@Nikhil-z](https://github.com/Nikhil_z)), Software Developr (Android)
 - Shinelw（[@Shinelw](https://github.com/Shinelw)）, Android Developer
+- William de Oliveira Souza（[@woliveiras](https://github.com/woliveiras)）, Front End Developer (http://woliveiras.com.br), Brazil
