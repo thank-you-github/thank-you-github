@@ -371,3 +371,4 @@ Signed,
 - Jake Prather ([@Jakehp](https://github.com/Jakehp)), dude
 - Nikhil  ([@Nikhil-z](https://github.com/Nikhil_z)), Software Developr (Android)
 - Shinelw（[@Shinelw](https://github.com/Shinelw)）, Android Developer
+- Wendell Adriel Luiz Silva ([@WendellAdriel](https://github.com/WendellAdriel)), Full Stack Developer ([http://wendelladriel.github.io](http://wendelladriel.github.io)), Brazil
