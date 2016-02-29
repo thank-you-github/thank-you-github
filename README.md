@@ -374,3 +374,4 @@ Signed,
 - William de Oliveira Souza（[@woliveiras](https://github.com/woliveiras)）, Front End Developer (http://woliveiras.com.br), Brazil
 - Filipe Carmona ([@carmona](https://github.com/carmona)), Front End Developer, Brazil
 - Wendell Adriel Luiz Silva ([@WendellAdriel](https://github.com/WendellAdriel)), Full Stack Developer ([http://wendelladriel.github.io](http://wendelladriel.github.io)), Brazil
+- J. Teles（[@teles](https://github.com/teles)) , Front end developer at [vivadecora.com.br](https://www.vivadecora.com.br), Brazil
