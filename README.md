@@ -371,3 +371,4 @@ Signed,
 - Jake Prather ([@Jakehp](https://github.com/Jakehp)), dude
 - Nikhil  ([@Nikhil-z](https://github.com/Nikhil_z)), Software Developr (Android)
 - Shinelw（[@Shinelw](https://github.com/Shinelw)）, Android Developer
+- J. Teles（[@teles](https://github.com/teles)) , Front end developer at [vivadecora.com.br](https://www.vivadecora.com.br), Brazil
