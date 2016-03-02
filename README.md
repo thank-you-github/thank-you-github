@@ -377,3 +377,4 @@ Signed,
 - J. Teles（[@teles](https://github.com/teles)), Front end developer at [vivadecora.com.br](https://www.vivadecora.com.br), Brazil
 - Marcus Hammarberg ([@marcusoftnet](https://github.com/marcusoftnet)), Software contractor / Agile consultant
 - John Watson ([@johnwatsondev](https://github.com/johnwatsondev)), Mobile Developer
+- Angel Raúl Molina ([@skozz](https://github.com/skozz)), Ruby on Rails developer
