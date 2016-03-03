@@ -380,3 +380,4 @@ Signed,
 - Angel Raúl Molina ([@skozz](https://github.com/skozz)), Ruby on Rails developer
 - Michal Paszkiewicz ([@MichalPaszkiewicz](https://github.com/MichalPaszkiewicz)), Software Developer
 - Dariel Cruz ([@DCruz22](https://github.com/DCruz22)), Web and Mobile Developer
+- Cz. Hu ([@hczhcz](https://github.com/hczhcz)), Programming languages designer, creator of [Flappy-2048](https://github.com/hczhcz/Flappy-2048)
