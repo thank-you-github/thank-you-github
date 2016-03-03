@@ -379,3 +379,4 @@ Signed,
 - John Watson ([@johnwatsondev](https://github.com/johnwatsondev)), Mobile Developer
 - Angel Raúl Molina ([@skozz](https://github.com/skozz)), Ruby on Rails developer
 - Michal Paszkiewicz ([@MichalPaszkiewicz](https://github.com/MichalPaszkiewicz)), Software Developer
+- Dariel Cruz ([@DCruz22](https://github.com/DCruz22)), Web and Mobile Developer
