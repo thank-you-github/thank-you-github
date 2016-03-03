@@ -382,3 +382,4 @@ Signed,
 - Dariel Cruz ([@DCruz22](https://github.com/DCruz22)), Web and Mobile Developer
 - Cz. Hu ([@hczhcz](https://github.com/hczhcz)), Programming languages designer, creator of [Flappy-2048](https://github.com/hczhcz/Flappy-2048)
 - Ji Yang ([@jiyange](https://github.com/jiyange)), Software Developer
+- Thorsten Körner ([@thorsten-koerner](https://github.com/thorsten-koerner)), Software Developer and creator of [tvidoo grid](https://github.com/tvidoo-commerce/tvidoo-grid)
