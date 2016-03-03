@@ -379,3 +379,4 @@ Signed,
 - John Watson ([@johnwatsondev](https://github.com/johnwatsondev)), Mobile Developer
 - Angel Raúl Molina ([@skozz](https://github.com/skozz)), Ruby on Rails developer
 - Michal Paszkiewicz ([@MichalPaszkiewicz](https://github.com/MichalPaszkiewicz)), Software Developer
+- Cz. Hu ([@hczhcz](https://github.com/hczhcz)), Programming languages designer, creator of [Flappy-2048](https://github.com/hczhcz/Flappy-2048)
