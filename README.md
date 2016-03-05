@@ -385,3 +385,4 @@ Signed,
 - Thorsten Körner ([@thorsten-koerner](https://github.com/thorsten-koerner)), Software Developer and creator of [tvidoo grid](https://github.com/tvidoo-commerce/tvidoo-grid)
 - Othon Alberto da Silva Briganó ([@othonalberto](https://github.com/othonalberto)), Student and Software Developer [othonalberto.com.br](http://othonalberto.com.br) - Brazil
 - Eric Huang ([@erichuang1994](https://github.com/erichuang1994)),Student and Programmer.
+- Linghao Zhang ([@dnc1994](https://github.com/dnc1994)),Student and Developer.
