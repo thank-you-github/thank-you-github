@@ -392,3 +392,4 @@ Signed,
 - Jared Feng ([@IndeedPlusPlus](https://github.com/IndeedPlusPlus)), Student, Full-stack Developer and Data Engineer
 - Zev Fu ([@wspl](https://github.com/wspl)), Student, Developer and Designer
 - Reza Ahmadi ([@odises](https://github.com/odises)), Software Developer
+- Chuan Lu ([@Orcuslc](https://github.com/Orcuslc)), Student, Pythoner and CV lover.
