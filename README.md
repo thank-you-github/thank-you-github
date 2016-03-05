@@ -390,4 +390,4 @@ Signed,
 - Raül Pérez ([@repejota](https://github.com/repejota)), Software Engineer
 - Zhenchao Gan ([@gzc](https://github.com/gzc)), Student, creator of [CLRS answer](https://github.com/gzc/CLRS)
 - Jared Feng ([@IndeedPlusPlus](https://github.com/IndeedPlusPlus)), Student, Full-stack Developer and Data Engineer
-- Zev Fu ([@Plutonist](https://github.com/wspl)), Student, Developer and Designer
+- Zev Fu ([@wspl](https://github.com/wspl)), Student, Developer and Designer
