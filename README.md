@@ -386,3 +386,4 @@ Signed,
 - Othon Alberto da Silva Briganó ([@othonalberto](https://github.com/othonalberto)), Student and Software Developer [othonalberto.com.br](http://othonalberto.com.br) - Brazil
 - Eric Huang ([@erichuang1994](https://github.com/erichuang1994)),Student and Programmer.
 - Linghao Zhang ([@dnc1994](https://github.com/dnc1994)),Student and Developer.
+- Wizard Zhang ([@wizardforcel](https://github.com/wizardforcel)), Software Developer and Reverse Engineer
