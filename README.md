@@ -384,9 +384,9 @@ Signed,
 - Ji Yang ([@jiyange](https://github.com/jiyange)), Software Developer
 - Thorsten Körner ([@thorsten-koerner](https://github.com/thorsten-koerner)), Software Developer and creator of [tvidoo grid](https://github.com/tvidoo-commerce/tvidoo-grid)
 - Othon Alberto da Silva Briganó ([@othonalberto](https://github.com/othonalberto)), Student and Software Developer [othonalberto.com.br](http://othonalberto.com.br) - Brazil
-- Eric Huang ([@erichuang1994](https://github.com/erichuang1994)),Student and Programmer.
-- Linghao Zhang ([@dnc1994](https://github.com/dnc1994)),Student and Developer.
+- Eric Huang ([@erichuang1994](https://github.com/erichuang1994)), Student and Programmer.
+- Linghao Zhang ([@dnc1994](https://github.com/dnc1994)), Student and Developer.
 - Wizard Zhang ([@wizardforcel](https://github.com/wizardforcel)), Software Developer and Reverse Engineer
 - Raül Pérez ([@repejota](https://github.com/repejota)), Software Engineer
-- Zhenchao Gan([@gzc](https://github.com/gzc)), Student, creator of [CLRS answer](https://github.com/gzc/CLRS)
-- Jared Feng ([@IndeedPlusPlus](https://github.com/IndeedPlusPlus)),Student, Full-stack Developer and Data Engineer
+- Zhenchao Gan ([@gzc](https://github.com/gzc)), Student, creator of [CLRS answer](https://github.com/gzc/CLRS)
+- Jared Feng ([@IndeedPlusPlus](https://github.com/IndeedPlusPlus)), Student, Full-stack Developer and Data Engineer
