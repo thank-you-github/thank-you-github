@@ -393,3 +393,4 @@ Signed,
 - Zev Fu ([@wspl](https://github.com/wspl)), Student, Developer and Designer
 - Reza Ahmadi ([@odises](https://github.com/odises)), Software Developer
 - Chuan Lu ([@Orcuslc](https://github.com/Orcuslc)), Student, Pythoner and CV lover.
+- Hadi Kalantari ([@hadikalantari](https://github.com/hadikalantari)), Web Developer
