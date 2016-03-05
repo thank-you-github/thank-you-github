@@ -391,3 +391,4 @@ Signed,
 - Zhenchao Gan ([@gzc](https://github.com/gzc)), Student, creator of [CLRS answer](https://github.com/gzc/CLRS)
 - Jared Feng ([@IndeedPlusPlus](https://github.com/IndeedPlusPlus)), Student, Full-stack Developer and Data Engineer
 - Zev Fu ([@wspl](https://github.com/wspl)), Student, Developer and Designer
+- Chuan Lu ([@Orcuslc](https://github.com/Orcuslc)), Student, Pythoner and CV lover.
