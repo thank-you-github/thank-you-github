@@ -388,3 +388,4 @@ Signed,
 - Linghao Zhang ([@dnc1994](https://github.com/dnc1994)),Student and Developer.
 - Wizard Zhang ([@wizardforcel](https://github.com/wizardforcel)), Software Developer and Reverse Engineer
 - Raül Pérez ([@repejota](https://github.com/repejota)), Software Engineer
+- Zhenchao Gan([@gzc](https://github.com/gzc)), Student, creator of [CLRS answer](https://github.com/gzc/CLRS)
