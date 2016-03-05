@@ -387,3 +387,4 @@ Signed,
 - Eric Huang ([@erichuang1994](https://github.com/erichuang1994)),Student and Programmer.
 - Linghao Zhang ([@dnc1994](https://github.com/dnc1994)),Student and Developer.
 - Wizard Zhang ([@wizardforcel](https://github.com/wizardforcel)), Software Developer and Reverse Engineer
+- Raül Pérez ([@repejota](https://github.com/repejota)), Software Engineer
