@@ -396,3 +396,4 @@ Signed,
 - Hadi Kalantari ([@hadikalantari](https://github.com/hadikalantari)), Web Developer
 - Erick Emiliano ([@Emiliano](https://github.com/Emiliano)), Student Developer, Brazil
 
+- Jerry Jacobs ([@xor-gate](https://github.com/xor-gate)), Embedded Software Engineer, Netherlands
