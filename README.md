@@ -397,3 +397,4 @@ Signed,
 - Erick Emiliano ([@Emiliano](https://github.com/Emiliano)), Student Developer, Brazil
 
 - Jerry Jacobs ([@xor-gate](https://github.com/xor-gate)), Embedded Software Engineer, Netherlands
+- Pushpa Raj badu ([@przbadu](https://github.com/przbadu)), Full Stack Developer
