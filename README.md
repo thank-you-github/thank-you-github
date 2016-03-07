@@ -395,4 +395,4 @@ Signed,
 - Chuan Lu ([@Orcuslc](https://github.com/Orcuslc)), Student, Pythoner and CV lover.
 - Hadi Kalantari ([@hadikalantari](https://github.com/hadikalantari)), Web Developer
 - Erick Emiliano ([@Emiliano](https://github.com/Emiliano)), Student Developer, Brazil
-
+- Pushpa Raj badu ([@przbadu](https://github.com/przbadu)), Full Stack Developer
