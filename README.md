@@ -399,3 +399,4 @@ Signed,
 - Pushpa Raj badu ([@przbadu](https://github.com/przbadu)), Full Stack Developer
 - Marlom Girardi ([@marlomgirardi](https://github.com/marlomgirardi)), Full Stack Developer
 - Vyas Giridharan ([@vyasgiridhar](https://github.com/vyasgiridhar)), Student
+- bangbang.S ([@luoqii](https://github.com/luoqii)), Android Developer
