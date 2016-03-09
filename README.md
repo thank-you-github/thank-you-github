@@ -400,3 +400,4 @@ Signed,
 - Marlom Girardi ([@marlomgirardi](https://github.com/marlomgirardi)), Full Stack Developer
 - Vyas Giridharan ([@vyasgiridhar](https://github.com/vyasgiridhar)), Student
 - bangbang.S ([@luoqii](https://github.com/luoqii)), Android Developer
+- Rik van der Heijden ([@rikvdh](https://github.com/rikvdh)), Full Stack Developer, Netherlands
