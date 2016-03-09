@@ -395,6 +395,7 @@ Signed,
 - Chuan Lu ([@Orcuslc](https://github.com/Orcuslc)), Student, Pythoner and CV lover
 - Hadi Kalantari ([@hadikalantari](https://github.com/hadikalantari)), Web Developer
 - Erick Emiliano ([@Emiliano](https://github.com/Emiliano)), Student Developer, Brazil
+- Rik van der Heijden ([@rikvdh](https://github.com/rikvdh)), Full Stack Developer, Netherlands
 - Jerry Jacobs ([@xor-gate](https://github.com/xor-gate)), Embedded Software Engineer, Netherlands
 - Pushpa Raj badu ([@przbadu](https://github.com/przbadu)), Full Stack Developer
 - Marlom Girardi ([@marlomgirardi](https://github.com/marlomgirardi)), Full Stack Developer
