@@ -402,3 +402,4 @@ Signed,
 - bangbang.S ([@luoqii](https://github.com/luoqii)), Android Developer
 - Rik van der Heijden ([@rikvdh](https://github.com/rikvdh)), Full Stack Developer, Netherlands
 - Gianluca Casati ([@fibo](https://github.com/fibo)), Mathematician
+- Edwin Kupara ([@andela-ekupara](https://github.com/andela-ekupara)), Software Developer
