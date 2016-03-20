@@ -404,3 +404,4 @@ Signed,
 - Gianluca Casati ([@fibo](https://github.com/fibo)), Mathematician
 - Edwin Kupara ([@andela-ekupara](https://github.com/andela-ekupara)), Software Developer
 - Jerry Ajay ([@jerryant](https://github.com/jerryant)), Student Developer
+- Meet Udeshi ([@udiboy1209](https://github.com/udiboy1209)), Undergrad at IIT Bombay
