@@ -405,3 +405,4 @@ Signed,
 - Edwin Kupara ([@andela-ekupara](https://github.com/andela-ekupara)), Software Developer
 - Jerry Ajay ([@jerryant](https://github.com/jerryant)), Student Developer
 - Meet Udeshi ([@udiboy1209](https://github.com/udiboy1209)), Undergrad at IIT Bombay
+- AJ Farley ([@selfresonator](https://github.com/selfresonator)), Student, Developer and Saxophonist
