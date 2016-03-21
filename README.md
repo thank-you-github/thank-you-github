@@ -407,3 +407,4 @@ Signed,
 - Meet Udeshi ([@udiboy1209](https://github.com/udiboy1209)), Undergrad at IIT Bombay
 - AJ Farley ([@selfresonator](https://github.com/selfresonator)), Student, Developer and Saxophonist
 - Elismar Luz ([@elpardal](https://github.com/elpardal)), Developer
+- Jasmine Yugen ([@YugHug] (https://github.com/yughug)), Student, Developer
