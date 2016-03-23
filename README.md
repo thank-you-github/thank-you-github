@@ -408,3 +408,4 @@ Signed,
 - AJ Farley ([@selfresonator](https://github.com/selfresonator)), Student, Developer and Saxophonist
 - Elismar Luz ([@elpardal](https://github.com/elpardal)), Developer
 - Jasmine Yugen ([@YugHug] (https://github.com/yughug)), Student, Developer
+- Kalpesh Krishna ([@martiansideofthemoon](https://github.com/martiansideofthemoon)), Undergrad at IIT Bombay
