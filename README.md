@@ -409,3 +409,4 @@ Signed,
 - Elismar Luz ([@elpardal](https://github.com/elpardal)), Developer
 - Jasmine Yugen ([@YugHug] (https://github.com/yughug)), Student, Developer
 - Kalpesh Krishna ([@martiansideofthemoon](https://github.com/martiansideofthemoon)), Undergrad at IIT Bombay
+- Man Parvesh Singh Randhawa ([@manparvesh](https://github.com/manparvesh)), Student at IIT Guwahati
