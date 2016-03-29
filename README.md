@@ -410,3 +410,4 @@ Signed,
 - Jasmine Yugen ([@YugHug] (https://github.com/yughug)), Student, Developer
 - Kalpesh Krishna ([@martiansideofthemoon](https://github.com/martiansideofthemoon)), Undergrad at IIT Bombay
 - Man Parvesh Singh Randhawa ([@manparvesh](https://github.com/manparvesh)), Student at IIT Guwahati
+- 靳懿( xxmyjk )([@xxmyjk](https://github.com/xxmyjk)), Web Developer
