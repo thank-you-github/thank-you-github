@@ -413,3 +413,4 @@ Signed,
 - 靳懿( xxmyjk )([@xxmyjk](https://github.com/xxmyjk)), Web Developer
 - Ralph Ngo ([Ralphilius](https://github.com/Ralphilius)), Android Developer
 - Perry Pan ([@perry2008084](https://github.com/perry2008084)), Full Stack Developer, China
+- Sudheesh Singanamalla ([@sudheesh001](https://github.com/sudheesh001)), Full Stack Developer and Designer, India
