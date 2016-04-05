@@ -415,3 +415,4 @@ Signed,
 - Perry Pan ([@perry2008084](https://github.com/perry2008084)), Full Stack Developer, China
 - Vasantha Ganesh K ([@vasanthaganeshk](https://github.com/vasanthaganeshk)), Student at Amrita University, Coimbatore
 - Angelo Yin ([@namoamitabha](https://github.com/namoamitabha)), Developer, China
+- Sudheesh Singanamalla ([@sudheesh001](https://github.com/sudheesh001)), Full Stack Developer and Designer, India
