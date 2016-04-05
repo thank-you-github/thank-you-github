@@ -414,3 +414,4 @@ Signed,
 - Ralph Ngo ([Ralphilius](https://github.com/Ralphilius)), Android Developer
 - Perry Pan ([@perry2008084](https://github.com/perry2008084)), Full Stack Developer, China
 - Vasantha Ganesh K ([@vasanthaganeshk](https://github.com/vasanthaganeshk)), Student at Amrita University, Coimbatore
+- Angelo Yin ([@namoamitabha](https://github.com/namoamitabha)), Developer, China
