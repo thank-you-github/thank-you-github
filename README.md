@@ -413,3 +413,4 @@ Signed,
 - 靳懿( xxmyjk )([@xxmyjk](https://github.com/xxmyjk)), Web Developer
 - Ralph Ngo ([Ralphilius](https://github.com/Ralphilius)), Android Developer
 - Perry Pan ([@perry2008084](https://github.com/perry2008084)), Full Stack Developer, China
+- Angelo Yin ([@namoamitabha](https://github.com/namoamitabha)), Developer, China
