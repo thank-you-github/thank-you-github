@@ -418,3 +418,4 @@ Signed,
 - Sudheesh Singanamalla ([@sudheesh001](https://github.com/sudheesh001)), Full Stack Developer and Designer, India
 - Caio Weslley ([@CaioWzy](https://github.com/caiowzy)), Web Developer
 - Eugene Lifescale ([@shaman](https://github.com/shaman)), Software Developer, Ukraine
+- Сёма Мрачный ([@slr](https://github.com/slr)), // TODO
