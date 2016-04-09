@@ -419,3 +419,4 @@ Signed,
 - Caio Weslley ([@CaioWzy](https://github.com/caiowzy)), Web Developer
 - Eugene Lifescale ([@shaman](https://github.com/shaman)), Software Developer, Ukraine
 - Сёма Мрачный ([@slr](https://github.com/slr)), // TODO
+- Jordane Jouffroy ([@metrakit](https://github.com/metrakit)), Full Stack Developer, France
