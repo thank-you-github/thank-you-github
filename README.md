@@ -420,3 +420,4 @@ Signed,
 - Eugene Lifescale ([@shaman](https://github.com/shaman)), Software Developer, Ukraine
 - Сёма Мрачный ([@slr](https://github.com/slr)), // TODO
 - Jordane Jouffroy ([@metrakit](https://github.com/metrakit)), Full Stack Developer, France
+- Carlisia Campos ([@carlisia](https://github.com/carlisia)), Backend Developer, [#golang, #ruby], US
