@@ -420,3 +420,4 @@ Signed,
 - Eugene Lifescale ([@shaman](https://github.com/shaman)), Software Developer, Ukraine
 - Сёма Мрачный ([@slr](https://github.com/slr)), // TODO
 - Jordane Jouffroy ([@metrakit](https://github.com/metrakit)), Full Stack Developer, France
+- Sandeep Kumar Singh ([@sandmanx](https://github.com/sandmanx)), Undergrad at IIIT Allahabad
