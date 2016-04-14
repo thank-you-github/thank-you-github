@@ -421,3 +421,4 @@ Signed,
 - Сёма Мрачный ([@slr](https://github.com/slr)), // TODO
 - Jordane Jouffroy ([@metrakit](https://github.com/metrakit)), Full Stack Developer, France
 - Sandeep Kumar Singh ([@sandmanx](https://github.com/sandmanx)), Undergrad at IIIT Allahabad
+- Punit Vara ([@punitvara](https://github.com/punitvara)), M.Tech scholer at CDAC, Pune
