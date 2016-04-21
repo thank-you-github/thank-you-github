@@ -422,3 +422,4 @@ Signed,
 - Jordane Jouffroy ([@metrakit](https://github.com/metrakit)), Full Stack Developer, France
 - Sandeep Kumar Singh ([@sandmanx](https://github.com/sandmanx)), Undergrad at IIIT Allahabad
 - Punit Vara ([@punitvara](https://github.com/punitvara)), M.Tech scholer at CDAC, Pune
+- Pedro Rodrigues ([@hpedrorodrigues](https://github.com/hpedrorodrigues)), Software Developer, Brazil
