@@ -424,4 +424,4 @@ Signed,
 - Punit Vara ([@punitvara](https://github.com/punitvara)), M.Tech scholer at CDAC, Pune
 - Pedro Rodrigues ([@hpedrorodrigues](https://github.com/hpedrorodrigues)), Software Developer, Brazil
 - Augusto Monteiro ([@augustomna2010](https://github.com/augustomna2010)), Developer, Hacktivist
-- Jason Dean ([@JasonDean-1](https://github.com/JasonDean-1)), Soft Developer
+- Jason Dean ([@JasonDean-1](https://github.com/JasonDean-1)), Software Developer
