@@ -425,3 +425,4 @@ Signed,
 - Pedro Rodrigues ([@hpedrorodrigues](https://github.com/hpedrorodrigues)), Software Developer, Brazil
 - Augusto Monteiro ([@augustomna2010](https://github.com/augustomna2010)), Developer, Hacktivist
 - Oladipupo A Popoola ([@progzilla](https://github.com/progzilla)), Software Architect, EnterpriseAppsUK 
+- Vuong Nguyen ([@nptvuong2912](https://github.com/nptvuong2912)), Student, Software Developer, U.S.
