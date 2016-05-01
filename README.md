@@ -427,3 +427,4 @@ Signed,
 - Oladipupo A Popoola ([@progzilla](https://github.com/progzilla)), Software Architect, EnterpriseAppsUK 
 - Vuong Nguyen ([@nptvuong2912](https://github.com/nptvuong2912)), Student, Software Developer, U.S.
 - Ana María Martínez Gómez ([@Ana06](https://github.com/ana06)), Student, Spain
+- Víctor Adolfo Gallego Alcalá ([@vicgalle](https://github.com/vicgalle)), Student, Spain
