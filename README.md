@@ -430,3 +430,4 @@ Signed,
 - Víctor Adolfo Gallego Alcalá ([@vicgalle](https://github.com/vicgalle)), Student, Spain
 - Carlisia Campos ([@carlisia](https://github.com/carlisia)), Backend Developer, [#golang, #ruby], US
 - Surajudeen Akande ([@andela-sakande](https:github.com/andela-sakande)), Software Developer, Andela
+- neuyu ([@neuyu](https://github.com/neuyu)), Android Developer
