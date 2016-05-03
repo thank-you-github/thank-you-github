@@ -432,4 +432,4 @@ Signed,
 - Surajudeen Akande ([@andela-sakande](https:github.com/andela-sakande)), Software Developer, Andela
 - neuyu ([@neuyu](https://github.com/neuyu)), Android Developer
 - Tony Mohan Varghese ([@tonykuttai](https://github.com/tonykuttai)), Post Grad at IIIT Allahabad
-- Yang bingwu [@detailyang](https://github.com/detailyang) Engineer
+- Yang Bingwu [@detailyang](https://github.com/detailyang) Engineer
