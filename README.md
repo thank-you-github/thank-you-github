@@ -433,3 +433,4 @@ Signed,
 - neuyu ([@neuyu](https://github.com/neuyu)), Android Developer
 - Tony Mohan Varghese ([@tonykuttai](https://github.com/tonykuttai)), Post Grad at IIIT Allahabad
 - Yang Bingwu [@detailyang](https://github.com/detailyang), Engineer
+- Fran Martinez [@martinezcoder](https://github.com/martinezcoder), Ruby on Rails developer, Barcelona, Spain
