@@ -255,7 +255,7 @@ Signed,
 - Daimajia ([@daimajia](https://github.com/daimajia)), Android & Node Developer
 - Sandeep Gupta ([@sangupta](https://github.com/sangupta)), Software Developer
 - Mariam AlJamea ([@Maryom](https://github.com/Maryom)), iOS Developer
-- Harshit Dwivedi (https://github.com/the-dagger), Android Developer
+- Harshit Dwivedi ([@the-dagger](https://github.com/the-dagger)), Android Developer
 - Mandar Shinde ([@Mandar-Shinde](https://github.com/Mandar-Shinde)), Software Developer
 - Talayhan Samet ([@stalayhan](https://github.com/stalayhan)), Full Stack Developer
 - Matheus de Alcantara ([@demhydraz](https://github.com/demhydraz)), Amateur Software Developer
@@ -432,7 +432,7 @@ Signed,
 - Surajudeen Akande ([@andela-sakande](https:github.com/andela-sakande)), Software Developer, Andela
 - neuyu ([@neuyu](https://github.com/neuyu)), Android Developer
 - Tony Mohan Varghese ([@tonykuttai](https://github.com/tonykuttai)), Post Grad at IIIT Allahabad
-- Yang Bingwu [@detailyang](https://github.com/detailyang), Engineer
-- Fran Martinez [@martinezcoder](https://github.com/martinezcoder), Ruby on Rails developer, Barcelona, Spain
+- Yang Bingwu ([@detailyang](https://github.com/detailyang)), Engineer
+- Fran Martinez ([@martinezcoder](https://github.com/martinezcoder)), Ruby on Rails developer, Barcelona, Spain
 - Zubeen Tolani ([@ZeekHuge](https://github.com/ZeekHuge)), Student, India
 - Krzysztof Wilczynski ([@kwilczynski](https://github.com/kwilczynski)), System and Software Engineer, London, United Kingdom
