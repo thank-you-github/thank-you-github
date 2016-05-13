@@ -437,3 +437,4 @@ Signed,
 - Zubeen Tolani ([@ZeekHuge](https://github.com/ZeekHuge)), Student, India
 - Krzysztof Wilczynski ([@kwilczynski](https://github.com/kwilczynski)), System and Software Engineer, London, United Kingdom
 - 沈宏亮 ([@isCoding](https://github.com/isCoding)),Java Developer,China
+- Damián Cravacuore ([@cravacuore](https://github.com/cravacuore)), Developer, Argentina
