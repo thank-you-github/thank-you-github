@@ -440,3 +440,4 @@ Signed,
 - Damián Cravacuore ([@cravacuore](https://github.com/cravacuore)), Developer, Argentina
 - Renan Gomes ([@reebr](https://github.com/reebr)), Full Stack Developer, Brazil
 - Mathieu Hautebas ([@matteyeux](https://github.com/matteyeux)), Student Developer, France
+- weikuiwang ([@matteyeux](https://github.com/WeikuiWang)), Web Developer, China
