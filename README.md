@@ -442,3 +442,4 @@ Signed,
 - Mathieu Hautebas ([@matteyeux](https://github.com/matteyeux)), Student Developer, France
 - Erik Boesen ([@ErikBoesen](https://github.com/ErikBoesen)), Student, Washington DC
 - John Gracey ([@JAGracey](https://github.com/JAGracey)), Software Development Engineer, Canada
+- Halid Cisse ([@HalidCisse](https://github.com/HalidCisse)), Student, Morocco
