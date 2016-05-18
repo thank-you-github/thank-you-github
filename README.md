@@ -443,3 +443,4 @@ Signed,
 - Erik Boesen ([@ErikBoesen](https://github.com/ErikBoesen)), Student, Washington DC
 - John Gracey ([@JAGracey](https://github.com/JAGracey)), Software Development Engineer, Canada
 - Halid Cisse ([@HalidCisse](https://github.com/HalidCisse)), Student, Morocco
+- Jamie Mansfield ([@jamierocks](https://github.com/jamierocks)), Developer, England, United Kingdom
