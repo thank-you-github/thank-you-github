@@ -441,3 +441,4 @@ Signed,
 - Renan Gomes ([@reebr](https://github.com/reebr)), Full Stack Developer, Brazil
 - Mathieu Hautebas ([@matteyeux](https://github.com/matteyeux)), Student Developer, France
 - Erik Boesen ([@ErikBoesen](https://github.com/ErikBoesen)), Student, Washington DC
+- John Gracey ([@JAGracey](https://github.com/JAGracey)), Software Development Engineer, Canada
