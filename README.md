@@ -444,3 +444,4 @@ Signed,
 - John Gracey ([@JAGracey](https://github.com/JAGracey)), Software Development Engineer, Canada
 - Halid Cisse ([@HalidCisse](https://github.com/HalidCisse)), Student, Morocco
 - Jamie Mansfield ([@jamierocks](https://github.com/jamierocks)), Developer, England, United Kingdom
+- weikuiwang ([@WeikuiWang](https://github.com/WeikuiWang)), Web Developer, China
