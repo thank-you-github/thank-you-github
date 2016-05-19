@@ -445,3 +445,4 @@ Signed,
 - Halid Cisse ([@HalidCisse](https://github.com/HalidCisse)), Student, Morocco
 - Jamie Mansfield ([@jamierocks](https://github.com/jamierocks)), Developer, England, United Kingdom
 - weikuiwang ([@WeikuiWang](https://github.com/WeikuiWang)), Web Developer, China
+- Maik Ellerbrock ([@frapsoft](https://github.com/ellerbrock)), Full Stack Developer, Founder at [Frapsoft](https://frapsoft.com), Germany
