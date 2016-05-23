@@ -446,3 +446,4 @@ Signed,
 - Jamie Mansfield ([@jamierocks](https://github.com/jamierocks)), Developer, England, United Kingdom
 - weikuiwang ([@WeikuiWang](https://github.com/WeikuiWang)), Web Developer, China
 - Maik Ellerbrock ([@ellerbrock](https://github.com/ellerbrock)), Full Stack Developer, Founder at [Frapsoft](https://frapsoft.com), Germany
+- Jason Dean ([@JasonDean-1](https://github.com/JasonDean-1)), Software Developer
