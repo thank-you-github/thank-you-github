@@ -453,3 +453,4 @@ Signed,
 - Faheem Hassan Zunjani ([@faheemzunjani](https://github.com/faheemzunjani)), Undergrad, IIIT Allahabad
 - Ten Wong ([@awong1900](https://github.com/awong1900)), Android/Arduino Developer, From (Seeed-Studio)[[@Seeed-Studio](https://github.com/Seeed-Studio)]
 - Bruno Candido Volpato da Cunha ([@brunocvcunha](https://github.com/brunocvcunha)), Software Engineer, Brazil
+- Luiz Cezer ([@lccezinha](https://github.com/lccezinha/)), Software Engineer at [Resultados Digitais](http://shipit.resultadosdigitais.com.br/)
