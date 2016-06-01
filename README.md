@@ -456,3 +456,4 @@ Signed,
 - Luiz Cezer ([@lccezinha](https://github.com/lccezinha/)), Software Engineer at [Resultados Digitais](http://shipit.resultadosdigitais.com.br/)
 - Luiz Picolo ([@luizpicolo](https://github.com/luizpciolo/)), Web Developer, Brazil
 - Kevin Washington ([@kevinwsbr](https://github.com/kevinwsbr/)), Student & Full Stack Developer, Brazil
+- Brandon Shuliang He ([@BrandonHe](https://github.com/brandonhe)), Software Development Engineer, China
