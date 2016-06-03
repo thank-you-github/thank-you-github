@@ -458,3 +458,4 @@ Signed,
 - Kevin Washington ([@kevinwsbr](https://github.com/kevinwsbr/)), Student & Full Stack Developer, Brazil
 - Brandon Shuliang He ([@BrandonHe](https://github.com/brandonhe)), Software Development Engineer, China
 - Manav Sehgal ([@manavsehgal](https://github.com/manavsehgal)), Author, [ReactSpeed.com](https://reactspeed.com), India
+- Mark Murphy ([@nerdy-mark](https://github.com/nerdy-mark))Developer, Saint Louis
