@@ -460,3 +460,4 @@ Signed,
 - Manav Sehgal ([@manavsehgal](https://github.com/manavsehgal)), Author, [ReactSpeed.com](https://reactspeed.com), India
 - Mark Murphy ([@nerdy-mark](https://github.com/nerdy-mark))Developer, Saint Louis
 - Nick Pridorozhko ([@nplusp](https://github.com/nplusp)), Ruby on Rails Developer, Belarus
+- Saurabh Sharma ([@saurshaz](https://github.com/saurshaz)), Polygot Developer, India
