@@ -461,3 +461,4 @@ Signed,
 - Mark Murphy ([@nerdy-mark](https://github.com/nerdy-mark))Developer, Saint Louis
 - Nick Pridorozhko ([@nplusp](https://github.com/nplusp)), Ruby on Rails Developer, Belarus
 - Saurabh Sharma ([@saurshaz](https://github.com/saurshaz)), Polygot Developer, India
+- Priyank Patel ([@1priyank1](https://github.com/1priyank1)), Software Engineer (Android), India
