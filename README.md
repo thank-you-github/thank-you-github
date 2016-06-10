@@ -462,3 +462,4 @@ Signed,
 - Nick Pridorozhko ([@nplusp](https://github.com/nplusp)), Ruby on Rails Developer, Belarus
 - Saurabh Sharma ([@saurshaz](https://github.com/saurshaz)), Polygot Developer, India
 - Priyank Patel ([@1priyank1](https://github.com/1priyank1)), Software Engineer (Android), India
+- Shobhit Agarwal ([@shobhit1](https://github.com/shobhit1)), FrontEnd Developer, Dallas, TX
