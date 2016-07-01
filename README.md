@@ -472,3 +472,4 @@ Signed,
 - Sriram Sundarraj ([@ssundarraj](https://github.com/ssundarraj)), Software Engineer
 - Shravan Murali ([@shravan97](https://github.com/shravan97)) , Undergrad at Nit Trichy , India
 - Rishiraj Surti ([@rishirajsurti](https://github.com/rishirajsurti)), Student at IIT Madras, India
+- Christopher Matuszak ([@TwixtedChaox](https://github.com/TwixtedChaox)), Midnight Candle Burner, Reverse Engineer, (Geneva, NY)
