@@ -471,3 +471,4 @@ Signed,
 - Sam Radhakrishnan ([@sam09](https://github.com/sam09)), Undergrad at NIT Trichy, India
 - Sriram Sundarraj ([@ssundarraj](https://github.com/ssundarraj)), Software Engineer
 - Shravan Murali ([@shravan97](https://github.com/shravan97)) , Undergrad at Nit Trichy , India
+- Rishiraj Surti ([@rishirajsurti](https://github.com/rishirajsurti)), Student at IIT Madras, India
