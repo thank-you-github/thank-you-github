@@ -475,3 +475,4 @@ Signed,
 - Christopher Matuszak ([@TwixtedChaox](https://github.com/TwixtedChaox)), Midnight Candle Burner, Reverse Engineer, (Geneva, NY)
 - Naveen Shukla ([@naveenshukla](https://github.com/naveenshukla)), Developer, Student at IIIT Allahabad, India
 - Ronaldo Lima ([@ronal2do](https://github.com/ronal2do)), Web Application Developer and Full Stack Developer, Brazil
+- Artem Innokentiev ([@artinnok](https://github.com/artinnok)), Python / Django Developer, Moscow, Yakutia
