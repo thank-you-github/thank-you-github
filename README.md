@@ -477,3 +477,4 @@ Signed,
 - Ronaldo Lima ([@ronal2do](https://github.com/ronal2do)), Web Application Developer and Full Stack Developer, Brazil
 - Artem Innokentiev ([@artinnok](https://github.com/artinnok)), Python / Django Developer, Moscow, Yakutia
 - Su Mulang ([@sweeper777](https://github.com/sweeper777)), Android, iOS, WinForms Developer, Hong Kong, China
+- KUANG, Fangjun ([@csukuangfj](https://github.com/csukuangfj)), student
