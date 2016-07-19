@@ -478,3 +478,4 @@ Signed,
 - Artem Innokentiev ([@artinnok](https://github.com/artinnok)), Python / Django Developer, Moscow, Yakutia
 - Su Mulang ([@sweeper777](https://github.com/sweeper777)), Android, iOS, WinForms Developer, Hong Kong, China
 - KUANG, Fangjun ([@csukuangfj](https://github.com/csukuangfj)), student
+- Michael Obi ([@MichaelObi](https://github.com/MichaelObi)), Android, Web Developer, (Abuja, Nigeria)
