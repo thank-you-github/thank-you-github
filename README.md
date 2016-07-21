@@ -481,3 +481,4 @@ Signed,
 - Tomer Rosenfeld ([@rosenpin](https://github.com/rosenpin)), Android + web developer, Student
 - 杨锋 ([@funyoung](https://github.com/funyoung)), Android developer
 - Michael Obi ([@MichaelObi](https://github.com/MichaelObi)), Android, Web Developer, (Abuja, Nigeria)
+- Satyam Poddar ([@flare505](https://github.com/flare505)), Developer, Student at IIIT Allahabad, India
