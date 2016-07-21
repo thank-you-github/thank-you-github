@@ -480,3 +480,4 @@ Signed,
 - KUANG, Fangjun ([@csukuangfj](https://github.com/csukuangfj)), student
 - Tomer Rosenfeld ([@rosenpin](https://github.com/rosenpin)), Android + web developer, Student
 - 杨锋 ([@funyoung](https://github.com/funyoung)), Android developer
+- Michael Obi ([@MichaelObi](https://github.com/MichaelObi)), Android, Web Developer, (Abuja, Nigeria)
