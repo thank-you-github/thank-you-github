@@ -479,3 +479,4 @@ Signed,
 - Su Mulang ([@sweeper777](https://github.com/sweeper777)), Android, iOS, WinForms Developer, Hong Kong, China
 - KUANG, Fangjun ([@csukuangfj](https://github.com/csukuangfj)), student
 - Tomer Rosenfeld ([@rosenpin](https://github.com/rosenpin)), Android + web developer, Student
+- 杨锋 ([@funyoung](https://github.com/funyoung)), Android developer
