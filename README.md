@@ -482,3 +482,4 @@ Signed,
 - 杨锋 ([@funyoung](https://github.com/funyoung)), Android developer
 - Michael Obi ([@MichaelObi](https://github.com/MichaelObi)), Android, Web Developer, (Abuja, Nigeria)
 - Satyam Poddar ([@flare505](https://github.com/flare505)), Developer, Student at IIIT Allahabad, India
+- Satoshi Ohmori ([@sachin21](https://github.com/sachin21)), Web Developer
