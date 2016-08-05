@@ -485,3 +485,4 @@ Signed,
 - Satoshi Ohmori ([@sachin21](https://github.com/sachin21)), Web Developer
 - Suparerk Nookraw ([@tonbz](https://github.com/tonbz)), Node & Javascript Developer, Thailand
 - Pablo Hernández Torres ([@DeicPro](https://github.com/DeicPro)), Open Source Lover, Madrid, Spain
+- 王立超 ([@0532](https://github.com/0532)), Java Develope[r](http://0532.github.io/resume)
