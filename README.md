@@ -487,3 +487,4 @@ Signed,
 - Pablo Hernández Torres ([@DeicPro](https://github.com/DeicPro)), Open Source Lover, Madrid, Spain
 - 王立超 ([@0532](https://github.com/0532)), Java Develope[r](http://0532.github.io/resume)
 - Fernando Nogueira ([@fernandonogueira](https://github.com/fernandonogueira)), Software Engineer (http://fernandonogueira.io), Brazil
+- Ed Wassermann ([@vis-kid](https://github.com/vis-kid/)), Designer & Developer, Europe
