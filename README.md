@@ -488,3 +488,4 @@ Signed,
 - 王立超 ([@0532](https://github.com/0532)), Java Develope[r](http://0532.github.io/resume)
 - Fernando Nogueira ([@fernandonogueira](https://github.com/fernandonogueira)), Software Engineer (http://fernandonogueira.io), Brazil
 - Ed Wassermann ([@vis-kid](https://github.com/vis-kid/)), Designer & Developer, Europe
+- 张拭心 ([@shixinzhang](https://github.com/shixinzhang)), Android Developer and Open Source Lover
