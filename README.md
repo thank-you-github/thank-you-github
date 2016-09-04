@@ -489,3 +489,4 @@ Signed,
 - Fernando Nogueira ([@fernandonogueira](https://github.com/fernandonogueira)), Software Engineer (http://fernandonogueira.io), Brazil
 - Ed Wassermann ([@vis-kid](https://github.com/vis-kid/)), Designer & Developer, Europe
 - 张拭心 ([@shixinzhang](https://github.com/shixinzhang)), Android Developer and Open Source Lover
+- Trương Thái Nguyên Bình ([@crziter](https://github.com/crziter/)), Developer, Việt Nam
