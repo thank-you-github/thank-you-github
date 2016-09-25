@@ -490,3 +490,4 @@ Signed,
 - Ed Wassermann ([@vis-kid](https://github.com/vis-kid/)), Designer & Developer, Europe
 - 张拭心 ([@shixinzhang](https://github.com/shixinzhang)), Android Developer and Open Source Lover
 - Tiaan du Plessis ([@mightyCrow](https://github.com/mightyCrow)), iOS & Web Developer, Student, Cape Town, South Africa
+- Omondi Ochieng (@JustOmondi) (https://github.com/JustOmondi), Developer, Student at UCT, Cape Town, South Africa
