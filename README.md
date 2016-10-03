@@ -492,3 +492,4 @@ Signed,
 - Tiaan du Plessis ([@mightyCrow](https://github.com/mightyCrow)), iOS & Web Developer, Student, Cape Town, South Africa
 - Omondi Ochieng (@JustOmondi) (https://github.com/JustOmondi), Developer, Student at UCT, Cape Town, South Africa
 - Sunil Tatipelly ([@Sunil02324](https://github.com/Sunil02324)), Student
+- Trương Thái Nguyên Bình ([@crziter](https://github.com/crziter/)), Developer, Việt Nam
