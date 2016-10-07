@@ -494,3 +494,4 @@ Signed,
 - Sunil Tatipelly ([@Sunil02324](https://github.com/Sunil02324)), Student
 - Trương Thái Nguyên Bình ([@crziter](https://github.com/crziter/)), Developer, Việt Nam
 - Dave Goodchild ([@dlgoodchild](https://github.com/dlgoodchild/)), Lead Developer at Gyron Internet, Zaragoza, Spain
+- Akash Trehan([@CodeMaxx](https://github.com/CodeMaxx)), Information Security Enthusiast, CSE Student at IIT Bombay, India
