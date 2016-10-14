@@ -499,3 +499,4 @@ Signed,
 - Vishnu ([@malayaleecoder](https://github.com/malayaleecoder)), Student
 - Sepehr Lajevardi ([@sepehr](https://github.com/sepehr)), Developer  
 - Rohith Asrk ([@rohithasrk](https://github.com/rohithasrk)), Developer, Undergrad at IIT Roorkee, India.
+- Arpan Banerjee ([@arpan98](https://github.com/arpan98)), Developer, Undergrad at IIT-Bombay, India.
