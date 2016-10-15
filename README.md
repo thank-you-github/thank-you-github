@@ -500,3 +500,4 @@ Signed,
 - Sepehr Lajevardi ([@sepehr](https://github.com/sepehr)), Developer  
 - Rohith Asrk ([@rohithasrk](https://github.com/rohithasrk)), Developer, Undergrad at IIT Roorkee, India.
 - Arpan Banerjee ([@arpan98](https://github.com/arpan98)), Developer, Undergrad at IIT-Bombay, India.
+- Haresh Khanna ([@hareshkh](https://github.com/hareshkh)), Developer, Computer Science Undergraduate at IIT Roorkee, India.
