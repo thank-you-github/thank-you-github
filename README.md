@@ -495,9 +495,9 @@ Signed,
 - Trương Thái Nguyên Bình ([@crziter](https://github.com/crziter/)), Developer, Việt Nam
 - Dave Goodchild ([@dlgoodchild](https://github.com/dlgoodchild/)), Lead Developer at Gyron Internet, Zaragoza, Spain
 - Akash Trehan([@CodeMaxx](https://github.com/CodeMaxx)), Information Security Enthusiast, CSE Student at IIT Bombay, India
-- Omid Rad ([@omid](https://github.com/omid)), Software Engineer 
+- Omid Rad ([@omid](https://github.com/omid)), Software Engineer
 - Vishnu ([@malayaleecoder](https://github.com/malayaleecoder)), Student
-- Sepehr Lajevardi ([@sepehr](https://github.com/sepehr)), Developer  
+- Sepehr Lajevardi ([@sepehr](https://github.com/sepehr)), Developer
 - Rohith Asrk ([@rohithasrk](https://github.com/rohithasrk)), Developer, Undergrad at IIT Roorkee, India.
 - Arpan Banerjee ([@arpan98](https://github.com/arpan98)), Developer, Undergrad at IIT-Bombay, India.
 - Haresh Khanna ([@hareshkh](https://github.com/hareshkh)), Developer, Computer Science Undergraduate at IIT Roorkee, India.
