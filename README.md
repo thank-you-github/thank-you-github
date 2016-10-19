@@ -503,3 +503,4 @@ Signed,
 - Haresh Khanna ([@hareshkh](https://github.com/hareshkh)), Developer, Computer Science Undergraduate at IIT Roorkee, India.
 - Karan Desai ([@karandesai-96](https://www.github.com/karandesai-96)), Developer, Electrical Engineering  Undergraduate at IIT Roorkee, India.
 - Mudit Bhutani ([@muditbhutani](https://github.com/muditbhutani)) , Student at IIT ROORKEE , India.
+- Chirag Maheshwari ([@csoni111](https://github.com/csoni111)), Student, IIT Roorkee, India.
