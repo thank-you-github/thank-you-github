@@ -509,3 +509,4 @@ Signed,
 - Yash Agrawal ([@yash17agrawal](https://github.com/Yash17Agrawal)), student , enthusiast
 - A Softle Gundam ([@softle](https://github.com/softle)), Student, STIEBBANK, Indonesia
 - Annisa Nurul Azhar ([@annisanurulazhar](https://github.com/annisanurulazhar)), Student, Bandung Institute of Technology, Indonesia.
+- Farid Hawami ([@faridhawami](https://github.com/faridhawami)), Student, STT Malang, Indonesia.
