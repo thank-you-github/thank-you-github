@@ -507,3 +507,4 @@ Signed,
 - Ajay Rahul.P ([@ajayrahul97](https://github.com/ajayrahul97)), Developer, Electrical Engineering Undergraduate at IIT Roorkee, India.
 - Thing Thing Diputra ([@thingdiputra](https://github.com/thingdiputra)), Student, Universitas Bunda Mulia, Indonesia.
 - Yash Agrawal ([@yash17agrawal](https://github.com/Yash17Agrawal)), student , enthusiast
+- A Softle Gundam ([@softle](https://github.com/softle)), Student, STIEBBANK, Indonesia
