@@ -484,7 +484,7 @@ Signed,
 - Satoshi Ohmori ([@sachin21](https://github.com/sachin21)), Web Developer
 - Suparerk Nookraw ([@tonbz](https://github.com/tonbz)), Node & Javascript Developer, Thailand
 - Pablo Hernández Torres ([@DeicPro](https://github.com/DeicPro)), Open Source Lover, Madrid, Spain
-- 王立超 ([@0532](https://github.com/0532)), Java Develope[r](http://0532.github.io/resume)
+- 王立超 ([@0532](https://github.com/0532)), [Java Developer](http://0532.github.io/resume),beijing
 - Fernando Nogueira ([@fernandonogueira](https://github.com/fernandonogueira)), Software Engineer (http://fernandonogueira.io), Brazil
 - Ed Wassermann ([@vis-kid](https://github.com/vis-kid/)), Designer & Developer, Europe
 - 张拭心 ([@shixinzhang](https://github.com/shixinzhang)), Android Developer and Open Source Lover
