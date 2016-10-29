@@ -498,4 +498,4 @@ Signed,
 - Omid Rad ([@omid](https://github.com/omid)), Software Engineer 
 - Vishnu ([@malayaleecoder](https://github.com/malayaleecoder)), Student
 - Sepehr Lajevardi ([@sepehr](https://github.com/sepehr)), Developer  
-- Rohith Asrk ([@rohithasrk](https://github.com/rohithasrk)), Developer, Undergrad at IIT Roorkee, India.
+- Rohith A.S.R.K. ([@rohithasrk](https://github.com/rohithasrk)), Developer, Undergrad at IIT Roorkee, India.
