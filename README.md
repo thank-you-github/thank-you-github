@@ -511,4 +511,5 @@ Signed,
 - Annisa Nurul Azhar ([@annisanurulazhar](https://github.com/annisanurulazhar)), Student, Bandung Institute of Technology, Indonesia.
 - Nabarun Pal ([@paliitr](https://github.com/paliitr)), Software Developer, Student, Indian Institute of Technology Roorkee, India
 - Deni Pramulia ([@denipramulia](https://github.com/denipramulia)), Microsoft Student Partner Indonesia, Student at University of Indonesia.
-- Rahul Babbar ([@rahukbabbar1](https://github.com/rahulbabbar1)), Developer, Computer Science Undergraduate at IIT Roorkee, India.
+- Rahul Babbar ([@rahulbabbar1](https://github.com/rahulbabbar1)), Developer, Computer Science Undergraduate at IIT Roorkee, India.
+- Shivam Agarwal([@shivam-code97](https://github.com/shivam-code97)), Developer, Computer Science Undergraduate at IIT Roorkee, India.
