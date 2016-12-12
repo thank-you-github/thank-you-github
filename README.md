@@ -520,3 +520,4 @@ Signed,
 - Gautam Chaudhary ([@gchaudhary](https://github.com/gchaudhary)), Android Developer, Computer Science and Engineering at IIT Roorkee, India 
 - Vedant Rathore ([@vedantrathore](https://github.com/vedantrathore)), Developer, Student at IIT Guwahati
 - Jéferson Bueno ([@jefhtavares](https://github.com/jefhtavares)), .NET Developer, [Passionate developer](pt.stackoverflow.com/u/18246), Computer Science undergraduate at Unisinos, Brazil.
+- Rhys Bradbury ([@iRhysBradbury](https://github.com/irhysbradbury)), Full Stack Developer
