@@ -523,3 +523,4 @@ Signed,
 - Rhys Bradbury ([@iRhysBradbury](https://github.com/irhysbradbury)), Full Stack Developer
 - Nitin Jain ([@nitinjain96](https://github.com/nitinjain96)), Developer,Computer Science Engg Undergraduate at IIT Roorkee, India.
 - Debashish Nayak ([@theindianotaku](https://github.com/theindianotaku)), Designer, Metallurgical and Materials Engg Undergraduate at IIT Roorkee, India.
+- Rohith A.S.R.K. ([@rohithasrk](https://github.com/rohithasrk)), Developer, Undergrad at IIT Roorkee, India.
