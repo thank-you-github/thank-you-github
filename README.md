@@ -515,12 +515,13 @@ Signed,
 - Shivam Agarwal([@shivam-code97](https://github.com/shivam-code97)), Developer, Computer Science Undergraduate at IIT Roorkee, India.
 - Akshat Bhardwaj ([@akshatr](https://github.com/akshatr)), Developer, Computer Science Undergraduate at IIT Roorkee, India.
 - Abhishek Sajwan ([@abhishek1997](https://github.com/abhishek1997)), Developer, Computer Science Undergraduate at IIT Roorkee, India.
-- Pranjal Tale ([@pranjaltale16](https://github.com/pranjaltale16)), Developer,Applied Mathematics Undergraduate at IIT Roorkee, India. 
+- Pranjal Tale ([@pranjaltale16](https://github.com/pranjaltale16)), Developer,Applied Mathematics Undergraduate at IIT Roorkee, India.
 - Prempal Singh ([@prempalsingh](https://github.com/prempalsingh)), Android Developer
-- Gautam Chaudhary ([@gchaudhary](https://github.com/gchaudhary)), Android Developer, Computer Science and Engineering at IIT Roorkee, India 
+- Gautam Chaudhary ([@gchaudhary](https://github.com/gchaudhary)), Android Developer, Computer Science and Engineering at IIT Roorkee, India
 - Vedant Rathore ([@vedantrathore](https://github.com/vedantrathore)), Developer, Student at IIT Guwahati
 - Jéferson Bueno ([@jefhtavares](https://github.com/jefhtavares)), .NET Developer, [Passionate developer](pt.stackoverflow.com/u/18246), Computer Science undergraduate at Unisinos, Brazil.
 - Rhys Bradbury ([@iRhysBradbury](https://github.com/irhysbradbury)), Full Stack Developer
 - Nitin Jain ([@nitinjain96](https://github.com/nitinjain96)), Developer,Computer Science Engg Undergraduate at IIT Roorkee, India.
 - Debashish Nayak ([@theindianotaku](https://github.com/theindianotaku)), Designer, Metallurgical and Materials Engg Undergraduate at IIT Roorkee, India.
 - Rohith A.S.R.K. ([@rohithasrk](https://github.com/rohithasrk)), Developer, Undergrad at IIT Roorkee, India.
+- Jinwei Zhao ([@clarkzjw](https://github.com/clarkzjw)), Developer.
