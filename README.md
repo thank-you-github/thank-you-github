@@ -525,3 +525,4 @@ Signed,
 - Debashish Nayak ([@theindianotaku](https://github.com/theindianotaku)), Designer, Metallurgical and Materials Engg Undergraduate at IIT Roorkee, India.
 - Rohith A.S.R.K. ([@rohithasrk](https://github.com/rohithasrk)), Developer, Undergrad at IIT Roorkee, India.
 - Jinwei Zhao ([@clarkzjw](https://github.com/clarkzjw)), Developer.
+- Tazz ([@s0cks](https://github.com/s0cks)), Software Engineer at The Nerdery, Chicago Illinois
