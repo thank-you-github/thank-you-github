@@ -526,3 +526,4 @@ Signed,
 - Rohith A.S.R.K. ([@rohithasrk](https://github.com/rohithasrk)), Developer, Undergrad at IIT Roorkee, India.
 - Jinwei Zhao ([@clarkzjw](https://github.com/clarkzjw)), Developer.
 - Tazz ([@s0cks](https://github.com/s0cks)), Software Engineer at The Nerdery, Chicago Illinois
+- Mohammad Reza Maghoul ([@IVIR3zaM](https://github.com/IVIR3zaM)), Software Engineer
