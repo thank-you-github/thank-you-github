@@ -532,3 +532,4 @@ Signed,
 - Naz ([@nazcompile](https://github.com/nazcompile)), Software Engineer
 - Sanju Prabhath Reddy([@spredk](https://github.com/spredk)),Developer, ML entusiast , Undergraduate IIT Roorkee, India.
 - MRW Neundorf ([@naxmefy](https://github.com/naxmefy)), just a dev, Germany
+- Ben ([@benjibobs](https://github.com/benjibobs)), Developer, Student, United Kingdom
