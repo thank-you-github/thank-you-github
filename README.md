@@ -530,3 +530,4 @@ Signed,
 - Mohammad Reza Maghoul ([@IVIR3zaM](https://github.com/IVIR3zaM)), Software Engineer
 - Aviral Verma ([@Aviral1701](https://github.com/Aviral1701)), Developer, Undergrad at IIT Roorkee, India.
 - Naz ([@nazcompile](https://github.com/nazcompile)), Software Engineer
+- Sanju Prabhath Reddy([@spredk](https://github.com/spredk)),Developer, ML entusiast , Undergraduate IIT Roorkee, India.
