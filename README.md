@@ -531,3 +531,4 @@ Signed,
 - Aviral Verma ([@Aviral1701](https://github.com/Aviral1701)), Developer, Undergrad at IIT Roorkee, India.
 - Naz ([@nazcompile](https://github.com/nazcompile)), Software Engineer
 - Sanju Prabhath Reddy([@spredk](https://github.com/spredk)),Developer, ML entusiast , Undergraduate IIT Roorkee, India.
+- MRW Neundorf ([@naxmefy](https://github.com/naxmefy)), just a dev, Germany
