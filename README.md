@@ -528,4 +528,4 @@ Signed,
 - Tazz ([@s0cks](https://github.com/s0cks)), Software Engineer at The Nerdery, Chicago Illinois
 - Sasidhar Kumar M ([@sasidharkm](https://github.com/SasiDharKM)), Developer, UnderGrad at NIT Trichy, India
 - Mohammad Reza Maghoul ([@IVIR3zaM](https://github.com/IVIR3zaM)), Software Engineer
-- MD Danish Ansari ([@mddanishansari](https://github.com/mddanishansari)), Android Developer
+- MD Danish Ansari ([@mddanishansari](https://github.com/mddanishansari)), Android Developer, India
