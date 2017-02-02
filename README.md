@@ -533,3 +533,4 @@ Signed,
 - Sanju Prabhath Reddy([@spredk](https://github.com/spredk)),Developer, ML entusiast , Undergraduate IIT Roorkee, India.
 - MRW Neundorf ([@naxmefy](https://github.com/naxmefy)), just a dev, Germany
 - Ben ([@benjibobs](https://github.com/benjibobs)), Developer, Student, United Kingdom
+- Ben Goldberg ([@zethra](https://github.com/benjibobs)), Developer, Undergraduate at RIT, New York.
