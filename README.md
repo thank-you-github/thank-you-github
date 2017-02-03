@@ -535,3 +535,4 @@ Signed,
 - Ben ([@benjibobs](https://github.com/benjibobs)), Developer, Student, United Kingdom
 - Ben Goldberg ([@zethra](https://github.com/benjibobs)), Developer, Undergraduate at RIT, New York.
 - Zsolt Kocsi ([@zsoltk](https://github.com/zsoltk)), Software Engineer
+- Aritra Roy ([@aritraroy](https://github.com/aritraroy)), Android Developer, India.
