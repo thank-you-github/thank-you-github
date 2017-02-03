@@ -537,3 +537,4 @@ Signed,
 - Zsolt Kocsi ([@zsoltk](https://github.com/zsoltk)), Software Engineer
 - Aritra Roy ([@aritraroy](https://github.com/aritraroy)), Android Developer, India.
 - Rahul Chowdhury ([@rahulchowdhury](https://github.com/rahulchowdhury)), Android App Baker
+- Fábio Assunção ([@fabioassuncao](https://github.com/fabioassuncao)), Full Stack Web Developer, Brazil
