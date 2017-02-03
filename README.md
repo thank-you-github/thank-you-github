@@ -536,3 +536,4 @@ Signed,
 - Ben Goldberg ([@zethra](https://github.com/benjibobs)), Developer, Undergraduate at RIT, New York.
 - Zsolt Kocsi ([@zsoltk](https://github.com/zsoltk)), Software Engineer
 - Aritra Roy ([@aritraroy](https://github.com/aritraroy)), Android Developer, India.
+- Rahul Chowdhury ([@rahulchowdhury](https://github.com/rahulchowdhury)), Android App Baker
