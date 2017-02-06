@@ -542,3 +542,4 @@ Signed,
 - MD Danish Ansari ([@mddanishansari](https://github.com/mddanishansari)), Android Developer, India
 - Urmanschi Mihail  ([@dsdmsa](https://github.com/dsdmsa)), Android Developer
 - Thomas Orth ([@atf1999](https://github.com/atf1999)), Android and Web developer
+- Priyanshu Jain ([@priyanshujain](https://github.com/priyanshujain)), Student Researcher, Guru Ghasidas University,India
