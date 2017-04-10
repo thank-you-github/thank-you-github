@@ -549,3 +549,4 @@ Signed,
 - Vipul Sharma ([@vsvipul555](https://github.com/vsvipul555)), Programmer, Undergraduate at IIIT Allahabad, India
 - Sukeesh ([@sukeesh](https://github.com/sukeesh)), Programmer, Student at IIT Roorkee, India
 - Akhilesh Kumar ([@akhilesh-k](https://github.com/akhilesh-k)), Student Developer, Undergraduate at [JUIT](https://www.juit.ac.in)
+- Rohit Mourya ([@mrohit](https://github.com/MRohit)), Software Engineer, India
