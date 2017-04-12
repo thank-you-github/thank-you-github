@@ -437,7 +437,7 @@ Signed,
 - Krzysztof Wilczynski ([@kwilczynski](https://github.com/kwilczynski)), System and Software Engineer, London, United Kingdom
 - 沈宏亮 ([@isCoding](https://github.com/isCoding)),Java Developer,China
 - Damián Cravacuore ([@cravacuore](https://github.com/cravacuore)), Developer, Argentina
-- Renan Gomes ([@devnan](https://github.com/devnan)), Full Stack Web Developer, Brazil
+- Renan Gomes ([@reebr](https://github.com/reebr)), Full Stack Web Developer / Quality Assurance, Brazil
 - Mathieu Hautebas ([@matteyeux](https://github.com/matteyeux)), Student Developer, France
 - Erik Boesen ([@ErikBoesen](https://github.com/ErikBoesen)), Student, Washington DC
 - John Gracey ([@JAGracey](https://github.com/JAGracey)), Software Development Engineer, Canada
