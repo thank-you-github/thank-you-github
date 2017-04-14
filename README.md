@@ -550,3 +550,4 @@ Signed,
 - Sukeesh ([@sukeesh](https://github.com/sukeesh)), Programmer, Student at IIT Roorkee, India
 - Akhilesh Kumar ([@akhilesh-k](https://github.com/akhilesh-k)), Student Developer, Undergraduate at [JUIT](https://www.juit.ac.in)
 - Rohit Mourya ([@mrohit](https://github.com/MRohit)), Software Engineer, India
+- Yauheni Dakuka ([@ydakuka](https://github.com/ydakuka)), Developer, Belarus
