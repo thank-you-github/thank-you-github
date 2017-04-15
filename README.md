@@ -20,6 +20,7 @@ Signed,
 
 - Xavier Noria ([@fxn](https://github.com/fxn)), Ruby on Rails core team member
 - Jose Diaz-Gonzalez ([@josegonzalez](https://github.com/josegonzalez)), CakePHP and Dokku core team member
+- Krish Munot ([@krishmunot](https://github.com/krishmunot)), Developer
 - Denis Savitskiy ([@sadfuzzy](https://github.com/sadfuzzy)), Ruby on Rails engineer at Source[Lab]
 - Vishnu Ks ([@hackerkid](https://github.com/hackerkid)), Undergrad at IIIT Allahabad
 - David Pacioianu ([@davidpacioianu](https://github.com/davidpacioianu)), CEO at PixelCan
@@ -210,7 +211,6 @@ Signed,
 - Alessandro Nadalin ([@odino](https://github.com/odino)), VP technology at [Namshi](https://www.namshi.com)
 - David Mackay ([@JX7P](https://github.com/JX7P)), Development Lead and Critical Theory of Programming Languages Researcher for [JX Objective-C](https://github.com/JX7P/JXobjC)
 - Andrew Sun ([@as-com](https://github.com/as-com)), Kitten Hugger
-- Krish Munot ([@krishmunot](https://github.com/krishmunot)), Developer
 - Wellington Pardim ([@wellpardim](https://github.com/Wellpardim/)), Student
 - Soumya Ray ([@soumyaray](https://github.com/soumyaray)), Associate Professor, National Tsing Hua University, Taiwan
 - Justin Cohen ([@justincoh](https://github.com/justincoh)), Developer
