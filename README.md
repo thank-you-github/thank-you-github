@@ -552,3 +552,4 @@ Signed,
 - Akhilesh Kumar ([@akhilesh-k](https://github.com/akhilesh-k)), Student Developer, Undergraduate at [JUIT](https://www.juit.ac.in)
 - Rohit Mourya ([@mrohit](https://github.com/MRohit)), Software Engineer, India
 - Yauheni Dakuka ([@ydakuka](https://github.com/ydakuka)), Developer, Belarus
+- Sriram Ravichandran ([@digi0ps](https://github.com/digi0ps)), CS Freshman at VIT Chennai
