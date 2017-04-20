@@ -553,3 +553,4 @@ Signed,
 - Rohit Mourya ([@mrohit](https://github.com/MRohit)), Software Engineer, India
 - Yauheni Dakuka ([@ydakuka](https://github.com/ydakuka)), Developer, Belarus
 - Sriram Ravichandran ([@digi0ps](https://github.com/digi0ps)), CS Freshman at VIT Chennai
+- Weikui Wang ([@WeikuiWang](https://github.com/WeikuiWang)), Java Developer, China
