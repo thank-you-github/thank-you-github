@@ -555,3 +555,4 @@ Signed,
 - Sriram Ravichandran ([@digi0ps](https://github.com/digi0ps)), CS Freshman at VIT Chennai
 - Weikui Wang ([@WeikuiWang](https://github.com/WeikuiWang)), Java Developer, China
 - Sarab Singh ([@sarab97](https://github.com/sarab97)), Programmer, Student at SAE Pune, India
+- Harish Kotra ([@harishkotra](https://github.com/harishkotra)), Hackathons Specialist [HarishKotra](https://harishkotra.me)
