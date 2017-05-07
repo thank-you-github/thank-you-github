@@ -514,6 +514,7 @@ Signed,
 - Deni Pramulia ([@denipramulia](https://github.com/denipramulia)), Microsoft Student Partner Indonesia, Student at University of Indonesia.
 - Rahul Babbar ([@rahulbabbar1](https://github.com/rahulbabbar1)), Developer, Computer Science Undergraduate at IIT Roorkee, India.
 - Shivam Agarwal([@shivam-code97](https://github.com/shivam-code97)), Developer, Computer Science Undergraduate at IIT Roorkee, India.
+- Neha Pal ([@nehap](https://github.com/nehap)), Software Developer, Student, Indian Institute of Technology Roorkee, India
 - Akshat Bhardwaj ([@akshatr](https://github.com/akshatr)), Developer, Computer Science Undergraduate at IIT Roorkee, India.
 - Abhishek Sajwan ([@abhishek1997](https://github.com/abhishek1997)), Developer, Computer Science Undergraduate at IIT Roorkee, India.
 - Pranjal Tale ([@pranjaltale16](https://github.com/pranjaltale16)), Developer,Applied Mathematics Undergraduate at IIT Roorkee, India.
