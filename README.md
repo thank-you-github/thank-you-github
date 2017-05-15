@@ -559,3 +559,4 @@ Signed,
 - M. Zubair Ahmed ([@M-ZubairAhmed](https://github.com/M-ZubairAhmed)), Mobile & Web Developer, Hyderabad, India
 - Vipin Madhavanunni ([@vipintm](https://github.com/vipintm)), Developer, Germany
 - Madhu Akula ([@madhuakula](https://github.com/madhuakula)), DevSecOps, India
+- Osama Bin Omar ([@mosamabinomar](https://github.com/mosamabinomar)), Android and C++ developer, Pakistan
