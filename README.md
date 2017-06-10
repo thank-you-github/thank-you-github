@@ -563,3 +563,4 @@ Signed,
 - 陳學民 HsuehMin Chen ([@elsdrium](https://github.com/elsdrium)), Python and C++ developer, Taiwan
 - P.Sai Hanuman Prasad ([@hanu73](https://github.com/Hanu73)), Web Developer, India
 - dhilipsiva ([@dhilipsiva](https://github.com/dhilipsiva)), Full-Stack & DevOps Engineer, India
+- Pavan Mallela ([@mallelapavank](https://github.com/mallelapavank)), Android & Web Developer, India
