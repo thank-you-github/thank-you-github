@@ -564,3 +564,4 @@ Signed,
 - P.Sai Hanuman Prasad ([@hanu73](https://github.com/Hanu73)), Web Developer, India
 - dhilipsiva ([@dhilipsiva](https://github.com/dhilipsiva)), Full-Stack & DevOps Engineer, India
 - Pavan Mallela ([@mallelapavank](https://github.com/mallelapavank)), Android & Web Developer, India
+- Ramzi Bouguerra ([@SegFault42](https://github.com/SegFault42)), C/C++ Developer, France
