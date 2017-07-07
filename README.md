@@ -566,3 +566,4 @@ Signed,
 - Pavan Mallela ([@mallelapavank](https://github.com/mallelapavank)), Android & Web Developer, India
 - Ramzi Bouguerra ([@SegFault42](https://github.com/SegFault42)), C/C++ Developer, France
 - Farhad Farahi ([@FarhadF](https://github.com/farhadf)), DevOps Engineer
+- Carlos Saura ([@csaura](https://github.com/csaura)), Software Engineer
