@@ -568,3 +568,4 @@ Signed,
 - Farhad Farahi ([@FarhadF](https://github.com/farhadf)), DevOps Engineer
 - Carlos Saura ([@csaura](https://github.com/csaura)), Software Engineer
 - Hendra Wijaya Djiono ([@hendrawd](https://github.com/hendrawd)), Software Developer, Indonesia
+- André Luis Otto ([@andrelotto](https://github.com/andrelotto)), Software Engineer, Brazil
