@@ -569,3 +569,4 @@ Signed,
 - Carlos Saura ([@csaura](https://github.com/csaura)), Software Engineer
 - Hendra Wijaya Djiono ([@hendrawd](https://github.com/hendrawd)), Software Developer, Indonesia
 - André Luis Otto ([@andrelotto](https://github.com/andrelotto)), Software Engineer, Brazil
+- Riddhish Ojha ([@ojhariddhish](https://github.com/ojhariddhish)), Android Developer, India
