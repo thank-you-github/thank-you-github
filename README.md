@@ -570,3 +570,4 @@ Signed,
 - Hendra Wijaya Djiono ([@hendrawd](https://github.com/hendrawd)), Software Developer, Indonesia
 - André Luis Otto ([@andrelotto](https://github.com/andrelotto)), Software Engineer, Brazil
 - Riddhish Ojha ([@ojhariddhish](https://github.com/ojhariddhish)), Android Developer, India
+- Devyash Sanghai ([@devyash](https://github.com/devyash)), Student, University of Florida, Fl
