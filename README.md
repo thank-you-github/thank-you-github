@@ -572,3 +572,4 @@ Signed,
 - Riddhish Ojha ([@ojhariddhish](https://github.com/ojhariddhish)), Android Developer, India
 - Devyash Sanghai ([@devyash](https://github.com/devyash)), Student, University of Florida, Fl
 - Chandramowli J ([@chamow97](https://github.com/chamow97)), Undergraduate Student, SSN College of Engineering, India
+- Ritwik Sharma ([@ritwik12](https://github.com/ritwik12)), Undergrad at UPES, India
