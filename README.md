@@ -575,3 +575,4 @@ Signed,
 - Ritwik Sharma ([@ritwik12](https://github.com/ritwik12)), Undergrad at UPES, India
 - Celio Rodrigues ([@rodriguescelio](https://github.com/rodriguescelio)), Full Stack Developer and Open Source enthusiast, Brazil
 - Lucas Menezes ([@menezeslucas](https://github.com/menezeslucas)), Developer, Brazil
+- Dhruv K. Bhanushali ([@dhruvkb](https://github.com/dhruvkb)),Developer, IIT Roorkee
