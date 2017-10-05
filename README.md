@@ -570,6 +570,7 @@ Signed,
 - Hendra Wijaya Djiono ([@hendrawd](https://github.com/hendrawd)), Software Developer, Indonesia
 - André Luis Otto ([@andrelotto](https://github.com/andrelotto)), Software Engineer, Brazil
 - Riddhish Ojha ([@ojhariddhish](https://github.com/ojhariddhish)), Android Developer, India
+- Vishal Sharma ([@VishalCR7](https://github.com/VishalCR7)), Developer,ECE Undergraduate at IIT Roorkee, India.
 - Devyash Sanghai ([@devyash](https://github.com/devyash)), Student, University of Florida, Fl
 - Chandramowli J ([@chamow97](https://github.com/chamow97)), Undergraduate Student, SSN College of Engineering, India
 - Ritwik Sharma ([@ritwik12](https://github.com/ritwik12)), Undergrad at UPES, India
