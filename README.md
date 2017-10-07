@@ -576,3 +576,4 @@ Signed,
 - Celio Rodrigues ([@rodriguescelio](https://github.com/rodriguescelio)), Full Stack Developer and Open Source enthusiast, Brazil
 - Lucas Menezes ([@menezeslucas](https://github.com/menezeslucas)), Developer, Brazil
 - Yash Jain ([@yashjain24](https://github.com/yashjain24)), Developer and Undergraduate Student, India
+- Ravinder Nehra ([@rnehra01](https://github.com/rnehra01)), Developer, CS Undergrad at IITR, India
