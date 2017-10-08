@@ -578,3 +578,4 @@ Signed,
 - Ravinder Nehra ([@rnehra01](https://github.com/rnehra01)), Developer, CS Undergrad at IITR, India
 - M. Zubair Ahmed ([@M-ZubairAhmed](https://github.com/M-ZubairAhmed)), Software Engineer, India
 - Shaddy Garg ([@shaddygarg](https://github.com/shaddygarg)),Student, IIT Roorkee, India
+- Vishal Sharma ([@VishalCR7](https://github.com/VishalCR7)), Developer, ECE Undergraduate at IIT Roorkee, India
