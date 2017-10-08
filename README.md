@@ -578,3 +578,4 @@ Signed,
 - Yash Jain ([@yashjain24](https://github.com/yashjain24)), Developer and Undergraduate Student, India
 - Ravinder Nehra ([@rnehra01](https://github.com/rnehra01)), Developer, CS Undergrad at IITR, India
 - M. Zubair Ahmed ([@M-ZubairAhmed](https://github.com/M-ZubairAhmed)), Software Engineer, India
+- Shaddy Garg ([@shaddygarg](https://github.com/shaddygarg)),Student, IIT Roorkee, India
