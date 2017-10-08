@@ -265,8 +265,7 @@ Signed,
 - Michele Lacorte ([@michelelacorte](https://github.com/michelelacorte)), Student, Android Developer
 - Andrea D'Amico ([@adamico](https://github.com/adamico)), Ruby on Rails Full-Stack Developer
 - Jacob Davidson ([@Reklino](https://github.com/Reklino)), Drinker of Coffee, Learner of Things
-- Dennis Lebhardt ([@rc420head]
-(https://github.com/rc420head)), CandyRoms Developer
+- Dennis Lebhardt ([@rc420head](https://github.com/rc420head)), CandyRoms Developer
 - Jacky Alciné ([@jalcine](https://github.com/jalcine)), Software Engineer
 - Floyda ([@FloydaGitHub](https://github.com/FloydaGitHub)), Game Developer
 - Alexander Snurnikov ([@admix](https://github.com/admix)), Software Engineer/Architect at MPAC
@@ -570,9 +569,13 @@ Signed,
 - Hendra Wijaya Djiono ([@hendrawd](https://github.com/hendrawd)), Software Developer, Indonesia
 - André Luis Otto ([@andrelotto](https://github.com/andrelotto)), Software Engineer, Brazil
 - Riddhish Ojha ([@ojhariddhish](https://github.com/ojhariddhish)), Android Developer, India
-- Vishal Sharma ([@VishalCR7](https://github.com/VishalCR7)), Developer,ECE Undergraduate at IIT Roorkee, India.
 - Devyash Sanghai ([@devyash](https://github.com/devyash)), Student, University of Florida, Fl
 - Chandramowli J ([@chamow97](https://github.com/chamow97)), Undergraduate Student, SSN College of Engineering, India
 - Ritwik Sharma ([@ritwik12](https://github.com/ritwik12)), Undergrad at UPES, India
 - Celio Rodrigues ([@rodriguescelio](https://github.com/rodriguescelio)), Full Stack Developer and Open Source enthusiast, Brazil
 - Lucas Menezes ([@menezeslucas](https://github.com/menezeslucas)), Developer, Brazil
+- Yash Jain ([@yashjain24](https://github.com/yashjain24)), Developer and Undergraduate Student, India
+- Ravinder Nehra ([@rnehra01](https://github.com/rnehra01)), Developer, CS Undergrad at IITR, India
+- M. Zubair Ahmed ([@M-ZubairAhmed](https://github.com/M-ZubairAhmed)), Software Engineer, India
+- Shaddy Garg ([@shaddygarg](https://github.com/shaddygarg)),Student, IIT Roorkee, India
+- Vishal Sharma ([@VishalCR7](https://github.com/VishalCR7)), Developer, ECE Undergraduate at IIT Roorkee, India
