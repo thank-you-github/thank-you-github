@@ -579,3 +579,4 @@ Signed,
 - M. Zubair Ahmed ([@M-ZubairAhmed](https://github.com/M-ZubairAhmed)), Software Engineer, India
 - Shaddy Garg ([@shaddygarg](https://github.com/shaddygarg)),Student, IIT Roorkee, India
 - Vishal Sharma ([@VishalCR7](https://github.com/VishalCR7)), Developer, ECE Undergraduate at IIT Roorkee, India
+- Yash Agrawal ([@yashagrawal3](https://github.com/yashagrawal3)), Developer, ECE Undergraduate at IIT Roorkee, India
