@@ -265,8 +265,7 @@ Signed,
 - Michele Lacorte ([@michelelacorte](https://github.com/michelelacorte)), Student, Android Developer
 - Andrea D'Amico ([@adamico](https://github.com/adamico)), Ruby on Rails Full-Stack Developer
 - Jacob Davidson ([@Reklino](https://github.com/Reklino)), Drinker of Coffee, Learner of Things
-- Dennis Lebhardt ([@rc420head]
-(https://github.com/rc420head)), CandyRoms Developer
+- Dennis Lebhardt ([@rc420head](https://github.com/rc420head)), CandyRoms Developer
 - Jacky Alciné ([@jalcine](https://github.com/jalcine)), Software Engineer
 - Floyda ([@FloydaGitHub](https://github.com/FloydaGitHub)), Game Developer
 - Alexander Snurnikov ([@admix](https://github.com/admix)), Software Engineer/Architect at MPAC
