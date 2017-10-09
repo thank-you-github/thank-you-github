@@ -582,3 +582,5 @@ Signed,
 - Yash Agrawal ([@yashagrawal3](https://github.com/yashagrawal3)), Developer, ECE Undergraduate at IIT Roorkee, India
 - Surya Saini ([@Dragneel7](https://github.com/Dragneel7)), Full Stack Developer, India
 - Deepak Malik ([@deepak-malik](https://github.com/deepak-malik)), Developer, USA
+- Shivam Agarwal ([@shivam-97](https://github.com/shivam-97)), Developer, CS Undergrad at IITR, India
+
