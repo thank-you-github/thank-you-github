@@ -372,6 +372,7 @@ Signed,
 - Shinelw（[@Shinelw](https://github.com/Shinelw)), Android Developer
 - William de Oliveira Souza（[@woliveiras](https://github.com/woliveiras)), Front End Developer (http://woliveiras.com.br), Brazil
 - Filipe Carmona ([@carmona](https://github.com/carmona)), Front End Developer, Brazil
+- Shivam Agarwal ([@shivam-97](https://github.com/shivam-97)), Developer, CS Undergrad at IITR, India
 - Wendell Adriel Luiz Silva ([@WendellAdriel](https://github.com/WendellAdriel)), Full Stack Developer ([http://wendelladriel.github.io](http://wendelladriel.github.io)), Brazil
 - J. Teles（[@teles](https://github.com/teles)), Front end developer at [vivadecora.com.br](https://www.vivadecora.com.br), Brazil
 - Marcus Hammarberg ([@marcusoftnet](https://github.com/marcusoftnet)), Software contractor / Agile consultant
