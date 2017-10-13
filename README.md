@@ -584,3 +584,4 @@ Signed,
 - Deepak Malik ([@deepak-malik](https://github.com/deepak-malik)), Developer, USA
 - Shivam Agarwal ([@shivam-97](https://github.com/shivam-97)), Developer, CS Undergrad at IITR, India
 
+- Karan Dhuria ([@phodu007](https://github.com/phodu007)), Developer, Computer Science Undergraduate at IIT Roorkee, India.
