@@ -586,3 +586,4 @@ Signed,
 - Nisheeth Golakiya ([@nisheeth-golakiya](https://github.com/nisheeth-golakiya)), Developer, CS Undergrad at IITR, India
 - Karan Dhuria ([@phodu007](https://github.com/phodu007)), Developer, Computer Science Undergraduate at IIT Roorkee, India.
 - Arman Jon Villalobos ([@iamarmanjon](https://github.com/iamarmanjon)), Software Developer, Metro Manila, Philippines
+- William Oliveira ([@gnuwilliam](https://github.com/gnuwilliam)), Developer, Brazil
