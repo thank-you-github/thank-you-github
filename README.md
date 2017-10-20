@@ -621,3 +621,4 @@ Signed,
 - Aditya Arora ([@adi23arora](https://github.com/adi23arora)), Android Developer, India.
 - Willian Yassunaka ([@willianhy](https://github.com/willianhy)), Developer, Brazil
 - Cassio Cardoso ([@cassiocardoso](https://github.com/cassiocardoso)), Front-end developer, Brazil
+- Yasser Rachid ([@othman853](https://github.com/othman853)), Software Developer, ThoughtWorks, Brazil
