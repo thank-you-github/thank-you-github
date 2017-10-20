@@ -585,4 +585,4 @@ Signed,
 - Shivam Agarwal ([@shivam-97](https://github.com/shivam-97)), Developer, CS Undergrad at IITR, India
 - Nisheeth Golakiya ([@nisheeth-golakiya](https://github.com/nisheeth-golakiya)), Developer, CS Undergrad at IITR, India
 - Karan Dhuria ([@phodu007](https://github.com/phodu007)), Developer, Computer Science Undergraduate at IIT Roorkee, India.
-- Arman Jon Villalobos([@iamarmanjon](https://github.com/iamarmanjon)), Software Developer, Metro Manila, Philippines
+- Arman Jon Villalobos ([@iamarmanjon](https://github.com/iamarmanjon)), Software Developer, Metro Manila, Philippines
