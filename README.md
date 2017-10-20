@@ -599,3 +599,4 @@ Signed,
 - Samda Muy ([@samda](https://github.com/Samda)), Developer, Cambodia
 - Michael Savchuk ([@Pixelrobin](https://github.com/Pixelrobin)), Junior Front End and Games Developer, Bellingham, WA
 - Sam Davarnia  ([@samdvr](https://github.com/samdvr)), Software Engineer
+- Varun Upadhyay ([@varunu28](https://github.com/varunu28)), Software Developer, Grad Student at San Jose State University
