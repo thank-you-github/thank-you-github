@@ -605,3 +605,4 @@ Signed,
 - Arandi López ([@arandilopez](https://github.com/arandilopez)), Software Engineer, Mexico
 - Alejandro Nanez ([@alejandronanez](https://github.com/alejandronanez)), Software Engineer, Medellín, Colombia.
 - Alfred Rowe ([@nukturnal](https://github.com/nukturnal)), Software Engineer, Accra, Ghana.
+- Srinivas Reddy Thatiparthy([@srinivasreddy](https://github.com/srinivasreddy)), Software Engineer, Pune, India
