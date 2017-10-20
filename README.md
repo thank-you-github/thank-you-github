@@ -42,6 +42,7 @@ Signed,
 - Jon Swanson ([@swansong](https://github.com/swansong)), Software Engineer at Rakuten Marketing
 - Caleb Madrigal ([@calebmadrigal](https://github.com/calebmadrigal)), Software Engineer
 - Sylvain Perron ([@slvnperron](https://github.com/slvnperron)), SE from Quebec
+- Sam Davarnia  ([@samdvr](https://github.com/samdvr)), Software Engineer
 - Alexander Kuleshov ([@0xAX](https://github.com/0xAX)), Erlang/Elixir developer at traveping, author of linux-insides
 - Daniel Doubrovkine ([@dblock](https://github.com/dblock)), [Ruby Grape](http://www.ruby-grape.org/), CTO Artsy.net
 - Edouard Chin ([@Edouard-chin](https://github.com/Edouard-chin)), Developer
