@@ -586,3 +586,4 @@ Signed,
 
 - Nisheeth Golakiya ([@nisheeth-golakiya](https://github.com/nisheeth-golakiya)), Developer, CS Undergrad at IITR, India
 - Karan Dhuria ([@phodu007](https://github.com/phodu007)), Developer, Computer Science Undergraduate at IIT Roorkee, India.
+- Aaron Patterson ([@tenderlove](https://github.com/tenderlove)), Developer, Seattle, WA
