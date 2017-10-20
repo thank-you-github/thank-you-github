@@ -625,3 +625,4 @@ Signed,
 - João Alberto ([@joao-alberto](https://github.com/joao-alberto)), Front-end developer, Brazil.
 - Isham Mohamed ([@IshamMohamed](https://github.com/IshamMohamed/)), Software Engineer
 - Sergio Arboleda ([@SergioGeeK7](https://github.com/sergiogeek7)), Javascript Full-Stack Developer, Colombia.
+- Anibal Sólon ([@anibalsolon](https://github.com/anibalsolon)), CTO@[planejei.com](https://planejei.com/), Brazil
