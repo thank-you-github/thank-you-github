@@ -613,3 +613,4 @@ Signed,
 - Shiva Krishna Yadav ([@shivakrishna9](https://github.com/shivakrishna9)), AI/ML Developer, Hyderabad, India.
 - Johann Philipp Strathausen ([@strathausen](https://github.com/strathausen)), Developer, Germany
 - Tobias Feistmantl ([@tobiasfeistmantl](https://github.com/tobiasfeistmantl)), Developer, Austria
+- Cassio Cardoso ([@cassiocardoso](https://github.com/cassiocardoso)), Front-end developer, Brazil
