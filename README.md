@@ -555,6 +555,7 @@ Signed,
 - Weikui Wang ([@WeikuiWang](https://github.com/WeikuiWang)), Java Developer, China
 - Sarab Singh ([@sarab97](https://github.com/sarab97)), Programmer, Student at SAE Pune, India
 - Harish Kotra ([@harishkotra](https://github.com/harishkotra)), Hackathons Specialist [HarishKotra](https://harishkotra.me)
+- M. Zubair Ahmed ([@M-ZubairAhmed](https://github.com/M-ZubairAhmed)), Mobile & Web Developer, Hyderabad, India
 - Vipin Madhavanunni ([@vipintm](https://github.com/vipintm)), Developer, Germany
 - Madhu Akula ([@madhuakula](https://github.com/madhuakula)), DevSecOps, India
 - Osama Bin Omar ([@mosamabinomar](https://github.com/mosamabinomar)), Android and C++ developer, Pakistan
@@ -607,3 +608,4 @@ Signed,
 - Srinivas Reddy Thatiparthy([@srinivasreddy](https://github.com/srinivasreddy)), Software Engineer, Pune, India
 - Elem Shalit ([@Elemino](https://github.com/Elemino)), Software Developer, Canada
 - chengshq ([@cisiqo](https://github.com/cisiqo)), Developer
+- Cristian Oliveira ([@cristianoliveira](https://github.com/cristianoliveira)), The IT guy also known as Developer, Germany
