@@ -594,3 +594,4 @@ Signed,
 - Naman Sachdeva ([@namansachdeva](https://github.com/namansachdeva)), Android Developer, India
 - Jared Smith ([@sublimecoder](https://github.com/sublimecoder)), Software Engineer
 - Dilum Navanjana ([@dilumn](https://github.com/dilumn)), Developer, Singapore
+- June Domingo ([@junedomingo](https://github.com/junedomingo)), Full-Stack Developer, Metro Manila, Philippines
