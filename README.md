@@ -588,3 +588,4 @@ Signed,
 - Arman Jon Villalobos ([@iamarmanjon](https://github.com/iamarmanjon)), Software Developer, Metro Manila, Philippines
 - William Oliveira ([@gnuwilliam](https://github.com/gnuwilliam)), Developer, Brazil
 - Aaron Patterson ([@tenderlove](https://github.com/tenderlove)), Developer, Seattle, WA
+- Mario Álvarez ([@m4grio](https://github.com/m4grio)), Software Engineer
