@@ -590,3 +590,4 @@ Signed,
 - Aaron Patterson ([@tenderlove](https://github.com/tenderlove)), Developer, Seattle, WA
 - Mario Álvarez ([@m4grio](https://github.com/m4grio)), Software Engineer
 - Arathi Nair ([@arti97](https://github.com/arti97)), Student Developer, India
+- Juan de Bravo ([@juandebravo](https://github.com/juandebravo)), Developer, Barcelona, Spain
