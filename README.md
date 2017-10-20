@@ -598,3 +598,4 @@ Signed,
 - Abu Nashir ([@abunashir](https://github.com/abunashir)), Developer, Dhaka, Bangladesh
 - Samda Muy ([@samda](https://github.com/Samda)), Developer, Cambodia
 - Michael Savchuk ([@Pixelrobin](https://github.com/Pixelrobin)), Junior Front End and Games Developer, Bellingham, WA
+- Sam Davarnia  ([@samdvr](https://github.com/samdvr)), Software Engineer
