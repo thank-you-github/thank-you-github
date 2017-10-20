@@ -628,3 +628,4 @@ Signed,
 - Anibal Sólon ([@anibalsolon](https://github.com/anibalsolon)), CTO@[planejei.com](https://planejei.com/), Brazil
 - Pradeep Reddy Raamana ([@raamana](https://github.com/raamana)), Neuroscientist
 - Sanyam Jain ([@xerosanyam](https://github.com/xerosanyam)), Machine Learning Enthusiast, IIITB, Bangalore
+- Leonardo Valencia ([@leovafme](https://github.com/leovafme)), Full-Stack Developer, Colombia.
