@@ -618,3 +618,4 @@ Signed,
 - Patrick Wozniak ([@patlux](https://github.com/patlux)), Developer, Germany
 - David Zhang ([@crispgm](https://github.com/crispgm)), Full-Stack Web Developer, China
 - Enoch Nyako ([@enochN](https://github.com/enochN)), Software Engineer, Ghana
+- Aditya Arora ([@adi23arora](https://github.com/adi23arora)), Android Developer, India.
