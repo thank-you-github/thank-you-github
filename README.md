@@ -590,3 +590,19 @@ Signed,
 - Aaron Patterson ([@tenderlove](https://github.com/tenderlove)), Developer, Seattle, WA
 - Mario Álvarez ([@m4grio](https://github.com/m4grio)), Software Engineer
 - Elem Shalit ([@Elemino](https://github.com/Elemino)), Software Developer, Canada
+- Arathi Nair ([@arti97](https://github.com/arti97)), Student Developer, India
+- Juan de Bravo ([@juandebravo](https://github.com/juandebravo)), Developer, Barcelona, Spain
+- Naman Sachdeva ([@namansachdeva](https://github.com/namansachdeva)), Android Developer, India
+- Jared Smith ([@sublimecoder](https://github.com/sublimecoder)), Software Engineer
+- Dilum Navanjana ([@dilumn](https://github.com/dilumn)), Developer, Singapore
+- June Domingo ([@junedomingo](https://github.com/junedomingo)), Full-Stack Developer, Metro Manila, Philippines
+- Abu Nashir ([@abunashir](https://github.com/abunashir)), Developer, Dhaka, Bangladesh
+- Samda Muy ([@samda](https://github.com/Samda)), Developer, Cambodia
+- Michael Savchuk ([@Pixelrobin](https://github.com/Pixelrobin)), Junior Front End and Games Developer, Bellingham, WA
+- Sam Davarnia  ([@samdvr](https://github.com/samdvr)), Software Engineer
+- Varun Upadhyay ([@varunu28](https://github.com/varunu28)), Software Developer, Grad Student at San Jose State University
+- Andrew Dassonville ([@andrewda](https://github.com/andrewda)), Software Engineer
+- Venkatesh Babu ([@venkatvb](https://github.com/venkatvb)), Software Engineer, India.
+- Arandi López ([@arandilopez](https://github.com/arandilopez)), Software Engineer, Mexico
+- Alejandro Nanez ([@alejandronanez](https://github.com/alejandronanez)), Software Engineer, Medellín, Colombia.
+
