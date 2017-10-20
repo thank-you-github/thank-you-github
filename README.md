@@ -592,3 +592,4 @@ Signed,
 - Arathi Nair ([@arti97](https://github.com/arti97)), Student Developer, India
 - Juan de Bravo ([@juandebravo](https://github.com/juandebravo)), Developer, Barcelona, Spain
 - Naman Sachdeva ([@namansachdeva](https://github.com/namansachdeva)), Android Developer, India
+- Jared Smith ([@sublimecoder](https://github.com/sublimecoder)), Software Engineer
