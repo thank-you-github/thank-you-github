@@ -615,3 +615,4 @@ Signed,
 - Tobias Feistmantl ([@tobiasfeistmantl](https://github.com/tobiasfeistmantl)), Developer, Austria
 - Rishabh Malik ([@rishabh-malik](https://github.com/rishabh-malik)), Developer, India
 - Tero Tasanen ([@ttasanen](https://github.com/ttasanen)), CTO at [CRM-service](https://crm-service.fi/)
+- Patrick Wozniak ([@patlux](https://github.com/patlux)), Developer, Germany
