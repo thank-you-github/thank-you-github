@@ -596,3 +596,4 @@ Signed,
 - Dilum Navanjana ([@dilumn](https://github.com/dilumn)), Developer, Singapore
 - June Domingo ([@junedomingo](https://github.com/junedomingo)), Full-Stack Developer, Metro Manila, Philippines
 - Abu Nashir ([@abunashir](https://github.com/abunashir)), Developer, Dhaka, Bangladesh
+- Samda Muy ([@samda](https://github.com/Samda)), Developer, Cambodia
