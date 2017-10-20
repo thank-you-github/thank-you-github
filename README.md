@@ -607,3 +607,4 @@ Signed,
 - Alfred Rowe ([@nukturnal](https://github.com/nukturnal)), Software Engineer, Accra, Ghana.
 - Srinivas Reddy Thatiparthy([@srinivasreddy](https://github.com/srinivasreddy)), Software Engineer, Pune, India
 - Elem Shalit ([@Elemino](https://github.com/Elemino)), Software Developer, Canada
+- chengshq ([@cisiqo](https://github.com/cisiqo)), Developer
