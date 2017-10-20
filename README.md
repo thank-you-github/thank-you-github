@@ -555,7 +555,6 @@ Signed,
 - Weikui Wang ([@WeikuiWang](https://github.com/WeikuiWang)), Java Developer, China
 - Sarab Singh ([@sarab97](https://github.com/sarab97)), Programmer, Student at SAE Pune, India
 - Harish Kotra ([@harishkotra](https://github.com/harishkotra)), Hackathons Specialist [HarishKotra](https://harishkotra.me)
-- M. Zubair Ahmed ([@M-ZubairAhmed](https://github.com/M-ZubairAhmed)), Mobile & Web Developer, Hyderabad, India
 - Vipin Madhavanunni ([@vipintm](https://github.com/vipintm)), Developer, Germany
 - Madhu Akula ([@madhuakula](https://github.com/madhuakula)), DevSecOps, India
 - Osama Bin Omar ([@mosamabinomar](https://github.com/mosamabinomar)), Android and C++ developer, Pakistan
@@ -589,4 +588,25 @@ Signed,
 - William Oliveira ([@gnuwilliam](https://github.com/gnuwilliam)), Developer, Brazil
 - Aaron Patterson ([@tenderlove](https://github.com/tenderlove)), Developer, Seattle, WA
 - Mario Álvarez ([@m4grio](https://github.com/m4grio)), Software Engineer
-- Tobias Feistmantl ([tobiasfeistmantl](https://github.com/tobiasfeistmantl)), Developer, Austria
+- Tobias Feistmantl ([@tobiasfeistmantl](https://github.com/tobiasfeistmantl)), Developer, Austria
+- Arathi Nair ([@arti97](https://github.com/arti97)), Student Developer, India
+- Juan de Bravo ([@juandebravo](https://github.com/juandebravo)), Developer, Barcelona, Spain
+- Naman Sachdeva ([@namansachdeva](https://github.com/namansachdeva)), Android Developer, India
+- Jared Smith ([@sublimecoder](https://github.com/sublimecoder)), Software Engineer
+- Dilum Navanjana ([@dilumn](https://github.com/dilumn)), Developer, Singapore
+- June Domingo ([@junedomingo](https://github.com/junedomingo)), Full-Stack Developer, Metro Manila, Philippines
+- Abu Nashir ([@abunashir](https://github.com/abunashir)), Developer, Dhaka, Bangladesh
+- Samda Muy ([@samda](https://github.com/Samda)), Developer, Cambodia
+- Michael Savchuk ([@Pixelrobin](https://github.com/Pixelrobin)), Junior Front End and Games Developer, Bellingham, WA
+- Sam Davarnia  ([@samdvr](https://github.com/samdvr)), Software Engineer
+- Varun Upadhyay ([@varunu28](https://github.com/varunu28)), Software Developer, Grad Student at San Jose State University
+- Andrew Dassonville ([@andrewda](https://github.com/andrewda)), Software Engineer
+- Venkatesh Babu ([@venkatvb](https://github.com/venkatvb)), Software Engineer, India.
+- Arandi López ([@arandilopez](https://github.com/arandilopez)), Software Engineer, Mexico
+- Alejandro Nanez ([@alejandronanez](https://github.com/alejandronanez)), Software Engineer, Medellín, Colombia.
+- Alfred Rowe ([@nukturnal](https://github.com/nukturnal)), Software Engineer, Accra, Ghana.
+- Srinivas Reddy Thatiparthy([@srinivasreddy](https://github.com/srinivasreddy)), Software Engineer, Pune, India
+- Elem Shalit ([@Elemino](https://github.com/Elemino)), Software Developer, Canada
+- chengshq ([@cisiqo](https://github.com/cisiqo)), Developer
+- Cristian Oliveira ([@cristianoliveira](https://github.com/cristianoliveira)), The IT guy also known as Developer, Germany
+- Luka Bratos ([@lukabratos](https://github.com/lukabratos)), Software Engineer
