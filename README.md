@@ -572,6 +572,7 @@ Signed,
 - Chandramowli J ([@chamow97](https://github.com/chamow97)), Undergraduate Student, SSN College of Engineering, India
 - Ritwik Sharma ([@ritwik12](https://github.com/ritwik12)), Undergrad at UPES, India
 - Celio Rodrigues ([@rodriguescelio](https://github.com/rodriguescelio)), Full Stack Developer and Open Source enthusiast, Brazil
+- Nico Jansen ([@nicojs](https://github.com/nicojs)), Developer and Open Source fanatic, The Netherlands
 - Lucas Menezes ([@menezeslucas](https://github.com/menezeslucas)), Developer, Brazil
 - Yash Jain ([@yashjain24](https://github.com/yashjain24)), Developer and Undergraduate Student, India
 - Ravinder Nehra ([@rnehra01](https://github.com/rnehra01)), Developer, CS Undergrad at IITR, India
