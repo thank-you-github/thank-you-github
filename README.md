@@ -617,3 +617,4 @@ Signed,
 - Tero Tasanen ([@ttasanen](https://github.com/ttasanen)), CTO at [CRM-service](https://crm-service.fi/)
 - Patrick Wozniak ([@patlux](https://github.com/patlux)), Developer, Germany
 - David Zhang ([@crispgm](https://github.com/crispgm)), Full-Stack Web Developer, China
+- Enoch Nyako ([@enochN](https://github.com/enochN)), Software Engineer, Ghana
