@@ -597,3 +597,4 @@ Signed,
 - June Domingo ([@junedomingo](https://github.com/junedomingo)), Full-Stack Developer, Metro Manila, Philippines
 - Abu Nashir ([@abunashir](https://github.com/abunashir)), Developer, Dhaka, Bangladesh
 - Samda Muy ([@samda](https://github.com/Samda)), Developer, Cambodia
+- Michael Savchuk ([@Pixelrobin](https://github.com/Pixelrobin)), Junior Front End and Games Developer, Bellingham, WA
