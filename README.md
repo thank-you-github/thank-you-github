@@ -624,3 +624,4 @@ Signed,
 - Yasser Rachid ([@othman853](https://github.com/othman853)), Software Developer, ThoughtWorks, Brazil
 - João Alberto ([@joao-alberto](https://github.com/joao-alberto)), Front-end developer, Brazil.
 - Isham Mohamed ([@IshamMohamed](https://github.com/IshamMohamed/)), Software Engineer
+- Sanyam Jain ([@xerosanyam](https://github.com/xerosanyam)), Machine Learning Enthusiast, IIITB, Bangalore
