@@ -620,3 +620,4 @@ Signed,
 - Enoch Nyako ([@enochN](https://github.com/enochN)), Software Engineer, Ghana
 - Aditya Arora ([@adi23arora](https://github.com/adi23arora)), Android Developer, India.
 - Willian Yassunaka ([@willianhy](https://github.com/willianhy)), Developer, Brazil
+- Cassio Cardoso ([@cassiocardoso](https://github.com/cassiocardoso)), Front-end developer, Brazil
