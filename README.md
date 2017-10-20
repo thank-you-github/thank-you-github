@@ -589,6 +589,7 @@ Signed,
 - William Oliveira ([@gnuwilliam](https://github.com/gnuwilliam)), Developer, Brazil
 - Aaron Patterson ([@tenderlove](https://github.com/tenderlove)), Developer, Seattle, WA
 - Mario Álvarez ([@m4grio](https://github.com/m4grio)), Software Engineer
+- Elem Shalit ([@Elemino](https://github.com/Elemino)), Software Developer, Canada
 - Arathi Nair ([@arti97](https://github.com/arti97)), Student Developer, India
 - Juan de Bravo ([@juandebravo](https://github.com/juandebravo)), Developer, Barcelona, Spain
 - Naman Sachdeva ([@namansachdeva](https://github.com/namansachdeva)), Android Developer, India
@@ -604,3 +605,4 @@ Signed,
 - Venkatesh Babu ([@venkatvb](https://github.com/venkatvb)), Software Engineer, India.
 - Arandi López ([@arandilopez](https://github.com/arandilopez)), Software Engineer, Mexico
 - Alejandro Nanez ([@alejandronanez](https://github.com/alejandronanez)), Software Engineer, Medellín, Colombia.
+
