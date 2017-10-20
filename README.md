@@ -610,3 +610,4 @@ Signed,
 - Cristian Oliveira ([@cristianoliveira](https://github.com/cristianoliveira)), The IT guy also known as Developer, Germany
 - Luka Bratos ([@lukabratos](https://github.com/lukabratos)), Software Engineer
 - Nico Jansen ([@nicojs](https://github.com/nicojs)), Developer and Open Source fanatic, The Netherlands
+- Shiva Krishna Yadav ([@shivakrishna9](https://github.com/shivakrishna9)), AI/ML Developer, Hyderabad, India.
