@@ -602,3 +602,4 @@ Signed,
 - Varun Upadhyay ([@varunu28](https://github.com/varunu28)), Software Developer, Grad Student at San Jose State University
 - Andrew Dassonville ([@andrewda](https://github.com/andrewda)), Software Engineer
 - Venkatesh Babu ([@venkatvb](https://github.com/venkatvb)), Software Engineer, India.
+- Arandi López ([@arandilopez](https://github.com/arandilopez)), Software Engineer, Mexico
