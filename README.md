@@ -589,3 +589,4 @@ Signed,
 - William Oliveira ([@gnuwilliam](https://github.com/gnuwilliam)), Developer, Brazil
 - Aaron Patterson ([@tenderlove](https://github.com/tenderlove)), Developer, Seattle, WA
 - Mario Álvarez ([@m4grio](https://github.com/m4grio)), Software Engineer
+- Arathi Nair ([@arti97](https://github.com/arti97)), Student Developer, India
