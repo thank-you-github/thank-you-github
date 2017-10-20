@@ -624,4 +624,8 @@ Signed,
 - Yasser Rachid ([@othman853](https://github.com/othman853)), Software Developer, ThoughtWorks, Brazil
 - João Alberto ([@joao-alberto](https://github.com/joao-alberto)), Front-end developer, Brazil.
 - Isham Mohamed ([@IshamMohamed](https://github.com/IshamMohamed/)), Software Engineer
+- Sergio Arboleda ([@SergioGeeK7](https://github.com/sergiogeek7)), Javascript Full-Stack Developer, Colombia.
+- Anibal Sólon ([@anibalsolon](https://github.com/anibalsolon)), CTO@[planejei.com](https://planejei.com/), Brazil
+- Pradeep Reddy Raamana ([@raamana](https://github.com/raamana)), Neuroscientist
+- Sanyam Jain ([@xerosanyam](https://github.com/xerosanyam)), Machine Learning Enthusiast, IIITB, Bangalore
 - Leonardo Valencia ([@leovafme](https://github.com/leovafme)), Full-Stack Developer, Colombia.
