@@ -582,6 +582,7 @@ Signed,
 - Yash Agrawal ([@yashagrawal3](https://github.com/yashagrawal3)), Developer, ECE Undergraduate at IIT Roorkee, India
 - Surya Saini ([@Dragneel7](https://github.com/Dragneel7)), Full Stack Developer, India
 - Deepak Malik ([@deepak-malik](https://github.com/deepak-malik)), Developer, USA
+- Alejandro Nanez ([@alejandronanez](https://github.com/alejandronanez)), Software Engineer, Medellín, Colombia.
 - Shivam Agarwal ([@shivam-97](https://github.com/shivam-97)), Developer, CS Undergrad at IITR, India
 - Nisheeth Golakiya ([@nisheeth-golakiya](https://github.com/nisheeth-golakiya)), Developer, CS Undergrad at IITR, India
 - Karan Dhuria ([@phodu007](https://github.com/phodu007)), Developer, Computer Science Undergraduate at IIT Roorkee, India.
