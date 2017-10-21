@@ -697,3 +697,4 @@ Signed,
 - Nick Shook ([@shicholas](https://github.com/shicholas)), Software Developer/Lawyer, Vegas
 - Yangshun Tay ([@yangshun](https://github.com/yangshun)), Front End Engineer, Singapore
 - Iñaki Abete ([@inakiabt](https://github.com/inakiabt)), Software Engineer, Argentina
+- Cory Virok ([@coryvirok](https://github.com/coryvirok)), Co-Founder, CTO at [Rollbar](https://rollbar.com/)
