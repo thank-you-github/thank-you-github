@@ -766,3 +766,4 @@ Signed,
 - Timo Lins([@timolins](https://github.com/timolins)), Software Developer, Austria
 - Dongri Jin ([@dongri](https://github.com/dongri)), Software Engineer, Japan
 - 毛小可嗒嗒([@maoxiaoke](https://github.com/maoxiaoke)), JavaScript Developer, China
+- Md Eftakhairul Islam ([@eftakhairul](https://github.com/eftakhairul)), Software Engineer, Canada
