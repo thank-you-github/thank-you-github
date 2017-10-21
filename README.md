@@ -696,3 +696,4 @@ Signed,
 - Lokesh Basu ([@lcbasu](https://github.com/lcbasu)), Senior Software Engineer
 - Nick Shook ([@shicholas](https://github.com/shicholas)), Software Developer/Lawyer, Vegas
 - Yangshun Tay ([@yangshun](https://github.com/yangshun)), Front End Engineer, Singapore
+- Iñaki Abete ([@inakiabt](https://github.com/inakiabt)), Software Engineer, Argentina
