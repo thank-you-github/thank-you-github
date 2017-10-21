@@ -792,3 +792,4 @@ Signed,
 - Daniel Pinto ([@cayan](https://github.com/cayan)), Software Developer, Brazil
 - Hugo ([@AnanaGame](https://github.com/AnanaGame)), Ruby and Java developer, Geneva
 - Dan Iverspn ([@iversond](https://github.com/iversond)), System Admin, Minnesota
+- Kevin He ([@kevinxh](https://github.com/kevinxh)), Front-end Engineer, Vancouver, Canada
