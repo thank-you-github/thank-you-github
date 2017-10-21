@@ -771,7 +771,7 @@ Signed,
 - Marcelo Boeira ([@marceloboeira](https://github.com/marceloboeira)), Software Engineer, Berlin
 - Chang Liu ([@fluency03](https://github.com/fluency03)), Software Developer, China
 - Saravanan ([@saravntbe](https://github.com/saravntbe)), Front End Engineer,TamilNadu,India
-- Nicolò Tilotta ([@ntilotta](https://github.com/ntilotta)), Blockchain Developer
+-- Nicolò Tilotta ([@ntilotta](https://github.com/ntilotta)), Blockchain Developer
 - Agrim Mittal ([@agrim123](https://github.com/agrim123)), Developer, Undergrad at IIT Rookee, India
 - Mindaugas Mozūras([@mmozuras](https://github.com/mmozuras)), Head of Engineering @ [Vinted](https://github.com/Vinted), Lithuania
 - Riccardo Serafini ([@tapionx](https://github.com/tapionx)), Web Developer, Italy
@@ -821,3 +821,4 @@ Signed,
 - Nadim Tuhin ([@nadimtuhin](https://github.com/nadimtuhin)), Software Engineer, Cookups, Bangladesh
 - Suman Rao ([@austin665](https://github.com/austin665)), Software Engineer, San Francisco, CA
 - Alisson Vargas ([@alisson-mich](https://github.com/alisson-mich)), Developer, Brazil
+- Banso D. Wisdom ([@overrideveloper](https://github.com/overrideveloper)), Developer and Technical Writer, Nigeria
