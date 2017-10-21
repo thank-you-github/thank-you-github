@@ -660,10 +660,10 @@ Signed,
 - Zhang Yongsong ([@zhangyongsong](https://github.com/zhangyongsong)), Software Developer, Singapore
 - Will Sahatdjian ([@kwcto](https://github.com/kwcto)), CTO at [Taxfyle](https://taxfyle.com/)
 - Nicholas Rebhun ([@nrebhun](https://github.com/nrebhun)), Software Developer at [D&B](https://www.dnb.com/)
-- Asa Jenkins ([@4thJenkins17] (https://github.com/4thJenkins17)), Associate Developer at Kikoda, Tallahassee, FL
+- Asa Jenkins ([@4thJenkins17](https://github.com/4thJenkins17)), Associate Developer at Kikoda, Tallahassee, FL
 - Nikhil Kaushik ([@c0dzilla](https://github.com/c0dzilla)), Developer, Computer Science Undergrad, IIT Roorkee
-- Mohd Nazar Mubeen ([@nazarmubeen] (https://github.com/nazarmubeen)), Software Engineer , Hyderabad , India
-- Sharad Shinde ([@shindesharad71] (https://github.com/shindesharad71)), Web Developer, Pune, India
+- Mohd Nazar Mubeen ([@nazarmubeen](https://github.com/nazarmubeen)), Software Engineer , Hyderabad , India
+- Sharad Shinde ([@shindesharad71](https://github.com/shindesharad71)), Web Developer, Pune, India
 - Alexey Raspopov ([@alexeyraspopov](https://github.com/alexeyraspopov)), Software Engineer, Ukraine
 - Vedansh Bhartia ([@vedanshbhartia](https://github.com/vedanshbhartia)), Developer, Undergrad at IIT Roorkee
 - Shreyas Agarkar ([@shreyas-a](https://github.com/shreyas-a)), JavaScript Developer, Bangalore, India.
@@ -683,7 +683,7 @@ Signed,
 - Raphael Costa ([@raphaelcosta](https://github.com/raphaelcosta)), Head of Platfrom at [Pipefy](https://www.pipefy.com/developers/)
 - Rômulo Fernandes ([@romulof](https://github.com/romulof)), Software Engineer
 - Ankit Singh ([@ank-it](https://github.com/ank-it)), Software Engineer
-- April Rose Fresnillo ([@aprilfresnillo15] (https://github.com/aprilfresnillo15)), Software Engineer, Philippines
+- April Rose Fresnillo ([@aprilfresnillo15](https://github.com/aprilfresnillo15)), Software Engineer, Philippines
 - Chris Thurber ([@skiman6010](https://github.com/skiman6010)), Software Engineer, Indiana, United States
 - Normand Cyr ([@nccyr](https://github.com/nccyr)), Software Developer
 - Mhar Vic Chicano ([@mharrvic](https://github.com/mharrvic)), IoT Developer, Philippines
