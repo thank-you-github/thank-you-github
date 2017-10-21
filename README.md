@@ -672,3 +672,4 @@ Signed,
 - Justin Lundy ([@justinlundy](https://github.com/justinlundy)), CTO at [Evident.io](https://evident.io/)
 - Kumar Anirudha ([@anistark](https://github.com/anistark)), Developer
 - Sajouguet Dassi Marcel Orleando ([@dassiorleando](https://github.com/dassiorleando)), Software Developer
+- Marcos Bahiense ([@mbahiense](https://github.com/mbahiense)), Software Developer, Brazil o/
