@@ -670,3 +670,4 @@ Signed,
 - Airon Dumael ([@airondumael](https://github.com/airondumael)), Software Developer
 - Austin Hyde ([@austinhyde](https://github.com/austinhyde)), Software Engineer
 - Justin Lundy ([@justinlundy](https://github.com/justinlundy)), CTO at [Evident.io](https://evident.io/)
+- Kumar Anirudha ([@anistark](https://github.com/anistark)), Developer
