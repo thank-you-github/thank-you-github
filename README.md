@@ -637,3 +637,4 @@ Signed,
 - Eliott Hauteclair ([@Eliottiosdevs](https://github.com/Eliottiosdevs)), Developer, Belgium
 - Wael Nasreddine ([@kalbasit](https://github.com/kalbasit)), VP of Engineering at [Publica](https://getpublica.com/)
 - Stephen Jennings ([@jennings](https://github.com/jennings)), Software Developer
+- Yashendra Shukla ([@yashendra2797](https://github.com/yashendra2797)), Part Time Hobbyist, Dropout, [Twitch Streamer](https://twitch.tv/yashendra2797), India
