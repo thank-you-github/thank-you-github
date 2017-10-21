@@ -705,3 +705,4 @@ Signed,
 - Ramiro Olivera Fedi ([@ramadis](https://github.com/ramadis)), Software engineer, Argentina
 - Juan Amari ([@juanamari94](https://github.com/juanamari94)), Software Engineer
 - Mehdi Achour ([@machour](https://github.com/machour)), Software Developer
+- Eduardo Mejía ([@eduarmreyes](https://github.com/eduarmreyes)), A Developer
