@@ -764,3 +764,4 @@ Signed,
 - Liu Lantao ([@Lax](https://github.com/Lax)), Software Engineer, Open Source enthusiast, China
 - Alaa Masoud ([@alaatm](https://github.com/alaatm)), Software Developer
 - Timo Lins([@timolins](https://github.com/timolins)), Software Developer, Austria
+- Agrim Mittal ([@agrim123](https://github.com/agrim123)), Developer, Undergrad at IIT Rookee, India
