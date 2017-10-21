@@ -711,3 +711,4 @@ Signed,
 - Vitor Capretz ([@vcapretz](https://github.com/vcapretz)), Software Enginner at Pagar.me
 - Isaac Park ([@IAPark](https://github.com/IAPark)), Full stack, Working on Biotech degree
 - Arman Ortega ([@sudogem](https://github.com/sudogem)), Full-Stack Developer, Cebu Philippines
+- William Wilson ([@williamtwilson](https://github.com/williamtwilson)), Software Developer
