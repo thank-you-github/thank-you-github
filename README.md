@@ -637,3 +637,4 @@ Signed,
 - Eliott Hauteclair ([@Eliottiosdevs](https://github.com/Eliottiosdevs)), Developer, Belgium
 - Wael Nasreddine ([@kalbasit](https://github.com/kalbasit)), VP of Engineering at [Publica](https://getpublica.com/)
 - Stephen Jennings ([@jennings](https://github.com/jennings)), Software Developer
+- James Cuénod ([@jcuenod](https://github.com/jcuenod)), Biblical Studies by day - Software Developer by night (cf. [parabible](https://parabible.com)), South Africa
