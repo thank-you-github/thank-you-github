@@ -810,3 +810,4 @@ Signed,
 - Elias Sjögreen ([@eliassjogreen](https://github.com/eliassjogreen)), Student ¯\_(ツ)_/¯
 - Juanma ([@aikijuanma](https://github.com/aikijuanma)), Developer, Catalonia
 - Eugene Obrezkov ([@ghaiklor](https://github.com/ghaiklor)), Senior Software Engineer, Ukraine
+- Josh Marchello ([@jmarchello](https://github.com/jmarchello)), Senior Software Engineer, Kansas, USA
