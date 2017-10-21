@@ -721,3 +721,4 @@ Signed,
 - Chris Lord ([@dexamped](https://github.com/dexamped)), Developer, Sydney, Australia
 - Mubaris NK ([@mubaris](https://github.com/mubaris)), Undergrad at IIIT Allahabad
 - Colin Fike ([@colinfike](https://github.com/colinfike)), Software Engineer, USA
+- John Lim ([@johnlim5847](https://github.com/johnlim5847)), Software Developer
