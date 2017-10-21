@@ -707,3 +707,4 @@ Signed,
 - Mehdi Achour ([@machour](https://github.com/machour)), Software Developer
 - Eduardo Mejía ([@eduarmreyes](https://github.com/eduarmreyes)), A Developer
 - Eduardo Quadros ([@darqueos](https://github.com/darqueos)), Mobile Developer, Brazil
+- Nischal Samji ([@nischalsamji](https://github.com/nischalsamji)), [xkcd](https://xkcd.com) lover
