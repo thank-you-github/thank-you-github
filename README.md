@@ -689,3 +689,4 @@ Signed,
 - Mhar Vic Chicano ([@mharrvic](https://github.com/mharrvic)), IoT Developer, Philippines
 - Khurshid Fayzullaev ([@khfayzullaev](https://github.com/khfayzullaev)), Backend Engineer at Vimeo
 - Justin Cypret ([@jcypret](https://github.com/jcypret)), Software Engineer at [TaxJar](https://www.taxjar.com)
+- Ben Damman ([@typesend](https://github.com/typesend)), Entrepreneur and former [U.S. Digital Service](https://www.usds.gov/) engineer
