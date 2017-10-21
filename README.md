@@ -821,3 +821,4 @@ Signed,
 - Nadim Tuhin ([@nadimtuhin](https://github.com/nadimtuhin)), Software Engineer, Cookups, Bangladesh
 - Suman Rao ([@austin665](https://github.com/austin665)), Software Engineer, San Francisco, CA
 - Alisson Vargas ([@alisson-mich](https://github.com/alisson-mich)), Developer, Brazil
+- Banso D. Wisdom ([@Overrideveloper](https://github.com/Overrideveloper)), Developer and Technical Writer, Nigeria
