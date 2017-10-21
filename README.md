@@ -681,3 +681,4 @@ Signed,
 - Maria Camila Remolina-Gutiérrez ([@mariacamilaremolinagutierrez](https://github.com/mariacamilaremolinagutierrez)), Physicist & Computer Engineering Student, Colombia
 - Dan Segal ([@djsegal](https://github.com/djsegal)), Software Engineer
 - Raphael Costa ([@raphaelcosta](https://github.com/raphaelcosta)), Head of Platfrom at [Pipefy](https://www.pipefy.com/developers/)
+- Rômulo Fernandes ([@romulof](https://github.com/romulof)), Software Engineer
