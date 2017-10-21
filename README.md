@@ -789,3 +789,4 @@ Signed,
 - Max Simon ([@max-simon](https://github.com/max-simon)), Student, Germany
 - Johnny Reina ([@jreina](https://github.com/jreina)), Software Developer, Lubbock, TX, United States
 - Luis Enrique González Rodríguez ([@LuisEGR](https://github.com/LuisEGR)), Student, Developer, IPN, México
+- Daniel Pinto ([@cayan](https://github.com/cayan)), Software Developer, Brazil
