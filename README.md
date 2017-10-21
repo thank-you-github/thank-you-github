@@ -649,3 +649,4 @@ Signed,
 - Gong Dapeng ([@byr-gdp](https://github.com/byr-gdp)), Front-End Developer
 - Thomas Ochman ([@tochman](https://github.com/tochman)), Software Developer && Tech Coach, Gothenburg, Sweden
 - K M Rakibul Islam ([@rakibulislam](https://github.com/rakibulislam)), Software Engineer, Toronto, CA
+- Navin Pai ([@navinpai](https://github.com/navinpai)), CTO at FifthEye Inc., India
