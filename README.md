@@ -794,3 +794,4 @@ Signed,
 - Dan Iverspn ([@iversond](https://github.com/iversond)), System Admin, Minnesota
 - Vishwas Mittal ([@vishwas78](https://github.com/vishwas78)),Student and Full Stack Developer, India
 - Ankit Pokhrel([@ankitpokhrel](https://github.com/ankitpokhrel)), Software Engineer/Architect, Nepal
+- Kevin He ([@kevinxh](https://github.com/kevinxh)), Front-end Engineer, Vancouver, Canada
