@@ -640,3 +640,4 @@ Signed,
 - Erkan Durmus ([@derkan](https://github.com/derkan)), Software Engineer, Istanbul, Turkey
 - Antonio Di Motta ([@antdimot](https://github.com/antdimot)), Software Developer, Italy
 - Aldrin Bautistsa ([@adin234](https://github.com/adin234)), Software Developer
+- Stephan Cilliers ([@stephancill](https://github.com/stephancill)), Student, South Africa
