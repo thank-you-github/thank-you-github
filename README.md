@@ -737,3 +737,4 @@ Signed,
 - Danny Zlobinsky ([@dzlobin](https://github.com/dzlobin)), Software Engineer at Facebook
 - Alex Ozer ([@alexozer](https://github.com/alexozer)), Developer
 - Gaurav Dalvi ([@gaurav-dalvi](https://github.com/gaurav-dalvi)), Software Engineer
+- Timothy Slater ([@tslater2006](https://github.com/tslater2006)), Software Developer
