@@ -662,3 +662,24 @@ Signed,
 - Nicholas Rebhun ([@nrebhun](https://github.com/nrebhun)), Software Developer at [D&B](https://www.dnb.com/)
 - Asa Jenkins ([@4thJenkins17] (https://github.com/4thJenkins17)), Associate Developer at Kikoda, Tallahassee, FL
 - April Rose Fresnillo ([@aprilfresnillo15] (https://github.com/aprilfresnillo15)), Software Engineer, Philippines
+- Nikhil Kaushik ([@c0dzilla](https://github.com/c0dzilla)), Developer, Computer Science Undergrad, IIT Roorkee
+- Mohd Nazar Mubeen ([@nazarmubeen] (https://github.com/nazarmubeen)), Software Engineer , Hyderabad , India
+- Sharad Shinde ([@shindesharad71] (https://github.com/shindesharad71)), Web Developer, Pune, India
+- Alexey Raspopov ([@alexeyraspopov](https://github.com/alexeyraspopov)), Software Engineer, Ukraine
+- Vedansh Bhartia ([@vedanshbhartia](https://github.com/vedanshbhartia)), Developer, Undergrad at IIT Roorkee
+- Shreyas Agarkar ([@shreyas-a](https://github.com/shreyas-a)), JavaScript Developer, Bangalore, India.
+- Airon Dumael ([@airondumael](https://github.com/airondumael)), Software Developer
+- Austin Hyde ([@austinhyde](https://github.com/austinhyde)), Software Engineer
+- Justin Lundy ([@justinlundy](https://github.com/justinlundy)), CTO at [Evident.io](https://evident.io/)
+- Kumar Anirudha ([@anistark](https://github.com/anistark)), Developer
+- Sajouguet Dassi Marcel Orleando ([@dassiorleando](https://github.com/dassiorleando)), Software Developer
+- Marcos Bahiense ([@mbahiense](https://github.com/mbahiense)), Software Developer, Brazil o/
+- Miguel Almonte ([@miguel550](https://github.com/miguel550)), Software Developer, Santo Domingo, Dominican Republic.
+- Izaac Zavaleta ([@izaac](https://github.com/izaac)), Automation Engineer
+- Paul Nispel ([@pnispel](https://github.com/pnispel)), Software Engineer at Procore
+- Dev Chakraborty ([@devchakraborty](https://github.com/devchakraborty)), Undergrad, University of Waterloo
+- Sterling Baldwin ([@sterlingbaldwin](https://github.com/sterlingbaldwin)), Software Developer
+- Maria Camila Remolina-Gutiérrez ([@mariacamilaremolinagutierrez](https://github.com/mariacamilaremolinagutierrez)), Physicist & Computer Engineering Student, Colombia
+- Dan Segal ([@djsegal](https://github.com/djsegal)), Software Engineer
+- Raphael Costa ([@raphaelcosta](https://github.com/raphaelcosta)), Head of Platfrom at [Pipefy](https://www.pipefy.com/developers/)
+- Rômulo Fernandes ([@romulof](https://github.com/romulof)), Software Engineer
