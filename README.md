@@ -756,3 +756,4 @@ Signed,
 - Alangi Derick ([@ch3nkula](https://github.com/ch3nkula)), Software Engineer, Cameroon
 - Alamgir Munir Qazi ([@alamgirqazi](https://github.com/alamgirqazi)), Software Engineer, Pakistan
 - Felipe Apostol ([@flipjs](https://github.com/flipjs)), Software Developer
+- Mashhur Sattorov ([@mashhur](https://github.com/mashhur)), Software Engineer, Uzbekistan
