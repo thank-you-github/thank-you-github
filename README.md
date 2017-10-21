@@ -716,3 +716,4 @@ Signed,
 - Jared Smith ([@jaredsmithse](https://github.com/jaredsmithse)), Software Engineer
 - Michael Burling ([@mjburling](https://github.com/mjburling)), Systems Engineer at [RedBrick Health](https://home.redbrickhealth.com/)
 - Afrizal Fikri ([@icalF](https://github.com/icalF)), Software Engineer, [Salestock](https://salestock.id)
+- Yashendra Shukla ([@yashendra2797](https://github.com/yashendra2797)), Part Time Hobbyist, Dropout, [Twitch Streamer](https://twitch.tv/yashendra2797), India
