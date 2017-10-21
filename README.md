@@ -810,3 +810,4 @@ Signed,
 - Elias Sjögreen ([@eliassjogreen](https://github.com/eliassjogreen)), Student ¯\_(ツ)_/¯
 - Juanma ([@aikijuanma](https://github.com/aikijuanma)), Developer, Catalonia
 - Eugene Obrezkov ([@ghaiklor](https://github.com/ghaiklor)), Senior Software Engineer, Ukraine
+- Chew Chit Siang ([@cchitsiang](https://github.com/cchitsiang)), Lead Developer @ [GoBike](https://www.gobike.asia), Malaysia
