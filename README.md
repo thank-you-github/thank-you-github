@@ -637,3 +637,4 @@ Signed,
 - Eliott Hauteclair ([@Eliottiosdevs](https://github.com/Eliottiosdevs)), Developer, Belgium
 - Wael Nasreddine ([@kalbasit](https://github.com/kalbasit)), VP of Engineering at [Publica](https://getpublica.com/)
 - Stephen Jennings ([@jennings](https://github.com/jennings)), Software Developer
+- Will Sahatdjian ([@kwcto](https://github.com/kwcto)), CTO at [Taxfyle](https://taxfyle.com/)
