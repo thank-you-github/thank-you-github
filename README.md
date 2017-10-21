@@ -810,10 +810,4 @@ Signed,
 - Elias Sjögreen ([@eliassjogreen](https://github.com/eliassjogreen)), Student ¯\_(ツ)_/¯
 - Juanma ([@aikijuanma](https://github.com/aikijuanma)), Developer, Catalonia
 - Eugene Obrezkov ([@ghaiklor](https://github.com/ghaiklor)), Senior Software Engineer, Ukraine
-- Sakib Sami ([@s4kibs4mi](https://github.com/s4kibs4mi)), Software Engineer, Bangladesh
-- Dmitry Dorogin ([@dmirogin](https://github.com/dmirogin)), Backend Developer, Russia
-- Josh Marchello ([@jmarchello](https://github.com/jmarchello)), Senior Software Engineer, Kansas, USA
-- Daniel Eckermann ([@ecrmnn](https://github.com/ecrmnn)), CTO @ ([Sempro](https://github.com/sempro))
-- Pulkit Gupta ([@pulkonet](https://github.com/pulkonet)), Undergrad Developer, India
-- Chew Chit Siang ([@cchitsiang](https://github.com/cchitsiang)), Lead Developer @ [GoBike](https://www.gobike.asia), Malaysia
-- Andy Mockler ([@asmockler])(https://github.com/asmockler)), Front-end Developer, Chicago, IL
+- Ondřej Kocián ([@kocisov](https://github.com/kocisov)), Student
