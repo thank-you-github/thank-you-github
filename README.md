@@ -720,3 +720,4 @@ Signed,
 - Sean Larkin ([@thelarkinn](https://github.com/thelarkinn)), Maintainer - [webpack](https://github.com/webpack)
 - Chris Lord ([@dexamped](https://github.com/dexamped)), Developer, Sydney, Australia
 - Mubaris NK ([@mubaris](https://github.com/mubaris)), Undergrad at IIIT Allahabad
+- Colin Fike ([@colinfike](https://github.com/colinfike)), Software Engineer, USA
