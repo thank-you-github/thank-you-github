@@ -760,3 +760,4 @@ Signed,
 - Eduard Daduya ([@ejdaduya](https://github.com/ejdaduya)), Software Engineer, Philippines
 - Niharika Shrivastava ([@OrionStar25](https://github.com/orionstar25)), IT Undergraduate at IIIT- Allahabad, India
 - Stefan Kecskes ([@skecskes](https://github.com/skecskes)), Software Engineer, UK
+- Abhinav Goyal ([@abhinav042])(https://github.com/abhinav042)), Student, Full Stack Developer, The University of Hong Kong, Hong Kong
