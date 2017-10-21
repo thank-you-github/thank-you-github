@@ -724,17 +724,4 @@ Signed,
 - John Lim ([@johnlim5847](https://github.com/johnlim5847)), Software Developer
 - Julia Wong ([@juliawong](https://github.com/juliawong)), Developer, Australia
 - Brian Zelip ([@brianzelip](https://github.com/brianzelip)), Front End Developer and Librarian
-- Yannis Kolovos ([@msroot](https://github.com/msroot)), Software Engineer @[nimber](https://www.nimber.com/), Greece
-- Matheus Cardoso ([@cardoso](https://github.com/cardoso)), iOS Engineer at [Rocket.Chat](https://rocket.chat)
-- Anthony Bouvier ([@thebouv](https://github.com/thebouv)), Geek Of All Trades
-- Jerome Leclanche ([@jleclanche](https://github.com/jleclanche)), CTO, [HearthSim](https://hearthsim.net)
-- Jon de Andres ([@jondeandres](https://github.com/jondeandres)), Software Engineer
-- Takako Ohshima ([@hatone](https://github.com/hatone)), Software Engineer
-- Lucas Klassmann ([@klassmann](https://github.com/klassmann)), Software Developer
-- João Manoel Lins ([@joaomanoel](https://github.com/joaomanoel)), Developer, Brazil
-- Thomas Willingham ([@willingham](https://github.com/willingham)), Software Developer
-- Michael Kotlikov ([@mkotlikov](https://github.com/mkotlikov)), Software Developer
-- Danny Zlobinsky ([@dzlobin](https://github.com/dzlobin)), Software Engineer at Facebook
-- Alex Ozer ([@alexozer](https://github.com/alexozer)), Developer
-- Gaurav Dalvi ([@gaurav-dalvi](https://github.com/gaurav-dalvi)), Software Engineer
-- Timothy Slater ([@tslater2006](https://github.com/tslater2006)), Software Developer
+- Ayman Nedjmeddine ([@IOAyman](https://github.com/IOAyman)), Node.js & Odoo Freelance Developer, Algeria
