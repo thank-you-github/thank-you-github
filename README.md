@@ -713,3 +713,4 @@ Signed,
 - Arman Ortega ([@sudogem](https://github.com/sudogem)), Full-Stack Developer, Cebu Philippines
 - William Wilson ([@williamtwilson](https://github.com/williamtwilson)), Software Developer
 - Stephen Petrey ([@smpetrey](https://github.com/smpetrey)), Web Designer & Developer
+- Jared Smith ([@jaredsmithse](https://github.com/jaredsmithse)), Software Engineer
