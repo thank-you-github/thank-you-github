@@ -732,3 +732,4 @@ Signed,
 - Takako Ohshima ([@hatone](https://github.com/hatone)), Software Engineer
 - Lucas Klassmann ([@klassmann](https://github.com/klassmann)), Software Developer
 - João Manoel Lins ([@joaomanoel](https://github.com/joaomanoel)), Developer, Brazil
+- Thomas Willingham ([@willingham](https://github.com/willingham)), Software Developer
