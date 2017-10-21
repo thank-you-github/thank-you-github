@@ -638,3 +638,4 @@ Signed,
 - Wael Nasreddine ([@kalbasit](https://github.com/kalbasit)), VP of Engineering at [Publica](https://getpublica.com/)
 - Stephen Jennings ([@jennings](https://github.com/jennings)), Software Developer
 - Erkan Durmus ([@derkan](https://github.com/derkan)), Software Engineer, Istanbul, Turkey
+- Antonio Di Motta ([@antdimot](https://github.com/antdimot)), Software Developer, Italy
