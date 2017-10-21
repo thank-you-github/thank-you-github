@@ -33,6 +33,7 @@ Signed,
 - Luís Fernando Guedes ([@fernandoguedes](https://github.com/fernandoguedes)), Bower Contributor
 - Sadjow Leão ([@sadjow](https://github.com/sadjow)), Software Developer
 - Keith Lewis ([@Jacrys](https://github.com/jacrys), [@TrinityComputers](https://github.com/TrinityComputers)), Owner/Lead Dev at Trinity Computers
+- Daniel Hsing ([@arthelon](https://github.com/arthelon)), Front-end Developer
 - Jacob Hamblin ([@jacobhamblin](https://github.com/jacobhamblin)), Developer
 - Burak Sarıca ([@buraksarica](https://github.com/buraksarica)), ABIS Technology
 - Paul Carey ([@paulccarey](https://github.com/paulccarey)), [Partner at Source[Lab]](http://sourcelab.technology/)
