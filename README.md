@@ -685,3 +685,4 @@ Signed,
 - Ankit Singh ([@ank-it](https://github.com/ank-it)), Software Engineer
 - April Rose Fresnillo ([@aprilfresnillo15] (https://github.com/aprilfresnillo15)), Software Engineer, Philippines
 - Chris Thurber ([@skiman6010](https://github.com/skiman6010)), Software Engineer, Indiana, United States
+- Normand Cyr ([@nccyr](https://github.com/nccyr)), Software Developer
