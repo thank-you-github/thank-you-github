@@ -702,3 +702,4 @@ Signed,
 - Tyler Kellogg ([@recurrence](https://github.com/recurrence)), Technologist, Vancouver, Canada
 - Raathigeshan Kugarajan ([@raathigesh](https://github.com/raathigesh)), Software Developer and Maker, Sri Lanka
 - Davy Wybiral ([@wybiral](https://github.com/wybiral)), Developer
+- Ramiro Olivera Fedi ([@ramadis](https://github.com/ramadis)), Software engineer, Argentina
