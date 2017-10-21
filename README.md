@@ -749,3 +749,4 @@ Signed,
 - Niu Yunpeng ([@yunpengn](https://github.com/yunpengn/)), Student, Full-Stack Developer, Singapore
 - Matthew East ([@DrOfAwesomeness](https://github.com/DrOfAwesomeness/)),  System Administrator
 - Klein Lieu ([@kleinlieu](https://github.com/kleinlieu)), Software Developer, Oakland, CA, USA
+- Mason Hoang ([@legiahoang](https://github.com/legiahoang)), Javascript Developer, VietNam
