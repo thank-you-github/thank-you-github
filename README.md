@@ -728,3 +728,4 @@ Signed,
 - Matheus Cardoso ([@cardoso](https://github.com/cardoso)), iOS Engineer at [Rocket.Chat](https://rocket.chat)
 - Anthony Bouvier ([@thebouv](https://github.com/thebouv)), Geek Of All Trades
 - Jerome Leclanche ([@jleclanche](https://github.com/jleclanche)), CTO, [HearthSim](https://hearthsim.net)
+- Jon de Andres ([@jondeandres](https://github.com/jondeandres)), Software Engineer
