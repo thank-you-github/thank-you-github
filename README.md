@@ -643,3 +643,4 @@ Signed,
 - Stephan Cilliers ([@stephancill](https://github.com/stephancill)), Student, South Africa
 - Cryven Mo([@codcodog](https://github.com/codcodog)), Web Developer, China.
 - Setyo Nugroho ([@setyongr](https://github.com/setyongr)), Software Developer
+- Paulo Freitas ([@paulofreitas](https://github.com/paulofreitas)), Software Engineer, Brazil
