@@ -801,3 +801,4 @@ Signed,
 - Kriti Singh ([@kritisingh1](https://github.com/kritisingh1)), Computer Science Undergraduate, IIT Roorkee, India
 - Supun Sudaraka ([@ssudaraka](https://github.com/ssudaraka)), Software Engineer, Sri Lanka
 - Anurag Kumar ([@anuragkumarak95](https://github.com/anuragkumarak95)), Software Developer and ML Enthusiast, India
+- Diego Rodríguez Baquero ([@diegorbaquero](https://github.com/diegorbaquero)), Full-stack Software Developer, Colombia
