@@ -727,3 +727,4 @@ Signed,
 - Yannis Kolovos ([@msroot](https://github.com/msroot)), Software Engineer @[nimber](https://www.nimber.com/), Greece
 - Matheus Cardoso ([@cardoso](https://github.com/cardoso)), iOS Engineer at [Rocket.Chat](https://rocket.chat)
 - Anthony Bouvier ([@thebouv](https://github.com/thebouv)), Geek Of All Trades
+- Jerome Leclanche ([@jleclanche](https://github.com/jleclanche)), CTO, [HearthSim](https://hearthsim.net)
