@@ -735,3 +735,4 @@ Signed,
 - Thomas Willingham ([@willingham](https://github.com/willingham)), Software Developer
 - Michael Kotlikov ([@mkotlikov](https://github.com/mkotlikov)), Software Developer
 - Danny Zlobinsky ([@dzlobin](https://github.com/dzlobin)), Software Engineer at Facebook
+- Alex Ozer ([@alexozer](https://github.com/alexozer)), Developer
