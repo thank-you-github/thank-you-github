@@ -814,3 +814,4 @@ Signed,
 - Dmitry Dorogin ([@dmirogin](https://github.com/dmirogin)), Backend Developer, Russia
 - Josh Marchello ([@jmarchello](https://github.com/jmarchello)), Senior Software Engineer, Kansas, USA
 - Daniel Eckermann ([@ecrmnn](https://github.com/ecrmnn)), CTO @ ([Sempro](https://github.com/sempro))
+- Pulkit Gupta ([@pulkonet](https://github.com/pulkonet)), Undergrad Developer, India
