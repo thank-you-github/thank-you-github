@@ -683,3 +683,4 @@ Signed,
 - Raphael Costa ([@raphaelcosta](https://github.com/raphaelcosta)), Head of Platfrom at [Pipefy](https://www.pipefy.com/developers/)
 - Rômulo Fernandes ([@romulof](https://github.com/romulof)), Software Engineer
 - Ankit Singh ([@ank-it](https://github.com/ank-it)), Software Engineer
+- April Rose Fresnillo ([@aprilfresnillo15] (https://github.com/aprilfresnillo15)), Software Engineer, Philippines
