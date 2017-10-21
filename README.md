@@ -777,3 +777,4 @@ Signed,
 - Riccardo Serafini ([@tapionx](https://github.com/tapionx)), Web Developer, Italy
 - Pietro Menna ([@pietromenna](https://github.com/pietromenna)), Software Developer, Brazil
 - Marcin Wierzbanowski ([@mavier](https://github.com/mavier)), Software Engineer, Poland
+- Michael McDaniel ([@mitmcdan](https://github.com/mitmcdan)), Software/Web Developer, Indiana, United States
