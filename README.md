@@ -750,3 +750,4 @@ Signed,
 - Matthew East ([@DrOfAwesomeness](https://github.com/DrOfAwesomeness/)),  System Administrator
 - Klein Lieu ([@kleinlieu](https://github.com/kleinlieu)), Software Developer, Oakland, CA, USA
 - Mason Hoang ([@legiahoang](https://github.com/legiahoang)), Javascript Developer, VietNam
+- Christian Heider Nielsen ([@cnheider](https://github.com/cnheider)), Machine Intelligence Researcher, Denmark
