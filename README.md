@@ -655,3 +655,4 @@ Signed,
 - Rajika Imal ([@rajikaimal](https://github.com/rajikaimal)), Software Engineer, Sri Lanka
 - Gabriel Cueto ([@TheMushrr00m](https://github.com/TheMushrr00m)), Software Developer, Mexico
 - Anton Kulakov ([@kulakowka](https://github.com/kulakowka)), UI Developer, Russia
+- Luan Nguyen ([@tklarryonline](https://github.com/tklarryonline)), Full-stack Developer, Cook, Student @ UniMelb
