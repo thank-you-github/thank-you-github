@@ -769,3 +769,4 @@ Signed,
 - Md Eftakhairul Islam ([@eftakhairul](https://github.com/eftakhairul)), Software Engineer, Canada
 - Abhinav Goyal ([@abhinav042](https://github.com/abhinav042)), Student, Full Stack Developer, The University of Hong Kong, Hong Kong
 - Marcelo Boeira ([@marceloboeira](https://github.com/marceloboeira)), Software Engineer, Berlin
+- Chang Liu ([@fluency03](https://github.com/fluency03)), Software Developer, China
