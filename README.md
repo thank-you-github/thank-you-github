@@ -772,3 +772,4 @@ Signed,
 - Chang Liu ([@fluency03](https://github.com/fluency03)), Software Developer, China
 - Saravanan ([@saravntbe](https://github.com/saravntbe)), Front End Engineer,TamilNadu,India
 - Nicolò Tilotta ([@ntilotta](https://github.com/ntilotta)), Blockchain Developer
+- Agrim Mittal ([@agrim123](https://github.com/agrim123)), Developer, Undergrad at IIT Rookee, India
