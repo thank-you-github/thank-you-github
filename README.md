@@ -800,3 +800,4 @@ Signed,
 - Alexander Miranda ([@ammiranda](https://github.com/ammiranda)), Software Development Engineer, Seattle, WA, United States
 - Kriti Singh ([@kritisingh1](https://github.com/kritisingh1)), Computer Science Undergraduate, IIT Roorkee, India
 - Supun Sudaraka ([@ssudaraka](https://github.com/ssudaraka)), Software Engineer, Sri Lanka
+- Anurag Kumar ([@anuragkumarak95](https://github.com/anuragkumarak95)), Software Developer and ML Enthusiast, India
