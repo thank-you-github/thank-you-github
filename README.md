@@ -646,3 +646,4 @@ Signed,
 - Paulo Freitas ([@paulofreitas](https://github.com/paulofreitas)), Software Engineer, Brazil
 - Tomer Steinfeld ([@corevo](https://github.com/corevo)), Developer and Open Source lover, Israel
 - Kartikey Pandey ([@kartik-25](https://github.com/kartik-25)), Developer, Undergrad at IIT Roorkee, India.
+- Gong Dapeng ([@byr-gdp](https://github.com/byr-gdp)), Front-End Developer
