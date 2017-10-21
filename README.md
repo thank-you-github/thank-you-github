@@ -700,3 +700,4 @@ Signed,
 - Cory Virok ([@coryvirok](https://github.com/coryvirok)), Co-Founder, CTO at [Rollbar](https://rollbar.com/)
 - Tuan Lai ([@laituan245](https://github.com/laituan245)), Software Developer, Vietnam
 - Tyler Kellogg ([@recurrence](https://github.com/recurrence)), Technologist, Vancouver, Canada
+- Raathigeshan Kugarajan ([@raathigesh](https://github.com/raathigesh)), Software Developer and Maker, Sri Lanka
