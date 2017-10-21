@@ -704,3 +704,5 @@ Signed,
 - Davy Wybiral ([@wybiral](https://github.com/wybiral)), Developer
 - Ramiro Olivera Fedi ([@ramadis](https://github.com/ramadis)), Software engineer, Argentina
 - Juan Amari ([@juanamari94](https://github.com/juanamari94)), Software Engineer
+- Merzak Seven ([@merzak7](https://github.com/merzak7)), Full Stack Developer, Algeria
+
