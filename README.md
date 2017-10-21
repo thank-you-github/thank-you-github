@@ -661,6 +661,7 @@ Signed,
 - Will Sahatdjian ([@kwcto](https://github.com/kwcto)), CTO at [Taxfyle](https://taxfyle.com/)
 - Nicholas Rebhun ([@nrebhun](https://github.com/nrebhun)), Software Developer at [D&B](https://www.dnb.com/)
 - Asa Jenkins ([@4thJenkins17] (https://github.com/4thJenkins17)), Associate Developer at Kikoda, Tallahassee, FL
+- April Rose Fresnillo ([@aprilfresnillo15] (https://github.com/aprilfresnillo15)), Software Engineer, Philippines
 - Nikhil Kaushik ([@c0dzilla](https://github.com/c0dzilla)), Developer, Computer Science Undergrad, IIT Roorkee
 - Mohd Nazar Mubeen ([@nazarmubeen] (https://github.com/nazarmubeen)), Software Engineer , Hyderabad , India
 - Sharad Shinde ([@shindesharad71] (https://github.com/shindesharad71)), Web Developer, Pune, India
