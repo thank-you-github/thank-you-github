@@ -778,3 +778,4 @@ Signed,
 - Pietro Menna ([@pietromenna](https://github.com/pietromenna)), Software Developer, Brazil
 - Marcin Wierzbanowski ([@mavier](https://github.com/mavier)), Software Engineer, Poland
 - Michael McDaniel ([@mitmcdan](https://github.com/mitmcdan)), Software/Web Developer, Indiana, United States
+- Diogo Cezar ([@diogocezar](https://github.com/diogocezar)), Teacher and Full Stack Web Developer, Brazil
