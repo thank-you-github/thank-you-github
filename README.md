@@ -796,3 +796,4 @@ Signed,
 - Ankit Pokhrel([@ankitpokhrel](https://github.com/ankitpokhrel)), Software Engineer/Architect, Nepal
 - Kevin He ([@kevinxh](https://github.com/kevinxh)), Front-end Engineer, Vancouver, Canada
 - Geraldo Ramos ([@geraldoramos](https://github.com/geraldoramos)), Co-Founder at Hackhands.com
+- Sree Harsha Ramesh ([@shramesh](https://github.com/shramesh)), Graduate Student, College of Information and Computer Sciences, UMass Amherst
