@@ -746,3 +746,4 @@ Signed,
 - Sergio de la Garza ([@sgarza](https://github.com/sgarza)), Software Developer
 - Fabio Espinosa ([@fabioespinosa](https://github.com/fabioespinosa)), Creator of [Los Estudiantes](https://losestudiantes.co/), Colombia
 - Alex Lavin ([@BoltzmannBrain](https://github.com/BoltzmannBrain)), SW & Research Engineer
+- Niu Yunpeng ([@yunpengn](https://github.com/yunpengn/)), Student, Full-Stack Developer, Singapore
