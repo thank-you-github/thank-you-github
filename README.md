@@ -828,3 +828,4 @@ Signed,
 - Colin ([@moshen](https://github.com/moshen)), Developer, Canada
 - Ajay Kavuri ([@pseudoaj](https://github.com/pseudoaj)), Software Development Engineer, Seattle, WA
 - Amila Welihinda ([@amilajack](https://github.com/amilajack)), Open Sourcerer. Working to improve DX for the web platform. Previously at @uber
+- Esteban Fuentealba ([@EstebanFuentealba](https://github.com/EstebanFuentealba)), Software Development, Talcahuano, Chile
