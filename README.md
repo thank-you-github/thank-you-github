@@ -827,3 +827,4 @@ Signed,
 - Dov ([@DAlperin](https://github.com/DAlperin)), Student, Developer, Resident of planet earth.
 - Colin ([@moshen](https://github.com/moshen)), Developer, Canada
 - Ajay Kavuri ([@pseudoaj](https://github.com/pseudoaj)), Software Development Engineer, Seattle, WA
+- Amila Welihinda ([@amilajack](https://github.com/amilajack)), Open Sourcerer. Working to improve DX for the web platform. Previously at @uber
