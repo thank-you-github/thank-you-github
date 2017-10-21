@@ -724,3 +724,4 @@ Signed,
 - John Lim ([@johnlim5847](https://github.com/johnlim5847)), Software Developer
 - Julia Wong ([@juliawong](https://github.com/juliawong)), Developer, Australia
 - Brian Zelip ([@brianzelip](https://github.com/brianzelip)), Front End Developer and Librarian
+- Yannis Kolovos ([@msroot](https://github.com/msroot)), Software Engineer @[nimber](https://www.nimber.com/), Greece
