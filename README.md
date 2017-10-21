@@ -694,3 +694,4 @@ Signed,
 - Bernd Rennebeck ([@brennebeck](https://github.com/brennebeck)), CTO@[August 99](https://august99.com)
 - Jade Thornton ([@raindeer44](https://github.com/raindeer44)), Software Engineer
 - Lokesh Basu ([@lcbasu](https://github.com/lcbasu)), Senior Software Engineer
+- Nick Shook ([@shicholas](https://github.com/shicholas)), Software Developer/Lawyer, Vegas
