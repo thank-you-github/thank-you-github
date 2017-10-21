@@ -752,3 +752,4 @@ Signed,
 - Mason Hoang ([@legiahoang](https://github.com/legiahoang)), Javascript Developer, VietNam
 - Jasper Guerrero ([@guerrerojasper](https://github.com/guerrerojasper)), Software Engineer, Philippines
 - Christian Heider Nielsen ([@cnheider](https://github.com/cnheider)), Machine Intelligence Researcher, Denmark
+- Perry Fraser ([@perryprog](https://github.com/perryprog)), Software Developer
