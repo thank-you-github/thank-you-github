@@ -637,3 +637,4 @@ Signed,
 - Eliott Hauteclair ([@Eliottiosdevs](https://github.com/Eliottiosdevs)), Developer, Belgium
 - Wael Nasreddine ([@kalbasit](https://github.com/kalbasit)), VP of Engineering at [Publica](https://getpublica.com/)
 - Stephen Jennings ([@jennings](https://github.com/jennings)), Software Developer
+- Sean Larkin ([@thelarkinn](https://github.com/thelarkinn)), Maintainer - [webpack](https://github.com/webpack)
