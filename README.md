@@ -750,3 +750,4 @@ Signed,
 - Matthew East ([@DrOfAwesomeness](https://github.com/DrOfAwesomeness/)),  System Administrator
 - Klein Lieu ([@kleinlieu](https://github.com/kleinlieu)), Software Developer, Oakland, CA, USA
 - Mason Hoang ([@legiahoang](https://github.com/legiahoang)), Javascript Developer, VietNam
+- Jasper Guerrero ([@guerrerojasper](https://github.com/guerrerojasper)), Software Engineer, Philippines
