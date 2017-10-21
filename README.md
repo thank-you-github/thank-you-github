@@ -776,3 +776,4 @@ Signed,
 - Mindaugas Mozūras([@mmozuras](https://github.com/mmozuras)), Head of Engineering @ [Vinted](https://github.com/Vinted), Lithuania
 - Riccardo Serafini ([@tapionx](https://github.com/tapionx)), Web Developer, Italy
 - Pietro Menna ([@pietromenna](https://github.com/pietromenna)), Software Developer, Brazil
+- Laurynas Tumosa ([@laur1s](https://github.com/laur1s)), Python Developer, London
