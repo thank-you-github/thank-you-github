@@ -637,6 +637,7 @@ Signed,
 - Eliott Hauteclair ([@Eliottiosdevs](https://github.com/Eliottiosdevs)), Developer, Belgium
 - Wael Nasreddine ([@kalbasit](https://github.com/kalbasit)), VP of Engineering at [Publica](https://getpublica.com/)
 - Stephen Jennings ([@jennings](https://github.com/jennings)), Software Developer
+- Mason Hoang ([@legiahoang](https://github.com/legiahoang)), Javascript Developer, VietNam
 - Erkan Durmus ([@derkan](https://github.com/derkan)), Software Engineer, Istanbul, Turkey
 - Antonio Di Motta ([@antdimot](https://github.com/antdimot)), Software Developer, Italy
 - Aldrin Bautistsa ([@adin234](https://github.com/adin234)), Software Developer
@@ -738,3 +739,4 @@ Signed,
 - Alex Ozer ([@alexozer](https://github.com/alexozer)), Developer
 - Gaurav Dalvi ([@gaurav-dalvi](https://github.com/gaurav-dalvi)), Software Engineer
 - Timothy Slater ([@tslater2006](https://github.com/tslater2006)), Software Developer
+
