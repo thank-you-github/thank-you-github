@@ -637,3 +637,4 @@ Signed,
 - Eliott Hauteclair ([@Eliottiosdevs](https://github.com/Eliottiosdevs)), Developer, Belgium
 - Wael Nasreddine ([@kalbasit](https://github.com/kalbasit)), VP of Engineering at [Publica](https://getpublica.com/)
 - Stephen Jennings ([@jennings](https://github.com/jennings)), Software Developer
+- Chris Hunter ([@hunt3r](https://github.com/hunt3r)), Sr. Engineering Manager at [URBN](https://www.urbn.com)
