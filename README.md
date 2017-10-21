@@ -729,3 +729,4 @@ Signed,
 - Anthony Bouvier ([@thebouv](https://github.com/thebouv)), Geek Of All Trades
 - Jerome Leclanche ([@jleclanche](https://github.com/jleclanche)), CTO, [HearthSim](https://hearthsim.net)
 - Jon de Andres ([@jondeandres](https://github.com/jondeandres)), Software Engineer
+- Takako Ohshima ([@hatone](https://github.com/hatone)), Software Engineer
