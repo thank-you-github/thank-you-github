@@ -715,3 +715,4 @@ Signed,
 - Stephen Petrey ([@smpetrey](https://github.com/smpetrey)), Web Designer & Developer
 - Jared Smith ([@jaredsmithse](https://github.com/jaredsmithse)), Software Engineer
 - Michael Burling ([@mjburling](https://github.com/mjburling)), Systems Engineer at [RedBrick Health](https://home.redbrickhealth.com/)
+- Afrizal Fikri ([@icalF](https://github.com/icalF)), Software Engineer, [Salestock](https://salestock.id)
