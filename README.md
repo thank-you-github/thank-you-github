@@ -726,3 +726,4 @@ Signed,
 - Brian Zelip ([@brianzelip](https://github.com/brianzelip)), Front End Developer and Librarian
 - Yannis Kolovos ([@msroot](https://github.com/msroot)), Software Engineer @[nimber](https://www.nimber.com/), Greece
 - Matheus Cardoso ([@cardoso](https://github.com/cardoso)), iOS Engineer at [Rocket.Chat](https://rocket.chat)
+- Anthony Bouvier ([@thebouv](https://github.com/thebouv)), Geek Of All Trades
