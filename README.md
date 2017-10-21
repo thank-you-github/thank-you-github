@@ -787,3 +787,4 @@ Signed,
 - Pranav Velamakanni ([@pv9](https://github.com/pv9)), Software Engineer, Florida
 - 王慕羣 Kewang ([@kewang](https://github.com/kewang)), Software Developer, Taiwan
 - Max Simon ([@max-simon](https://github.com/max-simon)), Student, Germany
+- Johnny Reina ([@jreina](https://github.com/jreina)), Software Developer, Lubbock, TX, United States
