@@ -690,3 +690,4 @@ Signed,
 - Khurshid Fayzullaev ([@khfayzullaev](https://github.com/khfayzullaev)), Backend Engineer at Vimeo
 - Justin Cypret ([@jcypret](https://github.com/jcypret)), Software Engineer at [TaxJar](https://www.taxjar.com)
 - Ben Damman ([@typesend](https://github.com/typesend)), Entrepreneur and former [U.S. Digital Service](https://www.usds.gov/) engineer
+- Chris Hunter ([@hunt3r](https://github.com/hunt3r)), Sr. Engineering Manager at [URBN](https://www.urbn.com)
