@@ -723,3 +723,4 @@ Signed,
 - Colin Fike ([@colinfike](https://github.com/colinfike)), Software Engineer, USA
 - John Lim ([@johnlim5847](https://github.com/johnlim5847)), Software Developer
 - Julia Wong ([@juliawong](https://github.com/juliawong)), Developer, Australia
+- Brian Zelip ([@brianzelip](https://github.com/brianzelip)), Front End Developer and Librarian
