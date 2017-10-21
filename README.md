@@ -809,3 +809,4 @@ Signed,
 - Diego Rodríguez Baquero ([@diegorbaquero](https://github.com/diegorbaquero)), Full-stack Software Developer, Colombia
 - Elias Sjögreen ([@eliassjogreen](https://github.com/eliassjogreen)), Student ¯\_(ツ)_/¯
 - Juanma ([@aikijuanma](https://github.com/aikijuanma)), Developer, Catalonia
+- Eugene Obrezkov ([@ghaiklor](https://github.com/ghaiklor)), Senior Software Engineer, Ukraine
