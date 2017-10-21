@@ -718,3 +718,4 @@ Signed,
 - Afrizal Fikri ([@icalF](https://github.com/icalF)), Software Engineer, [Salestock](https://salestock.id)
 - Yashendra Shukla ([@yashendra2797](https://github.com/yashendra2797)), Part Time Hobbyist, Dropout, [Twitch Streamer](https://twitch.tv/yashendra2797), India
 - Sean Larkin ([@thelarkinn](https://github.com/thelarkinn)), Maintainer - [webpack](https://github.com/webpack)
+- Chris Lord ([@dexamped](https://github.com/dexamped)), Developer, Sydney, Australia
