@@ -759,3 +759,4 @@ Signed,
 - Mashhur Sattorov ([@mashhur](https://github.com/mashhur)), Software Engineer, Uzbekistan
 - Eduard Daduya ([@ejdaduya](https://github.com/ejdaduya)), Software Engineer, Philippines
 - Niharika Shrivastava ([@OrionStar25](https://github.com/orionstar25)), IT Undergraduate at IIIT- Allahabad, India
+- Alaa Masoud ([@alaatm](https://github.com/alaatm)), Software Developer
