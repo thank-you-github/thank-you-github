@@ -652,3 +652,4 @@ Signed,
 - Navin Pai ([@navinpai](https://github.com/navinpai)), CTO at FifthEye Inc., India
 - Anupam Dagar ([@Anupam-dagar](https://github.com/Anupam-dagar)), Full Stack Developer, Undergrad at IIIT Allahabad
 - Faizan Virani ([@faizanv](https://github.com/faizanv)), Georgia Tech Student
+- Rajika Imal ([@rajikaimal](https://github.com/rajikaimal)), Software Engineer, Sri Lanka
