@@ -660,3 +660,4 @@ Signed,
 - Zhang Yongsong ([@zhangyongsong](https://github.com/zhangyongsong)), Software Developer, Singapore
 - Will Sahatdjian ([@kwcto](https://github.com/kwcto)), CTO at [Taxfyle](https://taxfyle.com/)
 - Nicholas Rebhun ([@nrebhun](https://github.com/nrebhun)), Software Developer at [D&B](https://www.dnb.com/)
+- Asa Jenkins ([@4thJenkins17] (https://github.com/4thJenkins17)), Associate Developer at Kikoda, Tallahassee, FL
