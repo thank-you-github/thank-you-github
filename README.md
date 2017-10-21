@@ -538,6 +538,7 @@ Signed,
 - Aritra Roy ([@aritraroy](https://github.com/aritraroy)), Android Developer, India.
 - Rahul Chowdhury ([@rahulchowdhury](https://github.com/rahulchowdhury)), Android App Baker
 - Fábio Assunção ([@fabioassuncao](https://github.com/fabioassuncao)), Full Stack Web Developer, Brazil
+- Praneet Loke ([@praneetloke](https://github.com/praneetloke)), Seattle, WA
 - Debanjan Basu ([@debanjan-basu](https://github.com/debanjan-basu)), Software Developer, Muscat, Oman
 - MD Danish Ansari ([@mddanishansari](https://github.com/mddanishansari)), Android Developer, India
 - Urmanschi Mihail  ([@dsdmsa](https://github.com/dsdmsa)), Android Developer
