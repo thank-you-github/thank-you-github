@@ -197,6 +197,7 @@ Signed,
 - unbug ([@unbug](https://github.com/unbug)), Author of [MIHTool](http://www.mihtool.com/) and [Codelf](http://unbug.github.io/codelf/)
 - Adam Johnson ([@adamchainz](https://github.com/adamchainz)), Developer
 - Louis Solofrizzo ([@ne02ptzero](https://github.com/Ne02ptzero)), Software Developer
+- Liu Lantao ([@Lax](https://github.com/Lax)), Software Engineer, Open Source enthusiast, China
 - Aditya Kapoor ([@aditya-kapoor](https://github.com/aditya-kapoor)), Software Developer and Rails Core Contributor
 - Julio Reyes ([@nemesiscodex](https://github.com/nemesiscodex)), Software Developer and Open Source enthusiast
 - Wasim Thabraze ([@waseem18](https://github.com/waseem18)), Founder of Openflock, Open Source enthusiast
