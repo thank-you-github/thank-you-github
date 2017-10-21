@@ -824,3 +824,4 @@ Signed,
 - Banso D. Wisdom ([@Overrideveloper](https://github.com/Overrideveloper)), Developer and Technical Writer, Nigeria
 - Evan ([@CodeDraken](https://github.com/CodeDraken)), Developer, Milky Way Galaxy
 - Pixel ([@MasterJPixel](https://github.com/MasterJPixel)), Web Developer, USA
+- Dov ([@DAlperin](https://github.com/DAlperin)), Student, Developer, Resident of planet earth.
