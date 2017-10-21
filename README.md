@@ -665,3 +665,4 @@ Signed,
 - Mohd Nazar Mubeen ([@nazarmubeen] (https://github.com/nazarmubeen)), Software Engineer , Hyderabad , India
 - Sharad Shinde ([@shindesharad71] (https://github.com/shindesharad71)), Web Developer, Pune, India
 - Alexey Raspopov ([@alexeyraspopov](https://github.com/alexeyraspopov)), Software Engineer, Ukraine
+- Vedansh Bhartia ([@vedanshbhartia](https://github.com/vedanshbhartia)), Developer, Undergrad at IIT Roorkee
