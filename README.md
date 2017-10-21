@@ -757,3 +757,4 @@ Signed,
 - Alamgir Munir Qazi ([@alamgirqazi](https://github.com/alamgirqazi)), Software Engineer, Pakistan
 - Felipe Apostol ([@flipjs](https://github.com/flipjs)), Software Developer
 - Mashhur Sattorov ([@mashhur](https://github.com/mashhur)), Software Engineer, Uzbekistan
+- Eduard Daduya ([@ejdaduya](https://github.com/ejdaduya)), Software Engineer, Philippines
