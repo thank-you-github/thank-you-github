@@ -792,3 +792,4 @@ Signed,
 - Daniel Pinto ([@cayan](https://github.com/cayan)), Software Developer, Brazil
 - Hugo ([@AnanaGame](https://github.com/AnanaGame)), Ruby and Java developer, Geneva
 - Dan Iverspn ([@iversond](https://github.com/iversond)), System Admin, Minnesota
+- Alexander Miranda ([@ammiranda](https://github.com/ammiranda)), Software Development Engineer, Seattle, WA, United States
