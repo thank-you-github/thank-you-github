@@ -651,3 +651,4 @@ Signed,
 - K M Rakibul Islam ([@rakibulislam](https://github.com/rakibulislam)), Software Engineer, Toronto, CA
 - Navin Pai ([@navinpai](https://github.com/navinpai)), CTO at FifthEye Inc., India
 - Anupam Dagar ([@Anupam-dagar](https://github.com/Anupam-dagar)), Full Stack Developer, Undergrad at IIIT Allahabad
+- Faizan Virani ([@faizanv](https://github.com/faizanv)), Georgia Tech Student
