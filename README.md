@@ -807,7 +807,7 @@ Signed,
 - Akash Krishnan ([@akashfoss](https://github.com/akashfoss)), Designer & Developer, India
 - Mehdi Dehghani ([@dehghani-mehdi](https://github.com/dehghani-mehdi)), Full Stack Web Developer, Uplifting Trance Producer, Iran
 - Diego Rodríguez Baquero ([@diegorbaquero](https://github.com/diegorbaquero)), Full-stack Software Developer, Colombia
-- Elias Sjögreen ([@eliassjogreen](https://github.com/eliassjogreen)), Student ¯\_(ツ)_/¯
+- Elias Sjögreen ([@eliassjogreen](https://github.com/eliassjogreen)), Student ¯\\\_(ツ)\_/¯
 - Juanma ([@aikijuanma](https://github.com/aikijuanma)), Developer, Catalonia
 - Eugene Obrezkov ([@ghaiklor](https://github.com/ghaiklor)), Senior Software Engineer, Ukraine
 - Sakib Sami ([@s4kibs4mi](https://github.com/s4kibs4mi)), Software Engineer, Bangladesh
