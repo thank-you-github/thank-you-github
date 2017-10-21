@@ -773,3 +773,4 @@ Signed,
 - Saravanan ([@saravntbe](https://github.com/saravntbe)), Front End Engineer,TamilNadu,India
 - Nicolò Tilotta ([@ntilotta](https://github.com/ntilotta)), Blockchain Developer
 - Agrim Mittal ([@agrim123](https://github.com/agrim123)), Developer, Undergrad at IIT Rookee, India
+- Mindaugas Mozūras([@mmozuras](https://github.com/mmozuras)), Head of Engineering @ [Vinted](https://github.com/Vinted), Lithuania
