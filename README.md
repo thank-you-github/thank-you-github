@@ -805,3 +805,4 @@ Signed,
 - Aditya Agarwal ([@itaditya](https://github.com/itaditya)), Javascript Developer, India
 - Antonio Angelino ([@antonioangelino](https://github.com/antonioangelino)), CEO @ [Plainflow](https://www.plainflow.com)
 - Akash Krishnan ([@akashfoss](https://github.com/akashfoss)), Designer & Developer, India
+- Mehdi Dehghani ([@dehghani-mehdi](https://github.com/dehghani-mehdi)), Full Stack Web Developer, Uplifting Trance Producer, Iran
