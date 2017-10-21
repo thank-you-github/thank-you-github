@@ -771,3 +771,4 @@ Signed,
 - Marcelo Boeira ([@marceloboeira](https://github.com/marceloboeira)), Software Engineer, Berlin
 - Chang Liu ([@fluency03](https://github.com/fluency03)), Software Developer, China
 - Saravanan ([@saravntbe](https://github.com/saravntbe)), Front End Engineer,TamilNadu,India
+- Nicolò Tilotta ([@ntilotta](https://github.com/ntilotta)), Blockchain Developer
