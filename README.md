@@ -826,3 +826,4 @@ Signed,
 - Pixel ([@MasterJPixel](https://github.com/MasterJPixel)), Web Developer, USA
 - Dov ([@DAlperin](https://github.com/DAlperin)), Student, Developer, Resident of planet earth.
 - Colin ([@moshen](https://github.com/moshen)), Developer, Canada
+- Ajay Kavuri ([@pseudoaj](https://github.com/pseudoaj)), Software Development Engineer, Seattle, WA
