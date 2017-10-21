@@ -691,3 +691,4 @@ Signed,
 - Justin Cypret ([@jcypret](https://github.com/jcypret)), Software Engineer at [TaxJar](https://www.taxjar.com)
 - Ben Damman ([@typesend](https://github.com/typesend)), Entrepreneur and former [U.S. Digital Service](https://www.usds.gov/) engineer
 - Chris Hunter ([@hunt3r](https://github.com/hunt3r)), Sr. Engineering Manager at [URBN](https://www.urbn.com)
+- Bernd Rennebeck ([@brennebeck](https://github.com/brennebeck)), CTO@[August 99](https://august99.com)
