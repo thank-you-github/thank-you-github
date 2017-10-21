@@ -804,3 +804,4 @@ Signed,
 - Dustin Deus ([@starptech](https://github.com/starptech)), Software Engineer/Architect at netzkern.de, Germany
 - Aditya Agarwal ([@itaditya](https://github.com/itaditya)), Javascript Developer, India
 - Antonio Angelino ([@antonioangelino](https://github.com/antonioangelino)), CEO @ [Plainflow](https://www.plainflow.com)
+- Akash Krishnan ([@akashfoss](https://github.com/akashfoss)), Designer & Developer, India
