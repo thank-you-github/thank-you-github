@@ -679,3 +679,4 @@ Signed,
 - Dev Chakraborty ([@devchakraborty](https://github.com/devchakraborty)), Undergrad, University of Waterloo
 - Sterling Baldwin ([@sterlingbaldwin](https://github.com/sterlingbaldwin)), Software Developer
 - Maria Camila Remolina-Gutiérrez ([@mariacamilaremolinagutierrez](https://github.com/mariacamilaremolinagutierrez)), Physicist & Computer Engineering Student, Colombia
+- Dan Segal ([@djsegal](https://github.com/djsegal)), Software Engineer
