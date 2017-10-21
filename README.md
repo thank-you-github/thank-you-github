@@ -637,3 +637,4 @@ Signed,
 - Eliott Hauteclair ([@Eliottiosdevs](https://github.com/Eliottiosdevs)), Developer, Belgium
 - Wael Nasreddine ([@kalbasit](https://github.com/kalbasit)), VP of Engineering at [Publica](https://getpublica.com/)
 - Stephen Jennings ([@jennings](https://github.com/jennings)), Software Developer
+- Apoorv Kulkarni ([@apoorv-kulkarni](https://github.com/apoorv-kulkarni)), Engineer [Apoorv Kulkarni](https://apoorvkulkarni.me/)
