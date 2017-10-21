@@ -695,3 +695,4 @@ Signed,
 - Jade Thornton ([@raindeer44](https://github.com/raindeer44)), Software Engineer
 - Lokesh Basu ([@lcbasu](https://github.com/lcbasu)), Senior Software Engineer
 - Nick Shook ([@shicholas](https://github.com/shicholas)), Software Developer/Lawyer, Vegas
+- Yangshun Tay ([@yangshun](https://github.com/yangshun)), Front End Engineer, Singapore
