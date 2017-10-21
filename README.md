@@ -657,3 +657,4 @@ Signed,
 - Anton Kulakov ([@kulakowka](https://github.com/kulakowka)), UI Developer, Russia
 - Luan Nguyen ([@tklarryonline](https://github.com/tklarryonline)), Full-stack Developer, Cook, Student @ UniMelb
 - Joel Bryan Juliano ([@jjuliano](https://github.com/jjuliano)), Full-Stack Rubyist & Senior Rails Engineer, Philippines
+- Zhang Yongsong ([@zhangyongsong](https://github.com/zhangyongsong)), Software Developer, Singapore
