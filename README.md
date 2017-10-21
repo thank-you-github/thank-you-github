@@ -765,3 +765,4 @@ Signed,
 - Alaa Masoud ([@alaatm](https://github.com/alaatm)), Software Developer
 - Timo Lins([@timolins](https://github.com/timolins)), Software Developer, Austria
 - Dongri Jin ([@dongri](https://github.com/dongri)), Software Engineer, Japan
+- 毛小可嗒嗒([@maoxiaoke](https://github.com/maoxiaoke)), JavaScript Developer, China
