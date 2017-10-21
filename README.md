@@ -767,3 +767,4 @@ Signed,
 - Dongri Jin ([@dongri](https://github.com/dongri)), Software Engineer, Japan
 - 毛小可嗒嗒([@maoxiaoke](https://github.com/maoxiaoke)), JavaScript Developer, China
 - Md Eftakhairul Islam ([@eftakhairul](https://github.com/eftakhairul)), Software Engineer, Canada
+- Abhinav Goyal ([@abhinav042](https://github.com/abhinav042)), Student, Full Stack Developer, The University of Hong Kong, Hong Kong
