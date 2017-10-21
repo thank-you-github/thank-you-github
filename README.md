@@ -775,3 +775,4 @@ Signed,
 - Agrim Mittal ([@agrim123](https://github.com/agrim123)), Developer, Undergrad at IIT Rookee, India
 - Mindaugas Mozūras([@mmozuras](https://github.com/mmozuras)), Head of Engineering @ [Vinted](https://github.com/Vinted), Lithuania
 - Riccardo Serafini ([@tapionx](https://github.com/tapionx)), Web Developer, Italy
+- Pietro Menna ([@pietromenna](https://github.com/pietromenna)), Software Developer, Brazil
