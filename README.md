@@ -639,3 +639,4 @@ Signed,
 - Stephen Jennings ([@jennings](https://github.com/jennings)), Software Developer
 - Erkan Durmus ([@derkan](https://github.com/derkan)), Software Engineer, Istanbul, Turkey
 - Antonio Di Motta ([@antdimot](https://github.com/antdimot)), Software Developer, Italy
+- Aldrin Bautistsa ([@adin234](https://github.com/adin234)), Software Developer
