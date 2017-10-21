@@ -674,3 +674,4 @@ Signed,
 - Sajouguet Dassi Marcel Orleando ([@dassiorleando](https://github.com/dassiorleando)), Software Developer
 - Marcos Bahiense ([@mbahiense](https://github.com/mbahiense)), Software Developer, Brazil o/
 - Miguel Almonte ([@miguel550](https://github.com/miguel550)), Software Developer, Santo Domingo, Dominican Republic.
+- Izaac Zavaleta ([@izaac](https://github.com/izaac)), Automation Engineer
