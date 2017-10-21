@@ -811,3 +811,4 @@ Signed,
 - Juanma ([@aikijuanma](https://github.com/aikijuanma)), Developer, Catalonia
 - Eugene Obrezkov ([@ghaiklor](https://github.com/ghaiklor)), Senior Software Engineer, Ukraine
 - Sakib Sami ([@s4kibs4mi](https://github.com/s4kibs4mi)), Software Engineer, Bangladesh
+- Dmitry Dorogin ([@dmirogin](https://github.com/dmirogin)), Backend Developer, Russia
