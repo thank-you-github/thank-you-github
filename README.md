@@ -742,3 +742,4 @@ Signed,
 - Merzak Seven ([@merzak7](https://github.com/merzak7)), Full Stack Developer, Algeria
 - Ayman Nedjmeddine ([@IOAyman](https://github.com/IOAyman)), Node.js & Odoo Freelance Developer, Algeria
 - Daniel Amireh ([@damireh](https://github.com/damireh)), Software Engineer, Berlin
+- Vasin Max Limsukhawat ([@vasinl124](https://github.com/vasinl124)), Full Stack Developer
