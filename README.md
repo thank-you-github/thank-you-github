@@ -738,3 +738,4 @@ Signed,
 - Alex Ozer ([@alexozer](https://github.com/alexozer)), Developer
 - Gaurav Dalvi ([@gaurav-dalvi](https://github.com/gaurav-dalvi)), Software Engineer
 - Timothy Slater ([@tslater2006](https://github.com/tslater2006)), Software Developer
+- Daniel Amireh ([@damireh](https://github.com/damireh)), Software Engineer, Berlin
