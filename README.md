@@ -704,4 +704,38 @@ Signed,
 - Davy Wybiral ([@wybiral](https://github.com/wybiral)), Developer
 - Ramiro Olivera Fedi ([@ramadis](https://github.com/ramadis)), Software engineer, Argentina
 - Juan Amari ([@juanamari94](https://github.com/juanamari94)), Software Engineer
+- Mehdi Achour ([@machour](https://github.com/machour)), Software Developer
+- Eduardo Mejía ([@eduarmreyes](https://github.com/eduarmreyes)), A Developer
+- Eduardo Quadros ([@darqueos](https://github.com/darqueos)), Mobile Developer, Brazil
+- Nischal Samji ([@nischalsamji](https://github.com/nischalsamji)), [xkcd](https://xkcd.com) lover
+- Vitor Capretz ([@vcapretz](https://github.com/vcapretz)), Software Enginner at Pagar.me
+- Isaac Park ([@IAPark](https://github.com/IAPark)), Full stack, Working on Biotech degree
+- Arman Ortega ([@sudogem](https://github.com/sudogem)), Full-Stack Developer, Cebu Philippines
+- William Wilson ([@williamtwilson](https://github.com/williamtwilson)), Software Developer
+- Stephen Petrey ([@smpetrey](https://github.com/smpetrey)), Web Designer & Developer
+- Jared Smith ([@jaredsmithse](https://github.com/jaredsmithse)), Software Engineer
+- Michael Burling ([@mjburling](https://github.com/mjburling)), Systems Engineer at [RedBrick Health](https://home.redbrickhealth.com/)
+- Afrizal Fikri ([@icalF](https://github.com/icalF)), Software Engineer, [Salestock](https://salestock.id)
+- Yashendra Shukla ([@yashendra2797](https://github.com/yashendra2797)), Part Time Hobbyist, Dropout, [Twitch Streamer](https://twitch.tv/yashendra2797), India
+- Sean Larkin ([@thelarkinn](https://github.com/thelarkinn)), Maintainer - [webpack](https://github.com/webpack)
+- Chris Lord ([@dexamped](https://github.com/dexamped)), Developer, Sydney, Australia
+- Mubaris NK ([@mubaris](https://github.com/mubaris)), Undergrad at IIIT Allahabad
+- Colin Fike ([@colinfike](https://github.com/colinfike)), Software Engineer, USA
+- John Lim ([@johnlim5847](https://github.com/johnlim5847)), Software Developer
+- Julia Wong ([@juliawong](https://github.com/juliawong)), Developer, Australia
+- Brian Zelip ([@brianzelip](https://github.com/brianzelip)), Front End Developer and Librarian
+- Yannis Kolovos ([@msroot](https://github.com/msroot)), Software Engineer @[nimber](https://www.nimber.com/), Greece
+- Matheus Cardoso ([@cardoso](https://github.com/cardoso)), iOS Engineer at [Rocket.Chat](https://rocket.chat)
+- Anthony Bouvier ([@thebouv](https://github.com/thebouv)), Geek Of All Trades
+- Jerome Leclanche ([@jleclanche](https://github.com/jleclanche)), CTO, [HearthSim](https://hearthsim.net)
+- Jon de Andres ([@jondeandres](https://github.com/jondeandres)), Software Engineer
+- Takako Ohshima ([@hatone](https://github.com/hatone)), Software Engineer
+- Lucas Klassmann ([@klassmann](https://github.com/klassmann)), Software Developer
+- João Manoel Lins ([@joaomanoel](https://github.com/joaomanoel)), Developer, Brazil
+- Thomas Willingham ([@willingham](https://github.com/willingham)), Software Developer
+- Michael Kotlikov ([@mkotlikov](https://github.com/mkotlikov)), Software Developer
+- Danny Zlobinsky ([@dzlobin](https://github.com/dzlobin)), Software Engineer at Facebook
+- Alex Ozer ([@alexozer](https://github.com/alexozer)), Developer
+- Gaurav Dalvi ([@gaurav-dalvi](https://github.com/gaurav-dalvi)), Software Engineer
+- Timothy Slater ([@tslater2006](https://github.com/tslater2006)), Software Developer
 - Daniel Amireh ([@damireh](https://github.com/damireh)), Software Engineer, Berlin
