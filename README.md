@@ -783,3 +783,4 @@ Signed,
 - Laurynas Tumosa ([@laur1s](https://github.com/laur1s)), Python Developer, London
 - Praneet Loke ([@praneetloke](https://github.com/praneetloke)), Seattle, WA
 - Ross Waycaster ([@rosswaycaster](https://github.com/rosswaycaster)), Software Engineer, Austin, TX
+- Daniel Hsing ([@arthelon](https://github.com/arthelon)), Front-end Developer
