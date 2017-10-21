@@ -666,3 +666,4 @@ Signed,
 - Sharad Shinde ([@shindesharad71] (https://github.com/shindesharad71)), Web Developer, Pune, India
 - Alexey Raspopov ([@alexeyraspopov](https://github.com/alexeyraspopov)), Software Engineer, Ukraine
 - Vedansh Bhartia ([@vedanshbhartia](https://github.com/vedanshbhartia)), Developer, Undergrad at IIT Roorkee
+- Shreyas Agarkar ([@shreyas-a](https://github.com/shreyas-a)), JavaScript Developer, Bangalore, India.
