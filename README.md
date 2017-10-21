@@ -731,3 +731,4 @@ Signed,
 - Jon de Andres ([@jondeandres](https://github.com/jondeandres)), Software Engineer
 - Takako Ohshima ([@hatone](https://github.com/hatone)), Software Engineer
 - Lucas Klassmann ([@klassmann](https://github.com/klassmann)), Software Developer
+- João Manoel Lins ([@joaomanoel](https://github.com/joaomanoel)), Developer, Brazil
