@@ -780,3 +780,4 @@ Signed,
 - Michael McDaniel ([@mitmcdan](https://github.com/mitmcdan)), Software/Web Developer, Indiana, United States
 - Diogo Cezar ([@diogocezar](https://github.com/diogocezar)), Teacher and Full Stack Web Developer, Brazil
 - Mike Bosch ([@michaelbosch](https://github.com/michaelbosch)), Technology Director, Miami, FL USA
+- Laurynas Tumosa ([@laur1s](https://github.com/laur1s)), Python Developer, London
