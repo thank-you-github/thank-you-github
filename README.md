@@ -815,3 +815,4 @@ Signed,
 - Josh Marchello ([@jmarchello](https://github.com/jmarchello)), Senior Software Engineer, Kansas, USA
 - Daniel Eckermann ([@ecrmnn](https://github.com/ecrmnn)), CTO @ ([Sempro](https://github.com/sempro))
 - Pulkit Gupta ([@pulkonet](https://github.com/pulkonet)), Undergrad Developer, India
+- Chew Chit Siang ([@cchitsiang](https://github.com/cchitsiang)), Lead Developer @ [GoBike](https://www.gobike.asia), Malaysia
