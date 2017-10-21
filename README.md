@@ -677,3 +677,4 @@ Signed,
 - Izaac Zavaleta ([@izaac](https://github.com/izaac)), Automation Engineer
 - Paul Nispel ([@pnispel](https://github.com/pnispel)), Software Engineer at Procore
 - Dev Chakraborty ([@devchakraborty](https://github.com/devchakraborty)), Undergrad, University of Waterloo
+- Sterling Baldwin ([@sterlingbaldwin](https://github.com/sterlingbaldwin)), Software Developer
