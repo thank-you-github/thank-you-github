@@ -659,3 +659,4 @@ Signed,
 - Joel Bryan Juliano ([@jjuliano](https://github.com/jjuliano)), Full-Stack Rubyist & Senior Rails Engineer, Philippines
 - Zhang Yongsong ([@zhangyongsong](https://github.com/zhangyongsong)), Software Developer, Singapore
 - Will Sahatdjian ([@kwcto](https://github.com/kwcto)), CTO at [Taxfyle](https://taxfyle.com/)
+- Nicholas Rebhun ([@nrebhun](https://github.com/nrebhun)), Software Developer at [D&B](https://www.dnb.com/)
