@@ -784,3 +784,4 @@ Signed,
 - Praneet Loke ([@praneetloke](https://github.com/praneetloke)), Seattle, WA
 - Ross Waycaster ([@rosswaycaster](https://github.com/rosswaycaster)), Software Engineer, Austin, TX
 - Daniel Hsing ([@arthelon](https://github.com/arthelon)), Front-end Developer
+- Pranav Velamakanni ([@pv9](https://github.com/pv9)), Software Engineer, Florida
