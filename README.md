@@ -676,3 +676,4 @@ Signed,
 - Miguel Almonte ([@miguel550](https://github.com/miguel550)), Software Developer, Santo Domingo, Dominican Republic.
 - Izaac Zavaleta ([@izaac](https://github.com/izaac)), Automation Engineer
 - Paul Nispel ([@pnispel](https://github.com/pnispel)), Software Engineer at Procore
+- Dev Chakraborty ([@devchakraborty](https://github.com/devchakraborty)), Undergrad, University of Waterloo
