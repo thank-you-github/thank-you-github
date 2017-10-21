@@ -754,3 +754,4 @@ Signed,
 - Christian Heider Nielsen ([@cnheider](https://github.com/cnheider)), Machine Intelligence Researcher, Denmark
 - Perry Fraser ([@perryprog](https://github.com/perryprog)), Software Developer
 - Alangi Derick ([@ch3nkula](https://github.com/ch3nkula)), Software Engineer, Cameroon
+- Felipe Apostol ([@flipjs](https://github.com/flipjs)), Software Developer
