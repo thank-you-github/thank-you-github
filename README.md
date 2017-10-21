@@ -706,3 +706,4 @@ Signed,
 - Juan Amari ([@juanamari94](https://github.com/juanamari94)), Software Engineer
 - Mehdi Achour ([@machour](https://github.com/machour)), Software Developer
 - Eduardo Mejía ([@eduarmreyes](https://github.com/eduarmreyes)), A Developer
+- Eduardo Quadros ([@darqueos](https://github.com/darqueos)), Mobile Developer, Brazil
