@@ -692,3 +692,4 @@ Signed,
 - Ben Damman ([@typesend](https://github.com/typesend)), Entrepreneur and former [U.S. Digital Service](https://www.usds.gov/) engineer
 - Chris Hunter ([@hunt3r](https://github.com/hunt3r)), Sr. Engineering Manager at [URBN](https://www.urbn.com)
 - Bernd Rennebeck ([@brennebeck](https://github.com/brennebeck)), CTO@[August 99](https://august99.com)
+- Jade Thornton ([@raindeer44](https://github.com/raindeer44)), Software Engineer
