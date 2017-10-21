@@ -822,4 +822,4 @@ Signed,
 - Suman Rao ([@austin665](https://github.com/austin665)), Software Engineer, San Francisco, CA
 - Alisson Vargas ([@alisson-mich](https://github.com/alisson-mich)), Developer, Brazil
 - Banso D. Wisdom ([@Overrideveloper](https://github.com/Overrideveloper)), Developer and Technical Writer, Nigeria
-- Evan ([@CodeDraken](https://github.com/CodeDraken)), Developer, Milky Way Galaxy
+- Amila Welihinda ([@amilajack](https://github.com/amilajack)), Open Sourcerer. Working to improve DX for the web platform. Previously at @uber
