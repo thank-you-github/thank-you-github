@@ -802,3 +802,4 @@ Signed,
 - Supun Sudaraka ([@ssudaraka](https://github.com/ssudaraka)), Software Engineer, Sri Lanka
 - Anurag Kumar ([@anuragkumarak95](https://github.com/anuragkumarak95)), Software Developer and ML Enthusiast, India
 - Dustin Deus ([@starptech](https://github.com/starptech)), Software Engineer/Architect at netzkern.de, Germany
+- Aditya Agarwal ([@itaditya](https://github.com/itaditya)), Javascript Developer, India
