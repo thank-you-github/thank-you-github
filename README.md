@@ -645,3 +645,4 @@ Signed,
 - Setyo Nugroho ([@setyongr](https://github.com/setyongr)), Software Developer
 - Paulo Freitas ([@paulofreitas](https://github.com/paulofreitas)), Software Engineer, Brazil
 - Tomer Steinfeld ([@corevo](https://github.com/corevo)), Developer and Open Source lover, Israel
+- Kartikey Pandey ([@kartik-25](https://github.com/kartik-25)), Developer, Undergrad at IIT Roorkee, India.
