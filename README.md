@@ -753,3 +753,4 @@ Signed,
 - Jasper Guerrero ([@guerrerojasper](https://github.com/guerrerojasper)), Software Engineer, Philippines
 - Christian Heider Nielsen ([@cnheider](https://github.com/cnheider)), Machine Intelligence Researcher, Denmark
 - Perry Fraser ([@perryprog](https://github.com/perryprog)), Software Developer
+- Alangi Derick ([@ch3nkula](https://github.com/ch3nkula)), Software Engineer, Cameroon
