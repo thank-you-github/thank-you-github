@@ -648,3 +648,4 @@ Signed,
 - Kartikey Pandey ([@kartik-25](https://github.com/kartik-25)), Developer, Undergrad at IIT Roorkee, India.
 - Gong Dapeng ([@byr-gdp](https://github.com/byr-gdp)), Front-End Developer
 - Thomas Ochman ([@tochman](https://github.com/tochman)), Software Developer && Tech Coach, Gothenburg, Sweden
+- K M Rakibul Islam ([@rakibulislam](https://github.com/rakibulislam)), Software Engineer, Toronto, CA
