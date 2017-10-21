@@ -698,3 +698,4 @@ Signed,
 - Yangshun Tay ([@yangshun](https://github.com/yangshun)), Front End Engineer, Singapore
 - Iñaki Abete ([@inakiabt](https://github.com/inakiabt)), Software Engineer, Argentina
 - Cory Virok ([@coryvirok](https://github.com/coryvirok)), Co-Founder, CTO at [Rollbar](https://rollbar.com/)
+- Tuan Lai ([@laituan245](https://github.com/laituan245)), Software Developer, Vietnam
