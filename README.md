@@ -180,6 +180,7 @@ Signed,
 - Gudvit ([@DIMASSS4889](https://github.com/DIMASSS4889)), Front end Developer
 - Robert Winkler ([@RobWin](https://github.com/RobWin)), Software Developer
 - Jimson Liang ([@ruijun](https://github.com/ruijun)), Android Developer
+- Mike Bosch ([@michaelbosch](https://github.com/michaelbosch)), Technology Director, Miami, FL USA
 - Nashwan Doaqan ([@nash-ye](https://github.com/nash-ye)), Web Developer
 - Alexander Pyatkin ([@aspyatkin](https://github.com/aspyatkin)), Software engineer at [Indigo Byte Systems, LLC](http://indigobyte.com)
 - Shivaji Varma Pusapati Venkata([@shivajivarma](https://github.com/shivajivarma)), Software Developer
