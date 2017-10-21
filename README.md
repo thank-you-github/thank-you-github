@@ -788,3 +788,4 @@ Signed,
 - 王慕羣 Kewang ([@kewang](https://github.com/kewang)), Software Developer, Taiwan
 - Max Simon ([@max-simon](https://github.com/max-simon)), Student, Germany
 - Johnny Reina ([@jreina](https://github.com/jreina)), Software Developer, Lubbock, TX, United States
+- Luis Enrique González Rodríguez ([@LuisEGR](https://github.com/LuisEGR)), Student, Developer, IPN, México
