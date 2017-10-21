@@ -642,3 +642,4 @@ Signed,
 - Aldrin Bautistsa ([@adin234](https://github.com/adin234)), Software Developer
 - Stephan Cilliers ([@stephancill](https://github.com/stephancill)), Student, South Africa
 - Cryven Mo([@codcodog](https://github.com/codcodog)), Web Developer, China.
+- Setyo Nugroho ([@setyongr](https://github.com/setyongr)), Software Developer
