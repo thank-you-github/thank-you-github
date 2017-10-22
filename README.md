@@ -848,3 +848,4 @@ Signed,
 - Tanner Steele ([@tannersteele](https://github.com/tannersteele)), Software Developer, Kelowna, Canada
 - Guillermo Peralta ([@voluntadpear](https://github.com/voluntadpear)), Frontend and Native iOS Developer
 - Jorge Gonzalez ([@jorgegonzalez](https://github.com/jorgegonzalez)), Software Engineer, United States
+- Burton Rheutan ([@BurtonR](https://github.com/BurtonR)), Software Engineer, Texas
