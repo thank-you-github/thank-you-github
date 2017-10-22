@@ -891,3 +891,4 @@ Signed,
 - Kyle Maune ([@splashinn](https://github.com/splashinn)), Full Stack Developer, Phoenix, Arizona
 - Heman Gandhi ([@hemangandhi](https://github.com/hemangandhi)), CS and Math student, New Jersey, USA.
 - Eric Araújo ([@LedZeck](https://github.com/LedZeck)), Frontend Developer/Designer, Brazil
+- William Blythe ([@willyb321](https://github.com/willyb21)), Web developer, Australia.
