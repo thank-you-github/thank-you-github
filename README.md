@@ -835,3 +835,4 @@ Signed,
 - Pavel Pravosud ([@rwz](https://github.com/rwz)), Principal Dev at [Heroku](https://heroku.com)
 - Abhinav Bansal ([@ab-decoded](https://github.com/ab-decoded)) Software Developer, India
 - Jose KJ ([@jose2007kj](https://github.com/jose2007kj)), Mobile Application Developer , ML Entushiast, Believer in JESUS CHRIST, Kerala,INDIA
+- Favio Vázquez ([@faviovazquez](https://github.com/faviovazquez)), CDS @ ([Iron](https://github.com/ironmussa)) and DS at BBVA Data & Analytics
