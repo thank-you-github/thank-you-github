@@ -886,3 +886,4 @@ Signed,
 - Naqushab Neyazee ([@naqushab](https://github.com/naqushab)), Software Engineer, India
 - Alexander Fefelov ([@alexanderfefelov](https://github.com/alexanderfefelov)), Software Engineer
 - Christoph Kluge ([@christoph-kluge](https://github.com/christoph-kluge)), Berlin, Germany
+- Tristan Wiley ([@TristanWiley](https://github.com/TristanWiley)), [Full Stack Developer](http://tristanwiley.com/), I <3 you GitHub
