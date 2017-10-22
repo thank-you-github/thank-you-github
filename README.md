@@ -874,3 +874,4 @@ Signed,
 - Manish Jung Thapa ([@emp3ror])(https://github.com/emp3ror)), Nepali developer, Open source lover
 - Tom Bowden ([@bowdens](https://github.com/bowdens)), CS Student, UNSW Australia
 - Seonghoon Baek ([@Lutece](https://github.com/Lutece)), Frontend Developer, South Korea
+- Ankit Jain ([@ankitjain28may](https://github.com/ankitjain28may)), Full Stack Developer, India
