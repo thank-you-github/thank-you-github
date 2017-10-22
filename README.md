@@ -863,3 +863,4 @@ Signed,
 - Andrés Arias ([@giantquartz](https://github.com/giantquartz)), Backend Developer, Spain
 - Rochana PH ([@rochanaph](https://github.com/rochanaph)), Student, Indonesia
 - Kevin Lloyd Bernal ([@BurnzZ](https://github.com/BurnzZ)), Software Engineer, Philippines
+- Vijay Anand ([@vjyanand](https://github.com/vjyanand)), Software Enfineer, Bangalore, India
