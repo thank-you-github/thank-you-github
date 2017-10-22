@@ -837,7 +837,7 @@ Signed,
 - Jose KJ ([@jose2007kj](https://github.com/jose2007kj)), Mobile Application Developer , ML Entushiast, Believer in JESUS CHRIST, Kerala,INDIA
 - Favio Vázquez ([@faviovazquez](https://github.com/faviovazquez)), CDS @ ([Iron](https://github.com/ironmussa)) and DS at BBVA Data & Analytics
 - Harsh Deep([@harsh183](https://github.com/harsh183)), Student, Developer
-- Tristan Wiley ([@TristanWiley](https://github.com/TristanWiley)), Full Stack Developer
+- Tristan Wiley ([@TristanWiley](https://github.com/TristanWiley)), [Full Stack Developer](http://tristanwiley.com/), I <3 you GitHub
 - Herlon Aguiar ([@herlon214](https://github.com/herlon214/)), Full-Stack Developer, Brazil
 - Abel Tesfaye ([@abeltesfaye](https://github.com/abeltesfaye)), Student at AAU
 - Katherine Yang ([@whykatherine](https://github.com/whykatherine)), Designer
