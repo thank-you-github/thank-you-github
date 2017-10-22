@@ -855,4 +855,4 @@ Signed,
 - Quy Le Ngoc ([@lnquy](https://github.com/lnquy)), OSS Enthusiast, Ho Chi Minh, Vietnam
 - Eray Çetinay ([@eraycetinay](https://github.com/eraycetinay)), Software Engineer, Antalya, Turkey
 - Noppadol Mututanon ([@isudnop](https://github.com/isudnop)), Web Developer, Thailand
-- Seonghoon Baek ([@Lutece](https://github.com/Lutece)), Frontend Developer, Korea
+- Seonghoon Baek ([@Lutece](https://github.com/Lutece)), Frontend Developer, South Korea
