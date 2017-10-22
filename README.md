@@ -257,6 +257,7 @@ Signed,
 - Mariam AlJamea ([@Maryom](https://github.com/Maryom)), iOS Developer
 - Harshit Dwivedi ([@the-dagger](https://github.com/the-dagger)), Android Developer
 - Mandar Shinde ([@Mandar-Shinde](https://github.com/Mandar-Shinde)), Software Developer
+- Harsh Deep([@harsh183](https://github.com/harsh183)), Student, Developer
 - Talayhan Samet ([@stalayhan](https://github.com/stalayhan)), Full Stack Developer
 - Matheus de Alcantara ([@demhydraz](https://github.com/demhydraz)), Amateur Software Developer
 - ligi ([@ligi](https://github.com/ligi)), Dev
