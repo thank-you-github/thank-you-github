@@ -867,3 +867,4 @@ Signed,
 - Ahmad Alfy ([@ahmadalfy](https://github.com/ahmadalfy)), Front-end developer, Egypt
 - Oscar Davis ([@olsdavis](https://github.com/olsdavis)), French developer & musician
 - Khaled Mohammad ([@itskhaledmohammad](https://github.com/itskhaledmohammad)), Full Stack Developer, Bangladesh
+- Austen Madden ([@austenmadden](https://github.com/austenmadden)), Software Developer
