@@ -831,3 +831,4 @@ Signed,
 - Alexander ([@DragonStuff](https://github.com/DragonStuff)), Platform Implementation, Cyber Security, Sydney, Australia.
 - Esteban Fuentealba ([@EstebanFuentealba](https://github.com/EstebanFuentealba)), Software Development, Talcahuano, Chile
 - Francesco Soncina ([@phra](https://github.com/phra)), Full Stack JavaScript Developer and Blockchain Entushiast
+- Jorge Gonzalez ([@jorgegonzalez](https://github.com/jorgegonzalez)), Software Engineer, United States
