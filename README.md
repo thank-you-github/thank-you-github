@@ -884,3 +884,4 @@ Signed,
 - Amir Imani ([@amiiy](https://github.com/amiiy)), Software Developer, Iran
 - Ankit Jain ([@ankitjain28may](https://github.com/ankitjain28may)), Full Stack Developer, India
 - Naqushab Neyazee ([@naqushab](https://github.com/naqushab)), Software Engineer, India
+- Adam Neilson ([@adamneilson](https://github.com/adamneilson)), CTO at [Wefarm](https://wefarm.org)
