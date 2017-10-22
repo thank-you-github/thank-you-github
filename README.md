@@ -887,3 +887,4 @@ Signed,
 - Alexander Fefelov ([@alexanderfefelov](https://github.com/alexanderfefelov)), Software Engineer
 - Christoph Kluge ([@christoph-kluge](https://github.com/christoph-kluge)), Berlin, Germany
 - Tristan Wiley ([@TristanWiley](https://github.com/TristanWiley)), [Full Stack Developer](http://tristanwiley.com/), I <3 you GitHub
+- Adam Neilson ([@adamneilson](https://github.com/adamneilson)), CTO at [Wefarm](https://wefarm.org)
