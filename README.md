@@ -884,4 +884,11 @@ Signed,
 - Amir Imani ([@amiiy](https://github.com/amiiy)), Software Developer, Iran
 - Ankit Jain ([@ankitjain28may](https://github.com/ankitjain28may)), Full Stack Developer, India
 - Naqushab Neyazee ([@naqushab](https://github.com/naqushab)), Software Engineer, India
+- Alexander Fefelov ([@alexanderfefelov](https://github.com/alexanderfefelov)), Software Engineer
+- Christoph Kluge ([@christoph-kluge](https://github.com/christoph-kluge)), Berlin, Germany
+- Tristan Wiley ([@TristanWiley](https://github.com/TristanWiley)), [Full Stack Developer](http://tristanwiley.com/), I <3 you GitHub
+- Adam Neilson ([@adamneilson](https://github.com/adamneilson)), CTO at [Wefarm](https://wefarm.org)
+- Kyle Maune ([@splashinn](https://github.com/splashinn)), Full Stack Developer, Phoenix, Arizona
+- Heman Gandhi ([@hemangandhi](https://github.com/hemangandhi)), CS and Math student, New Jersey, USA.
+- Eric Araújo ([@LedZeck](https://github.com/LedZeck)), Frontend Developer/Designer, Brazil
 - Kottans Gang ([@Kottans](https://github.com/Kottans)) Planet Earth
