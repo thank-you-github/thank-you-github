@@ -855,3 +855,4 @@ Signed,
 - Quy Le Ngoc ([@lnquy](https://github.com/lnquy)), OSS Enthusiast, Ho Chi Minh, Vietnam
 - Eray Çetinay ([@eraycetinay](https://github.com/eraycetinay)), Software Engineer, Antalya, Turkey
 - Noppadol Mututanon ([@isudnop](https://github.com/isudnop)), Web Developer, Thailand
+- Patryk Ptasiński ([@ipepe](https://github.com/ipepe)), Full Stack Developer, Poland
