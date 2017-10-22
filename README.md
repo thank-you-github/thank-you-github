@@ -831,3 +831,4 @@ Signed,
 - Alexander ([@DragonStuff](https://github.com/DragonStuff)), Platform Implementation, Cyber Security, Sydney, Australia.
 - Esteban Fuentealba ([@EstebanFuentealba](https://github.com/EstebanFuentealba)), Software Development, Talcahuano, Chile
 - Francesco Soncina ([@phra](https://github.com/phra)), Full Stack JavaScript Developer and Blockchain Entushiast
+- Favio Vázquez ([@faviovazquez](https://github.com/faviovazquez)), CDS @ ([Iron](https://github.com/ironmussa)) and DS at BBVA Data & Analytics
