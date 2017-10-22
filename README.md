@@ -866,11 +866,4 @@ Signed,
 - Vijay Anand ([@vjyanand](https://github.com/vjyanand)), Software Enfineer, Bangalore, India
 - Ahmad Alfy ([@ahmadalfy](https://github.com/ahmadalfy)), Front-end developer, Egypt
 - Oscar Davis ([@olsdavis](https://github.com/olsdavis)), French developer & musician
-- Khaled Mohammad ([@itskhaledmohammad](https://github.com/itskhaledmohammad)), Full Stack Developer, Bangladesh
-- Austen Madden ([@austenmadden](https://github.com/austenmadden)), Software Developer
-- Ernesto Anaya ([@texai](https://github.com/texai)), Software Developer, Peru
-- Helmy Abdulelah ([@731MY](https://github.com/731MY)), Full Stack Developer, Yemen
-- Sina Soltanieh ([@AdeptLink](https://github.com/AdeptLink)), Student Developer, Buffalo, NY
-- Manish Jung Thapa ([@emp3ror])(https://github.com/emp3ror)), Nepali developer, Open source lover
-- Tom Bowden ([@bowdens](https://github.com/bowdens)), CS Student, UNSW Australia
-- Seonghoon Baek ([@Lutece](https://github.com/Lutece)), Frontend Developer, South Korea
+- Naqushab Neyazee ([@naqushab](https://github.com/naqushab)), Software Engineer, India
