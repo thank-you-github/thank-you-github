@@ -856,3 +856,4 @@ Signed,
 - Eray Çetinay ([@eraycetinay](https://github.com/eraycetinay)), Software Engineer, Antalya, Turkey
 - Noppadol Mututanon ([@isudnop](https://github.com/isudnop)), Web Developer, Thailand
 - Shilpa Mitra ([@Neeeophytee](https://github.com/Neeeophytee)), Full Stack Developer, India
+- Ayush Jain ([@ayushjn20](https://github.com/ayushjn20)), Web Developer, IMG, IIT Roorkee
