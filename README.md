@@ -866,3 +866,4 @@ Signed,
 - Vijay Anand ([@vjyanand](https://github.com/vjyanand)), Software Enfineer, Bangalore, India
 - Ahmad Alfy ([@ahmadalfy](https://github.com/ahmadalfy)), Front-end developer, Egypt
 - Oscar Davis ([@olsdavis](https://github.com/olsdavis)), French developer & musician
+- Seonghoon Baek ([@Lutece](https://github.com/Lutece)), Frontend Developer, South Korea
