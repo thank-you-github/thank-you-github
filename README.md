@@ -885,3 +885,4 @@ Signed,
 - Ankit Jain ([@ankitjain28may](https://github.com/ankitjain28may)), Full Stack Developer, India
 - Naqushab Neyazee ([@naqushab](https://github.com/naqushab)), Software Engineer, India
 - Alexander Fefelov ([@alexanderfefelov](https://github.com/alexanderfefelov)), Software Engineer
+- Christoph Kluge ([@christoph-kluge](https://github.com/christoph-kluge)), Berlin, Germany
