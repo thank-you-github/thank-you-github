@@ -855,4 +855,15 @@ Signed,
 - Quy Le Ngoc ([@lnquy](https://github.com/lnquy)), OSS Enthusiast, Ho Chi Minh, Vietnam
 - Eray Çetinay ([@eraycetinay](https://github.com/eraycetinay)), Software Engineer, Antalya, Turkey
 - Noppadol Mututanon ([@isudnop](https://github.com/isudnop)), Web Developer, Thailand
+- Shilpa Mitra ([@Neeeophytee](https://github.com/Neeeophytee)), Full Stack Developer, India
+- Ayush Jain ([@ayushjn20](https://github.com/ayushjn20)), Web Developer, IMG, IIT Roorkee
+- Patryk Ptasiński ([@ipepe](https://github.com/ipepe)), Full Stack Developer, Poland
+- Roshan Gautam ([@roshangm1](https://github.com/roshangm1)), Developer, Nepal
+- Yao Chao ([@yaochao](https://github.com/yaochao)), Software Developer, China
+- Andrés Arias ([@giantquartz](https://github.com/giantquartz)), Backend Developer, Spain
+- Rochana PH ([@rochanaph](https://github.com/rochanaph)), Student, Indonesia
+- Kevin Lloyd Bernal ([@BurnzZ](https://github.com/BurnzZ)), Software Engineer, Philippines
+- Vijay Anand ([@vjyanand](https://github.com/vjyanand)), Software Enfineer, Bangalore, India
+- Ahmad Alfy ([@ahmadalfy](https://github.com/ahmadalfy)), Front-end developer, Egypt
+- Oscar Davis ([@olsdavis](https://github.com/olsdavis)), French developer & musician
 - Seonghoon Baek ([@Lutece](https://github.com/Lutece)), Frontend Developer, South Korea
