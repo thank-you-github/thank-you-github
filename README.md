@@ -843,3 +843,4 @@ Signed,
 - Katherine Yang ([@whykatherine](https://github.com/whykatherine)), Designer
 - Jitendra Singh([@jsroyal](https://github.com/jsroyal)), Final year CS Undergrad, IIIT V, India.
 - Francesco Soncina ([@phra](https://github.com/phra)), Full Stack JavaScript Developer and Blockchain Enthusiast
+- Andrew A. ([@aabosh](https://github.com/aabosh)), iOS Developer and Designer, Student, Canada
