@@ -836,6 +836,7 @@ Signed,
 - Abhinav Bansal ([@ab-decoded](https://github.com/ab-decoded)) Software Developer, India
 - Jose KJ ([@jose2007kj](https://github.com/jose2007kj)), Mobile Application Developer , ML Entushiast, Believer in JESUS CHRIST, Kerala,INDIA
 - Favio Vázquez ([@faviovazquez](https://github.com/faviovazquez)), CDS @ ([Iron](https://github.com/ironmussa)) and DS at BBVA Data & Analytics
+- Jekri Preclaro Orlina([@jekku](https://github.com/jekku)), Software Engineer and Creative Mathematician, Mashup Technology Ventures, Philippines
 - Harsh Deep([@harsh183](https://github.com/harsh183)), Student, Developer
 - Tristan Wiley ([@TristanWiley](https://github.com/TristanWiley)), Full Stack Developer
 - Herlon Aguiar ([@herlon214](https://github.com/herlon214/)), Full-Stack Developer, Brazil
