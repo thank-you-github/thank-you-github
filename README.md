@@ -785,6 +785,7 @@ Signed,
 - Ross Waycaster ([@rosswaycaster](https://github.com/rosswaycaster)), Software Engineer, Austin, TX
 - Daniel Hsing ([@arthelon](https://github.com/arthelon)), Front-end Developer
 - Pranav Velamakanni ([@pv9](https://github.com/pv9)), Software Engineer, Florida
+
 - 王慕羣 Kewang ([@kewang](https://github.com/kewang)), Software Developer, Taiwan
 - Max Simon ([@max-simon](https://github.com/max-simon)), Student, Germany
 - Johnny Reina ([@jreina](https://github.com/jreina)), Software Developer, Lubbock, TX, United States
@@ -849,3 +850,4 @@ Signed,
 - Guillermo Peralta ([@voluntadpear](https://github.com/voluntadpear)), Frontend and Native iOS Developer
 - Jorge Gonzalez ([@jorgegonzalez](https://github.com/jorgegonzalez)), Software Engineer, United States
 - Burton Rheutan ([@BurtonR](https://github.com/BurtonR)), Software Engineer, Texas
+- Filipe Ramalho ([@FilipeRamalho])(https://github.com/FilipeRamalho)), Student and hopefully someday Badass Computer Science Prof.
