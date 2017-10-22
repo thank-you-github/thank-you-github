@@ -833,3 +833,4 @@ Signed,
 - Francesco Soncina ([@phra](https://github.com/phra)), Full Stack JavaScript Developer and Blockchain Entushiast
 - Siddharth Jain ([@sidjee](https://github.com/sidjee)), Student, IIT Roorkee, India
 - Pavel Pravosud ([@rwz](https://github.com/rwz)), Principal Dev at [Heroku](https://heroku.com)
+- Abhinav Bansal ([@ab-decoded](https://github.com/ab-decoded)) Software Developer, India
