@@ -852,4 +852,3 @@ Signed,
 - Jekri Preclaro Orlina([@jekku](https://github.com/jekku)), Software Engineer and Creative Mathematician, Mashup Technology Ventures, Philippines
 - Filipe Ramalho ([@FilipeRamalho](https://github.com/FilipeRamalho)), Student and hopefully someday Badass Computer Science Prof.
 - Noppadol Mututanon ([@isudnop](https://github.com/isudnop)), Web Developer, Thailand
-
