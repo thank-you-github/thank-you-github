@@ -840,3 +840,4 @@ Signed,
 - Tristan Wiley ([@TristanWiley](https://github.com/TristanWiley)), Full Stack Developer
 - Herlon Aguiar ([@herlon214](https://github.com/herlon214/)), Full-Stack Developer, Brazil
 - Abel Tesfaye ([@abeltesfaye](https://github.com/abeltesfaye)), Student at AAU
+- Katherine Yang ([@whykatherine](https://github.com/whykatherine)), Designer
