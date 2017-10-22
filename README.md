@@ -860,3 +860,4 @@ Signed,
 - Patryk Ptasiński ([@ipepe](https://github.com/ipepe)), Full Stack Developer, Poland
 - Roshan Gautam ([@roshangm1](https://github.com/roshangm1)), Developer, Nepal
 - Yao Chao ([@yaochao](https://github.com/yaochao)), Software Developer, China
+- Andrés Arias ([@giantquartz](https://github.com/giantquartz)), Backend Developer, Spain
