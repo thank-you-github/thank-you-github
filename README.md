@@ -845,3 +845,4 @@ Signed,
 - Francesco Soncina ([@phra](https://github.com/phra)), Full Stack JavaScript Developer and Blockchain Enthusiast
 - Andrew A. ([@aabosh](https://github.com/aabosh)), iOS Developer and Designer, Student, Canada
 - AJ Bourg ([@icebourg](https://github.com/icebourg)), Developer
+- Tanner Steele ([@tannersteele](https://github.com/tannersteele)), Software Developer, Kelowna, Canada
