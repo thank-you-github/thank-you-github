@@ -862,3 +862,4 @@ Signed,
 - Yao Chao ([@yaochao](https://github.com/yaochao)), Software Developer, China
 - Andrés Arias ([@giantquartz](https://github.com/giantquartz)), Backend Developer, Spain
 - Rochana PH ([@rochanaph](https://github.com/rochanaph)), Student, Indonesia
+- Kevin Lloyd Bernal ([@BurnzZ](https://github.com/BurnzZ)), Software Engineer, Philippines
