@@ -841,3 +841,4 @@ Signed,
 - Herlon Aguiar ([@herlon214](https://github.com/herlon214/)), Full-Stack Developer, Brazil
 - Abel Tesfaye ([@abeltesfaye](https://github.com/abeltesfaye)), Student at AAU
 - Katherine Yang ([@whykatherine](https://github.com/whykatherine)), Designer
+- Jitendra Singh([@jsroyal](https://github.com/jsroyal)), Final year CS Undergrad, IIIT V, India.
