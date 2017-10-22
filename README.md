@@ -838,3 +838,4 @@ Signed,
 - Favio Vázquez ([@faviovazquez](https://github.com/faviovazquez)), CDS @ ([Iron](https://github.com/ironmussa)) and DS at BBVA Data & Analytics
 - Harsh Deep([@harsh183](https://github.com/harsh183)), Student, Developer
 - Tristan Wiley ([@TristanWiley](https://github.com/TristanWiley)), Full Stack Developer
+- Herlon Aguiar ([@herlon214](https://github.com/herlon214/)), Full-Stack Developer, Brazil
