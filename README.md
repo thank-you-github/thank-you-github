@@ -858,3 +858,4 @@ Signed,
 - Shilpa Mitra ([@Neeeophytee](https://github.com/Neeeophytee)), Full Stack Developer, India
 - Ayush Jain ([@ayushjn20](https://github.com/ayushjn20)), Web Developer, IMG, IIT Roorkee
 - Patryk Ptasiński ([@ipepe](https://github.com/ipepe)), Full Stack Developer, Poland
+- Roshan Gautam ([@roshangm1](https://github.com/roshangm1)), Developer, Nepal
