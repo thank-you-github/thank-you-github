@@ -846,3 +846,4 @@ Signed,
 - Andrew A. ([@aabosh](https://github.com/aabosh)), iOS Developer and Designer, Student, Canada
 - AJ Bourg ([@icebourg](https://github.com/icebourg)), Developer
 - Tanner Steele ([@tannersteele](https://github.com/tannersteele)), Software Developer, Kelowna, Canada
+- Guillermo Peralta ([@voluntadpear](https://github.com/voluntadpear)), Frontend and Native iOS Developer
