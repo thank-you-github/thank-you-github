@@ -879,3 +879,4 @@ Signed,
 - Sromana Mukhopadhyay ([@smukh](https://github.com/smukh)), Full Stack Developer, India
 - Francesco Coppola ([@Azzeccagarbugli](https://github.com/Azzeccagarbugli)), Developer, Italy
 - Thuya Myo Nyunt ([@greenlikeorange](https://github.com/greenlikeorange)), Web Developer, Yangon, MM
+- Niklas Keller ([@kelunik](https://github.com/kelunik)), Germany
