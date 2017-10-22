@@ -877,3 +877,4 @@ Signed,
 - Gulzar Ahmed. ([@gulzar1996](https://github.com/gulzar1996)), Android Developer
 - David Myers ([@drm2](https://github.com/drm2)), Full Stack Developer, Columbus, Ohio, USA
 - Sromana Mukhopadhyay ([@smukh](https://github.com/smukh)), Full Stack Developer, India
+- Francesco Coppola ([@Azzeccagarbugli](https://github.com/Azzeccagarbugli)), Developer, Italy
