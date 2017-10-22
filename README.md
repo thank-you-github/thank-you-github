@@ -866,4 +866,4 @@ Signed,
 - Vijay Anand ([@vjyanand](https://github.com/vjyanand)), Software Enfineer, Bangalore, India
 - Ahmad Alfy ([@ahmadalfy](https://github.com/ahmadalfy)), Front-end developer, Egypt
 - Oscar Davis ([@olsdavis](https://github.com/olsdavis)), French developer & musician
-- Tom Bowde ([@bowdens](https://github.com/bowdens)), CS Student, UNSW Australia
+- Tom Bowden ([@bowdens](https://github.com/bowdens)), CS Student, UNSW Australia
