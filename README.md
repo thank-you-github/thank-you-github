@@ -881,3 +881,4 @@ Signed,
 - Thuya Myo Nyunt ([@greenlikeorange](https://github.com/greenlikeorange)), Web Developer, Yangon, MM
 - Niklas Keller ([@kelunik](https://github.com/kelunik)), Germany
 - Swann Polydor ([@soueuls](https://github.com/soueuls)), Software Engineer, Tsinghua Alumni
+- Amir Imani ([@amiiy](https://github.com/amiiy)), Software Developer, Iran
