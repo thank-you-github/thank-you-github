@@ -754,6 +754,7 @@ Signed,
 - Christian Heider Nielsen ([@cnheider](https://github.com/cnheider)), Machine Intelligence Researcher, Denmark
 - Perry Fraser ([@perryprog](https://github.com/perryprog)), Software Developer
 - Alangi Derick ([@ch3nkula](https://github.com/ch3nkula)), Software Engineer, Cameroon
+- Khaled Mohammad ([@itskhaledmohammad](https://github.com/itskhaledmohammad)), Full Stack Developer, Bangladesh
 - Alamgir Munir Qazi ([@alamgirqazi](https://github.com/alamgirqazi)), Software Engineer, Pakistan
 - Felipe Apostol ([@flipjs](https://github.com/flipjs)), Software Developer
 - Mashhur Sattorov ([@mashhur](https://github.com/mashhur)), Software Engineer, Uzbekistan
