@@ -842,3 +842,4 @@ Signed,
 - Abel Tesfaye ([@abeltesfaye](https://github.com/abeltesfaye)), Student at AAU
 - Katherine Yang ([@whykatherine](https://github.com/whykatherine)), Designer
 - Jitendra Singh([@jsroyal](https://github.com/jsroyal)), Final year CS Undergrad, IIIT V, India.
+- Francesco Soncina ([@phra](https://github.com/phra)), Full Stack JavaScript Developer and Blockchain Enthusiast
