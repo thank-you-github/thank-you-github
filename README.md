@@ -866,3 +866,4 @@ Signed,
 - Vijay Anand ([@vjyanand](https://github.com/vjyanand)), Software Enfineer, Bangalore, India
 - Ahmad Alfy ([@ahmadalfy](https://github.com/ahmadalfy)), Front-end developer, Egypt
 - Oscar Davis ([@olsdavis](https://github.com/olsdavis)), French developer & musician
+- Manish Jung Thapa ([@emp3ror])(https://github.com/emp3ror)), Nepali developer, Open source lover
