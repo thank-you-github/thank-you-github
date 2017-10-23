@@ -971,3 +971,4 @@ Signed,
 - Aman Mahajan ([@amanmj](https://github.com/amanmj)), Software Engineer, India
 - Puneeth Narayana ([@puneethnarayana](https://github.com/puneethnarayana)), Software Engineer, Fifth Eye and Cinqueon, India
 - Niko Tidar Lantang Perkasa ([@betmenwasdie](https://github.com/betmenwasdie)), Information Security Engineer, Indonesia
+- André Luiz Vargas ([@andrevargas](https://github.com/andrevargas)), Web Developer, Brazil
