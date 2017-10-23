@@ -969,3 +969,4 @@ Signed,
 - Stefano Canducci ([@stenowtf](https://github.com/stenowtf)), Front-end Developer / Coder, Bologna, Italy
 - Jafar Akhondali ([@JafarAkhondali](https://github.com/JafarAkhondali)) Developer, Dezful
 - Aman Mahajan ([@amanmj](https://github.com/amanmj)), Software Engineer, India
+- Puneeth Narayana ([@puneethnarayana](https://github.com/puneethnarayana)), Software Engineer, Fifth Eye and Cinqueon, India
