@@ -893,5 +893,50 @@ Signed,
 - Eric Araújo ([@LedZeck](https://github.com/LedZeck)), Frontend Developer/Designer, Brazil
 - Kottans Gang ([@Kottans](https://github.com/Kottans)) Planet Earth
 - Michael Gray ([@mishagray](https://github.com/mishagray)), Software Afflicted, Author of [FutureKit](https://github.com/FutureKit/FutureKit.git), New York, NY
+- XngPro ([@XngPro](https://github.com/XngPro)), Software Engineer
+- Murshid Ahmed  ([@murshid1988](https://github.com/murshid1988)), Software Engineer, Colombo, Sri Lanka
+- Kesus Kim ([@kesuskim](https://github.com/kesuskim)), Software Engineer, South Korea
+- Noah Ramey ([@noahramey](https://github.com/noahramey)), Software Engineer, Portland, Oregon, USA
+- Titouan Créac'h ([@titouancreach](https://github.com/titouancreach)), Full Stack Developer, France
+- Axetroy ([@axetroy](https://github.com/axetroy)), Full Stack Developer, wheel maker.
+- Nick Poteryaev ([@codejunkienick](https://github.com/codejunkienick)), Full Stack Javascript Developer, Perm, Russia
+- Harishankar Narayanan ([@codetiger](https://github.com/codetiger)), Engineering Manager, CaratLane
+- Evan Tolorio ([@evantolorio](https://github.com/evantolorio)), Web Developer, Philippines
+- Amit Chaudhary ([@amitness](https://github.com/amitness)), Software Engineer, Kathmandu, Nepal
+- Nick Wanninger ([@nickwanninger](https://github.com/nickwanninger)), Developer
+- 蓝浩 ([@captainblue2013](https://github.com/captainblue2013)) CREATIVISION
+- Gu Junchao ([@franklingu](https://github.com/franklingu)), Software Developer
+- Jessynt ([@jessynt](https://github.com/jessynt)), Full Stack Developer, China
+- Dennis Ji (令狐葱) ([@jiji262](https://github.com/jiji262)), Full Stack Developer, Shanghai, China
+- Jacky Wang 王世昌 ([@JackyAndroid](https://github.com/JackyAndroid)) Android Architect
+- 尹大妹 ([@TingYinHelen](https://github.com/TingYinHelen)), "HAHA" Technology Co.ltd CEO
+- Caree Youngman ([@careecodes](https://github.com/careecodes)), Front End Engineer, Texas, USA
+- Vítor G. Chagas ([@Vitorvgc](https://github.com/Vitorvgc)), iOS Developer
+- 迷渡 ([@justjavac](https://github.com/justjavac)), Web Developer, Tianjin, China
+- Joshua Byrd ([@phocks](https://github.com/phocks)), Digital Developer, ABC News, Brisbane, Australia
+- Peyton McGinnis ([@sergix](https://github.com/sergix)), Software Engineer and Graphic Designer, creator of [JTerm](https://github.com/Sergix/JTerm), Charleston, SC
+- Tom Lazar ([@tomlazar](https://github.com/tomlazar)), CS Student, Marquette University
+- Sergey Makinen ([@sergeymakinen](https://github.com/sergeymakinen)), Software Engineer, Russia
+- Henrique Melanda ([@hjdesigner](https://github.com/hjdesigner)), Front-End Developer based in São Paulo, Brazil
+- Igor Borges ([@Igor1201](https://github.com/Igor1201)), Software Engineer, Brazil
+- Luiz Gonçalves ([@lhcgoncalves](https://github.com/lhcgoncalves)) Fullstack, Zanta IT, Brazil
+- Marcos Vinicius ([@vmarcosp](https://github.com/vmarcosp)), Full Stack Developer (http://www.vmarcosp.com.br/), Brazil
+- အောင်မျိုးကျော် ([@AungMyoKyaw](https://github.com/AungMyoKyaw/)), Web Developer, Rangoon, Burma
+- Evlos Huang ([@Evlos](https://github.com/Evlos/)), Full Stack Developer
+- B Hindujhan ([@hindujhan](https://github.com/hindujhan)), Full Stack Developer, Sri Lanka
+- Ramesh Syangtan ([@rameshsyn](https://github.com/rameshsyn)), Developer, Bhaktapur, Nepal
+- buuug7 ([@buuug7](https://github.com/buuug7)) Web Developer, Lanzhou, China
+- Kaung Myat Lwin ([@kaungmyatlwin](https://github.com/kaungmyatlwin/)), Frontend Developer at ([Nexlabs](nexlabs.co)), Yangon, Myanmar
+- Diego Reiriz ([@DiegoReiriz](https://github.com/DiegoReiriz)), Software Engineer & Researcher, Spain, Galicia
+- Saroj Khatiwada ([@sarojkh](https://github.com/sarojkh)), Ruby on Rails Developer, Kathmandu, Nepal
+- Simon Toivo Telhaug ([@stoivo](https://github.com/stoivo)) Developer, Norway
+- Raims Cabrera ([@raaims](https://github.com/raaims)), Web Developer & Designer, Mashup Technology Ventures, Philippines
+- Robert Claypool ([@robert-claypool](https://github.com/robert-claypool)), Full Stack Developer, Tennessee, USA
+- Dawid van Graan ([@DawidvanGraan](https://github.com/DawidvanGraan)), Full Stack Mobile Developer, Cape Town, South Africa
+- Alberto Schiabel ([@jkomyno](https://github.com/jkomyno)), Full Stack Developer & CS Student, Padova, Italy
+- 张文举([@zwj1007](https://github.com/zwj1007)),Frontend、PHP Developer
+- John Crisostomo  ([@johncrisostomo](https://github.com/johncrisostomo)), [Software Engineer](https://johncrisostomo.com), Philippines/Singapore
+- Umayr Shahid ([@umayr](https://github.com/umayr)), Software Developer, Karachi.
 - 蓝浩 ([@captainblue2013](https://github.com/captainblue2013)), [CREATIVISION, China](https://github.com/PY-ORG)
 - Skyblue ([@skyblue](https://github.com/skyblue)), [CREATIVISION, China](https://github.com/PY-ORG)
+
