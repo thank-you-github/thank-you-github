@@ -908,3 +908,4 @@ Signed,
 - Gu Junchao ([@franklingu](https://github.com/franklingu)), Software Developer
 - Jessynt ([@jessynt](https://github.com/jessynt)), Full Stack Developer, China
 - Dennis Ji (令狐葱) ([@jiji262](https://github.com/jiji262)), Full Stack Developer, Shanghai, China
+- Jacky Wang 王世昌 ([@JackyAndroid](https://github.com/JackyAndroid)) Android Architect
