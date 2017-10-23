@@ -912,3 +912,4 @@ Signed,
 - 尹大妹 ([@TingYinHelen](https://github.com/TingYinHelen)), "HAHA" Technology Co.ltd CEO
 - Caree Youngman ([@careecodes](https://github.com/careecodes)), Front End Engineer, Texas, USA
 - Vítor G. Chagas ([@Vitorvgc](https://github.com/Vitorvgc)), iOS Developer
+- 迷渡 ([@justjavac](https://github.com/justjavac)), Web Developer, Tianjin, China
