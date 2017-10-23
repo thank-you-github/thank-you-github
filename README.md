@@ -901,3 +901,4 @@ Signed,
 - Axetroy ([@axetroy](https://github.com/axetroy)), Full Stack Developer, wheel maker.
 - Nick Poteryaev ([@codejunkienick](https://github.com/codejunkienick)), Full Stack Javascript Developer, Perm, Russia
 - Harishankar Narayanan ([@codetiger](https://github.com/codetiger)), Engineering Manager, CaratLane
+- Evan Tolorio ([@evantolorio](https://github.com/evantolorio)), Web Developer, Philippines
