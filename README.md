@@ -928,3 +928,4 @@ Signed,
 - buuug7 ([@buuug7](https://github.com/buuug7)) Web Developer, Lanzhou, China
 - Kaung Myat Lwin ([@kaungmyatlwin](https://github.com/kaungmyatlwin/)), Frontend Developer at ([Nexlabs](nexlabs.co)), Yangon, Myanmar
 - Diego Reiriz ([@DiegoReiriz](https://github.com/DiegoReiriz)), Software Engineer & Researcher, Spain, Galicia
+- Saroj Khatiwada ([@sarojkh](https://github.com/sarojkh)), Ruby on Rails Developer, Kathmandu, Nepal
