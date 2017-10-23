@@ -4,4 +4,3 @@
   GitHub handler of the account that opens the PR. This is the way to ensure the
   signature belongs to who has written the patch.
 * Please add your signature to the end of the list.
-
