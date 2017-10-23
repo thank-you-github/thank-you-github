@@ -958,3 +958,4 @@ Signed,
 - Harsh Jain ([@harsh-98](https://github.com/harsh-98)), Student Developer, CS Undergrad, IIT Roorkee
 - Andrzej Grzegorz Borkowski ([@agborkowski](https://github.com/agborkowski)), [Software Engineer](blog.aeonmedia.eu), Poland
 - Nikho Sagala ([@nikhosagala](https://github.com/nikhosagala)), Developer, Indonesia
+- Nusrath Khan ([@nunsie](https://github.com/nunsie)), Full Stack Developer, SovTech, South Africa
