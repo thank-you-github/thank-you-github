@@ -1002,3 +1002,4 @@ Signed,
 - Benjamin Mezger ([@benmezger](https://github.com/benmezger)), Computer Science Student, The Netherlands
 - Rohit Deshmukh ([@rd10397](https://github.com/rd10397)),E&TC Student at SITS,Pune,India
 - Subrat Sahu :clap:([@subrat-sahu](https://github.com/subrat-sahu)), Computer Science Student, IIT Roorkee India
+- Marcus Buffett ([@marcusbuffett](https://github.com/marcusbuffett)), Software Engineer
