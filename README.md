@@ -937,3 +937,6 @@ Signed,
 - 张文举([@zwj1007](https://github.com/zwj1007)),Frontend、PHP Developer
 - John Crisostomo  ([@johncrisostomo](https://github.com/johncrisostomo)), [Software Engineer](https://johncrisostomo.com), Philippines/Singapore
 - Umayr Shahid ([@umayr](https://github.com/umayr)), Software Developer, Karachi.
+- 蓝浩 ([@captainblue2013](https://github.com/captainblue2013)), [CREATIVISION, China](https://github.com/PY-ORG)
+- Skyblue ([@skyblue](https://github.com/skyblue)), [CREATIVISION, China](https://github.com/PY-ORG)
+
