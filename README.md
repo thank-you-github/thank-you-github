@@ -950,3 +950,19 @@ Signed,
 - geminiyellow ([@geminiyellow](https://github.com/geminiyellow)), Coder, CREATIVISION's UFO, Earth
 - Smajo Husic ([@smajohusic](https://github.com/smajohusic)), Developer, Sempro
 - Sri Harsha Kappala ([@sriharshakappala](https://github.com/sriharshakappala)), Software Engineer, CaratLane, Chennai
+- Andi Duro ([@nexuist](https://github.com/nexuist)), iOS and Web Developer, Student, USA
+- Erkan Maraş ([@erkanmaras](https://github.com/erkanmaras)), Software Developer, Turkey
+- crossoverJie ([@crossoverJie](https://github.com/crossoverJie)), Software Developer, China
+- Michael Jett ([@jumbojett](https://github.com/jumbojett)), Software Engineer, MITRE Corp
+- Santiago Traversa ([@san983](https://github.com/san983)), Developer, Haedo, Argentina.
+- Felipe Borges ([@feliborgez](https://github.com/feliborgez)), Software Developer, Brazil
+- Harsh Jain ([@harsh-98](https://github.com/harsh-98)), Student Developer, CS Undergrad, IIT Roorkee
+- Andrzej Grzegorz Borkowski ([@agborkowski](https://github.com/agborkowski)), [Software Engineer](blog.aeonmedia.eu), Poland
+- Nikho Sagala ([@nikhosagala](https://github.com/nikhosagala)), Developer, Indonesia
+- Nusrath Khan ([@nunsie](https://github.com/nunsie)), Full Stack Developer, SovTech, South Africa
+- Xavier Canal ([@xeviknal](https://github.com/xeviknal)), Software Engineer, Barcelona
+- axiaoxin ([@axiaoxin](https://github.com/axiaoxin)), Developer, axiaoxin
+- Alexander Schmidt ([@Bloggerschmidt](https://github.com/Bloggerschmidt)), Frontend Developer, Germany
+- Stefano Canducci([@stenowtf](https://github.com/stenowtf)), Front-End Developer, Bologna, Italy
+- Vincenzo (Wilk) Ferrari ([@wilk](https://github.com/wilk)), Software Engineer, Reggio Emilia, Italy
+- William Blythe ([@willyb321](https://github.com/willyb321)), Web developer, Australia.
