@@ -949,6 +949,7 @@ Signed,
 - Summit Bajracharya ([@summitbaj](https://github.com/summitbaj)), Software Engineer, Kathmandu.
 - geminiyellow ([@geminiyellow](https://github.com/geminiyellow)), Coder, CREATIVISION's UFO, Earth
 - Smajo Husic ([@smajohusic](https://github.com/smajohusic)), Developer, Sempro
+- Sri Harsha Kappala ([@sriharshakappala](https://github.com/sriharshakappala)), Software Engineer, CaratLane, Chennai
 - Andi Duro ([@nexuist](https://github.com/nexuist)), iOS and Web Developer, Student, USA
 - Erkan Maraş ([@erkanmaras](https://github.com/erkanmaras)), Software Developer, Turkey
 - crossoverJie ([@crossoverJie](https://github.com/crossoverJie)), Software Developer, China
