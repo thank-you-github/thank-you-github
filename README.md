@@ -914,3 +914,4 @@ Signed,
 - Vítor G. Chagas ([@Vitorvgc](https://github.com/Vitorvgc)), iOS Developer
 - 迷渡 ([@justjavac](https://github.com/justjavac)), Web Developer, Tianjin, China
 - Joshua Byrd ([@phocks](https://github.com/phocks)), Digital Developer, ABC News, Brisbane, Australia
+- Peyton McGinnis ([@sergix](https://github.com/sergix)), Software Engineer and Graphic Designer, creator of [JTerm](https://github.com/Sergix/JTerm), Charleston, SC
