@@ -893,3 +893,4 @@ Signed,
 - Eric Araújo ([@LedZeck](https://github.com/LedZeck)), Frontend Developer/Designer, Brazil
 - Kottans Gang ([@Kottans](https://github.com/Kottans)) Planet Earth
 - Michael Gray ([@mishagray](https://github.com/mishagray)), Software Afflicted, Author of [FutureKit](https://github.com/FutureKit/FutureKit.git), New York, NY
+- Jessynt ([@jessynt](https://github.com/jessynt)), Full Stack Developer, China
