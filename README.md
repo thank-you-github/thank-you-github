@@ -990,3 +990,4 @@ Signed,
 - Dominic Valenciana ([@kiricon](https://github.com/kiricon)), Software Engineer, USA
 - Thiago F. Lins ([@kidush](https://github.com/kidush)), Full Stack Developer, Brazil
 - Win Htaik Aung ([@winhtaikaung](https://github.com/winhtaikaung)), Software Engineer, Perx Technologies PTE.Ltd,Myanmar
+- Noe Neftali Miniel :clap:([@Noe007](https://github.com/noe007)), Computer Science Student, USA
