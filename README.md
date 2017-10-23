@@ -92,6 +92,7 @@ Signed,
 - Alex Meswarb ([@ameswarb](https://github.com/ameswarb)), Developer
 - Alessio Fanelli ([@FanaHOVA](https://github.com/FanaHOVA)), Developer
 - Huqiu Liao ([@liaohuqiu](https://github.com/liaohuqiu)), Full Stack Engineer [Top ranked in USA](http://github-awards.com/users/search?login=liaohuqiu)
+- Aman Mahajan ([@amanmj[(https://github.com/amanmj)), Software Engineer, India
 - Teodor Szente ([@teosz](https://github.com/teosz)), Developer
 - Waldir Bertazzi Junior ([@waldirbertazzijr](https://github.com/waldirbertazzijr)), Cofounder at geocast.com.br
 - José Luis Quintana ([@joseluisq](https://github.com/joseluisq)), Web Developer
