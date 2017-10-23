@@ -978,3 +978,4 @@ Signed,
 - 寸宣堂([@wzes](https://github.com/wzes)), an undergraduate at Tongji University, China
 - Filippo Rossi ([@qu4k](https://github.com/qu4k)), Student, Italy
 - Julian Finkler ([@devtronic](https://github.com/devtronic)), Full Stack Developer, Germany
+- Felipe Luis ([@felipelssilva](https://github.com/felipelssilva)), Backend Developer, Brazil.
