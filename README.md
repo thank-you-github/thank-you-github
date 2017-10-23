@@ -952,3 +952,4 @@ Signed,
 - Andi Duro ([@nexuist](https://github.com/nexuist)), iOS and Web Developer, Student, USA
 - Erkan Maraş ([@erkanmaras](https://github.com/erkanmaras)), Software Developer, Turkey
 - crossoverJie ([@crossoverJie](https://github.com/crossoverJie)), Software Developer, China
+- Michael Jett ([@jumbojett](https://github.com/jumbojett)), Software Engineer, MITRE Corp
