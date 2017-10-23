@@ -871,7 +871,7 @@ Signed,
 - Ernesto Anaya ([@texai](https://github.com/texai)), Software Developer, Peru
 - Helmy Abdulelah ([@731MY](https://github.com/731MY)), Full Stack Developer, Yemen
 - Sina Soltanieh ([@AdeptLink](https://github.com/AdeptLink)), Student Developer, Buffalo, NY
-- Manish Jung Thapa ([@emp3ror])(https://github.com/emp3ror)), Nepali developer, Open source lover
+- Manish Jung Thapa ([@emp3ror](https://github.com/emp3ror)), Nepali developer, Open source lover
 - Tom Bowden ([@bowdens](https://github.com/bowdens)), CS Student, UNSW Australia
 - Seonghoon Baek ([@Lutece](https://github.com/Lutece)), Frontend Developer, South Korea
 - Gulzar Ahmed. ([@gulzar1996](https://github.com/gulzar1996)), Android Developer
@@ -922,3 +922,4 @@ Signed,
 - Luiz Gonçalves ([@lhcgoncalves](https://github.com/lhcgoncalves)) Fullstack, Zanta IT, Brazil
 - Marcos Vinicius ([@vmarcosp](https://github.com/vmarcosp)), Full Stack Developer (http://www.vmarcosp.com.br/), Brazil
 - အောင်မျိုးကျော် ([@AungMyoKyaw](https://github.com/AungMyoKyaw/)), Web Developer, Rangoon, Burma
+- Nabin Dhakal ([@1BA4](https://github.com/1BA4/)), Breathes Open Source, Computer Eng. Student, Tribhuvan University, Nepal
