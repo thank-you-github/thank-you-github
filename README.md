@@ -925,3 +925,4 @@ Signed,
 - Evlos Huang ([@Evlos](https://github.com/Evlos/)), Full Stack Developer
 - B Hindujhan ([@hindujhan](https://github.com/hindujhan)), Full Stack Developer, Sri Lanka
 - Ramesh Syangtan ([@rameshsyn](https://github.com/rameshsyn)), Developer, Bhaktapur, Nepal
+- buuug7 ([@buuug7](https://github.com/buuug7)) Web Developer, Lanzhou, China
