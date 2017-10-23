@@ -981,3 +981,4 @@ Signed,
 - Felipe Luis ([@felipelssilva](https://github.com/felipelssilva)), Backend Developer, Brazil.
 - Jonathan Cardasis ([@joncardasis](https://github.com/joncardasis)), iOS and Mac Developer at [United States Department of Defense](https://www.defense.gov/), USA
 - Ankit Chhetri  ([@ankitch](https://github.com/ankitch)), Student, Developer, Nepal
+- Pratik Chaudhary ([@abs-zero](https://github.com/abs-zero)), Student, Developer, Nepal
