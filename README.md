@@ -995,3 +995,4 @@ Signed,
 - Rajula Vineet Reddy ([@rajula96reddy](https://github.com/rajula96reddy)), Student, IIIT Bangalore, India
 - Aaron Gill-Braun ([@AaronGillBraun](https://github.com/aarongillbraun)), Full Stack Developer
 - Noe Neftali Miniel :clap:([@Noe007](https://github.com/noe007)), Computer Science Student, USA
+- Pericherla Seetarama Raju ([@geekrypter](https://github.com/geekrypter)), Student, OSS Contributor, Developer, IIIT Bangalore, India
