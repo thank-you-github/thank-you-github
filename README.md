@@ -977,3 +977,4 @@ Signed,
 - Dejie Zhou ([@ssshooter](https://github.com/ssshooter)), Font End Developer, China
 - 寸宣堂([@wzes](https://github.com/wzes)), an undergraduate at Tongji University, China
 - Filippo Rossi ([@qu4k](https://github.com/qu4k)), Student, Italy
+- Felipe Luis ([@felipelssilva](https://github.com/felipelssilva)), Backend Developer, Brazil.
