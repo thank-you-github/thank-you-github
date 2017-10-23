@@ -972,3 +972,4 @@ Signed,
 - Niko Tidar Lantang Perkasa ([@betmenwasdie](https://github.com/betmenwasdie)), Information Security Engineer, Indonesia
 - Daniele Paz ([@danielempaz](https://github.com/danielempaz)), Student, Brazil
 - Nabin Dhakal ([@1BA4](https://github.com/1BA4/)), Breathes Open Source, Computer Eng. Student, Tribhuvan University, Nepal
+- Rishabh Karajgi ([@karajrish](https://github.com/karajrish/)) Hacker, Software Engineer, India
