@@ -1024,3 +1024,4 @@ Signed,
 - Steev James ([@steevjames](https://github.com/steevjames)), CS Engineering Student, India
 - Chris O'Brien ([@zumipin](https://github.com/zumipin)), Developer, USA
 - Ahad Birang ([@farnabaz](https://github.com/farnabaz)), Full Stack Developer, Iran
+- Victor Pedrazzi ([@vspedr](https://github.com/vspedr)), Software Analyst, Brazil
