@@ -962,7 +962,6 @@ Signed,
 - Xavier Canal ([@xeviknal](https://github.com/xeviknal)), Software Engineer, Barcelona
 - axiaoxin ([@axiaoxin](https://github.com/axiaoxin)), Developer, axiaoxin
 - Alexander Schmidt ([@Bloggerschmidt](https://github.com/Bloggerschmidt)), Frontend Developer, Germany
-- Stefano Canducci([@stenowtf](https://github.com/stenowtf)), Front-End Developer, Bologna, Italy
 - Vincenzo (Wilk) Ferrari ([@wilk](https://github.com/wilk)), Software Engineer, Reggio Emilia, Italy
 - William Blythe ([@willyb321](https://github.com/willyb321)), Web developer, Australia.
 - Sri Harsha Kappala ([@sriharshakappala](https://github.com/sriharshakappala)), Software Engineer, CaratLane, Chennai
@@ -971,4 +970,15 @@ Signed,
 - Aman Mahajan ([@amanmj](https://github.com/amanmj)), Software Engineer, India
 - Puneeth Narayana ([@puneethnarayana](https://github.com/puneethnarayana)), Software Engineer, Fifth Eye and Cinqueon, India
 - Niko Tidar Lantang Perkasa ([@betmenwasdie](https://github.com/betmenwasdie)), Information Security Engineer, Indonesia
+- Daniele Paz ([@danielempaz](https://github.com/danielempaz)), Student, Brazil
+- Nabin Dhakal ([@1BA4](https://github.com/1BA4/)), Breathes Open Source, Computer Eng. Student, Tribhuvan University, Nepal
+- 侯剑锋([@DerekDick](https://github.com/DerekDick/)), an undergraduate at Tongji University, China
+- Rishabh Karajgi ([@karajrish](https://github.com/karajrish/)) Hacker, Software Engineer, India
+- Dejie Zhou ([@ssshooter](https://github.com/ssshooter)), Font End Developer, China
+- 寸宣堂([@wzes](https://github.com/wzes)), an undergraduate at Tongji University, China
+- Filippo Rossi ([@qu4k](https://github.com/qu4k)), Student, Italy
+- Julian Finkler ([@devtronic](https://github.com/devtronic)), Full Stack Developer, Germany
+- Felipe Luis ([@felipelssilva](https://github.com/felipelssilva)), Backend Developer, Brazil.
+- Jonathan Cardasis ([@joncardasis](https://github.com/joncardasis)), iOS and Mac Developer at [United States Department of Defense](https://www.defense.gov/), USA
+- Ankit Chhetri  ([@ankitch](https://github.com/ankitch)), Student, Developer, Nepal
 - André Luiz Vargas ([@andrevargas](https://github.com/andrevargas)), Web Developer, Brazil
