@@ -961,3 +961,4 @@ Signed,
 - Nusrath Khan ([@nunsie](https://github.com/nunsie)), Full Stack Developer, SovTech, South Africa
 - Xavier Canal ([@xeviknal](https://github.com/xeviknal)), Software Engineer, Barcelona
 - axiaoxin ([@axiaoxin](https://github.com/axiaoxin)), Developer, axiaoxin
+- Alexander Schmidt ([@Bloggerschmidt](https://github.com/Bloggerschmidt)), Frontend Developer, Germany
