@@ -943,3 +943,4 @@ Signed,
 - Bulat Zamalutdinov ([@qJkee](https://github.com/qJkee)), Software Engineer, Kazan, Russia.
 - Aayush Ahuja ([@hyades](https://github.com/hyades)), Software Engineer
 - Fabian Lauer ([@FabianLauer](https://github.com/FabianLauer)), Web Developer, Germany
+- Mikhail Pabalavets ([@styx](https://github.com/styx)), Developer, Belarus, Minsk
