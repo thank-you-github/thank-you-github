@@ -975,3 +975,4 @@ Signed,
 - 侯剑锋([@DerekDick](https://github.com/DerekDick/)), an undergraduate at Tongji University, China
 - Rishabh Karajgi ([@karajrish](https://github.com/karajrish/)) Hacker, Software Engineer, India
 - Dejie Zhou ([@ssshooter](https://github.com/ssshooter)), Font End Developer, China
+- Filippo Rossi ([@qu4k](https://github.com/qu4k)), Student, Italy
