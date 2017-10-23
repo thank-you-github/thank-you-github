@@ -937,3 +937,4 @@ Signed,
 - 张文举([@zwj1007](https://github.com/zwj1007)),Frontend、PHP Developer
 - John Crisostomo  ([@johncrisostomo](https://github.com/johncrisostomo)), [Software Engineer](https://johncrisostomo.com), Philippines/Singapore
 - Umayr Shahid ([@umayr](https://github.com/umayr)), Software Developer, Karachi.
+- Summit Bajracharya ([@summitbaj](https://github.com/summitbaj)), Software Engineer, Kathmandu.
