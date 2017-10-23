@@ -1004,3 +1004,4 @@ Signed,
 - Subrat Sahu :clap:([@subrat-sahu](https://github.com/subrat-sahu)), Computer Science Student, IIT Roorkee India
 - Marcus Buffett ([@marcusbuffett](https://github.com/marcusbuffett)), Software Engineer
 - Arun Michael Dsouza ([@ArunMichaelDsouza](https://github.com/ArunMichaelDsouza)), Software Engineer, India
+- Nika Otiashvili ([@Nikaoto](https://github.com/Nikaoto)), Programmer, Georgia (Sakartvelo)
