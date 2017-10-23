@@ -1014,3 +1014,4 @@ Signed,
 - Alex Rupérez ([@alexruperez](https://github.com/alexruperez)), iOS Architect, Spain
 - Pericherla Seetarama Raju ([@geekrypter](https://github.com/geekrypter)), Student, OSS Contributor, Developer, IIIT Bangalore, India
 - Arslan Ahmad ([@Ahmadkhan12345566](https://github.com/Ahmadkhan12345566)), Student, Web Developer, Pakistan
+- Prathamesh Sonpatki ([@prathamesh-sonpatki](https://github.com/prathamesh-sonpatki)), Developer, Pune, India.
