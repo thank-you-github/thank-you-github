@@ -985,3 +985,4 @@ Signed,
 - Matías Verdier ([@MatiasVerdier](https://github.com/MatiasVerdier)), Full Stack Developer, Uruguay
 - Pratik Chaudhary ([@abs-zero](https://github.com/abs-zero)), Student, Developer, Nepal
 - 蓝浩 ([@captainblue2013](https://github.com/captainblue2013)), [CREATIVISION, China](https://github.com/PY-ORG)
+- Skyblue ([@skyblue](https://github.com/skyblue)), [CREATIVISION, China](https://github.com/PY-ORG)
