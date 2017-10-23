@@ -1013,3 +1013,4 @@ Signed,
 - Lun Zhang :smile:([@lunzhang](https://github.com/lunzhang)), Ninja, USA
 - Alex Rupérez ([@alexruperez](https://github.com/alexruperez)), iOS Architect, Spain
 - Pericherla Seetarama Raju ([@geekrypter](https://github.com/geekrypter)), Student, OSS Contributor, Developer, IIIT Bangalore, India
+- Desiderio Martínez Silva ([@siderio2](https://github.com/siderio2)), Web Developer, Lalín, Galicia, Spain
