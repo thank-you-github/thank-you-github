@@ -1011,3 +1011,4 @@ Signed,
 - Rajula Pavani([@rpavani1998](https://github.com/rpavani1998)), Student, BVRIT Hyderabad, India
 - Benjamin Schuch ([@chillyistkult](https://github.com/chillyistkult)), Software Engineer, Germany
 - Lun Zhang :smile:([@lunzhang](https://github.com/lunzhang)), Ninja, USA
+- Alex Rupérez ([@alexruperez](https://github.com/alexruperez)), iOS Architect, Spain
