@@ -998,3 +998,4 @@ Signed,
 - Braxton Ehle ([@braxtone](https://github.com/braxtone)), Security Engineer, USA
 - Santos Perez ([@mxra8](https://github.com/mxra8)), Web developer, Mexico
 - James Cuénod ([@jcuenod](https://github.com/jcuenod)), Biblical Studies by day - Software Developer by night (cf. [parabible](https://parabible.com)), South Africa
+- Shubham Maheshwari ([@shu121197](https://github.com/shu121197)), Student, IIT Roorkee, India
