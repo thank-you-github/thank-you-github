@@ -988,3 +988,4 @@ Signed,
 - Skyblue ([@skyblue](https://github.com/skyblue)), [CREATIVISION, China](https://github.com/PY-ORG)
 - Asif Raza ([@raoasifraza11](https://github.com/raoasifraza11)), Student, Web Developer, Pakistan
 - Dominic Valenciana ([@kiricon](https://github.com/kiricon)), Software Engineer, USA
+- Thiago F. Lins ([@kidush](https://github.com/kidush)), Full Stack Developer, Brazil
