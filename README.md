@@ -945,3 +945,4 @@ Signed,
 - Fabian Lauer ([@FabianLauer](https://github.com/FabianLauer)), Web Developer, Germany
 - Mikhail Pabalavets ([@styx](https://github.com/styx)), Developer, Belarus, Minsk
 - John Nico Garcia([@jngarcia](https://github.com/jngarcia)), Software Engineer, Philippines
+- Siddharth Prajosh ([@sprajosh](https://github.com/sprajosh)), Student, Toc H Institute of Science and Technology
