@@ -991,3 +991,4 @@ Signed,
 - Thiago F. Lins ([@kidush](https://github.com/kidush)), Full Stack Developer, Brazil
 - Win Htaik Aung ([@winhtaikaung](https://github.com/winhtaikaung)), Software Engineer, Perx Technologies PTE.Ltd,Myanmar
 - Josh Harris ([@jharris1679](https://github.com/jharris1679)), Lover of All Data, Canada
+- Aaron Gill-Braun ([@AaronGillBraun](https://github.com/aarongillbraun)), Full Stack Developer
