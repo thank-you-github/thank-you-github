@@ -893,5 +893,5 @@ Signed,
 - Eric Araújo ([@LedZeck](https://github.com/LedZeck)), Frontend Developer/Designer, Brazil
 - Kottans Gang ([@Kottans](https://github.com/Kottans)) Planet Earth
 - Michael Gray ([@mishagray](https://github.com/mishagray)), Software Afflicted, Author of [FutureKit](https://github.com/FutureKit/FutureKit.git), New York, NY
-- 蓝浩 ([@captainblue2013](https://github.com/captainblue2013)) CREATIVISION 
+- 蓝浩 ([@captainblue2013](https://github.com/captainblue2013)), [CREATIVISION, China](https://github.com/PY-ORG)
 - Skyblue ([@skyblue](https://github.com/skyblue)), [CREATIVISION, China](https://github.com/PY-ORG)
