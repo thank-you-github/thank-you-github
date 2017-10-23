@@ -1020,3 +1020,4 @@ Signed,
 - Andrey Knupp Vital ([@CentaurWarchief](https://github.com/CentaurWarchief)), Developer, Minas Gerais, Brazil
 - Rapipat Udomgun ([@rppudo](https://github.com/rppudo)), Developer, Bangkok, Thailand
 - Yaroslav Konoplov :bulb: ([@yivo](https://github.com/yivo)), Software Engineer, Kyiv, Ukraine
+- Adam Pietrasiak ([@pie6k](https://github.com/pie6k)), Web Developer, Kraków, Poland
