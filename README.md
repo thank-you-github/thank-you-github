@@ -911,3 +911,4 @@ Signed,
 - Jacky Wang 王世昌 ([@JackyAndroid](https://github.com/JackyAndroid)) Android Architect
 - 尹大妹 ([@TingYinHelen](https://github.com/TingYinHelen)), "HAHA" Technology Co.ltd CEO
 - Caree Youngman ([@careecodes](https://github.com/careecodes)), Front End Engineer, Texas, USA
+- Vítor G. Chagas ([@Vitorvgc](https://github.com/Vitorvgc)), iOS Developer
