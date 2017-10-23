@@ -916,3 +916,4 @@ Signed,
 - Joshua Byrd ([@phocks](https://github.com/phocks)), Digital Developer, ABC News, Brisbane, Australia
 - Peyton McGinnis ([@sergix](https://github.com/sergix)), Software Engineer and Graphic Designer, creator of [JTerm](https://github.com/Sergix/JTerm), Charleston, SC
 - Tom Lazar ([@tomlazar](https://github.com/tomlazar)), CS Student, Marquette University
+- Sergey Makinen ([@sergeymakinen](https://github.com/sergeymakinen)), Software Engineer, Russia
