@@ -962,3 +962,4 @@ Signed,
 - Xavier Canal ([@xeviknal](https://github.com/xeviknal)), Software Engineer, Barcelona
 - axiaoxin ([@axiaoxin](https://github.com/axiaoxin)), Developer, axiaoxin
 - Alexander Schmidt ([@Bloggerschmidt](https://github.com/Bloggerschmidt)), Frontend Developer, Germany
+- Stefano Canducci([@stenowtf](https://github.com/stenowtf)), Front-End Developer, Bologna, Italy
