@@ -1018,3 +1018,4 @@ Signed,
 - Desiderio Martínez Silva ([@siderio2](https://github.com/siderio2)), Web Developer, Lalín, Galicia, Spain
 - Guilherme Oderdenge ([@chiefGui](https://github.com/chiefGui)), Front-end Developer, Brazil
 - Andrey Knupp Vital ([@CentaurWarchief](https://github.com/CentaurWarchief)), Developer, Minas Gerais, Brazil
+- Rapipat Udomgun ([@rppudo](https://github.com/rppudo)), Developer, Bangkok, Thailand
