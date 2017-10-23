@@ -902,3 +902,4 @@ Signed,
 - Nick Poteryaev ([@codejunkienick](https://github.com/codejunkienick)), Full Stack Javascript Developer, Perm, Russia
 - Harishankar Narayanan ([@codetiger](https://github.com/codetiger)), Engineering Manager, CaratLane
 - Evan Tolorio ([@evantolorio](https://github.com/evantolorio)), Web Developer, Philippines
+- Amit Chaudhary ([@amitness](https://github.com/amitness)), Software Engineer, Kathmandu, Nepal
