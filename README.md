@@ -973,3 +973,4 @@ Signed,
 - Daniele Paz ([@danielempaz](https://github.com/danielempaz)), Student, Brazil
 - Nabin Dhakal ([@1BA4](https://github.com/1BA4/)), Breathes Open Source, Computer Eng. Student, Tribhuvan University, Nepal
 - 侯剑锋([@DerekDick](https://github.com/DerekDick/)), an undergraduate at Tongji University, China
+- 寸宣堂([@wzes](https://github.com/wzes)), an undergraduate at Tongji University, China
