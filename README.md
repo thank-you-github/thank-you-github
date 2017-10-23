@@ -956,3 +956,4 @@ Signed,
 - Santiago Traversa ([@san983](https://github.com/san983)), Developer, Haedo, Argentina.
 - Felipe Borges ([@feliborgez](https://github.com/feliborgez)), Software Developer, Brazil
 - Harsh Jain ([@harsh-98](https://github.com/harsh-98)), Student Developer, CS Undergrad, IIT Roorkee
+- Andrzej Grzegorz Borkowski ([@agborkowski](https://github.com/agborkowski)), [Software Engineer](blog.aeonmedia.eu), Poland
