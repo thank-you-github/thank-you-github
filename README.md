@@ -899,3 +899,4 @@ Signed,
 - Noah Ramey ([@noahramey](https://github.com/noahramey)), Software Engineer, Portland, Oregon, USA
 - Titouan Créac'h ([@titouancreach](https://github.com/titouancreach)), Full Stack Developer, France
 - Axetroy ([@axetroy](https://github.com/axetroy)), Full Stack Developer, wheel maker.
+- Nick Poteryaev ([@codejunkienick](https://github.com/codejunkienick)), Full Stack Javascript Developer, Perm, Russia
