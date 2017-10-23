@@ -939,3 +939,4 @@ Signed,
 - Umayr Shahid ([@umayr](https://github.com/umayr)), Software Developer, Karachi.
 - Dawid Weglarz ([@Radeox](https://github.com/Radeox)), Student and Developer, Italy
 - Jacob Hein ([@Jahhein](https://github.com/Jahhein)), Software Developer, Jahhein
+- Junaid Salaat ([@jsalaat](https://github.com/jsalaat)), Software Developer, Karachi, Pakistan.
