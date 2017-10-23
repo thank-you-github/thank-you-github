@@ -931,3 +931,4 @@ Signed,
 - Saroj Khatiwada ([@sarojkh](https://github.com/sarojkh)), Ruby on Rails Developer, Kathmandu, Nepal
 - Simon Toivo Telhaug ([@stoivo](https://github.com/stoivo)) Developer, Norway
 - Raims Cabrera ([@raaims](https://github.com/raaims)), Web Developer & Designer, Mashup Technology Ventures, Philippines
+- Robert Claypool ([@robert-claypool](https://github.com/robert-claypool)), Full Stack Developer, Tennessee, USA
