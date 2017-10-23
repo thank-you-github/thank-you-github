@@ -918,3 +918,4 @@ Signed,
 - Tom Lazar ([@tomlazar](https://github.com/tomlazar)), CS Student, Marquette University
 - Sergey Makinen ([@sergeymakinen](https://github.com/sergeymakinen)), Software Engineer, Russia
 - Henrique Melanda ([@hjdesigner](https://github.com/hjdesigner)), Front-End Developer based in São Paulo, Brazil
+- Igor Borges ([@Igor1201](https://github.com/Igor1201)), Software Engineer, Brazil
