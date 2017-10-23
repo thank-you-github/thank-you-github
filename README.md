@@ -894,3 +894,4 @@ Signed,
 - Kottans Gang ([@Kottans](https://github.com/Kottans)) Planet Earth
 - Michael Gray ([@mishagray](https://github.com/mishagray)), Software Afflicted, Author of [FutureKit](https://github.com/FutureKit/FutureKit.git), New York, NY
 - XngPro ([@XngPro](https://github.com/XngPro)), Software Engineer
+- Murshid Ahmed  ([@murshid1988](https://github.com/murshid1988)), Software Engineer, Colombo, Sri Lanka
