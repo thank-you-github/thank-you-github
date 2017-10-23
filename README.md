@@ -944,3 +944,4 @@ Signed,
 - Aayush Ahuja ([@hyades](https://github.com/hyades)), Software Engineer
 - Fabian Lauer ([@FabianLauer](https://github.com/FabianLauer)), Web Developer, Germany
 - Mikhail Pabalavets ([@styx](https://github.com/styx)), Developer, Belarus, Minsk
+- 蔡堃 ([@styx](https://github.com/kc910521)), Developer, S.K.E.L.E.T.O.N.
