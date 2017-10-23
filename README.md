@@ -964,3 +964,4 @@ Signed,
 - Alexander Schmidt ([@Bloggerschmidt](https://github.com/Bloggerschmidt)), Frontend Developer, Germany
 - Stefano Canducci([@stenowtf](https://github.com/stenowtf)), Front-End Developer, Bologna, Italy
 - Vincenzo (Wilk) Ferrari ([@wilk](https://github.com/wilk)), Software Engineer, Reggio Emilia, Italy
+- William Blythe ([@willyb321](https://github.com/willyb321)), Web developer, Australia.
