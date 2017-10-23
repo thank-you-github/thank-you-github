@@ -940,3 +940,4 @@ Signed,
 - Dawid Weglarz ([@Radeox](https://github.com/Radeox)), Student and Developer, Italy
 - Jacob Hein ([@Jahhein](https://github.com/Jahhein)), Software Developer, Jahhein
 - Junaid Salaat ([@jsalaat](https://github.com/jsalaat)), Software Developer, Karachi, Pakistan.
+- Bulat Zamalutdinov ([@qJkee](https://github.com/qJkee)), Software Engineer, Kazan, Russia.
