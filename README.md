@@ -983,3 +983,4 @@ Signed,
 - Ankit Chhetri  ([@ankitch](https://github.com/ankitch)), Student, Developer, Nepal
 - André Luiz Vargas ([@andrevargas](https://github.com/andrevargas)), Web Developer, Brazil
 - Matías Verdier ([@MatiasVerdier](https://github.com/MatiasVerdier)), Full Stack Developer, Uruguay
+- Pratik Chaudhary ([@abs-zero](https://github.com/abs-zero)), Student, Developer, Nepal
