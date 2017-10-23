@@ -1006,3 +1006,4 @@ Signed,
 - Arun Michael Dsouza ([@ArunMichaelDsouza](https://github.com/ArunMichaelDsouza)), Software Engineer, India
 - Nika Otiashvili ([@Nikaoto](https://github.com/Nikaoto)), Programmer, Georgia (Sakartvelo)
 - Bikram Suwal ([@veekram](https://github.com/veekram)), Software Engineer, Nbinfotech (P).Ltd, Nepal
+- Caleb Bibb ([@bibbca](https://github.com/bibbca)), High School Teacher, USA
