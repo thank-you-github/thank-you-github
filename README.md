@@ -982,3 +982,4 @@ Signed,
 - Jonathan Cardasis ([@joncardasis](https://github.com/joncardasis)), iOS and Mac Developer at [United States Department of Defense](https://www.defense.gov/), USA
 - Ankit Chhetri  ([@ankitch](https://github.com/ankitch)), Student, Developer, Nepal
 - André Luiz Vargas ([@andrevargas](https://github.com/andrevargas)), Web Developer, Brazil
+- Matías Verdier ([@MatiasVerdier](https://github.com/MatiasVerdier)), Full Stack Developer, Uruguay
