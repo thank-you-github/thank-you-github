@@ -967,3 +967,5 @@ Signed,
 - William Blythe ([@willyb321](https://github.com/willyb321)), Web developer, Australia.
 - Sri Harsha Kappala ([@sriharshakappala](https://github.com/sriharshakappala)), Software Engineer, CaratLane, Chennai
 - Stefano Canducci ([@stenowtf](https://github.com/stenowtf)), Front-end Developer / Coder, Bologna, Italy
+- Jafar Akhondali ([@JafarAkhondali](https://github.com/JafarAkhondali)) Developer, Dezful
+
