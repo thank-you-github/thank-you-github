@@ -996,3 +996,4 @@ Signed,
 - Aaron Gill-Braun ([@AaronGillBraun](https://github.com/aarongillbraun)), Full Stack Developer
 - Noe Neftali Miniel :clap:([@Noe007](https://github.com/noe007)), Computer Science Student, USA
 - Braxton Ehle ([@braxtone](https://github.com/braxtone)), Security Engineer, USA
+- Santos Perez ([@mxra8](https://github.com/mxra8)), Web developer, Mexico
