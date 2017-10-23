@@ -1019,3 +1019,4 @@ Signed,
 - Guilherme Oderdenge ([@chiefGui](https://github.com/chiefGui)), Front-end Developer, Brazil
 - Andrey Knupp Vital ([@CentaurWarchief](https://github.com/CentaurWarchief)), Developer, Minas Gerais, Brazil
 - Rapipat Udomgun ([@rppudo](https://github.com/rppudo)), Developer, Bangkok, Thailand
+- Yaroslav Konoplov :bulb: ([@yivo](https://github.com/yivo)), Software Engineer, Kyiv, Ukraine
