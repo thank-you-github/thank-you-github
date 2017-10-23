@@ -993,3 +993,4 @@ Signed,
 - Josh Harris ([@jharris1679](https://github.com/jharris1679)), Lover of All Data, Canada
 - Michel Billard ([@mbillard](https://github.com/mbillard)), Web Developer, Canada
 - Rajula Vineet Reddy ([@rajula96reddy](https://github.com/rajula96reddy)), Student, IIIT Bangalore, India
+- Aaron Gill-Braun ([@AaronGillBraun](https://github.com/aarongillbraun)), Full Stack Developer
