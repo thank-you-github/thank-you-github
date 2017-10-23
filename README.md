@@ -954,3 +954,4 @@ Signed,
 - crossoverJie ([@crossoverJie](https://github.com/crossoverJie)), Software Developer, China
 - Michael Jett ([@jumbojett](https://github.com/jumbojett)), Software Engineer, MITRE Corp
 - Santiago Traversa ([@san983](https://github.com/san983)), Developer, Haedo, Argentina.
+- Felipe Borges ([@feliborgez](https://github.com/feliborgez)), Software Developer, Brazil
