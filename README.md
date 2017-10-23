@@ -1021,3 +1021,4 @@ Signed,
 - Rapipat Udomgun ([@rppudo](https://github.com/rppudo)), Developer, Bangkok, Thailand
 - Yaroslav Konoplov :bulb: ([@yivo](https://github.com/yivo)), Software Engineer, Kyiv, Ukraine
 - Adam Pietrasiak ([@pie6k](https://github.com/pie6k)), Web Developer, Kraków, Poland
+- Steev James ([@steevjames](https://github.com/steevjames)), CS Engineering Student, India
