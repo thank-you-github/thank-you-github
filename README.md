@@ -1000,3 +1000,4 @@ Signed,
 - James Cuénod ([@jcuenod](https://github.com/jcuenod)), Biblical Studies by day - Software Developer by night (cf. [parabible](https://parabible.com)), South Africa
 - Shubham Maheshwari ([@shu121197](https://github.com/shu121197)), Student, IIT Roorkee, India
 - Benjamin Mezger ([@benmezger](https://github.com/benmezger)), Computer Science Student, The Netherlands
+- Rohit Deshmukh ([@rd10397](https://github.com/rd10397)),E&TC Student at SITS,Pune,India
