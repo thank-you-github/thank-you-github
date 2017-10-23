@@ -913,3 +913,4 @@ Signed,
 - Caree Youngman ([@careecodes](https://github.com/careecodes)), Front End Engineer, Texas, USA
 - Vítor G. Chagas ([@Vitorvgc](https://github.com/Vitorvgc)), iOS Developer
 - 迷渡 ([@justjavac](https://github.com/justjavac)), Web Developer, Tianjin, China
+- Joshua Byrd ([@phocks](https://github.com/phocks)), Digital Developer, ABC News, Brisbane, Australia
