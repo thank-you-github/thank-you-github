@@ -992,3 +992,4 @@ Signed,
 - Win Htaik Aung ([@winhtaikaung](https://github.com/winhtaikaung)), Software Engineer, Perx Technologies PTE.Ltd,Myanmar
 - Josh Harris ([@jharris1679](https://github.com/jharris1679)), Lover of All Data, Canada
 - Michel Billard ([@mbillard](https://github.com/mbillard)), Web Developer, Canada
+- Rajula Vineet Reddy ([@rajula96reddy](https://github.com/rajula96reddy)), Student, IIIT Bangalore, India
