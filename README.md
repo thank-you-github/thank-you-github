@@ -923,3 +923,4 @@ Signed,
 - Marcos Vinicius ([@vmarcosp](https://github.com/vmarcosp)), Full Stack Developer (http://www.vmarcosp.com.br/), Brazil
 - အောင်မျိုးကျော် ([@AungMyoKyaw](https://github.com/AungMyoKyaw/)), Web Developer, Rangoon, Burma
 - Evlos Huang ([@Evlos](https://github.com/Evlos/)), Full Stack Developer
+- B Hindujhan ([@hindujhan](https://github.com/hindujhan)), Full Stack Developer, Sri Lanka
