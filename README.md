@@ -949,3 +949,4 @@ Signed,
 - Summit Bajracharya ([@summitbaj](https://github.com/summitbaj)), Software Engineer, Kathmandu.
 - geminiyellow ([@geminiyellow](https://github.com/geminiyellow)), Coder, CREATIVISION's UFO, Earth
 - Smajo Husic ([@smajohusic](https://github.com/smajohusic)), Developer, Sempro
+- Santiago Traversa ([@san983](https://github.com/san983)), Developer, Haedo, Argentina.
