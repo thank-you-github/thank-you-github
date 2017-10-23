@@ -894,3 +894,8 @@ Signed,
 - Kottans Gang ([@Kottans](https://github.com/Kottans)) Planet Earth
 - Michael Gray ([@mishagray](https://github.com/mishagray)), Software Afflicted, Author of [FutureKit](https://github.com/FutureKit/FutureKit.git), New York, NY
 - Daniele Paz ([@danielempaz](https://github.com/danielempaz)), Student, Brazil
+- XngPro ([@XngPro](https://github.com/XngPro)), Software Engineer
+- Murshid Ahmed  ([@murshid1988](https://github.com/murshid1988)), Software Engineer, Colombo, Sri Lanka
+- Kesus Kim ([@kesuskim](https://github.com/kesuskim)), Software Engineer, South Korea
+- Noah Ramey ([@noahramey](https://github.com/noahramey)), Software Engineer, Portland, Oregon, USA
+- Titouan Créac'h ([@titouancreach](https://github.com/titouancreach)), Full Stack Developer, France
