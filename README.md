@@ -941,3 +941,4 @@ Signed,
 - Jacob Hein ([@Jahhein](https://github.com/Jahhein)), Software Developer, Jahhein
 - Junaid Salaat ([@jsalaat](https://github.com/jsalaat)), Software Developer, Karachi, Pakistan.
 - Bulat Zamalutdinov ([@qJkee](https://github.com/qJkee)), Software Engineer, Kazan, Russia.
+- Aayush Ahuja ([@hyades](https://github.com/hyades)), Software Engineer
