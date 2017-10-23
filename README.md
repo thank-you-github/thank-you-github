@@ -930,3 +930,4 @@ Signed,
 - Diego Reiriz ([@DiegoReiriz](https://github.com/DiegoReiriz)), Software Engineer & Researcher, Spain, Galicia
 - Saroj Khatiwada ([@sarojkh](https://github.com/sarojkh)), Ruby on Rails Developer, Kathmandu, Nepal
 - Simon Toivo Telhaug ([@stoivo](https://github.com/stoivo)) Developer, Norway
+- Raims Cabrera ([@raaims](https://github.com/raaims)), Web Developer & Designer, Mashup Technology Ventures, Philippines
