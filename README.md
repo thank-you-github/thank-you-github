@@ -969,3 +969,4 @@ Signed,
 - Stefano Canducci ([@stenowtf](https://github.com/stenowtf)), Front-end Developer / Coder, Bologna, Italy
 - Jafar Akhondali ([@JafarAkhondali](https://github.com/JafarAkhondali)) Developer, Dezful
 - Aman Mahajan ([@amanmj](https://github.com/amanmj)), Software Engineer, India
+- Niko Tidar Lantang Perkasa ([@betmenwasdie](https://github.com/betmenwasdie)), Information Security Engineer, Indonesia
