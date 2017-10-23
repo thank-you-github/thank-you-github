@@ -970,3 +970,4 @@ Signed,
 - Jafar Akhondali ([@JafarAkhondali](https://github.com/JafarAkhondali)) Developer, Dezful
 - Aman Mahajan ([@amanmj](https://github.com/amanmj)), Software Engineer, India
 - Puneeth Narayana ([@puneethnarayana](https://github.com/puneethnarayana)), Software Engineer, Fifth Eye and Cinqueon, India
+- Niko Tidar Lantang Perkasa ([@betmenwasdie](https://github.com/betmenwasdie)), Information Security Engineer, Indonesia
