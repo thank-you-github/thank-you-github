@@ -1012,3 +1012,4 @@ Signed,
 - Benjamin Schuch ([@chillyistkult](https://github.com/chillyistkult)), Software Engineer, Germany
 - Lun Zhang :smile:([@lunzhang](https://github.com/lunzhang)), Ninja, USA
 - Alex Rupérez ([@alexruperez](https://github.com/alexruperez)), iOS Architect, Spain
+- Pericherla Seetarama Raju ([@geekrypter](https://github.com/geekrypter)), Student, OSS Contributor, Developer, IIIT Bangalore, India
