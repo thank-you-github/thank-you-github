@@ -990,4 +990,8 @@ Signed,
 - Dominic Valenciana ([@kiricon](https://github.com/kiricon)), Software Engineer, USA
 - Thiago F. Lins ([@kidush](https://github.com/kidush)), Full Stack Developer, Brazil
 - Win Htaik Aung ([@winhtaikaung](https://github.com/winhtaikaung)), Software Engineer, Perx Technologies PTE.Ltd,Myanmar
+- Josh Harris ([@jharris1679](https://github.com/jharris1679)), Lover of All Data, Canada
+- Michel Billard ([@mbillard](https://github.com/mbillard)), Web Developer, Canada
+- Rajula Vineet Reddy ([@rajula96reddy](https://github.com/rajula96reddy)), Student, IIIT Bangalore, India
+- Aaron Gill-Braun ([@AaronGillBraun](https://github.com/aarongillbraun)), Full Stack Developer
 - Noe Neftali Miniel :clap:([@Noe007](https://github.com/noe007)), Computer Science Student, USA
