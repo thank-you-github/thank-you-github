@@ -898,3 +898,4 @@ Signed,
 - Kesus Kim ([@kesuskim](https://github.com/kesuskim)), Software Engineer, South Korea
 - Noah Ramey ([@noahramey](https://github.com/noahramey)), Software Engineer, Portland, Oregon, USA
 - Titouan Créac'h ([@titouancreach](https://github.com/titouancreach)), Full Stack Developer, France
+- Axetroy ([@axetroy](https://github.com/axetroy)), Full Stack Developer, wheel maker.
