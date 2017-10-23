@@ -973,4 +973,6 @@ Signed,
 - Daniele Paz ([@danielempaz](https://github.com/danielempaz)), Student, Brazil
 - Nabin Dhakal ([@1BA4](https://github.com/1BA4/)), Breathes Open Source, Computer Eng. Student, Tribhuvan University, Nepal
 - 侯剑锋([@DerekDick](https://github.com/DerekDick/)), an undergraduate at Tongji University, China
+- Rishabh Karajgi ([@karajrish](https://github.com/karajrish/)) Hacker, Software Engineer, India
+- Dejie Zhou ([@ssshooter](https://github.com/ssshooter)), Font End Developer, China
 - Filippo Rossi ([@qu4k](https://github.com/qu4k)), Student, Italy
