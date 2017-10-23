@@ -919,3 +919,4 @@ Signed,
 - Sergey Makinen ([@sergeymakinen](https://github.com/sergeymakinen)), Software Engineer, Russia
 - Henrique Melanda ([@hjdesigner](https://github.com/hjdesigner)), Front-End Developer based in São Paulo, Brazil
 - Igor Borges ([@Igor1201](https://github.com/Igor1201)), Software Engineer, Brazil
+- Luiz Gonçalves ([@lhcgoncalves](https://github.com/lhcgoncalves)) Fullstack, Zanta IT, Brazil
