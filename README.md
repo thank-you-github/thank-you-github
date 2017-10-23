@@ -905,3 +905,4 @@ Signed,
 - Amit Chaudhary ([@amitness](https://github.com/amitness)), Software Engineer, Kathmandu, Nepal
 - Nick Wanninger ([@nickwanninger](https://github.com/nickwanninger)), Developer
 - 蓝浩 ([@captainblue2013](https://github.com/captainblue2013)) CREATIVISION
+- Gu Junchao ([@franklingu](https://github.com/franklingu)), Software Developer
