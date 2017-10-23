@@ -1016,3 +1016,4 @@ Signed,
 - Arslan Ahmad ([@Ahmadkhan12345566](https://github.com/Ahmadkhan12345566)), Student, Web Developer, Pakistan
 - Prathamesh Sonpatki ([@prathamesh-sonpatki](https://github.com/prathamesh-sonpatki)), Developer, Pune, India.
 - Desiderio Martínez Silva ([@siderio2](https://github.com/siderio2)), Web Developer, Lalín, Galicia, Spain
+- Andrey Knupp Vital ([@CentaurWarchief](https://github.com/CentaurWarchief)), Developer, Minas Gerais, Brazil
