@@ -181,6 +181,7 @@ Signed,
 - Robert Winkler ([@RobWin](https://github.com/RobWin)), Software Developer
 - Jimson Liang ([@ruijun](https://github.com/ruijun)), Android Developer
 - Nashwan Doaqan ([@nash-ye](https://github.com/nash-ye)), Web Developer
+- Nick Wanninger ([@nickwanninger](https://github.com/nickwanninger)), Developer
 - Alexander Pyatkin ([@aspyatkin](https://github.com/aspyatkin)), Software engineer at [Indigo Byte Systems, LLC](http://indigobyte.com)
 - Shivaji Varma Pusapati Venkata([@shivajivarma](https://github.com/shivajivarma)), Software Developer
 - Uladzimir Mihura ([@trnl](https://github.com/trnl)), System Architect at [EPAM Systems](http://www.epam.com/)
