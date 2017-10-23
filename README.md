@@ -948,3 +948,4 @@ Signed,
 - Siddharth Prajosh ([@sprajosh](https://github.com/sprajosh)), Student, Toc H Institute of Science and Technology
 - Summit Bajracharya ([@summitbaj](https://github.com/summitbaj)), Software Engineer, Kathmandu.
 - geminiyellow ([@geminiyellow](https://github.com/geminiyellow)), Coder, CREATIVISION's UFO, Earth
+- Smajo Husic ([@smajohusic](https://github.com/smajohusic)), Developer, Sempro
