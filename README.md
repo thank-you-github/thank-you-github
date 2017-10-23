@@ -957,3 +957,4 @@ Signed,
 - Felipe Borges ([@feliborgez](https://github.com/feliborgez)), Software Developer, Brazil
 - Harsh Jain ([@harsh-98](https://github.com/harsh-98)), Student Developer, CS Undergrad, IIT Roorkee
 - Andrzej Grzegorz Borkowski ([@agborkowski](https://github.com/agborkowski)), [Software Engineer](blog.aeonmedia.eu), Poland
+- Nikho Sagala ([@nikhosagala](https://github.com/nikhosagala)), Developer, Indonesia
