@@ -986,3 +986,4 @@ Signed,
 - Pratik Chaudhary ([@abs-zero](https://github.com/abs-zero)), Student, Developer, Nepal
 - 蓝浩 ([@captainblue2013](https://github.com/captainblue2013)), [CREATIVISION, China](https://github.com/PY-ORG)
 - Skyblue ([@skyblue](https://github.com/skyblue)), [CREATIVISION, China](https://github.com/PY-ORG)
+- Asif Raza ([@raoasifraza11](https://github.com/raoasifraza11)), Student, Web Developer, Pakistan
