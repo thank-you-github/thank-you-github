@@ -1132,3 +1132,4 @@ Signed,
 - Massimiliano Montaleone ([@Fast0n](https://github.com/Fast0n)), Student and Developer, Italy
 - Melby Baldove ([@melbystyle](https://github.com/melbystyle)), Software Developer, Philippines
 - Prakash Chakraborty ([@Joonsang1994](https://github.com/Joonsang1994)), Software Developer, Mysore, India
+- Theo Massard ([@massard-t](https://github.com/massard-t/)), DevOps, France
