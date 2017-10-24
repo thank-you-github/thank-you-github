@@ -1187,3 +1187,4 @@ Signed,
 - Aquib Javed ([@smashingspirit67](https://github.com/smashingspirit67)), Salesforce Developer, India
 - Adam Wilkie ([@eikliw](https://github.com/eikliw)), Student, iOS Developer, USA
 - Jason Chua ([@jchua1](https://github.com/jchua1)), Student, USA
+- Yugal Yadav ([@yugalxd](https://github.com/yugalxd)), Full-Stack, India
