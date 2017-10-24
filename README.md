@@ -1204,3 +1204,4 @@ Signed,
 - Kelsey Langlois ([@langlk](https://github.com/langlk)), Student
 - Joris Mansart ([@MisterJack49](https://github.com/MisterJack49)), Developer, France
 - Brian Christian ([@fdeitylink](https://github.com/fdeitylink)), Student, United States
+- Samuel Pisa ([@samfrezza](https://github.com/samfrezza)), Software Developer, Brazil
