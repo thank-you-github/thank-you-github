@@ -1161,3 +1161,5 @@ Signed,
 - Mekeiap Debian ([@dynamicdebian](https://github.com/dynamicdebian)), Information Technology Student at NIT Durgapur
 - Alexander Mendez ([@ajmendez](https://github.com/ajmendez)), Data Scientist, USA
 - Jenny Haggerty ([@jenjenjenio](https://github.com/jenjenjenio)), Student, Texas, USA
+- Vineeth Gutta ([@vgutta](https://github.com/vgutta)), Undergrad at University of Delaware
+
