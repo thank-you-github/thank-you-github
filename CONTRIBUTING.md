@@ -3,3 +3,5 @@
 * Make sure the linked username in the signature matches exactly the GitHub
   handler of the account that opens the PR. This is the way to ensure the
   signature belongs to who has written the patch.
+
+- Ravi Kishore Thella ([@ravikishorethella](https://github.com/ravikishorethella)), Frontend developer at OnEaglesWingsInc
