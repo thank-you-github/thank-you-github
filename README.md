@@ -1146,3 +1146,4 @@ Signed,
 - Phan Huy Hoàng ([@snailfalca](https://github.com/snailfalca)), Software Engineering student of FPT University, Vietnam
 - Nicholas Kinsey ([@pyrotechnick](https://github.com/pyrotechnick)), Developer, Australia
 - Muhamad Umar ([@kuroki111](https://github.com/kuroki111)), Student, Indonesia
+- Daniel Gimenes ([@danizord](https://github.com/danizord)), Software Engineer at Maestrooo, Brazil
