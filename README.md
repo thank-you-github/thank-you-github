@@ -1073,3 +1073,4 @@ Signed,
 - Purbo ([@purbohadi](https://github.com/purbohadi/)), Student & Software Engineer, Budapest, Hungary
 - Ales Jagric ([@OmegaModr](https://github.com/OmegaModr/)), Systems Engineer, Ljubljana, Slovenia
 - Dafydd ([@DafsCode](https://github.com/DafsCode)) 13, CS student, UK
+- Kayvan Mazaheri ([@KayvanMazaheri](https://github.com/KayvanMazaheri)), Software Engineer, Iran
