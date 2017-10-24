@@ -1067,3 +1067,4 @@ Signed,
 - 王铁手([@wtser](https://github.com/wtser)), Frontend Developer/Designer, China
 - Ravi Kishore Thella ([@ravikishorethella](https://github.com/ravikishorethella)), Frontend developer at OnEaglesWingsInc
 - Den Russel Valenzuela ([@denvalenzuela](https://github.com/denvalenzuela)), Software Engineer, Philippines
+- Oscar García ([@oskarizu](https://github.com/oskarizu)), Data Engineer, Catalonia
