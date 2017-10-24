@@ -1119,3 +1119,4 @@ Signed,
 - Hector ([@ProfHorse](https://github.com/ProfHorse)), Student, United Kingdom
 - Raja Sekhar Karanam ([@rkaranam](https://github.com/rkaranam)), Software Developer, India
 - Nandakumar Devadas ([@nandakumardevadas](https://github.com/nandakumardevadas)), Developer Madurai, India
+- Matei David ([@Matei207](https://github.com/Matei207)), Student, Software Developer, UK
