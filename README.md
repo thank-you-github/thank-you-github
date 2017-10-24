@@ -1058,3 +1058,4 @@ Signed,
 - Amine Boulouma ([@flambok](https://github.com/flambok)), Computer Science Engineer Student, France
 - Miquellysson lins ([@miquellysson](https://github.com/miquellysson)), Full Stack Developer, Brazil
 - Rob Rose ([@RobRoseKnows](https://github.com/RobRoseKnows)), Software Engineer, Baltimore, MD
+- Lucas Santos ([@khaosdoctor](https://github.com/khaosdoctor)), FullStack Developer, São Paulo, Brazil
