@@ -1208,3 +1208,4 @@ Signed,
 - Pranjal Singh ([@pranjal44](https://github.com/pranjal44)), Student, Beginner, India
 - Gabrijel Skoro ([@gabskoro](https://github.com/gabskoro)), Javascript Engineer
 - Bably Kumari ([@bablyseattle](https://github.com/bablyseattle)), Student, United States
+- Oscar Castro ([@legio1221](https://github.com/legio1221)), IT Business Analyst, United States of America
