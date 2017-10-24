@@ -1083,3 +1083,4 @@ Signed,
 - Rohit Gupta ([@guptarohit](https://github.com/guptarohit/)), Software Engineer, New Delhi, India
 - Sharang Dashputre ([@sharang-d](https://github.com/sharang-d/)), Software Engineer, India
 - Rohit Swami ([@rowhitswami](https://github.com/rowhitswami/)), Student, Front-End Developer, India
+- Matthew Miller ([@me4502](https://github.com/me4502/)), Student, Software Developer, Australia
