@@ -1184,3 +1184,4 @@ Signed,
 - Alexander Garcia ([@asg5704](https://github.com/asg5704)), Student, Full Stack Web Developer, ATX
 - Durul Dalkanat ([@durul](https://github.com/durul)), iOS Developer at [Vibrent Health](https://www.vibrenthealth.com), USA
 - Mayank Paarmar([@myk7hackon](https://github.com/myk7hackon)), Student , Competitive Programmer, India
+- Aquib Javed ([@smashingspirit67](https://github.com/smashingspirit67)), Salesforce Developer, India
