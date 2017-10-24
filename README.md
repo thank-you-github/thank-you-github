@@ -1192,3 +1192,4 @@ Signed,
 - Pratham Agrawal ([@pagrawl3](https://github.com/pagrawl3)), Co-Founder, Soch Technologies
 - Hum4n01d ([@hum4n01d])(https://github.com/hum4n01d)), Student, Full Stack Developer, USA
 - Kelly C ([@kcheng9](https://github.com/kcheng9)), Developer, USA
+- Rute Carrapato ([@RuteCarrapato](https://github.com/RuteCarrapato)), Junior Software Developer, Portugal
