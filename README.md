@@ -1197,3 +1197,4 @@ Signed,
 - Nikita Pavlov ([@nik-pavlov](https://github.com/Nik-Pavlov)), C++ Software Developer, Russia
 - Boet de Willigen ([@bo0tzz](https://github.com/bo0tzz)), Hobby Developer, The Netherlands
 - Kevin Song ([@songkevinc](https://github.com/songkevinc)), Student, University of Chicago, USA
+- Sambhav Jain ([@sambhav2612](https://github.com/sambhav2612)), Student, Android Enthusiast, India
