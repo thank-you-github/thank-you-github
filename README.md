@@ -1088,3 +1088,4 @@ Signed,
 - Abdullah Khan ([@AKNiazi](https://github.com/AKNiazi)), Software Engineer, Mianwali, Pakistan
 - Sam ([@yrsamrith](https://github.com/yrsamrith/)), Software Engineer, Cambodia
 - Thibault Maekelbergh ([@thibmaek](https://github.com/thibmaek)), Full Stack Web Developer, Belgium
+- David Kwan ([@davidkwan95](https://github.com/davidkwan95/)), Full Stack Software Engineer, Indonesia
