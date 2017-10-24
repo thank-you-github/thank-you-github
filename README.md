@@ -1182,3 +1182,21 @@ Signed,
 - Anish Karandikar ([@anishkny](https://github.com/anishkny)), SDET, MathWorks, USA
 - Gabriel Kalani ([@gkal19](https://github.com/gkal19)), Student, Backend Developer, Brazil
 - Virat Singh ([@gotstyle](https://github.com/VSBtechs),Student at SGSITS,Indore,India
+- Alexander Garcia ([@asg5704](https://github.com/asg5704)), Student, Full Stack Web Developer, ATX
+- Durul Dalkanat ([@durul](https://github.com/durul)), iOS Developer at [Vibrent Health](https://www.vibrenthealth.com), USA
+- Mayank Paarmar([@myk7hackon](https://github.com/myk7hackon)), Student , Competitive Programmer, India
+- Aquib Javed ([@smashingspirit67](https://github.com/smashingspirit67)), Salesforce Developer, India
+- Adam Wilkie ([@eikliw](https://github.com/eikliw)), Student, iOS Developer, USA
+- Jason Chua ([@jchua1](https://github.com/jchua1)), Student, USA
+- Yugal Yadav ([@yugalxd](https://github.com/yugalxd)), Full-Stack, India
+- Abhijeet Singh ([@aps120797](https://github.com/aps120797)), CSE Undergrad, IIIT Trichy, India
+- Pratham Agrawal ([@pagrawl3](https://github.com/pagrawl3)), Co-Founder, Soch Technologies
+- Hum4n01d ([@hum4n01d])(https://github.com/hum4n01d)), Student, Full Stack Developer, USA
+- Kelly C ([@kcheng9](https://github.com/kcheng9)), Developer, USA
+- Rute Carrapato ([@RuteCarrapato](https://github.com/RuteCarrapato)), Junior Software Developer, Portugal
+- Cassie Theobald ([@cassietheobald](https://github.com/cassietheobald)), Student, Data Analysis, USA
+- Nikita Pavlov ([@nik-pavlov](https://github.com/Nik-Pavlov)), C++ Software Developer, Russia
+- Boet de Willigen ([@bo0tzz](https://github.com/bo0tzz)), Hobby Developer, The Netherlands
+- Kevin Song ([@songkevinc](https://github.com/songkevinc)), Student, University of Chicago, USA
+- Sambhav Jain ([@sambhav2612](https://github.com/sambhav2612)), Student, Android Enthusiast, India
+- Alex Costinescu ([@acostinescu](https://github.com/acostinescu)), CIS Student at Ohio State, United States
