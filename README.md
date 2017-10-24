@@ -1033,3 +1033,4 @@ Signed,
 - Sourav Verma ([@SrGrace](https://github.com/SrGrace)), Machine Learning Enthusiast, India
 - Shreyansh Gupta ([@shreyanshgupta](https://github.com/shreyanshgupta)), Front-end Developer, India
 - Ricardo Orellana ([@ricardoorellana](https://github.com/ricardoorellana)), Software Engineer, El Salvador.
+- Gabriela Escoto ([@gabitha](https://github.com/gabitha)), Frontend Designer, Mexico
