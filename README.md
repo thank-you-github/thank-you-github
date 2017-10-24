@@ -1062,3 +1062,4 @@ Signed,
 - Dennis Beatty ([@dnsbty](https://github.com/dnsbty)), Software Engineer, Utah, USA
 - Felipe Lima ([@felipecsl](https://github.com/felipecsl)), Software Engineer, San Francisco, USA
 - Matthew Piercey ([@hyperionlevelq](https://github.com/hyperionlevelq)), Student, JavaWockies FRC Team 6336, Elmvale, Ontario
+- Sebastian Jimenez ([@sebasjimenez10](https://github.com/sebasjimenez10)), Software Engineer, Medellin, Colombia
