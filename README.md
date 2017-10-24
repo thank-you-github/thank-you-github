@@ -1159,6 +1159,7 @@ Signed,
 - Seema ([@seema84](https://github.com/seema84)), Software Developer, Germany
 - Ali Emrah PEKESEN ([@aliemrahpekesen](https://github.com/aliemrahpekesen)), Software Development Team Leader, Turkey
 - Mekeiap Debian ([@dynamicdebian](https://github.com/dynamicdebian)), Information Technology Student at NIT Durgapur
+- Felipe Assunção ([@felipeuntill](https://github.com/felipeuntill)), Software Engineer, Brazil
 - Alexander Mendez ([@ajmendez](https://github.com/ajmendez)), Data Scientist, USA
 - Jenny Haggerty ([@jenjenjenio](https://github.com/jenjenjenio)), Student, Texas, USA
 - Vineeth Gutta ([@vgutta](https://github.com/vgutta)), Undergrad at University of Delaware
@@ -1169,4 +1170,3 @@ Signed,
 - Rory Claasen ([@roryclaasen](https://github.com/roryclaasen)), Apprentice at Microsoft, England
 - Luke Garner ([@elgeesound](https://github.com/elgeesound)), Full-Stack Dev, SF
 - Guga Katsiashvili ([@gugakatsi](https://github.com/gugakatsi)), Software Engineer , Tbilisi , Georgia
-- xiayong ([@THEONE10211024](https://github.com/THEONE10211024)), Android, China
