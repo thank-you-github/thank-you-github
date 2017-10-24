@@ -1118,3 +1118,4 @@ Signed,
 - Jono ([@noojuno](https://github.com/noojuno)), Developer, New Zealand
 - Hector ([@ProfHorse](https://github.com/ProfHorse)), Student, United Kingdom
 - Raja Sekhar Karanam ([@rkaranam](https://github.com/rkaranam)), Software Developer, India
+- Matei David ([@Matei207](https://github.com/Matei207)), Student, Software Developer, UK
