@@ -1171,3 +1171,4 @@ Signed,
 - Guga Katsiashvili ([@gugakatsi](https://github.com/gugakatsi)), Software Engineer , Tbilisi , Georgia
 - xiayong ([@THEONE10211024](https://github.com/THEONE10211024)), Android, China
 - Felipe Assunção ([@felipeuntill](https://github.com/felipeuntill)), Software Engineer, Brazil
+- Tikam Alma ([@Tikam02](https://github.com/Tikam02)),FullStack Django, FrontEnd & Backend Web/App Developer.
