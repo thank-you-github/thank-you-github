@@ -1079,3 +1079,4 @@ Signed,
 - Simon Verhoeven ([@SimonVerhoeven](https://github.com/SimonVerhoeven/)), Developer, Belgium
 - Usman Shahid ([@codemug](https://github.com/codemug/)), Software Developer, Pakistan
 - Jens de Rond ([@Jensderond](https://github.com/Jensderond/)), Software Developer and Open Source fanatic, The Netherlands
+- Rohit Gupta ([@guptarohit](https://github.com/guptarohit/)), Software Engineer, New Delhi, India
