@@ -1140,3 +1140,4 @@ Signed,
 - Anupam Kumar Singh ([@anupam691997](https://github.com/anupam691997)), Member of Big Data Centre Of Excellence
 
 - Jirayu Laungwilawan ([@JirayuL](https://github.com/JirayuL)), Software and Knowledge Engineering student at Kasetsart University, Thailand
+- Mekeiap Debian ([@dynamicdebian](https://github.com/dynamicdebian), Information Technology Student at NIT Durgapur
