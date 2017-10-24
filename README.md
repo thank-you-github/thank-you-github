@@ -1168,3 +1168,4 @@ Signed,
 - Surendra ([@SurendraTelidevara](https://github.com/SurendraTelidevara)), Student
 
 - Shubham Patil ([@shubham76](https://github.com/shubham76)), Computer Science & Engineering Student at VNIT Nagpur
+- Rory Claasen ([@roryclaasen](https://github.com/roryclaasen)), Apprentice at Microsoft, England
