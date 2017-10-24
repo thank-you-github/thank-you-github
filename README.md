@@ -1031,3 +1031,4 @@ Signed,
 - Kamal Iqlaas ([@Iqlaas](https://github.com/Iqlaas)), Rails Developer, Petaling Jaya, Malaysia
 - Harish Venkatesan ([@harishv7](https://github.com/harishv7)), Computer Engineer, Singapore
 - Sourav Verma ([@SrGrace](https://github.com/SrGrace)), Machine Learning Enthusiast, India
+- Shreyansh Gupta ([@shreyanshgupta](https://github.com/shreyanshgupta)), Front-end Developer, India
