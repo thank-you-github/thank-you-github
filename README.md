@@ -1026,4 +1026,4 @@ Signed,
 - Ahad Birang ([@farnabaz](https://github.com/farnabaz)), Full Stack Developer, Iran
 - Victor Pedrazzi ([@vspedr](https://github.com/vspedr)), Software Analyst, Brazil
 - Marquinhus Gonçalves ([@marquinhusgoncalves](https://github.com/marquinhusgoncalves)), Front-end Developer, São Paulo, Brazil
-- Siddharth Mahapatra ([@SiddharthMahapatra12](https://github.com/SiddharthMahapatra12)), KIIT University, India
+- Siddharth Mahapatra ([@SiddharthMahapatra12](https://github.com/SiddharthMahapatra12)), CSE Undegrad Student , KIIT University, India
