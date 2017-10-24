@@ -1176,3 +1176,4 @@ Signed,
 - Baltazar Parra ([baltazarparra](https://github.com/baltazarparra)), Front-End Developer, Brasil)
 - Cristhian Ferreira ([@cferreirasuazo](https://github.com/cferreirasuazo)),Student, System Engineering, Rep Dom
 - Daniel Phan ([@djphan](https://github.com/djphan)), Full Stack Web Developer, Canada
+- Luis Cabrera ([@loudigi](https://github.com/loudigi)), Application Systems Analyst, USA
