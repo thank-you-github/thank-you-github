@@ -1,4 +1,4 @@
-Dear GitHub,
+﻿Dear GitHub,
 
 Before 2007, the way to participate in Open Source was fragmented. Each project
 had their own workflow, patches circulated in emails, issues were reported in
@@ -1069,3 +1069,5 @@ Signed,
 - Den Russel Valenzuela ([@denvalenzuela](https://github.com/denvalenzuela)), Software Engineer, Philippines
 - 蔡堃 ([@kc910521](https://github.com/kc910521)), Developer, S.K.E.L.E.T.O.N.
 - Ilaiyaraja K ([@ilaiyarajak](https://github.com/ilaiyarajak/)), Software Engineer, Netttime, India
+- Purbo ([@purbohadi](https://github.com/purbohadi/)), Student & Software Engineer, Budapest, Hungary
+
