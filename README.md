@@ -1127,3 +1127,4 @@ Signed,
 - Rajat Gupta ([@rajatx185](https://github.com/rajatx185)), Software Developer, Pune, India
 - Anna Kurylo ([@bluebirrrrd](https://github.com/bluebirrrrd/)), Web Developer, Ukraine/Czechia
 
+- Erik Jankovic ([@kirecek](https://github.com/kirecek)), Python Developer, Slovakia
