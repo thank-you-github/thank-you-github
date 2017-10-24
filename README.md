@@ -1093,10 +1093,4 @@ Signed,
 - Francesc Guasch ([@frankiejol](https://github.com/frankiejol/)), Systems Engineer, Catalonia
 - Marvin Hinz ([@Sp0ng3b0b](https://github.com/Sp0ng3b0b/)), Developer, Germany
 - Loreto Gutierrez Jr. ([@loretogutierrezjr](https://github.com/loretogutierrezjr)), Student, Web & C# Developer, Philippines
-- Martin ([@M4l2tIlV](https://github.com/M4l2tIlV)), Security Engineer, Thailand
-- Vinayak Bagaria ([@VinayakBagaria](https://github.com/VinayakBagaria)), Web Developer, India
-- Anoob K bava ([@anoobbava](https://github.com/anoobbava/)), Software Engineer,Kerala, India
-- Jefferson Filho ([@JeffersonFilho](https://github.com/JeffersonFilho)), Full Stack Web Developer, England/Brazil
-- Matteo Pennisi ([@matteo-pennisi](https://github.com/matteo-pennisi)), Student & Developer, Catania, Italy
-- Göktuğ Hatipoğlu ([@d35k](https://github.com/d35k/)), Software Developer, Epigra, Turkey
-- Peiyu Liao ([@pyliaorachel](https://github.com/pyliaorachel)), Student, Taiwan
+- Aakash Kumar Jha ([@mr-skyaakash](https://github.com/mr-skyaakash)), Web Developer, India
