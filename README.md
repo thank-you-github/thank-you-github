@@ -1046,3 +1046,4 @@ Signed,
 - Kiran Shahi ([@kiranshahi](https://github.com/kiranshahi)), Software Engineer, Kathmandu, Nepal
 - Annavelle Martin ([@annavsmartin](https://github.com/annavsmartin)), Software Engineer, Philippines
 - Sachin Srinivasan ([@s8sachin](https://github.com/s8sachin)), Software Developer, India.
+- André Ferreira ([@aferreira44](https://github.com/aferreira44)), Blockchain Full Stack Developer, Brazil
