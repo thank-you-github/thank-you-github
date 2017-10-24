@@ -1027,3 +1027,4 @@ Signed,
 - Victor Pedrazzi ([@vspedr](https://github.com/vspedr)), Software Analyst, Brazil
 - Marquinhus Gonçalves ([@marquinhusgoncalves](https://github.com/marquinhusgoncalves)), Front-end Developer, São Paulo, Brazil
 - Ahmad Ali ([@ahmadalibaloch](https://github.com/ahmadalibaloch)), Software Engineer, Mianwali, Pakistan
+- Andrew Zhu ([@mommothazaz123](https://github.com/mommothazaz123)), Web Dev/Student, USA
