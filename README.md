@@ -1154,3 +1154,4 @@ Signed,
 - Bayu Adji Laksono ([@desfilt](https://github.com/desfilt)), Student, Indonesia
 - Iago Leonardo Laguna ([@iagolaguna](https://github.com/iagolaguna)), Full Stack Android Developer and Javascript lover, Brazil
 - Daniel Ye ([@Sparrowhawk777](https://github.com/Sparrowhawk777)), Student
+- Jeevan Patil ([@jeevan-patil](https://github.com/jeevan-patil)), Full-Stack Developer, Technical Lead, Pune - India
