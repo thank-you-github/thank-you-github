@@ -1057,3 +1057,4 @@ Signed,
 - Jerry Zhang ([@jerrybibo3](https://github.com/jerrybibo3)), Python Developer, USA
 - Amine Boulouma ([@flambok](https://github.com/flambok)), Computer Science Engineer Student, France
 - Miquellysson lins ([@miquellysson](https://github.com/miquellysson)), Full Stack Developer, Brazil
+- Rob Rose ([@RobRoseKnows](https://github.com/RobRoseKnows)), Software Engineer, Baltimore, MD
