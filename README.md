@@ -1118,3 +1118,4 @@ Signed,
 - Jono ([@noojuno](https://github.com/noojuno)), Developer, New Zealand
 - Hector ([@ProfHorse](https://github.com/ProfHorse)), Student, United Kingdom
 - Raja Sekhar Karanam ([@rkaranam](https://github.com/rkaranam)), Software Developer, India
+- Anand Aravindan ([@anandanand84](https://github.com/anandanand84)), Web Developer, United States
