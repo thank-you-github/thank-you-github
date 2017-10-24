@@ -154,6 +154,7 @@ Signed,
 - Jim Slattery ([@jim-slattery-rs](https://github.com/jim-slattery-rs)), Developer
 - Edwin Cruz ([@softr8](https://github.com/softr8)), VP of Engineering at [MagmaLabs](http://www.magmalabs.io/)
 - Todd Qualls ([@tqheel](https://github.com/tqheel)), Software Developer
+- Tikam Alma [@Tikam02](https://github.com/Tikam02),FullStack Django, FrontEnd & Backend Web/App Developer.
 - Lucas S. ([@AgtLucas](https://github.com/AgtLucas)), Web Developer
 - Honza Dvorsky ([@czechboy0](https://github.com/czechboy0)), Grateful Human
 - Brent Garner ([@bgarner](https://github.com/bgarner)), Software Developer
