@@ -1113,3 +1113,4 @@ Signed,
 - Cristhian Ferreira([@cferreirasuazo](https://github.com/cferreirasuazo)),Student, System Engineering, Rep Dom
 - Anderson Malagutti ([@malagutti](https://github.com/malagutti)), Software Developer
 - Adam Paterson ([@adam-paterson](https://github.com/adam-paterson)), Polygot Programmer, United Kingdom
+- Ishuah Kariuki ([@ishuah](https://github.com/ishuah)), Software Engineer, Kenya
