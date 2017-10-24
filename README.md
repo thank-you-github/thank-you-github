@@ -1203,3 +1203,4 @@ Signed,
 - Mikhail Dieterle ([@Mik-die](https://github.com/Mik-die)), Ruby developer, Belarus
 - Kelsey Langlois ([@langlk](https://github.com/langlk)), Student
 - Joris Mansart ([@MisterJack49](https://github.com/MisterJack49)), Developer, France
+- Brian Christian ([@fdeitylink](https://github.com/fdeitylink)), Student, United States
