@@ -1045,3 +1045,4 @@ Signed,
 - Trafis Pickle ([@CraftyBIT](https://github.com/CraftyBIT)), CompSci Student, USA
 - Kiran Shahi ([@kiranshahi](https://github.com/kiranshahi)), Software Engineer, Kathmandu, Nepal
 - Annavelle Martin ([@annavsmartin](https://github.com/annavsmartin)), Software Engineer, Philippines
+- Sachin Srinivasan ([@s8sachin](https://github.com/s8sachin)), Software Developer, India.
