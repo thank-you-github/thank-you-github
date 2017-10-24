@@ -1126,7 +1126,6 @@ Signed,
 - Glenn Dimaliwat ([@GlennDimaliwat](https://github.com/GlennDimaliwat)), Software Developer and Designer, Melbourne, Australia
 - Rajat Gupta ([@rajatx185](https://github.com/rajatx185)), Software Developer, Pune, India
 - Anna Kurylo ([@bluebirrrrd](https://github.com/bluebirrrrd/)), Web Developer, Ukraine/Czechia
-
 - Erik Jankovic ([@kirecek](https://github.com/kirecek)), Python Developer, Slovakia
 - Max Rugen ([@maxrugen](https://github.com/maxrugen)), Student, Dresden, Germany
 - Massimiliano Montaleone ([@Fast0n](https://github.com/Fast0n)), Student and Developer, Italy
@@ -1138,5 +1137,5 @@ Signed,
 - Akshay Nair ([@phenax](https://github.com/phenax)), Web Developer, India
 - Josh Caulfield ([@coolfield](https://github.com/coolfield)), Full Stack Developer, United Kingdom
 - Anupam Kumar Singh ([@anupam691997](https://github.com/anupam691997)), Member of Big Data Centre Of Excellence
-
+- Phan Huy Hoàng ([@snailfalca](https://github.com/snailfalca)), Software Engineering student of FPT University, Vietnam
 - Jirayu Laungwilawan ([@JirayuL](https://github.com/JirayuL)), Software and Knowledge Engineering student at Kasetsart University, Thailand
