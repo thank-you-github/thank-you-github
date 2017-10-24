@@ -1043,3 +1043,4 @@ Signed,
 - Sagar Giri ([@girisagar46](https://github.com/girisagar46)), Software Engineer, Kathmandu, Nepal
 - Andrew Burr ([@Dragovorn](https://github.com/dragovorn)), Developer, Germany
 - Trafis Pickle ([@CraftyBIT](https://github.com/CraftyBIT)), CompSci Student, USA
+- Kiran Shahi ([@kiranshahi](https://github.com/kiranshahi)), Software Engineer, Kathmandu, Nepal
