@@ -1041,3 +1041,4 @@ Signed,
 - Felipe Seixas ([@seixasfelipe](https://github.com/seixasfelipe)), Software Engineer, Canada
 - Kevin Adam ([@Vnxx](https://github.com/Vnxx)), Student, Indonesia
 - Sagar Giri ([@girisagar46](https://github.com/girisagar46)), Software Engineer, Kathmandu, Nepal
+- Andrew Burr ([@Dragovorn](https://github.com/dragovorn)), Developer, Germany
