@@ -1157,3 +1157,4 @@ Signed,
 - Jeevan Patil ([@jeevan-patil](https://github.com/jeevan-patil)), Full-Stack Developer, Technical Lead, Pune - India
 - Burak Karaoglan ([@karaoglan](https://github.com/karaoglan)), SoftwareEngineer - Java, Turkey
 - Seema ([@seema84](https://github.com/seema84)), Software Developer, Germany
+- Ali Emrah PEKESEN ([@aliemrahpekesen](https://github.com/aliemrahpekesen)), Software Development Team Leader, Turkey
