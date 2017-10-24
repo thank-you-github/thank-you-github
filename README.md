@@ -1107,3 +1107,4 @@ Signed,
 - Arushit Mudgal ([@kira0204](https://github.com/kira0204)), CSE Junior, VIT Vellore, India
 - Mohamd Dorra ([@mhddurrah](https://github.com/mhddurrah)), SrSoftwareDeveloper implements SoftwareEngineer, Turkey
 - Hugo Torzuoli ([@TorzuoliH](https://github.com/TorzuoliH)), Web Developer, France
+- Maximilian M ([@dradey])(https://github.com/dradey)), Mobile App Developer, Norway
