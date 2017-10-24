@@ -1050,3 +1050,4 @@ Signed,
 - Patrick Rainier Juen ([@uLan08](https://github.com/uLan08)), Software Engineer, Philippines
 - Siddharth Mahapatra ([@SiddharthMahapatra12](https://github.com/SiddharthMahapatra12)), CSE Undegrad Student , KIIT University, India
 - Thanh Le ([@lenguyenthanh](https://github.com/lenguyenthanh)), Software Engineer, Vietnam/Saigon
+- Hatim Alam ([@hatimalam](https://github.com/hatimalam)), PHP / SugarCRM Developer, Kuala Lumpur
