@@ -1110,3 +1110,4 @@ Signed,
 - Maximilian M ([@dradey])(https://github.com/dradey)), Mobile App Developer, Norway
 - Shaunak Pagnis ([@shaunakpp](https://github.com/shaunakpp)), Software Developer, Pune, India
 - Tom Rochat ([@Kornhe](https://github.com/Kornhe)), student, France
+- Cristhian Ferreira([@cferreirasuazo](https://github.com/cferreirasuazo)),Student, System Engineering, Rep Dom
