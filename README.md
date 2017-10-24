@@ -1101,6 +1101,8 @@ Signed,
 - Göktuğ Hatipoğlu ([@d35k](https://github.com/d35k/)), Software Developer, Epigra, Turkey
 - Peiyu Liao ([@pyliaorachel](https://github.com/pyliaorachel)), Student, Taiwan
 - Aakash Kumar Jha ([@mr-skyaakash](https://github.com/mr-skyaakash)), Web Developer, India
+- xiayong ([@THEONE10211024](https://github.com/THEONE10211024)), Android, China
+- Shiven Mian ([@shivenmian](https://github.com/shivenmian)), Student Software Developer
 - Divay Prakash ([@divayprakash](https://github.com/divayprakash)), Student, India
 - Mani Kumar Reddy Kancharla ([@KManiKumarReddy](https://github.com/KManiKumarReddy/)), Developer, Hyderabad, India
 - Neeraj Pandey ([@neal0892](https://github.com/neal0892)), Full Stack Developer, India
