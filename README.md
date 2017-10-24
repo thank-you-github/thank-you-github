@@ -1094,3 +1094,4 @@ Signed,
 - Marvin Hinz ([@Sp0ng3b0b](https://github.com/Sp0ng3b0b/)), Developer, Germany
 - Loreto Gutierrez Jr. ([@loretogutierrezjr](https://github.com/loretogutierrezjr)), Student, Web & C# Developer, Philippines
 - Martin ([@M4l2tIlV](https://github.com/M4l2tIlV)), Security Engineer, Thailand
+- Vinayak Bagaria ([@VinayakBagaria](https://github.com/VinayakBagaria)), Web Developer, India
