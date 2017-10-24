@@ -1028,3 +1028,4 @@ Signed,
 - Marquinhus Gonçalves ([@marquinhusgoncalves](https://github.com/marquinhusgoncalves)), Front-end Developer, São Paulo, Brazil
 - Ahmad Ali ([@ahmadalibaloch](https://github.com/ahmadalibaloch)), Software Engineer, Mianwali, Pakistan
 - Andrew Zhu ([@mommothazaz123](https://github.com/mommothazaz123)), Web Dev/Student, USA
+- Kamal Iqlaas ([@Iqlaas](https://github.com/Iqlaas)), Rails Developer, Petaling Jaya, Malaysia
