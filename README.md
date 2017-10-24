@@ -1037,3 +1037,4 @@ Signed,
 - Eliad Moosavi ([@theiliad](https://github.com/theiliad)), Gopher Labs Ltd.
 - Felipe Lerma ([@Thespawnexe](https://github.com/Thespawnexe)), Learner, USA
 - Jason Schweier ([@jmks](https://github.com/jmks)), Software Developer
+- Nabeen Khadka ([@nabn](https://github.com/nabn)), Javascript Developer, Kathmandu, Nepal
