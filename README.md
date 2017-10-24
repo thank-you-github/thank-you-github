@@ -1089,3 +1089,4 @@ Signed,
 - Sam ([@yrsamrith](https://github.com/yrsamrith/)), Software Engineer, Cambodia
 - Thibault Maekelbergh ([@thibmaek](https://github.com/thibmaek)), Full Stack Web Developer, Belgium
 - David Kwan ([@davidkwan95](https://github.com/davidkwan95/)), Full Stack Software Engineer, Indonesia
+- Özgür Halil İNCE ([@ozgurhalilince](https://github.com/ozgurhalilince/)), Backend Developer, Turkey
