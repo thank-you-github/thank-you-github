@@ -1176,4 +1176,4 @@ Signed,
 - Baltazar Parra ([baltazarparra](https://github.com/baltazarparra)), Front-End Developer, Brasil)
 - Cristhian Ferreira ([@cferreirasuazo](https://github.com/cferreirasuazo)),Student, System Engineering, Rep Dom
 - Upeksha Liyanage ([@upeksha1996](https://github.com/upeksha1996)),Student, Software Engineering, Sri Lanka
-- Vishwa Perera ([@vishwakperera] (https://github.com/vishwakperera)),Student, UX Designer, Sri Lanka
+- Vishwa Perera ([@vishwakperera](https://github.com/vishwakperera)),Student, UX Designer, Sri Lanka
