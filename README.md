@@ -1137,3 +1137,5 @@ Signed,
 - Oriol Fitó ([@orifito](https://github.com/orifito)), DevOps Engineer, Catalonia
 - Akshay Nair ([@phenax](https://github.com/phenax)), Web Developer, India
 - Josh Caulfield ([@coolfield](https://github.com/coolfield)), Full Stack Developer, United Kingdom
+- Anupam Kumar Singh ([@anupam691997](https://github.com/anupam691997)), Member of Big Data Centre Of Excellence
+
