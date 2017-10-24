@@ -1042,3 +1042,4 @@ Signed,
 - Kevin Adam ([@Vnxx](https://github.com/Vnxx)), Student, Indonesia
 - Sagar Giri ([@girisagar46](https://github.com/girisagar46)), Software Engineer, Kathmandu, Nepal
 - Andrew Burr ([@Dragovorn](https://github.com/dragovorn)), Developer, Germany
+- Trafis Pickle ([@CraftyBIT](https://github.com/CraftyBIT)), CompSci Student, USA
