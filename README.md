@@ -1189,3 +1189,4 @@ Signed,
 - Jason Chua ([@jchua1](https://github.com/jchua1)), Student, USA
 - Yugal Yadav ([@yugalxd](https://github.com/yugalxd)), Full-Stack, India
 - Abhijeet Singh ([@aps120797](https://github.com/aps120797)), CSE Undergrad, IIIT Trichy, India
+- Pratham Agrawal ([@pagrawl3](https://github.com/pagrawl3)), Co-Founder, Soch Technologies
