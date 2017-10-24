@@ -1181,6 +1181,7 @@ Signed,
 - Upeksha Liyanage ([@upeksha1996](https://github.com/upeksha1996)),Student, Software Engineering, Sri Lanka
 - Anish Karandikar ([@anishkny](https://github.com/anishkny)), SDET, MathWorks, USA
 - Gabriel Kalani ([@gkal19](https://github.com/gkal19)), Student, Backend Developer, Brazil
+- Gabrijel Skoro ([@gabskoro](https://github.com/gabskoro)), Javascript Engineer
 - Alexander Garcia ([@asg5704](https://github.com/asg5704)), Student, Full Stack Web Developer, ATX
 - Durul Dalkanat ([@durul](https://github.com/durul)), iOS Developer at [Vibrent Health](https://www.vibrenthealth.com), USA
 - Mayank Paarmar([@myk7hackon](https://github.com/myk7hackon)), Student , Competitive Programmer, India
