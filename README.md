@@ -1135,3 +1135,4 @@ Signed,
 - Theo Massard ([@massard-t](https://github.com/massard-t/)), DevOps, France
 - Sivakorn Pranomsri ([@Sivakorn12](https://github.com/Sivakorn12)), Student, Thailand
 - Oriol Fitó ([@orifito](https://github.com/orifito)), DevOps Engineer, Catalonia
+- Akshay Nair ([@phenax](https://github.com/phenax)), Web Developer, India
