@@ -1115,3 +1115,4 @@ Signed,
 - Adam Paterson ([@adam-paterson](https://github.com/adam-paterson)), Polygot Programmer, United Kingdom
 - Ishuah Kariuki ([@ishuah](https://github.com/ishuah)), Software Engineer, Kenya
 - Brian Lusina ([@BrianLusina](https://github.com/BrianLusina)), Sofware Engineer, Nairobi, Kenya
+- Jono ([@noojuno](https://github.com/noojuno)), Developer, New Zealand
