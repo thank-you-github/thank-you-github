@@ -1026,3 +1026,4 @@ Signed,
 - Ahad Birang ([@farnabaz](https://github.com/farnabaz)), Full Stack Developer, Iran
 - Victor Pedrazzi ([@vspedr](https://github.com/vspedr)), Software Analyst, Brazil
 - Marquinhus Gonçalves ([@marquinhusgoncalves](https://github.com/marquinhusgoncalves)), Front-end Developer, São Paulo, Brazil
+- André Ferreira ([@aferreira44](https://github.com/aferreira44)), Blockchain Full Stack Developer, Brazil
