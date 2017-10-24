@@ -1114,3 +1114,4 @@ Signed,
 - Anderson Malagutti ([@malagutti](https://github.com/malagutti)), Software Developer
 - Adam Paterson ([@adam-paterson](https://github.com/adam-paterson)), Polygot Programmer, United Kingdom
 - Ishuah Kariuki ([@ishuah](https://github.com/ishuah)), Software Engineer, Kenya
+- Brian Lusina ([@BrianLusina](https://github.com/BrianLusina)), Sofware Engineer, Nairobi, Kenya
