@@ -1101,3 +1101,4 @@ Signed,
 - Göktuğ Hatipoğlu ([@d35k](https://github.com/d35k/)), Software Developer, Epigra, Turkey
 - Peiyu Liao ([@pyliaorachel](https://github.com/pyliaorachel)), Student, Taiwan
 - Aakash Kumar Jha ([@mr-skyaakash](https://github.com/mr-skyaakash)), Web Developer, India
+- Hugo Torzuoli ([@TorzuoliH](https://github.com/TorzuoliH)), Web Developer, France
