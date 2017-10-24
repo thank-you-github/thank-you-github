@@ -1193,3 +1193,4 @@ Signed,
 - Hum4n01d ([@hum4n01d])(https://github.com/hum4n01d)), Student, Full Stack Developer, USA
 - Kelly C ([@kcheng9](https://github.com/kcheng9)), Developer, USA
 - Rute Carrapato ([@RuteCarrapato](https://github.com/RuteCarrapato)), Junior Software Developer, Portugal
+- Cassie Theobald ([@cassietheobald](https://github.com/cassietheobald)), Student, Data Analysis, USA
