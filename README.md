@@ -1026,6 +1026,7 @@ Signed,
 - Ahad Birang ([@farnabaz](https://github.com/farnabaz)), Full Stack Developer, Iran
 - Victor Pedrazzi ([@vspedr](https://github.com/vspedr)), Software Analyst, Brazil
 - Marquinhus Gonçalves ([@marquinhusgoncalves](https://github.com/marquinhusgoncalves)), Front-end Developer, São Paulo, Brazil
+- Guga Katsiashvili ([@gugakatsi](https://github.com/gugakatsi)), Software Engineer , Tbilisi , Georgia
 - Ahmad Ali ([@ahmadalibaloch](https://github.com/ahmadalibaloch)), Software Engineer, Mianwali, Pakistan
 - Andrew Zhu ([@mommothazaz123](https://github.com/mommothazaz123)), Web Dev/Student, USA
 - Kamal Iqlaas ([@Iqlaas](https://github.com/Iqlaas)), Rails Developer, Petaling Jaya, Malaysia
