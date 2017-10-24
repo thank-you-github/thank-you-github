@@ -1159,3 +1159,4 @@ Signed,
 - Seema ([@seema84](https://github.com/seema84)), Software Developer, Germany
 - Ali Emrah PEKESEN ([@aliemrahpekesen](https://github.com/aliemrahpekesen)), Software Development Team Leader, Turkey
 - Mekeiap Debian ([@dynamicdebian](https://github.com/dynamicdebian)), Information Technology Student at NIT Durgapur
+- Felipe Assunção ([@felipeuntill](https://github.com/felipeuntill)), Software Engineer, Brazil
