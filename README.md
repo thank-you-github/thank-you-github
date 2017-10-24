@@ -1029,3 +1029,4 @@ Signed,
 - Ahmad Ali ([@ahmadalibaloch](https://github.com/ahmadalibaloch)), Software Engineer, Mianwali, Pakistan
 - Andrew Zhu ([@mommothazaz123](https://github.com/mommothazaz123)), Web Dev/Student, USA
 - Kamal Iqlaas ([@Iqlaas](https://github.com/Iqlaas)), Rails Developer, Petaling Jaya, Malaysia
+- Harish Venkatesan ([@harishv7](https://github.com/harishv7)), Computer Engineer, Singapore
