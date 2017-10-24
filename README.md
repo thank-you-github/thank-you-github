@@ -1139,3 +1139,4 @@ Signed,
 - Josh Caulfield ([@coolfield](https://github.com/coolfield)), Full Stack Developer, United Kingdom
 - Anupam Kumar Singh ([@anupam691997](https://github.com/anupam691997)), Member of Big Data Centre Of Excellence
 
+- Jirayu Laungwilawan ([@JirayuL](https://github.com/JirayuL)), Software and Knowledge Engineering student at Kasetsart University, Thailand
