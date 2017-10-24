@@ -1074,3 +1074,4 @@ Signed,
 - Ales Jagric ([@OmegaModr](https://github.com/OmegaModr/)), Systems Engineer, Ljubljana, Slovenia
 - Dafydd ([@DafsCode](https://github.com/DafsCode)) 13, CS student, UK
 - Harsh Wadhwa ([@hars-shhh](https://github.com/hars-shhh/)), Software Engineer, Delhi, India
+- Varun Oberoi ([@varunoberoi](https://github.com/varunoberoi/)), Software Engineer, New Delhi, India
