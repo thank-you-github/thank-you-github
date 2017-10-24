@@ -1170,3 +1170,4 @@ Signed,
 - Shubham Patil ([@shubham76](https://github.com/shubham76)), Computer Science & Engineering Student at VNIT Nagpur
 - Rory Claasen ([@roryclaasen](https://github.com/roryclaasen)), Apprentice at Microsoft, England
 - Luke Garner ([@elgeesound](https://github.com/elgeesound)), Full-Stack Dev, SF
+- Guga Katsiashvili ([@gugakatsi](https://github.com/gugakatsi)), Software Engineer , Tbilisi , Georgia
