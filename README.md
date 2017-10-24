@@ -225,6 +225,7 @@ Signed,
 - Stefan Ric ([@cybre](https://github.com/cybre)), Software Developer
 - Andrew Quebe ([@Andrew-Quebe](https://github.com/Andrew-Quebe)), Student, Android Developer, Web Developer
 - Wil WL ([@wilstenholme](https://github.com/wilstenholme)), Learner
+- Sachin Srinivasan ([@s8sachin](https://github.com/s8sachin)), Software Developer, India.
 - Chandra Vedantham ([@chandu](https://github.com/chandu)), Developer
 - H Senem ([@hsen](https://github.com/hsen-dev)), Full Stack Developer
 - Ranjith Kumar ([@ranji2612](https://github.com/ranji2612)), Developer
