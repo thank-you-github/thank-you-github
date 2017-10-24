@@ -1075,3 +1075,4 @@ Signed,
 - Dafydd ([@DafsCode](https://github.com/DafsCode)) 13, CS student, UK
 - Harsh Wadhwa ([@hars-shhh](https://github.com/hars-shhh/)), Software Engineer, Delhi, India
 - Varun Oberoi ([@varunoberoi](https://github.com/varunoberoi/)), Software Engineer, New Delhi, India
+- Kayvan Mazaheri ([@KayvanMazaheri](https://github.com/KayvanMazaheri)), Software Engineer, Iran
