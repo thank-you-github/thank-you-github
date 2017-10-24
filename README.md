@@ -1035,3 +1035,4 @@ Signed,
 - Ricardo Orellana ([@ricardoorellana](https://github.com/ricardoorellana)), Software Engineer, El Salvador.
 - Gabriela Escoto ([@gabitha](https://github.com/gabitha)), Frontend Designer, Mexico
 - Eliad Moosavi ([@theiliad](https://github.com/theiliad)), Gopher Labs Ltd.
+- Felipe Lerma ([@Thespawnexe](https://github.com/Thespawnexe)), Learner, USA
