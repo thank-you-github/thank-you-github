@@ -1071,3 +1071,4 @@ Signed,
 - Ilaiyaraja K ([@ilaiyarajak](https://github.com/ilaiyarajak/)), Software Engineer, Netttime, India
 - Oscar García ([@oskarizu](https://github.com/oskarizu)), Data Engineer, Catalonia
 - Purbo ([@purbohadi](https://github.com/purbohadi/)), Student & Software Engineer, Budapest, Hungary
+- Pranshu Pranjal ([@Pranshu98](https://github.com/Pranshu98)), Student at VIT Vellore, IT Branch
