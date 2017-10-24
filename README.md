@@ -1194,3 +1194,4 @@ Signed,
 - Kelly C ([@kcheng9](https://github.com/kcheng9)), Developer, USA
 - Rute Carrapato ([@RuteCarrapato](https://github.com/RuteCarrapato)), Junior Software Developer, Portugal
 - Cassie Theobald ([@cassietheobald](https://github.com/cassietheobald)), Student, Data Analysis, USA
+- Nikita Pavlov ([@nik-pavlov](https://github.com/Nik-Pavlov)), C++ Software Developer, Russia
