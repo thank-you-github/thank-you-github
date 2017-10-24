@@ -1109,3 +1109,4 @@ Signed,
 - Hugo Torzuoli ([@TorzuoliH](https://github.com/TorzuoliH)), Web Developer, France
 - Maximilian M ([@dradey])(https://github.com/dradey)), Mobile App Developer, Norway
 - Shaunak Pagnis ([@shaunakpp](https://github.com/shaunakpp)), Software Developer, Pune, India
+- Tom Rochat ([@Kornhe](https://github.com/Kornhe)), student, France
