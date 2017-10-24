@@ -1071,3 +1071,4 @@ Signed,
 - Ilaiyaraja K ([@ilaiyarajak](https://github.com/ilaiyarajak/)), Software Engineer, Netttime, India
 - Oscar García ([@oskarizu](https://github.com/oskarizu)), Data Engineer, Catalonia
 - Purbo ([@purbohadi](https://github.com/purbohadi/)), Student & Software Engineer, Budapest, Hungary
+- Varun Oberoi ([@varunoberoi](https://github.com/varunoberoi/)), Software Engineer, New Delhi, India
