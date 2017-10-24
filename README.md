@@ -944,6 +944,7 @@ Signed,
 - Aayush Ahuja ([@hyades](https://github.com/hyades)), Software Engineer
 - Fabian Lauer ([@FabianLauer](https://github.com/FabianLauer)), Web Developer, Germany
 - Mikhail Pabalavets ([@styx](https://github.com/styx)), Developer, Belarus, Minsk
+- 蔡堃 ([@kc910521](https://github.com/kc910521)), Developer, S.K.E.L.E.T.O.N.
 - John Nico Garcia([@jngarcia](https://github.com/jngarcia)), Software Engineer, Philippines
 - Siddharth Prajosh ([@sprajosh](https://github.com/sprajosh)), Student, Toc H Institute of Science and Technology
 - Summit Bajracharya ([@summitbaj](https://github.com/summitbaj)), Software Engineer, Kathmandu.
