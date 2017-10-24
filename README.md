@@ -1155,3 +1155,4 @@ Signed,
 - Iago Leonardo Laguna ([@iagolaguna](https://github.com/iagolaguna)), Full Stack Android Developer and Javascript lover, Brazil
 - Daniel Ye ([@Sparrowhawk777](https://github.com/Sparrowhawk777)), Student
 - Jeevan Patil ([@jeevan-patil](https://github.com/jeevan-patil)), Full-Stack Developer, Technical Lead, Pune - India
+- Burak Karaoglan ([@karaoglan](https://github.com/karaoglan)), SoftwareEngineer - Java, Turkey
