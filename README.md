@@ -1145,3 +1145,4 @@ Signed,
 - Rendi Agung Setiyawan ([@rendi1xx](https://github.com/rendi1xx)), Student, Indonesia
 - Phan Huy Hoàng ([@snailfalca](https://github.com/snailfalca)), Software Engineering student of FPT University, Vietnam
 - Nicholas Kinsey ([@pyrotechnick](https://github.com/pyrotechnick)), Developer, Australia
+- Muhamad Umar ([@kuroki111](https://github.com/kuroki111)), Student, Indonesia
