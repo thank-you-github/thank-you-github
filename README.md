@@ -1078,4 +1078,8 @@ Signed,
 - Kayvan Mazaheri ([@KayvanMazaheri](https://github.com/KayvanMazaheri)), Software Engineer, Iran
 - Simon Verhoeven ([@SimonVerhoeven](https://github.com/SimonVerhoeven/)), Developer, Belgium
 - Usman Shahid ([@codemug](https://github.com/codemug/)), Software Developer, Pakistan
-- Arpit Gupta ([@alphaWizard](https://GitHub.com/alphaWizard/)),CSE sophomore at IIT Guwahati
+- Arpit Gupta ([@alphawizard](https://github.com/alphawizard/)),CSE sophomore, IIT Guwahati,India
+- Jens de Rond ([@Jensderond](https://github.com/Jensderond/)), Software Developer and Open Source fanatic, The Netherlands
+- Rohit Gupta ([@guptarohit](https://github.com/guptarohit/)), Software Engineer, New Delhi, India
+- Sharang Dashputre ([@sharang-d](https://github.com/sharang-d/)), Software Engineer, India
+- Rohit Swami ([@rowhitswami](https://github.com/rowhitswami/)), Student, Front-End Developer, India
