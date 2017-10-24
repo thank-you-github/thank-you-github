@@ -1066,3 +1066,4 @@ Signed,
 - 兔子鲜笙 Leo Liu ([@tuzimoe](https://github.com/tuzimoe)), Web Developer, New Zealand
 - 王铁手([@wtser](https://github.com/wtser)), Frontend Developer/Designer, China
 - Ravi Kishore Thella ([@ravikishorethella](https://github.com/ravikishorethella)), Frontend developer at OnEaglesWingsInc
+- Den Russel Valenzuela ([@denvalenzuela](https://github.com/denvalenzuela)), Software Engineer, Philippines
