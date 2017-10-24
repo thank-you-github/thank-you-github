@@ -1198,3 +1198,4 @@ Signed,
 - Boet de Willigen ([@bo0tzz](https://github.com/bo0tzz)), Hobby Developer, The Netherlands
 - Kevin Song ([@songkevinc](https://github.com/songkevinc)), Student, University of Chicago, USA
 - Sambhav Jain ([@sambhav2612](https://github.com/sambhav2612)), Student, Android Enthusiast, India
+- Alex Costinescu ([@acostinescu](https://github.com/acostinescu)), CIS Student at Ohio State, United States
