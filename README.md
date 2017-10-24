@@ -1128,3 +1128,4 @@ Signed,
 - Anna Kurylo ([@bluebirrrrd](https://github.com/bluebirrrrd/)), Web Developer, Ukraine/Czechia
 
 - Erik Jankovic ([@kirecek](https://github.com/kirecek)), Python Developer, Slovakia
+- Max Rugen ([@maxrugen](https://github.com/maxrugen)), Student, Dresden, Germany
