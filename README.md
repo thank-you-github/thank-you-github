@@ -1175,3 +1175,4 @@ Signed,
 - Juanjo Álvarez ([@juanjux](https://github.com/juanjux)), Software Engineer at [source{d}](https://github.com/src-d), Spain.
 - Baltazar Parra ([baltazarparra](https://github.com/baltazarparra)), Front-End Developer, Brasil)
 - Cristhian Ferreira ([@cferreirasuazo](https://github.com/cferreirasuazo)),Student, System Engineering, Rep Dom
+- Daniel Phan ([@djphan](https://github.com/djphan)), Full Stack Web Developer, Canada
