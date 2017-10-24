@@ -1100,3 +1100,4 @@ Signed,
 - Matteo Pennisi ([@matteo-pennisi](https://github.com/matteo-pennisi)), Student & Developer, Catania, Italy
 - Göktuğ Hatipoğlu ([@d35k](https://github.com/d35k/)), Software Developer, Epigra, Turkey
 - Peiyu Liao ([@pyliaorachel](https://github.com/pyliaorachel)), Student, Taiwan
+- Baltazar Parra ([baltazarparra](https://github.com/baltazarparra), Front-End Developer, Brasil)
