@@ -1060,3 +1060,4 @@ Signed,
 - Rob Rose ([@RobRoseKnows](https://github.com/RobRoseKnows)), Software Engineer, Baltimore, MD
 - Lucas Santos ([@khaosdoctor](https://github.com/khaosdoctor)), FullStack Developer, São Paulo, Brazil
 - Dennis Beatty ([@dnsbty](https://github.com/dnsbty)), Software Engineer, Utah, USA
+- Felipe Lima ([@felipecsl](https://github.com/felipecsl)), Software Engineer, San Francisco, USA
