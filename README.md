@@ -1133,3 +1133,4 @@ Signed,
 - Melby Baldove ([@melbystyle](https://github.com/melbystyle)), Software Developer, Philippines
 - Prakash Chakraborty ([@Joonsang1994](https://github.com/Joonsang1994)), Software Developer, Mysore, India
 - Theo Massard ([@massard-t](https://github.com/massard-t/)), DevOps, France
+- Sivakorn Pranomsri ([@Sivakorn12](https://github.com/Sivakorn12)), Student, Thailand
