@@ -994,14 +994,14 @@ Signed,
 - Michel Billard ([@mbillard](https://github.com/mbillard)), Web Developer, Canada
 - Rajula Vineet Reddy ([@rajula96reddy](https://github.com/rajula96reddy)), Student, IIIT Bangalore, India
 - Aaron Gill-Braun ([@AaronGillBraun](https://github.com/aarongillbraun)), Full Stack Developer
-- Noe Neftali Miniel :clap:([@Noe007](https://github.com/noe007)), Computer Science Student, USA
+- Noe Neftali Miniel ([@Noe007](https://github.com/noe007)), Computer Science Student, USA
 - Braxton Ehle ([@braxtone](https://github.com/braxtone)), Security Engineer, USA
 - Santos Perez ([@mxra8](https://github.com/mxra8)), Web developer, Mexico
 - James Cuénod ([@jcuenod](https://github.com/jcuenod)), Biblical Studies by day - Software Developer by night (cf. [parabible](https://parabible.com)), South Africa
 - Shubham Maheshwari ([@shu121197](https://github.com/shu121197)), Student, IIT Roorkee, India
 - Benjamin Mezger ([@benmezger](https://github.com/benmezger)), Computer Science Student, The Netherlands
 - Rohit Deshmukh ([@rd10397](https://github.com/rd10397)),E&TC Student at SITS,Pune,India
-- Subrat Sahu :clap:([@subrat-sahu](https://github.com/subrat-sahu)), Computer Science Student, IIT Roorkee India
+- Subrat Sahu ([@subrat-sahu](https://github.com/subrat-sahu)), Computer Science Student, IIT Roorkee India
 - Marcus Buffett ([@marcusbuffett](https://github.com/marcusbuffett)), Software Engineer
 - Arun Michael Dsouza ([@ArunMichaelDsouza](https://github.com/ArunMichaelDsouza)), Software Engineer, India
 - Nika Otiashvili ([@Nikaoto](https://github.com/Nikaoto)), Programmer, Georgia (Sakartvelo)
@@ -1010,7 +1010,7 @@ Signed,
 - Erendira Garcia ([@erendira](https://github.com/erendira)), Developer, Sinaloa, MX
 - Rajula Pavani([@rpavani1998](https://github.com/rpavani1998)), Student, BVRIT Hyderabad, India
 - Benjamin Schuch ([@chillyistkult](https://github.com/chillyistkult)), Software Engineer, Germany
-- Lun Zhang :smile:([@lunzhang](https://github.com/lunzhang)), Ninja, USA
+- Lun Zhang ([@lunzhang](https://github.com/lunzhang)), Ninja, USA
 - Alex Rupérez ([@alexruperez](https://github.com/alexruperez)), iOS Architect, Spain
 - Pericherla Seetarama Raju ([@geekrypter](https://github.com/geekrypter)), Student, OSS Contributor, Developer, IIIT Bangalore, India
 - Arslan Ahmad ([@Ahmadkhan12345566](https://github.com/Ahmadkhan12345566)), Student, Web Developer, Pakistan
@@ -1019,7 +1019,7 @@ Signed,
 - Guilherme Oderdenge ([@chiefGui](https://github.com/chiefGui)), Front-end Developer, Brazil
 - Andrey Knupp Vital ([@CentaurWarchief](https://github.com/CentaurWarchief)), Developer, Minas Gerais, Brazil
 - Rapipat Udomgun ([@rppudo](https://github.com/rppudo)), Developer, Bangkok, Thailand
-- Yaroslav Konoplov :bulb: ([@yivo](https://github.com/yivo)), Software Engineer, Kyiv, Ukraine
+- Yaroslav Konoplov ([@yivo](https://github.com/yivo)), Software Engineer, Kyiv, Ukraine
 - Adam Pietrasiak ([@pie6k](https://github.com/pie6k)), Web Developer, Kraków, Poland
 - Steev James ([@steevjames](https://github.com/steevjames)), CS Engineering Student, India
 - Chris O'Brien ([@zumipin](https://github.com/zumipin)), Developer, USA
