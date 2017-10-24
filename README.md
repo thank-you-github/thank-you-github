@@ -1078,9 +1078,19 @@ Signed,
 - Kayvan Mazaheri ([@KayvanMazaheri](https://github.com/KayvanMazaheri)), Software Engineer, Iran
 - Simon Verhoeven ([@SimonVerhoeven](https://github.com/SimonVerhoeven/)), Developer, Belgium
 - Usman Shahid ([@codemug](https://github.com/codemug/)), Software Developer, Pakistan
+- Arpit Gupta ([@alphawizard](https://github.com/alphawizard/)),CSE sophomore, IIT Guwahati,India
 - Jens de Rond ([@Jensderond](https://github.com/Jensderond/)), Software Developer and Open Source fanatic, The Netherlands
 - Rohit Gupta ([@guptarohit](https://github.com/guptarohit/)), Software Engineer, New Delhi, India
 - Sharang Dashputre ([@sharang-d](https://github.com/sharang-d/)), Software Engineer, India
 - Rohit Swami ([@rowhitswami](https://github.com/rowhitswami/)), Student, Front-End Developer, India
+- Geoffrey Dhuyvetters ([@duivvv](https://github.com/duivvv/)) Full-Stack Developer, Belgium
+- Matthew Miller ([@me4502](https://github.com/me4502/)), Student, Software Developer, Australia
+- Abdullah Khan ([@AKNiazi](https://github.com/AKNiazi)), Software Engineer, Mianwali, Pakistan
+- Sam ([@yrsamrith](https://github.com/yrsamrith/)), Software Engineer, Cambodia
+- Thibault Maekelbergh ([@thibmaek](https://github.com/thibmaek)), Full Stack Web Developer, Belgium
+- David Kwan ([@davidkwan95](https://github.com/davidkwan95/)), Full Stack Software Engineer, Indonesia
+- Özgür Halil İNCE ([@ozgurhalilince](https://github.com/ozgurhalilince/)), Backend Developer, Turkey
+- Francesc Guasch ([@frankiejol](https://github.com/frankiejol/)), Systems Engineer, Catalonia
+- Marvin Hinz ([@Sp0ng3b0b](https://github.com/Sp0ng3b0b/)), Developer, Germany
+- Loreto Gutierrez Jr. ([@loretogutierrezjr](https://github.com/loretogutierrezjr)), Student, Web & C# Developer, Philippines
 - Göktuğ Hatipoğlu ([@d35k](https://github.com/d35k/)), Software Developer, Epigra, Turkey
-
