@@ -1118,3 +1118,4 @@ Signed,
 - Jono ([@noojuno](https://github.com/noojuno)), Developer, New Zealand
 - Hector ([@ProfHorse](https://github.com/ProfHorse)), Student, United Kingdom
 - Raja Sekhar Karanam ([@rkaranam](https://github.com/rkaranam)), Software Developer, India
+- Oriol Fitó ([@orifito](https://github.com/orifito)), DevOps Engineer, Catalonia
