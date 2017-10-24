@@ -1086,3 +1086,4 @@ Signed,
 - Geoffrey Dhuyvetters ([@duivvv](https://github.com/duivvv/)) Full-Stack Developer, Belgium
 - Matthew Miller ([@me4502](https://github.com/me4502/)), Student, Software Developer, Australia
 - Abdullah Khan ([@AKNiazi](https://github.com/AKNiazi)), Software Engineer, Mianwali, Pakistan
+- Sam ([@yrsamrith](https://github.com/yrsamrith/)), Software Engineer, Cambodia
