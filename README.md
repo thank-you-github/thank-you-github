@@ -1124,3 +1124,4 @@ Signed,
 - Sotiris Katsaniotis ([@Sotiris-k](https://github.com/Sotiris-k)), Full Stack Web Developer, Greece
 - Anand Aravindan ([@anandanand84](https://github.com/anandanand84)), Web Developer, United States
 - Glenn Dimaliwat ([@GlennDimaliwat](https://github.com/GlennDimaliwat)), Software Developer and Designer, Melbourne, Australia
+- Rajat Gupta ([@rajatx185](https://github.com/rajatx185)), Software Developer, Pune, India
