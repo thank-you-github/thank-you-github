@@ -1205,3 +1205,4 @@ Signed,
 - Joris Mansart ([@MisterJack49](https://github.com/MisterJack49)), Developer, France
 - Brian Christian ([@fdeitylink](https://github.com/fdeitylink)), Student, United States
 - Samuel Pisa ([@samfrezza](https://github.com/samfrezza)), Software Developer, Brazil
+- Pranjal Singh ([@pranjal44](https://github.com/pranjal44)), Student, Beginner, India
