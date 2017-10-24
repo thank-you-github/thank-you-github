@@ -1182,3 +1182,4 @@ Signed,
 - Anish Karandikar ([@anishkny](https://github.com/anishkny)), SDET, MathWorks, USA
 - Gabriel Kalani ([@gkal19](https://github.com/gkal19)), Student, Backend Developer, Brazil
 - Alexander Garcia ([@asg5704](https://github.com/asg5704)), Student, Full Stack Web Developer, ATX
+- Durul Dalkanat ([@durul](https://github.com/durul)), iOS Developer at [Vibrent Health](https://www.vibrenthealth.com), USA
