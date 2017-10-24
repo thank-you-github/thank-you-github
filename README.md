@@ -1144,3 +1144,4 @@ Signed,
 - Xavier Carpentier ([@xcarpentier](https://github.com/xcarpentier)), Software Developer, France
 - Rendi Agung Setiyawan ([@rendi1xx](https://github.com/rendi1xx)), Student, Indonesia
 - Phan Huy Hoàng ([@snailfalca](https://github.com/snailfalca)), Software Engineering student of FPT University, Vietnam
+- Nicholas Kinsey ([@pyrotechnick](https://github.com/pyrotechnick)), Developer, Australia
