@@ -1179,3 +1179,4 @@ Signed,
 - Luis Cabrera ([@loudigi](https://github.com/loudigi)), Application Systems Analyst, USA
 - Saketh Khandavalli ([@sakethkhandavalli](https://github.com/sakethkhandavalli)), Student at IIIT-Hyderabad)
 - Upeksha Liyanage ([@upeksha1996](https://github.com/upeksha1996)),Student, Software Engineering, Sri Lanka
+- Alex Costinescu [@acostinescu](https://github.com/acostinescu), CIS Student at Ohio State, United States
