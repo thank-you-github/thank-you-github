@@ -1211,3 +1211,4 @@ Signed,
 - Oscar Castro ([@legio1221](https://github.com/legio1221)), IT Business Analyst, United States of America
 - Paul Collett ([@paulcollett](https://github.com/paulcollett)), front-end at [Paul Collett](http://paulcollett.com/), Australia
 - Ben Kadel ([@kardelio](https://github.com/kardelio)), Software Developer, United Kingdom
+- Andrey Mukamolow ([@fobo66](https://github.com/fobo66)), Android Developer, Belarus
