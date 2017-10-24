@@ -18,6 +18,7 @@ GitHub, thank you very much.
 
 Signed,
 
+- Kiran Shahi ([@kiranshahi](https://github.com/kiranshahi)), Software Engineer, Kathmandu, Nepal
 - Xavier Noria ([@fxn](https://github.com/fxn)), Ruby on Rails core team member
 - Sriram Ravichandran ([@digi0ps](https://github.com/digi0ps)), CS Freshman at VIT Chennai
 - Jose Diaz-Gonzalez ([@josegonzalez](https://github.com/josegonzalez)), CakePHP and Dokku core team member
