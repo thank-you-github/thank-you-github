@@ -1129,3 +1129,4 @@ Signed,
 
 - Erik Jankovic ([@kirecek](https://github.com/kirecek)), Python Developer, Slovakia
 - Max Rugen ([@maxrugen](https://github.com/maxrugen)), Student, Dresden, Germany
+- Massimiliano Montaleone ([@Fast0n](https://github.com/Fast0n)), Student and Developer, Italy
