@@ -1153,3 +1153,4 @@ Signed,
 - Arunkumar Ranganathan ([@Arunkumar300892](https://github.com/Arunkumar300892)), Software Developer, Puducherry, India
 - Bayu Adji Laksono ([@desfilt](https://github.com/desfilt)), Student, Indonesia
 - Iago Leonardo Laguna ([@iagolaguna](https://github.com/iagolaguna)), Full Stack Android Developer and Javascript lover, Brazil
+- Daniel Ye ([@Sparrowhawk777](https://github.com/Sparrowhawk777)), Student
