@@ -1047,3 +1047,4 @@ Signed,
 - Annavelle Martin ([@annavsmartin](https://github.com/annavsmartin)), Software Engineer, Philippines
 - Sachin Srinivasan ([@s8sachin](https://github.com/s8sachin)), Software Developer, India.
 - André Ferreira ([@aferreira44](https://github.com/aferreira44)), Blockchain Full Stack Developer, Brazil
+- Patrick Rainier Juen ([@uLan08](https://github.com/uLan08)), Software Engineer, Philippines
