@@ -1102,3 +1102,4 @@ Signed,
 - Peiyu Liao ([@pyliaorachel](https://github.com/pyliaorachel)), Student, Taiwan
 - Aakash Kumar Jha ([@mr-skyaakash](https://github.com/mr-skyaakash)), Web Developer, India
 - Divay Prakash ([@divayprakash](https://github.com/divayprakash)), Student, India
+- Mani Kumar Reddy Kancharla ([@KManiKumarReddy](https://github.com/KManiKumarReddy/)), Developer, Hyderabad, India
