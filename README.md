@@ -1097,3 +1097,4 @@ Signed,
 - Vinayak Bagaria ([@VinayakBagaria](https://github.com/VinayakBagaria)), Web Developer, India
 - Anoob K bava ([@anoobbava](https://github.com/anoobbava/)), Software Engineer,Kerala, India
 - Jefferson Filho ([@JeffersonFilho](https://github.com/JeffersonFilho)), Full Stack Web Developer, England/Brazil
+- Matteo Pennisi ([@matteo-pennisi](https://github.com/matteo-pennisi)), Student & Developer, Catania, Italy
