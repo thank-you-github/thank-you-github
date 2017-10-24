@@ -1059,3 +1059,4 @@ Signed,
 - Miquellysson lins ([@miquellysson](https://github.com/miquellysson)), Full Stack Developer, Brazil
 - Rob Rose ([@RobRoseKnows](https://github.com/RobRoseKnows)), Software Engineer, Baltimore, MD
 - Lucas Santos ([@khaosdoctor](https://github.com/khaosdoctor)), FullStack Developer, São Paulo, Brazil
+- Dennis Beatty ([@dnsbty](https://github.com/dnsbty)), Software Engineer, Utah, USA
