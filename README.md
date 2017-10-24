@@ -1080,3 +1080,4 @@ Signed,
 - Usman Shahid ([@codemug](https://github.com/codemug/)), Software Developer, Pakistan
 - Jens de Rond ([@Jensderond](https://github.com/Jensderond/)), Software Developer and Open Source fanatic, The Netherlands
 - Rohit Gupta ([@guptarohit](https://github.com/guptarohit/)), Software Engineer, New Delhi, India
+- Sharang Dashputre ([@sharang-d](https://github.com/sharang-d/)), Software Engineer, India
