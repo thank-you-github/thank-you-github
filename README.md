@@ -1163,3 +1163,4 @@ Signed,
 - Jenny Haggerty ([@jenjenjenio](https://github.com/jenjenjenio)), Student, Texas, USA
 - Vineeth Gutta ([@vgutta](https://github.com/vgutta)), Undergrad at University of Delaware
 
+- Guilherme Floriani Baron ([@guilhermefloriani](https://github.com/guilhermefloriani)), Software Developer, Brazil
