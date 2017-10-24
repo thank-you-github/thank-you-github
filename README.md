@@ -1083,3 +1083,4 @@ Signed,
 - Rohit Gupta ([@guptarohit](https://github.com/guptarohit/)), Software Engineer, New Delhi, India
 - Sharang Dashputre ([@sharang-d](https://github.com/sharang-d/)), Software Engineer, India
 - Rohit Swami ([@rowhitswami](https://github.com/rowhitswami/)), Student, Front-End Developer, India
+- Abdullah Khan ([@AKNiazi](https://github.com/AKNiazi)), Software Engineer, Mianwali, Pakistan
