@@ -1091,3 +1091,4 @@ Signed,
 - David Kwan ([@davidkwan95](https://github.com/davidkwan95/)), Full Stack Software Engineer, Indonesia
 - Özgür Halil İNCE ([@ozgurhalilince](https://github.com/ozgurhalilince/)), Backend Developer, Turkey
 - Francesc Guasch ([@frankiejol](https://github.com/frankiejol/)), Systems Engineer, Catalonia
+- Loreto Gutierrez Jr. ([@loretogutierrezjr](https://github.com/loretogutierrezjr)), Student, Web & C# Developer, Philippines
