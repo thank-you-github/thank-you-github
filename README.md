@@ -1122,3 +1122,4 @@ Signed,
 - Matei David ([@Matei207](https://github.com/Matei207)), Student, Software Developer, UK
 - Umang ([@darkLord19](https://github.com/darkLord19)), Software Developer, India
 - Sotiris Katsaniotis ([@Sotiris-k](https://github.com/Sotiris-k)), Full Stack Web Developer, Greece
+- Anand Aravindan ([@anandanand84](https://github.com/anandanand84)), Web Developer, United States
