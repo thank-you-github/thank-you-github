@@ -1049,3 +1049,4 @@ Signed,
 - André Ferreira ([@aferreira44](https://github.com/aferreira44)), Blockchain Full Stack Developer, Brazil
 - Patrick Rainier Juen ([@uLan08](https://github.com/uLan08)), Software Engineer, Philippines
 - Siddharth Mahapatra ([@SiddharthMahapatra12](https://github.com/SiddharthMahapatra12)), CSE Undegrad Student , KIIT University, India
+- Thanh Le ([@lenguyenthanh](https://github.com/lenguyenthanh)), Software Engineer, Vietnam/Saigon
