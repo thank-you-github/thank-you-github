@@ -1143,3 +1143,4 @@ Signed,
 - Shubham Thakur ([@sbmthakur](https://github.com/sbmthakur)), Software Engineer, Reliance Jio
 - Xavier Carpentier ([@xcarpentier](https://github.com/xcarpentier)), Software Developer, France
 - Rendi Agung Setiyawan ([@rendi1xx](https://github.com/rendi1xx)), Student, Indonesia
+- Phan Huy Hoàng ([@snailfalca](https://github.com/snailfalca)), Software Engineering student of FPT University, Vietnam
