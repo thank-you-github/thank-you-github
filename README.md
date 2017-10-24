@@ -1142,3 +1142,4 @@ Signed,
 - Jirayu Laungwilawan ([@JirayuL](https://github.com/JirayuL)), Software and Knowledge Engineering student at Kasetsart University, Thailand
 - Shubham Thakur ([@sbmthakur](https://github.com/sbmthakur)), Software Engineer, Reliance Jio
 - Xavier Carpentier ([@xcarpentier](https://github.com/xcarpentier)), Software Developer, France
+- Rendi Agung Setiyawan ([@rendi1xx](https://github.com/rendi1xx)), Student, Indonesia
