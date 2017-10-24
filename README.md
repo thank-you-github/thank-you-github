@@ -1039,3 +1039,4 @@ Signed,
 - Jason Schweier ([@jmks](https://github.com/jmks)), Software Developer
 - Nabeen Khadka ([@nabn](https://github.com/nabn)), Javascript Developer, Kathmandu, Nepal
 - Felipe Seixas ([@seixasfelipe](https://github.com/seixasfelipe)), Software Engineer, Canada
+- Kevin Adam ([@Vnxx](https://github.com/Vnxx)), Student, Indonesia
