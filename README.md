@@ -1209,3 +1209,4 @@ Signed,
 - Gabrijel Skoro ([@gabskoro](https://github.com/gabskoro)), Javascript Engineer
 - Bably Kumari ([@bablyseattle](https://github.com/bablyseattle)), Student, United States
 - Oscar Castro ([@legio1221](https://github.com/legio1221)), IT Business Analyst, United States of America
+- Robin Cussol ([@RobinCsl](https://github.com/RobinCsl)), JavaScript Developer, Czech Republic
