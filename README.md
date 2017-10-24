@@ -1026,3 +1026,4 @@ Signed,
 - Ahad Birang ([@farnabaz](https://github.com/farnabaz)), Full Stack Developer, Iran
 - Victor Pedrazzi ([@vspedr](https://github.com/vspedr)), Software Analyst, Brazil
 - Marquinhus Gonçalves ([@marquinhusgoncalves](https://github.com/marquinhusgoncalves)), Front-end Developer, São Paulo, Brazil
+- Batyr Nuryyev ([@oneturkmen](https://github.com/oneturkmen)), Student, USA/Bulgaria
