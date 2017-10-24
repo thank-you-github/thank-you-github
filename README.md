@@ -1116,3 +1116,4 @@ Signed,
 - Ishuah Kariuki ([@ishuah](https://github.com/ishuah)), Software Engineer, Kenya
 - Brian Lusina ([@BrianLusina](https://github.com/BrianLusina)), Sofware Engineer, Nairobi, Kenya
 - Jono ([@noojuno](https://github.com/noojuno)), Developer, New Zealand
+- Hector ([@ProfHorse](https://github.com/ProfHorse)), Student, United Kingdom
