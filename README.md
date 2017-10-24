@@ -1210,3 +1210,4 @@ Signed,
 - Bably Kumari ([@bablyseattle](https://github.com/bablyseattle)), Student, United States
 - Oscar Castro ([@legio1221](https://github.com/legio1221)), IT Business Analyst, United States of America
 - Paul Collett ([@paulcollett](https://github.com/paulcollett)), front-end at [Paul Collett](http://paulcollett.com/), Australia
+- Ben Kadel ([@kardelio](https://github.com/kardelio)), Software Developer, United Kingdom
