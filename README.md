@@ -1240,3 +1240,4 @@ Signed,
 - Ruhan Li ([@RuhanLi](https://github.com/ruhanli)), Student, Waterloo
 - Byron Rau ([@byronrau](https://github.com/byronrau)), Lover of free shirts, USA
 - Jeremy Smith ([@silentDjay](https://github.com/silentDjay)), Frontend Developer, USA
+- Dale French ([@dale-french](https://github.com/dale-french)), Software Developer, Hirt & Carter, Durban, South Africa
