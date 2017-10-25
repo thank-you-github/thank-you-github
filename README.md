@@ -1,22 +1,22 @@
 Dear GitHub,
 
-Before 2007, the way to participate in Open Source was fragmented. Each project
-had their own workflow, patches circulated in emails, issues were reported in
-a myriad of ways, and if anyone wanted to contribute they had to figure out every
-project's rules.
+Sebelum tahun 2007, cara untuk berpartisipasi dalam Open Source terpecah-pecah. Setiap proyek
+memiliki alur kerja mereka sendiri, patch yang beredar di email, isu dilaporkan terjadi
+segudang cara, dan jika ada yang ingin berkontribusi mereka harus mencari tahu setiap
+aturan proyek
 
-Then, a handful of people took the challenge to build an awesome platform and as
-a consequence of their hard work, their platform _earned_ its hegemony.
+Kemudian, segelintir orang mengambil tantangan untuk membangun platform yang mengagumkan dan seperti
+sebuah konsekuensi dari kerja keras mereka, platform mereka menerapkan z hegemoni.
 
-Nowadays doing Open Source is infinitely easier thanks to you, GitHub. You've
-provided the tools and the social conventions to make those days a thing of the
-past. Your impact in the Open Source movement is unprecedented.
+Saat ini Open Source jauh lebih mudah berkat Anda, GitHub. Kamu sudah
+menyediakan alat dan konvensi sosial untuk membuat hari-hari itu menjadi sesuatu
+lalu. Dampak Anda dalam gerakan Open Source belum pernah terjadi sebelumnya.
 
-We want to express our gratitude for all you've done and do for Open Source.
+Kami ingin mengucapkan terima kasih atas semua yang telah Anda lakukan dan lakukan untuk Open Source.
 
-GitHub, thank you very much.
+GitHub, terima kasih banyak.
 
-Signed,
+Tertanda,
 
 - Xavier Noria ([@fxn](https://github.com/fxn)), Ruby on Rails core team member
 - Sriram Ravichandran ([@digi0ps](https://github.com/digi0ps)), CS Freshman at VIT Chennai
