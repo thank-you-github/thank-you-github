@@ -1228,3 +1228,4 @@ Signed,
 
 - Thomas Murphy ([@tmurph21](https://github.com/tmurph21)), Student
 - Douglas Detoni ([@ddetoni](https://github.com/ddetoni)), Software Developer, ThoughtWorks, Brazil
+- Garrett Battaglia ([@gwoplock](https://github.com/gwoplock)), ExOS Lead Devloper
