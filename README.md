@@ -1265,16 +1265,13 @@ Signed,
 - Vo Tuan Duy ([@Naresh-Narsing](https://github.com/Naresh-Narsing)), Android Developer, India
 - Renan Muniz ([@remunizz](https://github.com/remunizz)), Software Engineer, Brazil
 - Mikey Beck ([@mikeybeck](https://github.com/mikeybeck)), Web Developer, New Zealand
-
 - Enzo Innocenzi ([@hawezo](https://github.com/hawezo)), Developer, France
 - Ujin Kosy ([@ujinkosy](https://github.com/UjinKosy)), Software Developer, Belarus
 - Shalom Yerushalmy ([@yershalom](https://github.com/yershalom)), DevOps Engineer, Israel
 - Ícaro Ponce ([@icaroponce](https://github.com/icaroponce)), Software Developer
 - Jigar Mehta ([@jigar1101](https://github.com/jigar1101)), Software Developer, India
 - Vinícius Oliveira ([@viniciusmo](https://github.com/viniciusmo)), Mobile Developer
-
 - Gurudatt Kulkarni ([@Guru107](https://github.com/Guru107)), Software Developer, India
-
 - Aline Dias([@aolidias](https://github.com/aolidias)), Software Developer, Brazil
 - Lanre Adelowo([@adelowo](https://github.com/adelowo)), Software Developer, Nigeria
 - Tushar Jain ([@tshrjn](https://github.com/tshrjn)), Student at IIT Mandi, India
@@ -1294,3 +1291,4 @@ Signed,
 - Eduardo Bachiega ([@eduardobachiega](https://github.com/eduardobachiega)), Android Developer, Brazil
 - Arpan Konar ([@arpank10](https://github.com/arpank10)), Cse Sophomore at IIT Guwahati, India
 - Icaro Leite ([@icaaro](https://github.com/icaaro)), Student, Salvador, Brazil
+- Rob Fagen ([@rfagen](https://github.com/rfagen)), Open Source Fanboy, Silicon Valley, California, United States of America, Western Hemisphere, Earth, Sol System, 0.5 Orion Arm (Inner Rim), Milky Way, Universe 616
