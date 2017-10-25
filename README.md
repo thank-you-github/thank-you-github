@@ -1296,3 +1296,4 @@ Signed,
 - Icaro Leite ([@icaaro](https://github.com/icaaro)), Student, Salvador, Brazil
 - Raoul DIFFOUO ([@diraulo](https://github.com/diraulo)), Developer & Coach, Cameroon | South Africa
 - Otacilio Neto ([@OtacilioN](https://github.com/OtacilioN)), Control and Automation Student, Recife, Brazil
+- Zilvinas Kucinskas ([@ZilvinasKucinskas](https://github.com/ZilvinasKucinskas)), Tech Lead @ [CGTrader](https://www.cgtrader.com), Vilnius, Lithuania
