@@ -1237,3 +1237,4 @@ Signed,
 - Jonathan Mouchou ([@jonmouchou](https://github.com/jonmouchou)), Student, Software Developer, United States
 - Shane Lindsay ([@captainswain](https://github.com/captainswain)), Fullstack developer, Mexico
 - Cuauhtemoc Ultreras ([@notregicide](https://github.com/notregicide)), Developer, United States
+- Ruhan Li ([@RuhanLi](https://github.com/ruhanli)), Student, Waterloo
