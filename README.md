@@ -1302,3 +1302,4 @@ Signed,
 - Bryson Reece([@brysonreece](https://github.com/brysonreece)), Software Engineer
 - Shane Rowley ([@smrowley](https://github.com/smrowley)), Software Engineer
 - Sreetam Das ([@sreetamdas](https://github.com/sreetamdas)), Student, Developer, India
+- Arnaud Pascal ([@LightDiscord](https://github.com/LightDiscord)), Student, France
