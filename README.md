@@ -1327,3 +1327,4 @@ Signed,
 - SJ ([@bluejay2011])(https://github.com/bluejay2011)), Developer, Philippines
 - Basile Beldame ([@bbeldame](https://github.com/bbeldame)), Lead Developer at [Oyez](http://oyez.fr), Paris
 - Joe Kaufeld ([@itsthejoker])(https://github.com/itsthejoker)), Software Engineer, Indiana, USA
+- Cody Duskin ([@bestcodyever](https://github.com/bestcodyever)), Full Stack Developer
