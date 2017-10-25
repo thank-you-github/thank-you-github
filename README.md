@@ -1222,3 +1222,4 @@ Signed,
 - Simran Singhal ([@simransinghal](https://github.com/simransinghal)), Python Software Developer, IIIT, India
 - Jon Openshaw ([@jonopens](https://github.com/jonopens)), Web Development Student, USA
 - Kridsanapong Wongthongdee ([@golfiti](https://github.com/golfiti)), iOS Developer, Thailand
+- Samuel Harbord ([@Samuel-Harbord](https://github.com/Samuel-Harbord)), Software Developer, Canada
