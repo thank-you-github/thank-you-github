@@ -1271,3 +1271,5 @@ Signed,
 - Shalom Yerushalmy ([@yershalom](https://github.com/yershalom)), DevOps Engineer, Israel
 - Ícaro Ponce ([@icaroponce](https://github.com/icaroponce)), Software Developer
 - Jigar Mehta ([@jigar1101](https://github.com/jigar1101)), Software Developer, India
+- Vinícius Oliveira ([@viniciusmo](https://github.com/viniciusmo)), Mobile Developer
+
