@@ -1256,3 +1256,5 @@ Signed,
 - Harsh Paliwal ([@hpaliwal4](https://github.com/hpaliwal4)), Student, India
 - Mehdi Tirgar ([@code-guru](https://github.com/code-guru)), Software Engineer, Stockholm, Sweden
 - Vo Tuan Duy ([@danielvo1510](https://github.com/danielvo1510)), Software Developer, Singapore
+- Mikey Beck ([@mikeybeck](https://github.com/mikeybeck)), Web Developer, New Zealand
+
