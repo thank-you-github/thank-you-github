@@ -1257,3 +1257,24 @@ Signed,
 - Mehdi Tirgar ([@code-guru](https://github.com/code-guru)), Software Engineer, Stockholm, Sweden
 - Vo Tuan Duy ([@danielvo1510](https://github.com/danielvo1510)), Software Developer, Singapore
 - Naresh Narsing ([@Naresh-Narsing](https://github.com/Naresh-Narsing)), Android Developer,India
+- Pedro Pereira ([@pedro823](https://github.com/pedro823)), Student and Developer, Brazil
+- Andreas Loizou ([@lack3r](https://github.com/lack3r)), Senior Software Engineer, Cyprus
+- Gaspard Extragornax ([@extragornax](https://github.com/extragornax)), Software Developer, Paris, France
+- Wes Murray ([@getwes](https://github.com/getwes)), Full Stack Developer, South Africa
+- Tiago Hermano ([@tiagohermano](https://github.com/tiagohermano)), Student, Brazil
+- Alain Mereaux ([@pulsarblow](https://github.com/pulsarblow)), Github Supporter, France
+- Vo Tuan Duy ([@Naresh-Narsing](https://github.com/Naresh-Narsing)), Android Developer, India
+- Renan Muniz ([@remunizz](https://github.com/remunizz)), Software Engineer, Brazil
+- Mikey Beck ([@mikeybeck](https://github.com/mikeybeck)), Web Developer, New Zealand
+
+- Enzo Innocenzi ([@hawezo](https://github.com/hawezo)), Developer, France
+- Ujin Kosy ([@ujinkosy](https://github.com/UjinKosy)), Software Developer, Belarus
+- Shalom Yerushalmy ([@yershalom](https://github.com/yershalom)), DevOps Engineer, Israel
+- Ícaro Ponce ([@icaroponce](https://github.com/icaroponce)), Software Developer
+- Jigar Mehta ([@jigar1101](https://github.com/jigar1101)), Software Developer, India
+- Vinícius Oliveira ([@viniciusmo](https://github.com/viniciusmo)), Mobile Developer
+
+- Gurudatt Kulkarni ([@Guru107](https://github.com/Guru107)), Software Developer, India
+
+- Aline Dias([@aolidias](https://github.com/aolidias)), Software Developer, Brazil
+
