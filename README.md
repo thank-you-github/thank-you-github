@@ -1291,3 +1291,4 @@ Signed,
 - Naresh Narsing ([@Naresh-Narsing](https://github.com/Naresh-Narsing)), Android Developer,India
 - Ifunanya Ikemma ([@Iphytech](https://github.com/Iphytech)), Software Developer, Enugu, Nigeria
 - Felipe Mena ([@felipemena1](https://github.com/felipemena1)), Software Developer, Brazil
+- Eduardo Bachiega ([@eduardobachiega](https://github.com/eduardobachiega)), Android Developer, Brazil
