@@ -1244,3 +1244,4 @@ Signed,
 - Ayush Kumar Singh ([@haloboy777](https://github.com/haloboy777)), Samosa Eater, Android, Web, India
 - Sahapol Kaewyoo ([@stonenots](https://github.com/stonenots)), Software Engineer, Thailand
 - Faaiz ([@goprime10](https://github.com/goprime10)), Student and now and Open Source Contributer
+- Elijah Rwothoromo ([@Rwothoromo](https://github.com/Rwothoromo/)), Sotware Developer, Uganda
