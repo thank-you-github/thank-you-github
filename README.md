@@ -1284,3 +1284,4 @@ Signed,
 - Bogdan Denkovych([@bogdanvlviv](https://github.com/bogdanvlviv)), Rubyist, Lviv, Ukraine
 - Anderson Ismael ([@aicoutos](https://github.com/aicoutos)), Web Developer at [@Mushape](http://github.com/mushape), Brazil
 - Esteban Rocha([@Esteban-Rocha](https://github.com/Esteban-Rocha)), Full Stack Web Developer, Colombia
+- Diky Arga ([@dikyarga](https://github.com/dikyarga)), Web Developer, Indonesia
