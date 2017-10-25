@@ -1312,3 +1312,4 @@ Signed,
 - Daniel André da Silva ([@dap1995](https://github.com/dap1995)), Software Developer, Brazil
 - Tarun Jain ([@tarun885](https://github.com/tarun885)), iOS Developer
 - Punit Makwana ([@punit2502](https://github.com/punit2502)), Student
+- Mike Wales ([@walesmd](https://github.com/walesmd)), VP of Engineering at Moonrise, Chicago, IL, USA
