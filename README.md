@@ -1324,8 +1324,6 @@ Signed,
 - Virat Singh ([@VSBtechs](https://github.com/VSBtechs)),Student at SGSITS,Indore,India
 - Ifunanya Ikemma([@Iphytech](https://github.com/Iphytech)), Software Developer, Enugu, Nigeria
 - Himanshu Awasthi ([@HimanshuAwasthi95](https://github.com/HimanshuAwasthi95)), Student, FOSS lover ,Developer, India
-- SJ ([@bluejay2011](https://github.com/bluejay2011)), Developer, Philippines
-- Basile Beldame ([@bbeldame](https://github.com/bbeldame)), Lead Developer at [Oyez](http://oyez.fr), Paris
-- Joe Kaufeld ([@itsthejoker](https://github.com/itsthejoker)), Software Engineer, Indiana, USA
-- Cody Duskin ([@bestcodyever](https://github.com/bestcodyever)), Full Stack Developer
-- Juliano Garcia ([@robotenique](https://github.com/robotenique)), Computer Science Student, São Paulo, Brazil
+- SJ ([@bluejay2011])(https://github.com/bluejay2011)), Developer, Philippines
+- Stefanos Zisidis ([@stefanoszisidis](https://github.com/stefanoszisidis), Computer Science Engineer and Educator, Greece
+
