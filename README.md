@@ -1297,7 +1297,7 @@ Signed,
 - Shane Rowley ([@smrowley](https://github.com/smrowley)), Software Engineer
 - Sreetam Das ([@sreetamdas](https://github.com/sreetamdas)), Student, Developer, India
 - Arnaud Pascal ([@LightDiscord](https://github.com/LightDiscord)), Student, France
--Syamkumar([@syam3526](https://github.com/syam3526)),Data Scientist,Techno Park,Kerala,India
+- Syamkumar([@syam3526](https://github.com/syam3526)),Data Scientist,Techno Park,Kerala,India
 - Daan Boerlage ([@Runebaas](https://github.com/runebaas)), Software Developer, Switzerland
 - Ayush tripathi ([@ayushme001](https://github.com/ayushme001)), Student(starter) GEU, dehradun, india
 - Shantanu Johri ([@hanuor](https://github.com/hanuor)), Software developer, India
