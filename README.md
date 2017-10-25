@@ -1325,3 +1325,4 @@ Signed,
 - Ifunanya Ikemma([@Iphytech](https://github.com/Iphytech)), Software Developer, Enugu, Nigeria
 - Himanshu Awasthi ([@HimanshuAwasthi95](https://github.com/HimanshuAwasthi95)), Student, FOSS lover ,Developer, India
 - SJ ([@bluejay2011])(https://github.com/bluejay2011)), Developer, Philippines
+- Basile Beldame ([@bbeldame](https://github.com/bbeldame)), Lead Developer at [Oyez](http://oyez.fr), Paris
