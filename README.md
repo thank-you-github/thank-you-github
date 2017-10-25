@@ -1308,3 +1308,4 @@ Signed,
 - Ayush tripathi ([@ayushme001](https://github.com/ayushme001)), Student(starter) GEU, dehradun, india
 - Shantanu Johri ([@hanuor](https://github.com/hanuor)), Software developer, India
 - Paulo Henrique Scherer ([@phscherer](https://github.com/phscherer)), Software Developer, Santa Catarina, Brazil
+- Paulo Ricardo de Souza ([@paulo-snow](https://github.com/paulo-snow)), Software Developer, Brazil
