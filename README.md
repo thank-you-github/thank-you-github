@@ -1227,3 +1227,4 @@ Signed,
 - Mustafa Adam ([@mustafadam](https://github.com/mustafadam)), Web Developer
 
 - Thomas Murphy ([@tmurph21](https://github.com/tmurph21)), Student
+- Douglas Detoni ([@ddetoni](https://github.com/ddetoni)), Software Developer, ThoughtWorks, Brazil
