@@ -1317,3 +1317,4 @@ Signed,
 - Joel Rocha ([@joelxr](https://github.com/joelxr)), Developer, Fortaleza, Brazil
 - Prakash Divy ([@prakashdivyy](https://github.com/prakashdivyy)), Software Engineer, Indonesia
 - Rob Fagen ([@rfagen](https://github.com/rfagen)), Open Source Fanboy, Silicon Valley, California, United States of America, Western Hemisphere, Earth, Sol System, 0.5 Orion Arm (Inner Rim), Milky Way, Universe 616
+- Ahmad AbdUrRazaq ([@ibnahmadbello](https://github.com/ibnahmadbello)), Android Developer, Pythonista, Nigeria
