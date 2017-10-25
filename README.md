@@ -1309,3 +1309,4 @@ Signed,
 - Shantanu Johri ([@hanuor](https://github.com/hanuor)), Software developer, India
 - Paulo Henrique Scherer ([@phscherer](https://github.com/phscherer)), Software Developer, Santa Catarina, Brazil
 - Paulo Ricardo de Souza ([@paulo-snow](https://github.com/paulo-snow)), Software Developer, Brazil
+- Daniel André da Silva ([@dap1995](https://github.com/dap1995)), Software Developer, Brazil
