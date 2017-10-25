@@ -1324,3 +1324,4 @@ Signed,
 - Virat Singh ([@VSBtechs](https://github.com/VSBtechs)),Student at SGSITS,Indore,India
 - Ifunanya Ikemma([@Iphytech](https://github.com/Iphytech)), Software Developer, Enugu, Nigeria
 - Himanshu Awasthi ([@HimanshuAwasthi95](https://github.com/HimanshuAwasthi95)), Student, FOSS lover ,Developer, India
+- SJ ([@bluejay2011])(https://github.com/bluejay2011)), Developer, Philippines
