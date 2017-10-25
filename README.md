@@ -1325,4 +1325,4 @@ Signed,
 - Ifunanya Ikemma([@Iphytech](https://github.com/Iphytech)), Software Developer, Enugu, Nigeria
 - Himanshu Awasthi ([@HimanshuAwasthi95](https://github.com/HimanshuAwasthi95)), Student, FOSS lover ,Developer, India
 - SJ ([@bluejay2011])(https://github.com/bluejay2011)), Developer, Philippines
-- Joe Kaufeld ([@itsthejoker])(https://github.com/itsthejoker)), Software Engineer, Indianapolis, Indiana, USA
+- Joe Kaufeld ([@itsthejoker])(https://github.com/itsthejoker)), Software Engineer, Indiana, USA
