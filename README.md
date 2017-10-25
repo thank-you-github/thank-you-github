@@ -1238,3 +1238,4 @@ Signed,
 - Shane Lindsay ([@captainswain](https://github.com/captainswain)), Fullstack developer, Mexico
 - Cuauhtemoc Ultreras ([@notregicide](https://github.com/notregicide)), Developer, United States
 - Ruhan Li ([@RuhanLi](https://github.com/ruhanli)), Student, Waterloo
+- Byron Rau ([@byronrau](https://github.com/byronrau)), Lover of free shirts, USA
