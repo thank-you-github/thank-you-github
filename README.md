@@ -1321,3 +1321,4 @@ Signed,
 - Kamal Paneru ([@Kamalpaneru](https://github.com/Kamalpaneru)), Software Engineer, Kathmandu, Nepal
 - Aurelie Bayre ([@AurelieBayre](https://github.com/AurelieBayre)), Free Code Camp student, Reims, France
 - Alexander Reno ([@ajreno95](https://github.com/ajreno95)), Student, Ohio
+- Server Khalilov ([@red17electro](https://github.com/red17electro)), Student, Kaiserslautern, Germany
