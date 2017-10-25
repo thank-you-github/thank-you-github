@@ -1220,3 +1220,4 @@ Signed,
 - David Mauricio Delgado-Ruiz ([@nonameable](https://github.com/nonameable)), Systems and Computing Engineering Student, Colombia
 - Vanielle Lee ([@lekosfmi](https://github.com/lekosfmi)), Software Engineer, San Francisco, United States
 - Simran Singhal ([@simransinghal](https://github.com/simransinghal)), Python Software Developer, IIIT, India
+- Jon Openshaw ([@jonopens](https://github.com/jonopens)), Web Development Student, USA
