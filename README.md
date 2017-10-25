@@ -1253,3 +1253,4 @@ Signed,
 - Christoffer Martinsen ([@mrtnsn](https://github.com/mrtnsn)), Developer @ ([Sempro](https://github.com/sempro))
 - Michelle Scharlock ([@mscharlock](https://github.com/mscharlock)), Software Developer, USA
 - Tina Ngo ([@tinatrinhngo](https://github.com/tinatrinhngo)), Student, California
+- Harsh Paliwal ([@hpaliwal4](https://github.com/hpaliwal4)), Student, India
