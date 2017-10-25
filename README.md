@@ -1247,3 +1247,4 @@ Signed,
 - Elijah Rwothoromo ([@Rwothoromo](https://github.com/Rwothoromo/)), Sotware Developer, Uganda
 - Yoga Aliarham ([@aliarham11](https://github.com/aliarham11)), Software Engineer, Indonesia
 - Miloslav Číž ([@drummyfish](https://github.com/drummyfish)), OpenMW dev, Czech Republic
+- Dale French ([@dale-french](https://github.com/dale-french)), Software Developer, Hirt & Carter, Durban, South Africa
