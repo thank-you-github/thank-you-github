@@ -1254,3 +1254,4 @@ Signed,
 - Michelle Scharlock ([@mscharlock](https://github.com/mscharlock)), Software Developer, USA
 - Tina Ngo ([@tinatrinhngo](https://github.com/tinatrinhngo)), Student, California
 - Harsh Paliwal ([@hpaliwal4](https://github.com/hpaliwal4)), Student, India
+- Vo Tuan Duy ([@danielvo1510](https://github.com/danielvo1510)), Software Developer, Singapore
