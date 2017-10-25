@@ -1,4 +1,4 @@
-Dear GitHub,
+﻿Dear GitHub,
 
 Before 2007, the way to participate in Open Source was fragmented. Each project
 had their own workflow, patches circulated in emails, issues were reported in
@@ -1240,3 +1240,4 @@ Signed,
 - Ruhan Li ([@RuhanLi](https://github.com/ruhanli)), Student, Waterloo
 - Byron Rau ([@byronrau](https://github.com/byronrau)), Lover of free shirts, USA
 - Jeremy Smith ([@silentDjay](https://github.com/silentDjay)), Frontend Developer, USA
+- Tina Ngo ([@tinatrinhngo](https://github.com/tinatrinhngo)), Student, California
