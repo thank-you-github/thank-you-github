@@ -1260,3 +1260,4 @@ Signed,
 - Andreas Loizou ([@lack3r](https://github.com/lack3r)), Senior Software Engineer, Cyprus
 - Gaspard Extragornax ([@extragornax](https://github.com/extragornax)), Software Developer, Paris, France
 - Wes Murray ([@getwes](https://github.com/getwes)), Full Stack Developer, South Africa
+- Tiago Hermano ([@tiagohermano](https://github.com/tiagohermano)), Student, Brazil
