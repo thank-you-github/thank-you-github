@@ -1,4 +1,4 @@
-Please read and remove:
+Please read and remove :
 
 Practically all PRs are non-mergeable because they conflict with each other, and
 continually asking for rebases would be impractical.
