@@ -1235,3 +1235,4 @@ Signed,
 - Deni Junior ([@denidiasjr](https://github.com/denidiasjr)), Student, Brazil
 - Imas Neupane ([@iMoose](https://github.com/iMoose)), Student, New Zealand
 - Jonathan Mouchou ([@jonmouchou](https://github.com/jonmouchou)), Student, Software Developer, United States
+- Shane Lindsay ([@captainswain](https://github.com/captainswain)), Fullstack developer, Mexico
