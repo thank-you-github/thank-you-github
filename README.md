@@ -1230,3 +1230,4 @@ Signed,
 - Douglas Detoni ([@ddetoni](https://github.com/ddetoni)), Software Developer, ThoughtWorks, Brazil
 - Garrett Battaglia ([@gwoplock](https://github.com/gwoplock)), ExOS Lead Devloper
 - Alessio Palumbo ([@alessio-palumbo](https://github.com/alessio-palumbo)), Software Developer, Melbourne(AU)
+- John Paul Ada ([@johnpaulada](https://github.com/johnpaulada)), Software Engineer, Philippines
