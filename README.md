@@ -1221,3 +1221,4 @@ Signed,
 - Vanielle Lee ([@lekosfmi](https://github.com/lekosfmi)), Software Engineer, San Francisco, United States
 - Simran Singhal ([@simransinghal](https://github.com/simransinghal)), Python Software Developer, IIIT, India
 - Jon Openshaw ([@jonopens](https://github.com/jonopens)), Web Development Student, USA
+- Kridsanapong Wongthongdee ([@golfiti](https://github.com/golfiti)), iOS Developer, Thailand
