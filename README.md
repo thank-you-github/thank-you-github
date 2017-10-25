@@ -1326,3 +1326,4 @@ Signed,
 - Ilaria Mosca ([@7laria](https://github.com/7laria)),Mobile Developer, Italy
 - Ashish Ranjan ([@ashishranjan2011](https://github.com/ashishranjan2011)), Student , IIT Guwahati, India
 - Gyanesh Patra ([@c3m3gyanesh](https://github.com/c3m3gyanesh)), Researcher, Campinas, Brazil
+- Aaron Neustedter ([@aaron97neu](https://github.com/aaron97neu)), Student, United States
