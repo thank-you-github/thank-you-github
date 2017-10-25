@@ -1307,3 +1307,4 @@ Signed,
 - Daan Boerlage ([@Runebaas](https://github.com/runebaas)), Software Developer, Switzerland
 - Ayush tripathi ([@ayushme001](https://github.com/ayushme001)), Student(starter) GEU, dehradun, india
 - Shantanu Johri ([@hanuor](https://github.com/hanuor)), Software developer, India
+- Paulo Henrique Scherer ([@phscherer](https://github.com/phscherer)), Software Developer, Santa Catarina, Brazil
