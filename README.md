@@ -1234,3 +1234,4 @@ Signed,
 - Zadkiel Aslafy-Aharonian ([@aslafy-z](https://github.com/aslafy-z)), Developer, France
 - Deni Junior ([@denidiasjr](https://github.com/denidiasjr)), Student, Brazil
 - Imas Neupane ([@iMoose](https://github.com/iMoose)), Student, New Zealand
+- Jonathan Mouchou ([@jonmouchou](https://github.com/jonmouchou)), Student, Software Developer, United States
