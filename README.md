@@ -1239,3 +1239,4 @@ Signed,
 - Cuauhtemoc Ultreras ([@notregicide](https://github.com/notregicide)), Developer, United States
 - Ruhan Li ([@RuhanLi](https://github.com/ruhanli)), Student, Waterloo
 - Byron Rau ([@byronrau](https://github.com/byronrau)), Lover of free shirts, USA
+- Jeremy Smith ([@silentDjay](https://github.com/silentDjay)), Frontend Developer, USA
