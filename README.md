@@ -1226,3 +1226,4 @@ Signed,
 - Jack Proxy ([@ProxyNeko](https://github.com/ProxyNeko)), Game Addon/Mod Developer, United Kingdom
 - Mustafa Adam ([@mustafadam](https://github.com/mustafadam)), Web Developer
 
+- Thomas Murphy ([@tmurph21](https://github.com/tmurph21)), Student
