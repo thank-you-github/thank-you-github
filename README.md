@@ -1276,3 +1276,4 @@ Signed,
 - Gurudatt Kulkarni ([@Guru107](https://github.com/Guru107)), Software Developer, India
 
 - Aline Dias([@aolidias](https://github.com/aolidias)), Software Developer, Brazil
+- Tushar Jain ([@tshrjn](https://github.com/tshrjn)), Student at IIT Mandi, India
