@@ -1273,3 +1273,5 @@ Signed,
 - Jigar Mehta ([@jigar1101](https://github.com/jigar1101)), Software Developer, India
 - Vinícius Oliveira ([@viniciusmo](https://github.com/viniciusmo)), Mobile Developer
 
+- Gurudatt Kulkarni ([@Guru107](https://github.com/Guru107)), Software Developer, India
+
