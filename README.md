@@ -1281,3 +1281,4 @@ Signed,
 - João Nzango([@joaonzangoii](https://github.com/joaonzangoii)), Mobile & Web Developer, Angola
 - Clément Raussin ([@Cclleemm](https://github.com/Cclleemm)), Software Engineer, France
 - Jacob Coulter([@jcoulter](https://github.com/jcoulter)), Continuous Delivery Architect, USA
+- Bogdan Denkovych([@bogdanvlviv](https://github.com/bogdanvlviv)), Rubyist, Lviv, Ukraine
