@@ -1287,3 +1287,4 @@ Signed,
 - Diky Arga ([@dikyarga](https://github.com/dikyarga)), Web Developer, Indonesia
 - J. Kirchartz ([@jkirchartz](https://github.com/jkirchartz)), Web Developer, Pittsburgh, Pa, USA
 - Adjie Saputra Wijaya ([@uyeh](https://github.com/uyeh)), Student, Indonesia
+- Tom ([@tmos](https://github.com/tmos)), Front-end developer, Québec
