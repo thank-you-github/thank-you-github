@@ -1236,3 +1236,4 @@ Signed,
 - Imas Neupane ([@iMoose](https://github.com/iMoose)), Student, New Zealand
 - Jonathan Mouchou ([@jonmouchou](https://github.com/jonmouchou)), Student, Software Developer, United States
 - Shane Lindsay ([@captainswain](https://github.com/captainswain)), Fullstack developer, Mexico
+- Cuauhtemoc Ultreras ([@notregicide](https://github.com/notregicide)), Developer, United States
