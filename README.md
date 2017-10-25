@@ -1241,3 +1241,4 @@ Signed,
 - Byron Rau ([@byronrau](https://github.com/byronrau)), Lover of free shirts, USA
 - Jeremy Smith ([@silentDjay](https://github.com/silentDjay)), Frontend Developer, USA
 - Ben Theunissen ([@BTheunissen](https://github.com/btheunissen)), Graduate Developer at REA Group
+- Ayush Kumar Singh ([@haloboy777](https://github.com/haloboy777)), Samosa Eater, Android, Web, India
