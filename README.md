@@ -1213,4 +1213,47 @@ Signed,
 - Ben Kadel ([@kardelio](https://github.com/kardelio)), Software Developer, United Kingdom
 - Andrey Mukamolow ([@fobo66](https://github.com/fobo66)), Android Developer, Belarus
 - Robin Cussol ([@RobinCsl](https://github.com/RobinCsl)), JavaScript Developer, Czech Republic
+- Edditoria ([@edditoria](https://github.com/Edditoria)), Developer, Hong Kong
+- Kerry M-R ([@kamikkels](https://github.com/kamikkels)), Software Developer, Australia
+- Sendhilkumaran ([@sendhilpk](https://github.com/sendhilpk)), Software Developer, India
+- DeflatedPickle ([@DeflatedPickle](https://github.com/DeflatedPickle)), Developer
+- David Mauricio Delgado-Ruiz ([@nonameable](https://github.com/nonameable)), Systems and Computing Engineering Student, Colombia
+- Vanielle Lee ([@lekosfmi](https://github.com/lekosfmi)), Software Engineer, San Francisco, United States
+- Simran Singhal ([@simransinghal](https://github.com/simransinghal)), Python Software Developer, IIIT, India
+- Jon Openshaw ([@jonopens](https://github.com/jonopens)), Web Development Student, USA
+- Kridsanapong Wongthongdee ([@golfiti](https://github.com/golfiti)), iOS Developer, Thailand
+- Samuel Harbord ([@Samuel-Harbord](https://github.com/Samuel-Harbord)), Software Developer, Canada
+- Jack Proxy ([@ProxyNeko](https://github.com/ProxyNeko)), Game Addon/Mod Developer, United Kingdom
+- Mustafa Adam ([@mustafadam](https://github.com/mustafadam)), Web Developer
+
+- Thomas Murphy ([@tmurph21](https://github.com/tmurph21)), Student
+- Douglas Detoni ([@ddetoni](https://github.com/ddetoni)), Software Developer, ThoughtWorks, Brazil
+- Garrett Battaglia ([@gwoplock](https://github.com/gwoplock)), ExOS Lead Devloper
+- Alessio Palumbo ([@alessio-palumbo](https://github.com/alessio-palumbo)), Software Developer, Melbourne(AU)
+- John Paul Ada ([@johnpaulada](https://github.com/johnpaulada)), Software Engineer, Philippines
+- Zadkiel Aslafy-Aharonian ([@aslafy-z](https://github.com/aslafy-z)), Developer, France
+- Deni Junior ([@denidiasjr](https://github.com/denidiasjr)), Student, Brazil
+- Imas Neupane ([@iMoose](https://github.com/iMoose)), Student, New Zealand
+- Jonathan Mouchou ([@jonmouchou](https://github.com/jonmouchou)), Student, Software Developer, United States
+- Shane Lindsay ([@captainswain](https://github.com/captainswain)), Fullstack developer, Mexico
+- Cuauhtemoc Ultreras ([@notregicide](https://github.com/notregicide)), Developer, United States
+- Ruhan Li ([@RuhanLi](https://github.com/ruhanli)), Student, Waterloo
+- Byron Rau ([@byronrau](https://github.com/byronrau)), Lover of free shirts, USA
+- Jeremy Smith ([@silentDjay](https://github.com/silentDjay)), Frontend Developer, USA
+- Ben Theunissen ([@BTheunissen](https://github.com/btheunissen)), Graduate Developer at REA Group
+- Ayush Kumar Singh ([@haloboy777](https://github.com/haloboy777)), Samosa Eater, Android, Web, India
+- Sahapol Kaewyoo ([@stonenots](https://github.com/stonenots)), Software Engineer, Thailand
+- Faaiz ([@goprime10](https://github.com/goprime10)), Student and now and Open Source Contributer
+- Elijah Rwothoromo ([@Rwothoromo](https://github.com/Rwothoromo/)), Sotware Developer, Uganda
+- Yoga Aliarham ([@aliarham11](https://github.com/aliarham11)), Software Engineer, Indonesia
+- Miloslav Číž ([@drummyfish](https://github.com/drummyfish)), OpenMW dev, Czech Republic
+- Dale French ([@dale-french](https://github.com/dale-french)), Software Developer, Hirt & Carter, Durban, South Africa
+- Rikesh Subedi ([@rikesh-subedi](https://github.com/rikesh-subedi)), Frontend Developer, Bangalore
+- Arshad Khan ([@arshadkhan39687](https://github.com/arshadkhan39687)) , Salesforce Developer , Bengaluru
+- Christoffer Martinsen ([@mrtnsn](https://github.com/mrtnsn)), Developer @ ([Sempro](https://github.com/sempro))
+- Michelle Scharlock ([@mscharlock](https://github.com/mscharlock)), Software Developer, USA
+- Tina Ngo ([@tinatrinhngo](https://github.com/tinatrinhngo)), Student, California
+- Harsh Paliwal ([@hpaliwal4](https://github.com/hpaliwal4)), Student, India
+- Mehdi Tirgar ([@code-guru](https://github.com/code-guru)), Software Engineer, Stockholm, Sweden
+- Vo Tuan Duy ([@danielvo1510](https://github.com/danielvo1510)), Software Developer, Singapore
 - Renan Muniz ([@remunizz](https://github.com/remunizz)), Software Engineer, Brazil
