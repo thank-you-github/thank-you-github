@@ -1216,3 +1216,4 @@ Signed,
 - Edditoria ([@edditoria](https://github.com/Edditoria)), Developer, Hong Kong
 - Kerry M-R ([@kamikkels](https://github.com/kamikkels)), Software Developer, Australia
 - Sendhilkumaran ([@sendhilpk](https://github.com/sendhilpk)), Software Developer, India
+- DeflatedPickle ([@DeflatedPickle](https://github.com/DeflatedPickle)), Developer
