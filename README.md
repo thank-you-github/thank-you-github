@@ -1290,3 +1290,4 @@ Signed,
 - Tom ([@tmos](https://github.com/tmos)), Front-end developer, Québec
 - Naresh Narsing ([@Naresh-Narsing](https://github.com/Naresh-Narsing)), Android Developer,India
 - Ifunanya Ikemma ([@Iphytech](https://github.com/Iphytech)), Software Developer, Enugu, Nigeria
+- Felipe Mena ([@felipemena1](https://github.com/felipemena1)), Software Developer, Brazil
