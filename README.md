@@ -1261,3 +1261,4 @@ Signed,
 - Gaspard Extragornax ([@extragornax](https://github.com/extragornax)), Software Developer, Paris, France
 - Wes Murray ([@getwes](https://github.com/getwes)), Full Stack Developer, South Africa
 - Tiago Hermano ([@tiagohermano](https://github.com/tiagohermano)), Student, Brazil
+- Alain Mereaux ([@pulsarblow](https://github.com/pulsarblow)), Github Supporter, France
