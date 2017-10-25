@@ -1274,5 +1274,6 @@ Signed,
 - Vinícius Oliveira ([@viniciusmo](https://github.com/viniciusmo)), Mobile Developer
 
 - Gurudatt Kulkarni ([@Guru107](https://github.com/Guru107)), Software Developer, India
+- Tom ([@tmos](https://github.com/tmos)), Front-end developer, Québec
 
 - Aline Dias([@aolidias](https://github.com/aolidias)), Software Developer, Brazil
