@@ -1298,3 +1298,4 @@ Signed,
 - Otacilio Neto ([@OtacilioN](https://github.com/OtacilioN)), Control and Automation Student, Recife, Brazil
 - Zilvinas Kucinskas ([@ZilvinasKucinskas](https://github.com/ZilvinasKucinskas)), Tech Lead @ [CGTrader](https://www.cgtrader.com), Vilnius, Lithuania
 - Kashayap Merai ([@kamerk22](https://github.com/kamerk22)), Full-Stack Web Developer & Designer, India
+- Shubham Shekhar Jha([@2sjha](https://github.com/2sjha)), Student, IIT BHU, India
