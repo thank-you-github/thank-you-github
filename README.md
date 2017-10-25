@@ -1311,3 +1311,4 @@ Signed,
 - Paulo Ricardo de Souza ([@paulo-snow](https://github.com/paulo-snow)), Software Developer, Brazil
 - Daniel André da Silva ([@dap1995](https://github.com/dap1995)), Software Developer, Brazil
 - Tarun Jain ([@tarun885](https://github.com/tarun885)), iOS Developer
+- Punit Makwana ([@punit2502](https://github.com/punit2502)), Student
