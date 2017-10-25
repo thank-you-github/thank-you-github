@@ -1249,3 +1249,4 @@ Signed,
 - Miloslav Číž ([@drummyfish](https://github.com/drummyfish)), OpenMW dev, Czech Republic
 - Dale French ([@dale-french](https://github.com/dale-french)), Software Developer, Hirt & Carter, Durban, South Africa
 - Rikesh Subedi ([@rikesh-subedi](https://github.com/rikesh-subedi)), Frontend Developer, Bangalore
+- Arshad Khan ([@arshadkhan39687](https://github.com/arshadkhan39687)) , Salesforce Developer , Bengaluru
