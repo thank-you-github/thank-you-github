@@ -1269,3 +1269,4 @@ Signed,
 - Enzo Innocenzi ([@hawezo](https://github.com/hawezo)), Developer, France
 - Ujin Kosy ([@ujinkosy](https://github.com/UjinKosy)), Software Developer, Belarus
 - Shalom Yerushalmy ([@yershalom](https://github.com/yershalom)), DevOps Engineer, Israel
+- Ícaro Ponce ([@icaroponce](https://github.com/icaroponce)), Software Developer
