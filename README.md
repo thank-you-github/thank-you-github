@@ -1300,3 +1300,4 @@ Signed,
 - Kashayap Merai ([@kamerk22](https://github.com/kamerk22)), Full-Stack Web Developer & Designer, India
 - Shubham Shekhar Jha([@2sjha](https://github.com/2sjha)), Student, IIT BHU, India
 - Bryson Reece([@brysonreece](https://github.com/brysonreece)), Software Engineer
+- Shane Rowley ([@smrowley](https://github.com/smrowley)), Software Engineer
