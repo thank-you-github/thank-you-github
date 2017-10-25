@@ -1314,3 +1314,4 @@ Signed,
 - Punit Makwana ([@punit2502](https://github.com/punit2502)), Student
 - Mike Wales ([@walesmd](https://github.com/walesmd)), VP of Engineering at Moonrise, Chicago, IL, USA
 - Eduardo Hitek ([@eduardohitek](https://github.com/eduardohitek)), Software Engineer, Brasília, Brazil
+- Joel Rocha ([@joelxr](https://github.com/joelxr)), Developer, Fortaleza, Brazil
