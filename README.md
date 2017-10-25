@@ -1267,3 +1267,4 @@ Signed,
 - Mikey Beck ([@mikeybeck](https://github.com/mikeybeck)), Web Developer, New Zealand
 
 - Enzo Innocenzi ([@hawezo](https://github.com/hawezo)), Developer, France
+- Ujin Kosy ([@ujinkosy](https://github.com/UjinKosy)), Software Developer, Belarus
