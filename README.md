@@ -1266,3 +1266,4 @@ Signed,
 - Renan Muniz ([@remunizz](https://github.com/remunizz)), Software Engineer, Brazil
 - Mikey Beck ([@mikeybeck](https://github.com/mikeybeck)), Web Developer, New Zealand
 
+- Enzo Innocenzi ([@hawezo](https://github.com/hawezo)), Developer, France
