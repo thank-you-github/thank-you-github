@@ -1259,3 +1259,4 @@ Signed,
 - Pedro Pereira ([@pedro823](https://github.com/pedro823)), Student and Developer, Brazil
 - Andreas Loizou ([@lack3r](https://github.com/lack3r)), Senior Software Engineer, Cyprus
 - Gaspard Extragornax ([@extragornax](https://github.com/extragornax)), Software Developer, Paris, France
+- Wes Murray ([@getwes](https://github.com/getwes)), Full Stack Developer, South Africa
