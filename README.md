@@ -1264,3 +1264,5 @@ Signed,
 - Alain Mereaux ([@pulsarblow](https://github.com/pulsarblow)), Github Supporter, France
 - Vo Tuan Duy ([@Naresh-Narsing](https://github.com/Naresh-Narsing)), Android Developer, India
 - Renan Muniz ([@remunizz](https://github.com/remunizz)), Software Engineer, Brazil
+- Mikey Beck ([@mikeybeck](https://github.com/mikeybeck)), Web Developer, New Zealand
+
