@@ -1320,3 +1320,4 @@ Signed,
 - Ahmad AbdUrRazaq ([@ibnahmadbello](https://github.com/ibnahmadbello)), Android Developer, Pythonista, Nigeria
 - Kamal Paneru ([@Kamalpaneru](https://github.com/Kamalpaneru)), Software Engineer, Kathmandu, Nepal
 - Aurelie Bayre ([@AurelieBayre](https://github.com/AurelieBayre)), Free Code Camp student, Reims, France
+- Alexander Reno ([@ajreno95](https://github.com/ajreno95)), Student, Ohio
