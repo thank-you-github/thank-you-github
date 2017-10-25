@@ -1231,3 +1231,4 @@ Signed,
 - Garrett Battaglia ([@gwoplock](https://github.com/gwoplock)), ExOS Lead Devloper
 - Alessio Palumbo ([@alessio-palumbo](https://github.com/alessio-palumbo)), Software Developer, Melbourne(AU)
 - John Paul Ada ([@johnpaulada](https://github.com/johnpaulada)), Software Engineer, Philippines
+- Zadkiel Aslafy-Aharonian ([@aslafy-z](https://github.com/aslafy-z)), Developer, France
