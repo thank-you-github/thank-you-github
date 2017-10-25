@@ -1265,7 +1265,7 @@ Signed,
 - Vo Tuan Duy ([@Naresh-Narsing](https://github.com/Naresh-Narsing)), Android Developer, India
 - Renan Muniz ([@remunizz](https://github.com/remunizz)), Software Engineer, Brazil
 - Mikey Beck ([@mikeybeck](https://github.com/mikeybeck)), Web Developer, New Zealand
-
+- Clément Raussin ([@Cclleemm](https://github.com/Cclleemm)), Software Engineer, France
 - Enzo Innocenzi ([@hawezo](https://github.com/hawezo)), Developer, France
 - Ujin Kosy ([@ujinkosy](https://github.com/UjinKosy)), Software Developer, Belarus
 - Shalom Yerushalmy ([@yershalom](https://github.com/yershalom)), DevOps Engineer, Israel
