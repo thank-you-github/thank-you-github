@@ -1251,3 +1251,4 @@ Signed,
 - Rikesh Subedi ([@rikesh-subedi](https://github.com/rikesh-subedi)), Frontend Developer, Bangalore
 - Arshad Khan ([@arshadkhan39687](https://github.com/arshadkhan39687)) , Salesforce Developer , Bengaluru
 - Christoffer Martinsen ([@mrtnsn](https://github.com/mrtnsn)), Developer @ ([Sempro](https://github.com/sempro))
+- Michelle Scharlock ([@mscharlock](https://github.com/mscharlock)), Software Developer, USA
