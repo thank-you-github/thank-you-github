@@ -1263,3 +1263,4 @@ Signed,
 - Tiago Hermano ([@tiagohermano](https://github.com/tiagohermano)), Student, Brazil
 - Alain Mereaux ([@pulsarblow](https://github.com/pulsarblow)), Github Supporter, France
 - Vo Tuan Duy ([@Naresh-Narsing](https://github.com/Naresh-Narsing)), Android Developer, India
+- Renan Muniz ([@remunizz](https://github.com/remunizz)), Software Engineer, Brazil
