@@ -1224,3 +1224,5 @@ Signed,
 - Kridsanapong Wongthongdee ([@golfiti](https://github.com/golfiti)), iOS Developer, Thailand
 - Samuel Harbord ([@Samuel-Harbord](https://github.com/Samuel-Harbord)), Software Developer, Canada
 - Jack Proxy ([@ProxyNeko](https://github.com/ProxyNeko)), Game Addon/Mod Developer, United Kingdom
+- Mustafa Adam ([@mustafadam](https://github.com/mustafadam)), Web Developer
+
