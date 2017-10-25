@@ -1254,3 +1254,4 @@ Signed,
 - Michelle Scharlock ([@mscharlock](https://github.com/mscharlock)), Software Developer, USA
 - Tina Ngo ([@tinatrinhngo](https://github.com/tinatrinhngo)), Student, California
 - Harsh Paliwal ([@hpaliwal4](https://github.com/hpaliwal4)), Student, India
+- Mehdi Tirgar ([@code-guru](https://github.com/code-guru)), Software Engineer, Stockholm, Sweden
