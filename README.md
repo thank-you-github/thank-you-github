@@ -1274,7 +1274,7 @@ Signed,
 - Vinícius Oliveira ([@viniciusmo](https://github.com/viniciusmo)), Mobile Developer
 
 - Gurudatt Kulkarni ([@Guru107](https://github.com/Guru107)), Software Developer, India
-
+- Daan Boerlage ([@Runebaas](https://github.com/runebaas)), Software Developer, Switzerland
 - Aline Dias([@aolidias](https://github.com/aolidias)), Software Developer, Brazil
 - Lanre Adelowo([@adelowo](https://github.com/adelowo)), Software Developer, Nigeria
 - Tushar Jain ([@tshrjn](https://github.com/tshrjn)), Student at IIT Mandi, India
