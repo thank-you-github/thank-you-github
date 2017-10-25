@@ -1294,3 +1294,4 @@ Signed,
 - Eduardo Bachiega ([@eduardobachiega](https://github.com/eduardobachiega)), Android Developer, Brazil
 - Arpan Konar ([@arpank10](https://github.com/arpank10)), Cse Sophomore at IIT Guwahati, India
 - Icaro Leite ([@icaaro](https://github.com/icaaro)), Student, Salvador, Brazil
+- Paulo Henrique Scherer ([@phscherer](https://github.com/phscherer)), Software Developer, Santa Catarina, Brazil
