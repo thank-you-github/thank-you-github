@@ -1262,3 +1262,4 @@ Signed,
 - Wes Murray ([@getwes](https://github.com/getwes)), Full Stack Developer, South Africa
 - Tiago Hermano ([@tiagohermano](https://github.com/tiagohermano)), Student, Brazil
 - Alain Mereaux ([@pulsarblow](https://github.com/pulsarblow)), Github Supporter, France
+- Vo Tuan Duy ([@Naresh-Narsing](https://github.com/Naresh-Narsing)), Android Developer, India
