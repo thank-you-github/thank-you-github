@@ -1246,3 +1246,4 @@ Signed,
 - Faaiz ([@goprime10](https://github.com/goprime10)), Student and now and Open Source Contributer
 - Elijah Rwothoromo ([@Rwothoromo](https://github.com/Rwothoromo/)), Sotware Developer, Uganda
 - Yoga Aliarham ([@aliarham11](https://github.com/aliarham11)), Software Engineer, Indonesia
+- Miloslav Číž ([@drummyfish](https://github.com/drummyfish)), OpenMW dev, Czech Republic
