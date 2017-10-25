@@ -1240,3 +1240,4 @@ Signed,
 - Ruhan Li ([@RuhanLi](https://github.com/ruhanli)), Student, Waterloo
 - Byron Rau ([@byronrau](https://github.com/byronrau)), Lover of free shirts, USA
 - Jeremy Smith ([@silentDjay](https://github.com/silentDjay)), Frontend Developer, USA
+- Sahapol Kaewyoo ([@stonenots](https://github.com/stonenots)), Software Engineer, Thailand
