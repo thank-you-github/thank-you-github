@@ -1270,3 +1270,5 @@ Signed,
 - Ujin Kosy ([@ujinkosy](https://github.com/UjinKosy)), Software Developer, Belarus
 - Shalom Yerushalmy ([@yershalom](https://github.com/yershalom)), DevOps Engineer, Israel
 - Ícaro Ponce ([@icaroponce](https://github.com/icaroponce)), Software Developer
+- Vinícius Oliveira ([@viniciusmo](https://github.com/viniciusmo)), Mobile Developer
+
