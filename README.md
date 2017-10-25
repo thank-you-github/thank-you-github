@@ -1277,3 +1277,4 @@ Signed,
 
 - Aline Dias([@aolidias](https://github.com/aolidias)), Software Developer, Brazil
 - Lanre Adelowo([@adelowo](https://github.com/adelowo)), Software Developer, Nigeria
+- Tushar Jain ([@tshrjn](https://github.com/tshrjn)), Student at IIT Mandi, India
