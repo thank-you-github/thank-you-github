@@ -1219,3 +1219,4 @@ Signed,
 - DeflatedPickle ([@DeflatedPickle](https://github.com/DeflatedPickle)), Developer
 - David Mauricio Delgado-Ruiz ([@nonameable](https://github.com/nonameable)), Systems and Computing Engineering Student, Colombia
 - Vanielle Lee ([@lekosfmi](https://github.com/lekosfmi)), Software Engineer, San Francisco, United States
+- Simran Singhal ([@simransinghal](https://github.com/simransinghal)), Python Software Developer, IIIT, India
