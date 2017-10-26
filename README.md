@@ -1374,3 +1374,4 @@ Signed,
 - Harshal Mittal ([@harshalmittal4](https://github.com/harshalmittal4)), ECE Undergrad, IIT Roorkee
 - Sai Charan Chinta([@cyx-charan](https://github.com/cyx-charan)), Full Stack Developer, India
 - Prithviraj Sukale ([@pvsukale](https://github.com/pvsukale)), Fullstack dev , Pune , India
+- Michael Wright ([@michaelwright74](https://github.com/michaelwright74)), Developer in Training, UK
