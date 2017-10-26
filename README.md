@@ -1382,3 +1382,4 @@ Signed,
 - Shubham Shirpurkar ([@Bumsquest](https://github.com/bumsquest)), Student, India
 - Sohan Chowdhury ([@SohanChy](https://github.com/SohanChy)), Computer Science Student & Software Developer, Dhaka, Bangladesh
 - SpicyNinja ([@SpicyNinja](https://github.com/SpicyNinja)), Web Developer & Designer
+- Fatah Ghani ([@Fatahgani17](https://github.com/Fatahghani)), Programmer Android,Student
