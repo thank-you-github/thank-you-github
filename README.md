@@ -1344,3 +1344,4 @@ Signed,
 - Chua Bing Quan ([@chuabingquan](https://github.com/chuabingquan)), Student, Oddball
 - Cody Burmeister ([@cburmeister1](https://github.com/cburmeister1)), Full Stack Web Developer, United States
 - Andrew Suters ([@churrizo](https://github.com/churrizo)), Student, Australia
+- Drew Huslig ([@drewhuslig](https://github.com/drewhuslig)), Full Stack Developer, Lawrence, KS, USA
