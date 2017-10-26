@@ -1391,3 +1391,4 @@ Signed,
 - Apurva N. Saraogi ([@apurva91](https://github.com/apurva91)), CSE student, IIT Guwahati, India
 - Taras Yarema ([@tarasyarema](https://github.com/tarasyarema)), Maths Student, Barcelona, Spain
 - Tino Max Thayil ([@tinomaxthayil)](https://github.com/tinomaxthayil)) ,CSE student , MEC, India
+- Liosfr ([@Liosfr)](https://github.com/Liosfr)), Open Source Fanboy, Silicon Valley, California, United States of America, Western Hemisphere, Earth, Sol System, 0.5 Orion Arm (Inner Rim), Milky Way, Universe 616
