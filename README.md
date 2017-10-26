@@ -1399,3 +1399,4 @@ Signed,
 - Kyle F. ([@kylef000](https://github.com/kylef000)), Veteran, Software Engineer, Charlotte, NC
 - Joan Albert Segura ([@jalbertsr](https://github.com/jalbertsr)) Full Stack Developer, Barcelona, Spain
 - Sagnik Sinha Roy ([@scarescrow](https://github.com/scarescrow)), Software Engineer, India
+- Ahmetcan Güvendiren ([@Glacion](https://github.com/Glacion)), Android Developer
