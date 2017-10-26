@@ -1408,3 +1408,4 @@ Signed,
 - Chahak Chugh ([@chahak16](https://github.com/chahak16)), Computer Science Student, India
 - Binson Selvin ([@binsonselvin](https://github.com/binsonselvin)), BSc Student, Mumbai, India
 - Parth Modi ([@8parth](https://github.com/8parth)), Software Engineer, Gujarat, India
+- Giri Kuncoro ([@girikuncoro](https://github.com/girikuncoro)), Software Engineer, Indonesia
