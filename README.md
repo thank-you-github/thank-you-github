@@ -1412,3 +1412,4 @@ Signed,
 - Matheus Guizolfi ([@MatheusGuizolfi](https://github.com/MatheusGuizolfi)) ,student , Brazil
 - Giri Kuncoro ([@girikuncoro](https://github.com/girikuncoro)), Software Engineer, Indonesia
 - Manoj Selvin ([@manojselvin)](https://github.com/manojselvin)), Full-Stack Developer, Mumbai, India
+- Tamir ([@TpSr52](https://github.com/TpSr52)), CS Student
