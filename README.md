@@ -1348,3 +1348,4 @@ Signed,
 - Wil Stephens ([@WilliamStephens](https://github.com/WilliamStephens)), Software Developer, Kansas City, Missouri, USA
 - Leo Carona ([@leocarona](https://github.com/leocarona)), Earthener
 - Stephen W, Esq. ([@GuacStar](https://github.com/GuacStar)), Aspiring professional programmer, Michigan, USA
+- Cameron Steele ([@manosteele91827](https://github.com/manosteele91827)), Full Stack Developer, Enarc Labs, Dallas
