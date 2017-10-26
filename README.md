@@ -1395,3 +1395,4 @@ Signed,
 - Lucas Moraes ([@moraesslucas](https://github.com/moraesslucas)), Software Developer, Porto Alegre, Brazil
 - Arkady Telegin ([@Akyshnik](https://github.com/Akyshnik)), ML student, Worldwide
 - Siyanew ([@siyanew](https://github.com/siyanew)), CS Student
+- Alireza Omidi ([@alirezaomidi](https://github.com/alirezaomidi)), Software Developer, Iran
