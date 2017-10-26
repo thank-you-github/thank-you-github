@@ -1402,7 +1402,6 @@ Signed,
 - Ahmetcan Güvendiren ([@Glacion](https://github.com/Glacion)), Android Developer
 - George Kampolis ([@gkampolis](https://github.com/gkampolis)), Engineering student, Greece & UK
 - Ankit kumar ([@PrajapatiAnkit](https://github.com/PrajapatiAnkit)), Computer Science Student & PHP Web Developer, Kanpur, India
-
 - Mugerwa Clifford ([@cl14d](https://github.com/cl14d)), Comp Sci Student, Mbarara, Uganda
 - Matt McAlister ([@matmcal](https://github.com/matmcal)), Full-Stack Developer
 - Chahak Chugh ([@chahak16](https://github.com/chahak16)), Computer Science Student, India
