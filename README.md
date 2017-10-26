@@ -1281,6 +1281,7 @@ Signed,
 - Diky Arga ([@dikyarga](https://github.com/dikyarga)), Web Developer, Indonesia
 - J. Kirchartz ([@jkirchartz](https://github.com/jkirchartz)), Web Developer, Pittsburgh, Pa, USA
 - Adjie Saputra Wijaya ([@uyeh](https://github.com/uyeh)), Student, Indonesia
+
 - Tom ([@tmos](https://github.com/tmos)), Front-end developer, Québec
 - Naresh Narsing ([@Naresh-Narsing](https://github.com/Naresh-Narsing)), Android Developer,India
 - Ifunanya Ikemma ([@Iphytech](https://github.com/Iphytech)), Software Developer, Enugu, Nigeria
@@ -1329,3 +1330,4 @@ Signed,
 - Joe Kaufeld ([@itsthejoker](https://github.com/itsthejoker)), Software Engineer, Indiana, USA
 - Cody Duskin ([@bestcodyever](https://github.com/bestcodyever)), Full Stack Developer
 - Juliano Garcia ([@robotenique](https://github.com/robotenique)), Computer Science Student, São Paulo, Brazil
+- Emmet Mayer ([@emmetmayer](https://github.com/emmetmayer)), Computer Science Student, New Hampshire, USA
