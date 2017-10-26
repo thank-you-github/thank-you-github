@@ -1353,3 +1353,4 @@ Signed,
 - Ahrar Monsur ([@ahrarmonsur](https://github.com/ahrarmonsur)), Full Stack Developer, Waterloo, Canada
 - Kamil Cywiński ([@kcywinski](https://github.com/kcywinski)), Computer Science Student, Warsaw, Poland
 - Jose Garcia ([@josegarcia12](https://github.com/josegarcia12)), Undergrad Computer Engineer @UPRM
+- Maharsh Patel ([@maharshmellow](https://github.com/maharshmellow)), Computing Science Student, Edmonton, Canada
