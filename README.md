@@ -1359,7 +1359,7 @@ Signed,
 - Reggie Brown ([@travelingdoodle](https://github.com/travelingdoodle)), Full Stack Web Developer, United States
 - Hung Le ([@hungle88](https://github.com/hungle88)), Full Stack Developer, Bangkok, Thailand.
 - Rhia Dixon ([@risaco](https://github.com/risaco)), Developer, Kansas City, MO, USA
-- Muhammad Arji' Sharofuddin ([@wkwksama](https://github.com/wkwksama)), Informatics Engineering Student, Semarang, Indonesia
+- Muhammad Arji' Sharofuddin ([@wkwksama](https://github.com/wkwksama)), Informatics Engineering Student, Semarang, Jawa Tengah, Indonesia
 - Stefanos Zisidis ([@stefanoszisidis](https://github.com/stefanoszisidis), Computer Science Engineer and Educator, Greece
 - Aditya Bando ([@adityabando](https://github.com/AdityaBando)), IT Student, DTU, Delhi, India
 - Dan Argue ([@dargue3](https://github.com/dargue3)), Frontend Engineer, Los Angeles, California, USA
