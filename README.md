@@ -1351,3 +1351,4 @@ Signed,
 - Cameron Steele ([@manosteele91827](https://github.com/manosteele91827)), Full Stack Developer, Enarc Labs, Dallas
 - Billy Firman ([@as3mbus](https://github.com/as3mbus)), Computer Science Student, Semarang, Indonesia
 - Ahrar Monsur ([@ahrarmonsur](https://github.com/ahrarmonsur)), Full Stack Developer, Waterloo, Canada
+- Kamil Cywiński ([@kcywinski](https://github.com/kcywinski)), Computer Science Student, Warsaw, Poland
