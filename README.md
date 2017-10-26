@@ -1420,3 +1420,4 @@ Signed,
 - Pradeep Yarlagadda ([@agentcap](https://github.com/agentcap)), Computer Science Student, India
 - Thom Suijkerbuijk ([@thom145](https://github.com/thom145)) , Data Science student , The Netherlands
 - Harshvardhan Singh([@harshvardhansingh58](https://github.com/harshvardhansingh58)), Full Stack Developer, India
+- Trevor Harmon ([@tdharmon](https://github.com/tdharmon)), Developer & Designer, Provo, UT
