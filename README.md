@@ -1401,3 +1401,5 @@ Signed,
 - Sagnik Sinha Roy ([@scarescrow](https://github.com/scarescrow)), Software Engineer, India
 - Ahmetcan Güvendiren ([@Glacion](https://github.com/Glacion)), Android Developer
 - George Kampolis ([@gkampolis](https://github.com/gkampolis)), Engineering student, Greece & UK
+- Ankit kumar ([@PrajapatiAnkit](https://github.com/PrajapatiAnkit)), Computer Science Student & PHP Web Developer, Kanpur, India
+
