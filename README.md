@@ -1400,3 +1400,4 @@ Signed,
 - Joan Albert Segura ([@jalbertsr](https://github.com/jalbertsr)) Full Stack Developer, Barcelona, Spain
 - Sagnik Sinha Roy ([@scarescrow](https://github.com/scarescrow)), Software Engineer, India
 - Ahmetcan Güvendiren ([@Glacion](https://github.com/Glacion)), Android Developer
+- George Kampolis ([@gkampolis](https://github.com/gkampolis)), Engineering student, Greece & UK
