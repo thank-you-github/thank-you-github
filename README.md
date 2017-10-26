@@ -1373,3 +1373,4 @@ Signed,
 - BipinLala ([@BipinLala](https://github.com/BipinLala)), CSE Student, Delhi, India
 - Harshal Mittal ([@harshalmittal4](https://github.com/harshalmittal4)), ECE Undergrad, IIT Roorkee
 - Sai Charan Chinta([@cyx-charan](https://github.com/cyx-charan)), Full Stack Developer, India
+- Prithviraj Sukale ([@pvsukale](https://github.com/pvsukale)), Fullstack dev , Pune , India
