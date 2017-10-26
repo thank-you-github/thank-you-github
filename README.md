@@ -1356,3 +1356,4 @@ Signed,
 - Maharsh Patel ([@maharshmellow](https://github.com/maharshmellow)), Computing Science Student, Edmonton, Canada
 - Roy Siu ([@roysoup](https://github.com/roysoup)), Student, UK
 - Stavroula Tsokaktsi ([@StTsk](https://github.com/StTsk)), Software Engineering Student, ATEITH, Greece
+- Reggie Brown ([@travelingdoodle](https://github.com/travelingdoodle)), Full Stack Web Developer, United States
