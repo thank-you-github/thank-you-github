@@ -1367,3 +1367,4 @@ Signed,
 - Hugo M&uuml;ller-Downing ([@hugomd](https://github.com/hugomd)), Software Engineer, Melbourne, Australia
 - Kahfi Maulana ([@Kahfimaulana](https://github.com/Kahfimaulana)), Developer, Jakarta, Indonesia
 - Anshuman Rohella ([@AnshumanRohella](https://github.com/AnshumanRohella)), Software Engineer, Tokyo, Japan
+- Krishnakumar Rajendran :bowtie:([@kk-r](https://github.com/kk-r)), Full Stack Developer, India
