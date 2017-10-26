@@ -1348,6 +1348,7 @@ Signed,
 - Wil Stephens ([@WilliamStephens](https://github.com/WilliamStephens)), Software Developer, Kansas City, Missouri, USA
 - Leo Carona ([@leocarona](https://github.com/leocarona)), Earthener
 - Stephen W, Esq. ([@GuacStar](https://github.com/GuacStar)), Aspiring professional programmer, Michigan, USA
+- Dimitlios Kartsompanis ([@Deimo08](https://github.com/Deimo08)), Software Engineer, Earth
 - Cameron Steele ([@manosteele91827](https://github.com/manosteele91827)), Full Stack Developer, Enarc Labs, Dallas
 - Billy Firman ([@as3mbus](https://github.com/as3mbus)), Computer Science Student, Semarang, Indonesia
 - Ahrar Monsur ([@ahrarmonsur](https://github.com/ahrarmonsur)), Full Stack Developer, Waterloo, Canada
