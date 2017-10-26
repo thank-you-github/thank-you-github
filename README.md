@@ -1335,3 +1335,4 @@ Signed,
 - Aleksander Chromik ([@achromik](https://github.com/achromik)), IT Engineer, beginer Web-Dev, Bluszczów, Silesian Voivodeship, Poland
 - Sathyanarayanan M ([@sathyanarayananm](https://github.com/sathyanarayananm)), Software Engineer, Karur, Tamilnadu, India
 - Sanjayshr ([@sanjay555](https://github.com/sanjay555)), Developer, India
+- Yusaku Kasahara ([@yusakukasahara](https://github.com/yusakukasahara)), Developer, USA
