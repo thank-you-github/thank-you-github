@@ -1397,3 +1397,4 @@ Signed,
 - Siyanew ([@siyanew](https://github.com/siyanew)), CS Student
 - Alireza Omidi ([@alirezaomidi](https://github.com/alirezaomidi)), Software Developer, Iran
 - Kyle F. ([@kylef000](https://github.com/kylef000)), Veteran, Software Engineer, Charlotte, NC
+- Joan Albert Segura ([@jalbertsr](https://github.com/jalbertsr)) Full Stack Developer, Barcelona, Spain
