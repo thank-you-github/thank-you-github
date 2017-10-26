@@ -1426,3 +1426,4 @@ Signed,
 - Liosfr ([@Liosfr](https://github.com/Liosfr)), Open Source Fanboy, Silicon Valley, California, United States of America, Western Hemisphere, Earth, Sol System, 0.5 Orion Arm (Inner Rim), Milky Way, Universe 616
 - Kashyap Raval ([@kashyap32](https://github.com/kashyap32)) ,Intern Python/ML developer , Gujarat, India
 - Mike Kokkolios ([@mikekok](https://github.com/mikekok)), Web Developer, Greece
+- Joshua Richardson ([@jrichocean](https://github.com/jrichocean) Software Developer, Utah
