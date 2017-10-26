@@ -1407,7 +1407,4 @@ Signed,
 - Chahak Chugh ([@chahak16](https://github.com/chahak16)), Computer Science Student, India
 - Binson Selvin ([@binsonselvin](https://github.com/binsonselvin)), BSc Student, Mumbai, India
 - Parth Modi ([@8parth](https://github.com/8parth)), Software Engineer, Gujarat, India
-- Shravan Parthasarathy ([@shravanhp96](https://github.com/shravanhp96)), Bioengineer, United States
-- Abhishek Chakravarty ([@Chakru](https://github.com/Chakru)), Web Developer, India
-- Matheus Guizolfi ([@MatheusGuizolfi](https://github.com/MatheusGuizolfi)) ,student , Brazil
-- Giri Kuncoro ([@girikuncoro](https://github.com/girikuncoro)), Software Engineer, Indonesia
+- Tamir ([@TpSr52](https://github.com/TpSr52)), CS Student
