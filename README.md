@@ -1364,3 +1364,4 @@ Signed,
 - Aditya Bando ([@adityabando](https://github.com/AdityaBando)), IT Student, DTU, Delhi, India
 - Dan Argue ([@dargue3](https://github.com/dargue3)), Frontend Engineer, Los Angeles, California, USA
 - Dimitlios Kartsompanis ([@Deimo08](https://github.com/Deimo08)), Software Engineer, Earth
+- Hugo M&uuml;ller-Downing ([@hugomd](https://github.com/hugomd)), Software Engineer, Melbourne, Australia
