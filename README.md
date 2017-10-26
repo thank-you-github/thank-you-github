@@ -1411,3 +1411,4 @@ Signed,
 - Abhishek Chakravarty ([@Chakru](https://github.com/Chakru)), Web Developer, India
 - Matheus Guizolfi ([@MatheusGuizolfi](https://github.com/MatheusGuizolfi)) ,student , Brazil
 - Giri Kuncoro ([@girikuncoro](https://github.com/girikuncoro)), Software Engineer, Indonesia
+- Manoj Selvin ([@manojselvin)](https://github.com/manojselvin)), Full-Stack Developer, Mumbai, India
