@@ -1339,3 +1339,4 @@ Signed,
 - Emmet Mayer ([@emmetmayer](https://github.com/emmetmayer)), Computer Science Student, New Hampshire, USA
 - Zhang Zengfei([@gigibox](https://github.com/gigibox)), Coding Farmer, Beijing, China
 - Indra Kusuma ([@idindrakusuma](https://github.com/idindrakusuma)), Informatics Engineering Student, Semarang, Indonesia
+- Nyk Ma ([@nykma](https://github.com/nykma)), Rails & Laravel DevOps, Shanghai, China
