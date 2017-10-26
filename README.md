@@ -1358,3 +1358,4 @@ Signed,
 - Stavroula Tsokaktsi ([@StTsk](https://github.com/StTsk)), Software Engineering Student, ATEITH, Greece
 - Reggie Brown ([@travelingdoodle](https://github.com/travelingdoodle)), Full Stack Web Developer, United States
 - Hung Le ([@hungle88](https://github.com/hungle88)), Full Stack Developer, Bangkok, Thailand.
+- Rhia Dixon ([@risaco](https://github.com/risaco)), Developer, Kansas City, MO, USA
