@@ -1276,3 +1276,4 @@ Signed,
 - Gurudatt Kulkarni ([@Guru107](https://github.com/Guru107)), Software Developer, India
 
 - Aline Dias([@aolidias](https://github.com/aolidias)), Software Developer, Brazil
+- Yusaku Kasahara ([@yusakukasahara](https://github.com/yusakukasahara)), Developer, USA
