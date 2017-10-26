@@ -1386,4 +1386,4 @@ Signed,
 - Greg Mahring ([@GregMahring](https://github.com/GregMahring)), Software Developer, Cleveland, Ohio
 - Himanshu Arora ([@Himanshuarora97](https://github.com/Himanshuarora97)), Student, Developer
 - Satish Avadhoot Mhetre ([@satishm752](https://github.com/satishm752)), CSE student, NITK, India
-- Tino Max Thayil (@tinomaxthayil)(https://github.com/tinomaxthayil),CSE student , MEC, India
+- Tino Max Thayil (@[tinomaxthayil)](https://github.com/tinomaxthayil)) ,CSE student , MEC, India
