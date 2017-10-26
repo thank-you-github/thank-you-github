@@ -1401,6 +1401,7 @@ Signed,
 - Sagnik Sinha Roy ([@scarescrow](https://github.com/scarescrow)), Software Engineer, India
 - Ahmetcan Güvendiren ([@Glacion](https://github.com/Glacion)), Android Developer
 - George Kampolis ([@gkampolis](https://github.com/gkampolis)), Engineering student, Greece & UK
+- Marios Georgiou ([@MariosGeorgiou](https://github.com/MariosGeorgiou)), Developer, Cyprus
 - Ankit kumar ([@PrajapatiAnkit](https://github.com/PrajapatiAnkit)), Computer Science Student & PHP Web Developer, Kanpur, India
 - Mugerwa Clifford ([@cl14d](https://github.com/cl14d)), Comp Sci Student, Mbarara, Uganda
 - Matt McAlister ([@matmcal](https://github.com/matmcal)), Full-Stack Developer
