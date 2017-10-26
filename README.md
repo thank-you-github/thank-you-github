@@ -1363,3 +1363,4 @@ Signed,
 - Stefanos Zisidis ([@stefanoszisidis](https://github.com/stefanoszisidis), Computer Science Engineer and Educator, Greece
 - Aditya Bando ([@adityabando](https://github.com/AdityaBando)), IT Student, DTU, Delhi, India
 - Dan Argue ([@dargue3](https://github.com/dargue3)), Frontend Engineer, Los Angeles, California, USA
+- Anshuman Rohella ([@luci](https://github.com/AnshumanRohella)), Software Engineer, Tokyo, Japan
