@@ -1370,3 +1370,4 @@ Signed,
 - Conrad ([@creyD](https://github.com/creyD)), System Engineer, Dresden, Germany
 - Krishnakumar Rajendran :bowtie:([@kk-r](https://github.com/kk-r)), Full Stack Developer, India
 - Umar Haruna Abdullahi ([@umarbrowser](https://github.com/umarbrowser)), C.E.O Python Nigeria, Gombe, Nigeria
+- Shubham Shirpurkar ([@Bumsquest](https://github.com/bumsquest)), Student, India
