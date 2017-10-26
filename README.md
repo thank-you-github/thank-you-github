@@ -1418,3 +1418,4 @@ Signed,
 - Eshagh Moutabi ([@EsshaghMoutabi](https://github.com/EshaghMoutabi)) , Computer Engineer & Graphic Designer , Iran
 - Marios Georgiou ([@MariosGeorgiou](https://github.com/MariosGeorgiou)), Developer, Cyprus
 - Pradeep Yarlagadda ([@agentcap](https://github.com/agentcap)), Computer Science Student, India
+- Thom Suijkerbuijk ([@thom145](https://github.com/thom145)) , Data Science student , The Netherlands
