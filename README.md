@@ -1365,3 +1365,4 @@ Signed,
 - Dan Argue ([@dargue3](https://github.com/dargue3)), Frontend Engineer, Los Angeles, California, USA
 - Dimitlios Kartsompanis ([@Deimo08](https://github.com/Deimo08)), Software Engineer, Earth
 - Hugo M&uuml;ller-Downing ([@hugomd](https://github.com/hugomd)), Software Engineer, Melbourne, Australia
+- Kahfi Maulana ([@Kahfimaulana](https://github.com/Kahfimaulana)), Developer, Jakarta, Indonesia
