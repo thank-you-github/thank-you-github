@@ -1424,4 +1424,4 @@ Signed,
 - Bhanu Bhandari ([@bhanu1911](https://github.com/bhanu1911)) Student, Developer, Data Scientist - IIIT Allahabad, India
 - Hadi Cahyadi ([@hadicahyadi](https://github.com/hadicahyadi)), Software Developer, Bandung, Indonesia
 - Liosfr ([@Liosfr](https://github.com/Liosfr)), Open Source Fanboy, Silicon Valley, California, United States of America, Western Hemisphere, Earth, Sol System, 0.5 Orion Arm (Inner Rim), Milky Way, Universe 616
-- Kashyap Raval ([@kashyap32](https://github.com/kashyap32)) ,Intern Python/ML developer , Gujarat, India
+- Mike Kokkolios ([@mikekok](https://github.com/mikekok)), Web Developer, Greece
