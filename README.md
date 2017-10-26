@@ -1379,3 +1379,4 @@ Signed,
 - Larizza Tueros ([@skayablars](https://github.com/skayablars)), Developer, Dominican Republic
 - Dimitar Nestorov ([@dimitarnestorov](https://github.com/dimitarnestorov)), Software Engineer, Sofia, Bulgaria
 - Alexander Malinov ([@xmalinov](https://github.com/xmalinov)), Full Stack Web Developer, Yaroslavl, Russia
+- Shubham Shirpurkar ([@Bumsquest](https://github.com/bumsquest)), Student, India
