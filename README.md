@@ -1416,3 +1416,4 @@ Signed,
 - Adriano Lemos ([@adriano-lemos-dev](https://github.com/adriano-lemos-dev)) ,Full Stack Web Developer , Brasília, Brasil
 - Kel O'Shaughnessy ([@kelvinosh](https://github.com/kelvinosh)) , Student , USA
 - Eshagh Moutabi ([@EsshaghMoutabi](https://github.com/EshaghMoutabi)) , Computer Engineer & Graphic Designer , Iran
+- Joshua Richardson ([@jrichocean])(https://github.com/jrichocean) Software Developer, Utah
