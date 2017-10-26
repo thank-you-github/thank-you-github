@@ -1423,3 +1423,4 @@ Signed,
 - Trevor Harmon ([@tdharmon](https://github.com/tdharmon)), Developer & Designer, Provo, UT
 - Bhanu Bhandari ([@bhanu1911](https://github.com/bhanu1911)) Student, Developer, Data Scientist - IIIT Allahabad, India
 - Hadi Cahyadi ([@hadicahyadi](https://github.com/hadicahyadi)), Software Developer, Bandung, Indonesia
+- Liosfr ([@Liosfr](https://github.com/Liosfr)), Open Source Fanboy, Silicon Valley, California, United States of America, Western Hemisphere, Earth, Sol System, 0.5 Orion Arm (Inner Rim), Milky Way, Universe 616
