@@ -1377,3 +1377,4 @@ Signed,
 - Michael Wright ([@michaelwright74](https://github.com/michaelwright74)), Developer in Training, UK
 - Arpit Choudhary ([@appi147](https://github.com/appi147)), Student, NIT Raipur, India
 - Larizza Tueros ([@skayablars](https://github.com/skayablars)), Developer, Dominican Republic
+- Dimitar Nestorov ([@dimitarnestorov](https://github.com/dimitarnestorov)), Software Engineer, Sofia, Bulgaria
