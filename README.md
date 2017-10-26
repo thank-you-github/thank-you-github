@@ -1355,3 +1355,4 @@ Signed,
 - Jose Garcia ([@josegarcia12](https://github.com/josegarcia12)), Undergrad Computer Engineer @UPRM
 - Maharsh Patel ([@maharshmellow](https://github.com/maharshmellow)), Computing Science Student, Edmonton, Canada
 - Roy Siu ([@roysoup](https://github.com/roysoup)), Student, UK
+- Stavroula Tsokaktsi ([@StTsk](https://github.com/StTsk)), Software Engineering Student, ATEITH, Greece
