@@ -1404,3 +1404,4 @@ Signed,
 - Ankit kumar ([@PrajapatiAnkit](https://github.com/PrajapatiAnkit)), Computer Science Student & PHP Web Developer, Kanpur, India
 
 - Mugerwa Clifford ([@cl14d](https://github.com/cl14d)), Comp Sci Student, Mbarara, Uganda
+- Matt McAlister ([@matmcal](https://github.com/matmcal)), Full-Stack Developer
