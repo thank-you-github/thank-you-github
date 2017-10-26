@@ -1383,3 +1383,4 @@ Signed,
 - Sohan Chowdhury ([@SohanChy](https://github.com/SohanChy)), Computer Science Student & Software Developer, Dhaka, Bangladesh
 - SpicyNinja ([@SpicyNinja](https://github.com/SpicyNinja)), Web Developer & Designer
 - Fatah Ghani ([@Fatahgani17](https://github.com/Fatahghani)), Programmer Android,Student
+- Greg Mahring ([@GregMahring](https://github.com/GregMahring)), Software Developer, Cleveland, Ohio
