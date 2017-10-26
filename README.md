@@ -1360,3 +1360,4 @@ Signed,
 - Hung Le ([@hungle88](https://github.com/hungle88)), Full Stack Developer, Bangkok, Thailand.
 - Rhia Dixon ([@risaco](https://github.com/risaco)), Developer, Kansas City, MO, USA
 - Muhammad Arji' Sharofuddin ([@wkwksama](https://github.com/wkwksama)), Informatics Engineering Student, Semarang, Indonesia
+- Stefanos Zisidis ([@stefanoszisidis](https://github.com/stefanoszisidis), Computer Science Engineer and Educator, Greece
