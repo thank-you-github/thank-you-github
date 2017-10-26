@@ -1341,3 +1341,4 @@ Signed,
 - Indra Kusuma ([@idindrakusuma](https://github.com/idindrakusuma)), Informatics Engineering Student, Semarang, Indonesia
 - Nyk Ma ([@nykma](https://github.com/nykma)), Rails & Laravel DevOps, Shanghai, China
 - Karim Alibhai ([@karimsa](https://github.com/karimsa)), Software Engineer, Ottawa, Canada
+- Chua Bing Quan ([@chuabingquan](https://github.com/chuabingquan)), Student, Oddball
