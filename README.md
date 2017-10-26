@@ -1341,7 +1341,7 @@ Signed,
 - Indra Kusuma ([@idindrakusuma](https://github.com/idindrakusuma)), Informatics Engineering Student, Semarang, Indonesia
 - Nyk Ma ([@nykma](https://github.com/nykma)), Rails & Laravel DevOps, Shanghai, China
 - Karim Alibhai ([@karimsa](https://github.com/karimsa)), Software Engineer, Ottawa, Canada
-- Chua Bing Quan ([@chuabingquan](https://github.com/chuabingquan)), Student, Oddball
+- Chua Bing Quan ([@chuabingquan](https://github.com/chuabingquan)), Student, Oddball, Singapore
 - Cody Burmeister ([@cburmeister1](https://github.com/cburmeister1)), Full Stack Web Developer, United States
 - Andrew Suters ([@churrizo](https://github.com/churrizo)), Student, Australia
 - Drew Huslig ([@drewhuslig](https://github.com/drewhuslig)), Full Stack Developer, Lawrence, KS, USA
