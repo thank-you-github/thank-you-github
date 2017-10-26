@@ -1381,3 +1381,4 @@ Signed,
 - Alexander Malinov ([@xmalinov](https://github.com/xmalinov)), Full Stack Web Developer, Yaroslavl, Russia
 - Shubham Shirpurkar ([@Bumsquest](https://github.com/bumsquest)), Student, India
 - Sohan Chowdhury ([@SohanChy](https://github.com/SohanChy)), Computer Science Student & Software Developer, Dhaka, Bangladesh
+- Greg Mahring ([@GregMahring](https://github.com/GregMahring)), Software Developer, Cleveland, Ohio
