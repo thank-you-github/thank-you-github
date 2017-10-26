@@ -1362,3 +1362,4 @@ Signed,
 - Muhammad Arji' Sharofuddin ([@wkwksama](https://github.com/wkwksama)), Informatics Engineering Student, Semarang, Indonesia
 - Stefanos Zisidis ([@stefanoszisidis](https://github.com/stefanoszisidis), Computer Science Engineer and Educator, Greece
 - Aditya Bando ([@adityabando](https://github.com/AdityaBando)), IT Student, DTU, Delhi, India
+- Dan Argue ([@dargue3](https://github.com/dargue3)), Frontend Engineer, Los Angeles, California, USA
