@@ -1349,3 +1349,4 @@ Signed,
 - Leo Carona ([@leocarona](https://github.com/leocarona)), Earthener
 - Stephen W, Esq. ([@GuacStar](https://github.com/GuacStar)), Aspiring professional programmer, Michigan, USA
 - Cameron Steele ([@manosteele91827](https://github.com/manosteele91827)), Full Stack Developer, Enarc Labs, Dallas
+- Billy Firman ([@as3mbus](https://github.com/as3mbus)), Computer Science Student, Semarang, Indonesia
