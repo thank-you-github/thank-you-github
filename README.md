@@ -1405,3 +1405,4 @@ Signed,
 
 - Mugerwa Clifford ([@cl14d](https://github.com/cl14d)), Comp Sci Student, Mbarara, Uganda
 - Matt McAlister ([@matmcal](https://github.com/matmcal)), Full-Stack Developer
+- Chahak Chugh ([@chahak16](https://github.com/chahak16)), Computer Science Student, India
