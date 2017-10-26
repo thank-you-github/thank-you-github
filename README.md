@@ -1336,3 +1336,4 @@ Signed,
 - Sathyanarayanan M ([@sathyanarayananm](https://github.com/sathyanarayananm)), Software Engineer, Karur, Tamilnadu, India
 - Sanjayshr ([@sanjay555](https://github.com/sanjay555)), Developer, India
 - Yusaku Kasahara ([@yusakukasahara](https://github.com/yusakukasahara)), Developer, USA
+- Emmet Mayer ([@emmetmayer](https://github.com/emmetmayer)), Computer Science Student, New Hampshire, USA
