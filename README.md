@@ -1403,3 +1403,4 @@ Signed,
 - George Kampolis ([@gkampolis](https://github.com/gkampolis)), Engineering student, Greece & UK
 - Ankit kumar ([@PrajapatiAnkit](https://github.com/PrajapatiAnkit)), Computer Science Student & PHP Web Developer, Kanpur, India
 
+- Mugerwa Clifford ([@cl14d](https://github.com/cl14d)), Comp Sci Student, Mbarara, Uganda
