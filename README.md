@@ -1393,3 +1393,4 @@ Signed,
 - Tino Max Thayil ([@tinomaxthayil)](https://github.com/tinomaxthayil)) ,CSE student , MEC, India
 - Ayush Shrivastava ([@interritus1996](https://github.com/interritus1996)), CSE Student, IIT (BHU) Varanasi, India
 - Lucas Moraes ([@moraesslucas](https://github.com/moraesslucas)), Software Developer, Porto Alegre, Brazil
+- Arkady Telegin ([@Akyshnik](https://github.com/Akyshnik)), ML student, Worldwide
