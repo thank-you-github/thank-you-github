@@ -1368,5 +1368,4 @@ Signed,
 - Kahfi Maulana ([@Kahfimaulana](https://github.com/Kahfimaulana)), Developer, Jakarta, Indonesia
 - Anshuman Rohella ([@AnshumanRohella](https://github.com/AnshumanRohella)), Software Engineer, Tokyo, Japan
 - Conrad ([@creyD](https://github.com/creyD)), System Engineer, Dresden, Germany
-- Krishnakumar Rajendran :bowtie:([@kk-r](https://github.com/kk-r)), Full Stack Developer, India
-- Umar Haruna Abdullahi ([@umarbrowser](https://github.com/umarbrowser)), C.E.O Python Nigeria, Gombe, Nigeria
+- Sohan Chowdhury ([@SohanChy](https://github.com/SohanChy)), Computer Science Student & Software Developer, Dhaka, Bangladesh
