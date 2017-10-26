@@ -1330,3 +1330,4 @@ Signed,
 - Cody Duskin ([@bestcodyever](https://github.com/bestcodyever)), Full Stack Developer
 - Juliano Garcia ([@robotenique](https://github.com/robotenique)), Computer Science Student, São Paulo, Brazil
 - Ethan Ostrow ([@ethanostrow](https://github.com/ethanostrow)), Developer/Student, San Francisco, CA, USA
+- Arpit Choudhary ([@appi147](https://github.com/appi147)), Student, NIT Raipur, India
