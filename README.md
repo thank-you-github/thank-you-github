@@ -1329,3 +1329,4 @@ Signed,
 - Joe Kaufeld ([@itsthejoker](https://github.com/itsthejoker)), Software Engineer, Indiana, USA
 - Cody Duskin ([@bestcodyever](https://github.com/bestcodyever)), Full Stack Developer
 - Juliano Garcia ([@robotenique](https://github.com/robotenique)), Computer Science Student, São Paulo, Brazil
+- Hung Le ([hungle88](https://github.com/hungle88)), Full Stack Developer, Bangkok, Thailand.
