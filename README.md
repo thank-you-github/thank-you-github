@@ -1421,3 +1421,4 @@ Signed,
 - Thom Suijkerbuijk ([@thom145](https://github.com/thom145)) , Data Science student , The Netherlands
 - Harshvardhan Singh([@harshvardhansingh58](https://github.com/harshvardhansingh58)), Full Stack Developer, India
 - Trevor Harmon ([@tdharmon](https://github.com/tdharmon)), Developer & Designer, Provo, UT
+- Bhanu Bhandari ([@bhanu1911](https://github.com/bhanu1911)) Student, Developer, Data Scientist - IIIT Allahabad, India
