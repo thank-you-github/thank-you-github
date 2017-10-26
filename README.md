@@ -1378,3 +1378,4 @@ Signed,
 - Arpit Choudhary ([@appi147](https://github.com/appi147)), Student, NIT Raipur, India
 - Larizza Tueros ([@skayablars](https://github.com/skayablars)), Developer, Dominican Republic
 - Dimitar Nestorov ([@dimitarnestorov](https://github.com/dimitarnestorov)), Software Engineer, Sofia, Bulgaria
+- Alexander Malinov ([@xmalinov](https://github.com/xmalinov)), Full Stack Web Developer, Yaroslavl, Russia
