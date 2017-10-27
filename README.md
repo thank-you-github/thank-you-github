@@ -1484,3 +1484,4 @@ Signed,
 - Mauricio Rodrigues ([@zabaala](https://github.com/zabaala)), CTO Ooppah.com, Brazil
 - Jack Sodeman ([@TICG](https://github.com/TICG)), Web Developer, and Computer Science Major.
 - pinky101 ([@pinky101])(https://github.com/pinky101)), Front End Developer
+- J. Alexander Curtis ([@jacurtis](https://github.com/jacurtis)), Developer Trainer at [DevMarketer](https://devmarketer.io)
