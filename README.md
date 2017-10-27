@@ -1380,6 +1380,7 @@ Signed,
 - Dimitar Nestorov ([@dimitarnestorov](https://github.com/dimitarnestorov)), Software Engineer, Sofia, Bulgaria
 - Alexander Malinov ([@xmalinov](https://github.com/xmalinov)), Full Stack Web Developer, Yaroslavl, Russia
 - Shubham Shirpurkar ([@Bumsquest](https://github.com/bumsquest)), Student, India
+
 - Sohan Chowdhury ([@SohanChy](https://github.com/SohanChy)), Computer Science Student & Software Developer, Dhaka, Bangladesh
 - SpicyNinja ([@SpicyNinja](https://github.com/SpicyNinja)), Web Developer & Designer
 - Fatah Ghani ([@Fatahgani17](https://github.com/Fatahghani)), Programmer Android,Student
@@ -1428,3 +1429,4 @@ Signed,
 - Mike Kokkolios ([@mikekok](https://github.com/mikekok)), Web Developer, Greece
 - Joshua Richardson ([@jrichocean](https://github.com/jrichocean) Software Developer, Utah
 - Oskari Pirhonen ([@xxc3nsoredxx](https://github.com/xxc3nsoredxx)), C/C++ Developer, Texas, US
+- Lorenzo Farinelli ([@lorenzofar](https://github.com/lorenzofar)), Information Engineering student, Milan, Italy
