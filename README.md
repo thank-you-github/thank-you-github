@@ -1253,6 +1253,7 @@ Signed,
 - Harsh Paliwal ([@hpaliwal4](https://github.com/hpaliwal4)), Student, India
 - Mehdi Tirgar ([@code-guru](https://github.com/code-guru)), Software Engineer, Stockholm, Sweden
 - Vo Tuan Duy ([@danielvo1510](https://github.com/danielvo1510)), Software Developer, Singapore
+- Nestor Afantchao ([@nextybrown](https://github.com/nextybrown)), Android Developer, USA
 - Pedro Pereira ([@pedro823](https://github.com/pedro823)), Student and Developer, Brazil
 - Andreas Loizou ([@lack3r](https://github.com/lack3r)), Senior Software Engineer, Cyprus
 - Gaspard Extragornax ([@extragornax](https://github.com/extragornax)), Software Developer, Paris, France
@@ -1428,3 +1429,4 @@ Signed,
 - Mike Kokkolios ([@mikekok](https://github.com/mikekok)), Web Developer, Greece
 - Joshua Richardson ([@jrichocean](https://github.com/jrichocean) Software Developer, Utah
 - Oskari Pirhonen ([@xxc3nsoredxx](https://github.com/xxc3nsoredxx)), C/C++ Developer, Texas, US
+
