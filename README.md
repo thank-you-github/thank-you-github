@@ -1458,3 +1458,4 @@ Signed,
 - Dmitry Shamrilo ([@shamrilods](https://github.com/shamrilods)), Frontend Developer, Yaroslavl, Russia
 - Caroline Rodrigues ([@loracsilva](https://github.com/loracsilva)), Software Developer
 - Benjamin SA ([@m6code](https://github.com/m6code)), Computer Science Undergraduate at ABU, Zaria, Nigeria.
+- Ken Koch ([@kkoch986](https://github.com/kkoch986)), Software Engineer, North Carolina, US
