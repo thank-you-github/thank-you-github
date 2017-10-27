@@ -1501,3 +1501,4 @@ Signed,
 - Fitz ([@Fitz3253](https://github.com/Fitz3253)), Cyber Security Analyist, Butte, MT
 - Piyush Singhal ([@singhalpiyush12](https://github.com/singhalpiyush12)), Web Developer, IIT Roorkee, India
 - Luc Sarzyniec ([@olbat](https://github.com/olbat)), Software Engineer
+- Vitor de Lima ([@vitorlc](https://github.com/vitorlc)), Student, Brasil
