@@ -1521,3 +1521,4 @@ Signed,
 - Shubham Pandey ([@shubham9411](https://github.com/shubham9411)), Web Developer, Ranikhet, India
 - Chahat Bansal ([@chahatbansal](https://github.com/chahatbansal)), Student
 - Vivek Kumar Kanaujia ([@vivekaris](https://github.com/vivekaris)), Student MCA at IGNOU
+- Sedat Yalcin ([@yalcins](https://github.com/yalcins)), CS Teacher .)
