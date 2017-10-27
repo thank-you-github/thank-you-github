@@ -1497,3 +1497,4 @@ Signed,
 - Nikhilendra Atheti ([@nikhil7934](https://github.com/nikhil7934)), Computer Science Student, India
 - Maxim Muzafarov ([@m-messiah](https://github.com/m-messiah)), DevOps engineer, St. Petersburg, Russia
 - Faruk Çakı ([@OFarukCaki](https://github.com/OFarukCaki)), CSE Student, Web Developer
+- Ramankit Singh ([@webianks](https://github.com/webianks)), Android Developer, Gurugram, India
