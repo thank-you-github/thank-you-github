@@ -1517,3 +1517,4 @@ Signed,
 - Ariela Bawol ([@Ariela1127](https://github.com/Ariela1127)), Computer Science student, Newcastle, UK
 - Eric Tran ([@erctrn](https://github.com/erctrn)), CS Student, USA
 - Mikkel Pedersen ([@MikkelP](https://github.com/MikkelP)), ICT Engineering Student, Denmark
+- Carlos Lima ([@kakamg0](https://github.com/kakamg0)), Full Stack Developer, Belo Horizonte, Brazil
