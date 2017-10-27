@@ -1436,3 +1436,4 @@ Signed,
 - Braydon Wakefield ([@BraydonWF](https://github.com/BraydonWF)), Py/C++ Student
 - John Doe ([@AllureQuartz](https://github.com/AllureQuartz)), Malware Analyst
 - Douglas Hosea ([@kabrick](https://github.com/kabrick)), Android Application Developer, Kampala, Uganda
+- Vijesh Viswambaran ([@CoderVij](https://github.com/CoderVij)), Game Developer/Founder - Freakout Games, Kerala, India
