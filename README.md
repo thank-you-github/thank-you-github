@@ -1482,3 +1482,4 @@ Signed,
 -Aurobindo mishra([@auro2677](https://github.com/auro2677)), cse undergraduate at SUIIT
 - Cristina Cosoroabă ([@cris-cos](https://github.com/cris-cos)), Aspiring Android developer
 - Mauricio Rodrigues ([@zabaala](https://github.com/zabaala)), CTO Ooppah.com, Brazil
+- Jack Sodeman ([@TICG](https://github.com/TICG)), Web Developer, and Computer Science Major.
