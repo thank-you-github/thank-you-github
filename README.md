@@ -1499,3 +1499,4 @@ Signed,
 - Faruk Çakı ([@OFarukCaki](https://github.com/OFarukCaki)), CSE Student, Web Developer
 - Ramankit Singh ([@webianks](https://github.com/webianks)), Android Developer, Gurugram, India
 - Fitz ([@Fitz3253](https://github.com/Fitz3253)), Cyber Security Analyist, Butte, MT
+- Piyush Singhal ([@singhalpiyush12](https://github.com/singhalpiyush12)), Web Developer, IIT Roorkee, India
