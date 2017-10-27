@@ -1504,3 +1504,4 @@ Signed,
 - Vitor de Lima ([@vitorlc](https://github.com/vitorlc)), Student, Brasil
 - Hieu Nguyen ([@hieunguyenm](https://github.com/hieunguyenm)), Student, Ireland
 - Krzysztof Antoniak ([@kantoniak](https://github.com/kantoniak)), Warsaw, Poland
+- Tommaso Sotte ([@tomsotte](https://github.com/tomsotte)), CS Studentu, Italy
