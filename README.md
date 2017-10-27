@@ -1475,3 +1475,4 @@ Signed,
 - Oleg Guzei ([@oguzey-cv](https://github.com/oguzey-cv)), Embedded Software Developer, Ukraine
 -Divyansh Gautum ([@bhaibhaibhai](https://github.com/bhaibhaibhai)),Developer
 - Niloy ([@Front3ndNinja](https://github.com/Front3ndNinja)), Front End Developer
+- Alex Johnson ([@Eggbongo](https://github.com/Eggbongo)), Developer, Minneapolis, MN
