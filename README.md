@@ -1469,3 +1469,4 @@ Signed,
 - Allan Mraes ([@mysqlbox](https://github.com/mysqlbox)), DBA MySQL - Sysadmin Linux - www.mysqlbox.com.br
 - Anubhab Sen ([@anubhabsen](https://github.com/anubhabsen)), CSE Undergraduate at IIIT-H
 - Nathan ([@tabsxspaces](https://github.com/tabsxspaces)), Developer, Brazil
+- Rafael C. Neves ([@rafaelcneves](https://github.com/rafaelcneves)), Full Stack Developer, Brazil
