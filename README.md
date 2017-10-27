@@ -1440,3 +1440,4 @@ Signed,
 - Tadtathep Thepboriruck ([@nonene](https://github.com/nonene)), Student, Thailand
 - Nathan M ([@nathanm](https://github.com/nathanm)), Salt Lake City, Utah
 - Rishabh Budhiraja ([@rbrishabh](https://github.com/rbrishabh)), Web Developer, New Delhi, India
+- Zainal Fahrudin ([@fnzainal](https://github.com/fnzainal)), Android Developer, Yogyakarta, Indonesia
