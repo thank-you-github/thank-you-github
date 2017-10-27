@@ -1444,3 +1444,4 @@ Signed,
 - Weston Cannon ([@KaliShark](https://github.com/KaliShark)), Undergrad at the California State University of Northridge
 - Italo Lelis de Carvalho ([@italohdc](https://github.com/italohdc)), Student and Developer, Brazil
 - Camilo Mendoza ([@camendoza94](https://github.com/camendoza94)), Systems engineer and Mechanical engineer, Colombia
+- Olivia Lorimor ([@olorimor](https://github.com/olorimor)), Firmware Engineer
