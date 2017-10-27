@@ -1442,3 +1442,4 @@ Signed,
 - Rishabh Budhiraja ([@rbrishabh](https://github.com/rbrishabh)), Web Developer, New Delhi, India
 - Zainal Fahrudin ([@fnzainal](https://github.com/fnzainal)), Android Developer, Yogyakarta, Indonesia
 - Weston Cannon ([@KaliShark](https://github.com/KaliShark)), Undergrad at the California State University of Northridge
+- Italo Lelis de Carvalho ([@italohdc](https://github.com/italohdc)), Student and Developer, Brazil
