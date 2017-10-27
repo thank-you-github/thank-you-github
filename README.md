@@ -1472,3 +1472,4 @@ Signed,
 - Rafael C. Neves ([@rafaelcneves](https://github.com/rafaelcneves)), Full Stack Developer, Brazil
 - Giridhar Avinash([@giridharavinash](https://github.com/giridharavinash)), CSE student, India
 - Khong Chanon ([@PlasmaTonmai](https://github.com/PlasmaTonmai)),Undergrad Hardware Enginee, KMUTT, Thailand
+- Oleg Guzei ([@oguzey-cv](https://github.com/oguzey-cv)), Embedded Software Developer, Ukraine
