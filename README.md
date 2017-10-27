@@ -17,6 +17,7 @@ We want to express our gratitude for all you've done and do for Open Source.
 GitHub, thank you very much.
 
 Signed,
+- kunwar11 ([@kunwar11](https://github.com/kunwar11)), Developer
 
 - Xavier Noria ([@fxn](https://github.com/fxn)), Ruby on Rails core team member
 - Sriram Ravichandran ([@digi0ps](https://github.com/digi0ps)), CS Freshman at VIT Chennai
