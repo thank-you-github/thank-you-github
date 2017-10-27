@@ -1456,3 +1456,4 @@ Signed,
 - Jackie owen ([@jackie1969](https://github.com/jackie1969)), student, VIT university vellore, India
 - Lennart Gustafsson ([@TrAnn3l](https://github.com/TrAnn3l)), Developer
 - Dmitry Shamrilo ([@shamrilods](https://github.com/shamrilods)), Frontend Developer, Yaroslavl, Russia
+- Caroline Rodrigues ([@loracsilva](https://github.com/loracsilva)), Software Developer
