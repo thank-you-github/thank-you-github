@@ -1429,3 +1429,4 @@ Signed,
 - Joshua Richardson ([@jrichocean](https://github.com/jrichocean) Software Developer, Utah
 - Oskari Pirhonen ([@xxc3nsoredxx](https://github.com/xxc3nsoredxx)), C/C++ Developer, Texas, US
 - Aayush Arora ([@aayusharora](https://github.com/aayusharora)), Full Stack Developer, New Delhi, India
+- Dhwaneet Bhatt ([@dhwaneetbhatt](https://github.com/dhwaneetbhatt)), Software Engineer, Ahmedabad, India
