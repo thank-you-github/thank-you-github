@@ -1494,3 +1494,4 @@ Signed,
 - Chaitanya Bapat ([@ChaiBapchya](https://github.com/ChaiBapchya)), CS Masters at Georgia Tech
 - Abhishek Biswal ([@AbhishekBiswal](https://github.com/AbhishekBiswal)), Full Stack Developer
 - Ayush Arya ([@arya-ayush](https://github.com/arya-ayush)), Ruby on Rails core team member
+- Nikhilendra Atheti ([@nikhil7934](https://github.com/nikhil7934)), Computer Science Student, India
