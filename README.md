@@ -1434,3 +1434,4 @@ Signed,
 
 - Ayudh Hande ([@ayudhhande](https://github.com/ayudhhande)), Web Developer, India
 - Braydon Wakefield ([@BraydonWF](https://github.com/BraydonWF)), Py/C++ Student
+- John Doe ([@AllureQuartz](https://github.com/AllureQuartz)), Malware Analyst
