@@ -1474,3 +1474,4 @@ Signed,
 - Khong Chanon ([@PlasmaTonmai](https://github.com/PlasmaTonmai)),Undergrad Hardware Enginee, KMUTT, Thailand
 - Oleg Guzei ([@oguzey-cv](https://github.com/oguzey-cv)), Embedded Software Developer, Ukraine
 -Divyansh Gautum ([@bhaibhaibhai](https://github.com/bhaibhaibhai)),Developer
+- Niloy ([@Front3ndNinja](https://github.com/Front3ndNinja)), Front End Developer
