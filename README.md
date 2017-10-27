@@ -1449,3 +1449,4 @@ Signed,
 - Michelle L. ([@michelleclim](https://github.com/michelleclim)), Software Developer, California, US
 - Drix Lopez ([@gabrielslach](https://github.com/gabrielslach)), student, Quezon City, Philippines
 - Vasilis Sakkas ([@billsakkas](https://github.com/billsakkas)), Software Engineer - Data Analyst, Thessaloniki, Greece
+- Ramankit Singh ([@webianks](https://github.com/webianks)), Android Developer, Gurugram, India
