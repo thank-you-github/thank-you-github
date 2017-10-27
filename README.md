@@ -17,7 +17,7 @@ We want to express our gratitude for all you've done and do for Open Source.
 GitHub, thank you very much.
 
 Signed,
-
+- Jack Sodeman ([@TICG](https://github.com/TICG)), Web Developer, and Computer Science Major.
 - Xavier Noria ([@fxn](https://github.com/fxn)), Ruby on Rails core team member
 - Sriram Ravichandran ([@digi0ps](https://github.com/digi0ps)), CS Freshman at VIT Chennai
 - Jose Diaz-Gonzalez ([@josegonzalez](https://github.com/josegonzalez)), CakePHP and Dokku core team member
