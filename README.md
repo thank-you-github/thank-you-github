@@ -1518,3 +1518,4 @@ Signed,
 - Eric Tran ([@erctrn](https://github.com/erctrn)), CS Student, USA
 - Mikkel Pedersen ([@MikkelP](https://github.com/MikkelP)), ICT Engineering Student, Denmark
 - Carlos Lima ([@kakamg0](https://github.com/kakamg0)), Full Stack Developer, Belo Horizonte, Brazil
+- Shubham Pandey ([@shubham9411](https://github.com/shubham9411)), Web Developer, Ranikhet, India
