@@ -1452,3 +1452,4 @@ Signed,
 - Raven Daugherty ([@Raven34](https://github.com/Raven34)), CS Senior at SIUE
 - Juan Mejia ([@zjuan22](https://github.com/zjuan22)), Electronic and telecomunication eng, Campinas, Brazil
 - Sumit Ghosh  ([@sumitmckv](https://github.com/sumitmckv)), Software Engineer
+- Danny Alex Lachos Perez ([@dlachosper](https://github.com/dlachosper)), Researcher, University of Campinas
