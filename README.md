@@ -1451,3 +1451,4 @@ Signed,
 - Vasilis Sakkas ([@billsakkas](https://github.com/billsakkas)), Software Engineer - Data Analyst, Thessaloniki, Greece
 - Raven Daugherty ([@Raven34](https://github.com/Raven34)), CS Senior at SIUE
 - Juan Mejia ([@zjuan22](https://github.com/zjuan22)), Electronic and telecomunication eng, Campinas, Brazil
+- Sumit Ghosh  ([@sumitmckv](https://github.com/sumitmckv)), Software Engineer
