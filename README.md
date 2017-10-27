@@ -1441,3 +1441,4 @@ Signed,
 - Nathan M ([@nathanm](https://github.com/nathanm)), Salt Lake City, Utah
 - Rishabh Budhiraja ([@rbrishabh](https://github.com/rbrishabh)), Web Developer, New Delhi, India
 - Zainal Fahrudin ([@fnzainal](https://github.com/fnzainal)), Android Developer, Yogyakarta, Indonesia
+- Weston Cannon ([@KaliShark](https://github.com/KaliShark)), Undergrad at the California State University of Northridge
