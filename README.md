@@ -1446,3 +1446,4 @@ Signed,
 - Camilo Mendoza ([@camendoza94](https://github.com/camendoza94)), Systems engineer and Mechanical engineer, Colombia
 - Olivia Lorimor ([@olorimor](https://github.com/olorimor)), Firmware Engineer
 - Francisco Nievas ([@frannievas](https://github.com/frannievas)), Computer Science Undergraduate at FaMAF, Córdoba, Argentina.
+- Michelle L. ([@michelleclim](https://github.com/michelleclim)), Software Developer, California, US
