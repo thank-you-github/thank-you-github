@@ -1464,3 +1464,4 @@ Signed,
 - Dhruv Ramani ([@dhruvramani](https://github.com/dhruvramani)), Undergrad at NITW, India
 - Jared Skinner ([@jared-skinner](https://github.com/jared-skinner)), Software Developer, Minnesota, US
 - Prashant Jain ([@prashantjain19](https://github.com/prashantjain19)), Developer
+- Satwik Relwani ([@devsatwik](https://github.com/devsatwik)), Front End Developer
