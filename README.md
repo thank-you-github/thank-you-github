@@ -1505,3 +1505,4 @@ Signed,
 - Krzysztof Antoniak ([@kantoniak](https://github.com/kantoniak)), Warsaw, Poland
 - Tommaso Sotte ([@tomsotte](https://github.com/tomsotte)), CS Studentu, Italy
 - Sokratis Fotkatzikis ([@sokratis12GR](https://github.com/sokratis12GR)), Software & TheDragonTeam's Mods Developer, Blagoevgrad, Bulgaria
+- Mehran Aghabozorgi ([@mehranagh20](https://github.com/mehranagh20)), Software Developer, Iran
