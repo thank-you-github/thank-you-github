@@ -1511,3 +1511,4 @@ Signed,
 - raghav sharma ([raghav008](https://github.com/raghav008)), JS Developer, India
 - Lorenzo Farinelli ([@lorenzofar](https://github.com/lorenzofar)), Information Engineering student, Milan, Italy
 - Robert Valmassoi ([@valmassoi](https://github.com/valmassoi)), Front-end developer working with React, SLC, UT
+- Alex Danila ([@alexdanila](https://github.com/alexdanila)), Developer, UK
