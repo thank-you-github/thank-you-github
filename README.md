@@ -1447,3 +1447,4 @@ Signed,
 - Olivia Lorimor ([@olorimor](https://github.com/olorimor)), Firmware Engineer
 - Francisco Nievas ([@frannievas](https://github.com/frannievas)), Computer Science Undergraduate at FaMAF, Córdoba, Argentina.
 - Michelle L. ([@michelleclim](https://github.com/michelleclim)), Software Developer, California, US
+- Drix Lopez ([@gabrielslach](https://github.com/gabrielslach)), student, Quezon City, Philippines
