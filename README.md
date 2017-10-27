@@ -1432,3 +1432,4 @@ Signed,
 - Dhwaneet Bhatt ([@dhwaneetbhatt](https://github.com/dhwaneetbhatt)), Software Engineer, Ahmedabad, India
 - Nestor Afantchao ([@nextybrown](https://github.com/nextybrown)), Android Developer, USA
 
+- Ayudh Hande ([@ayudhhande](https://github.com/ayudhhande)), Web Developer, India
