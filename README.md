@@ -1465,3 +1465,4 @@ Signed,
 - Jared Skinner ([@jared-skinner](https://github.com/jared-skinner)), Software Developer, Minnesota, US
 - Prashant Jain ([@prashantjain19](https://github.com/prashantjain19)), Developer
 - Satwik Relwani ([@devsatwik](https://github.com/devsatwik)), Front End Developer
+- Hitanshu Sahu ([@Phantom-Cluster](https://github.com/Phantom-Cluster)), GUI Designer, Data Analyst
