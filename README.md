@@ -1519,3 +1519,4 @@ Signed,
 - Mikkel Pedersen ([@MikkelP](https://github.com/MikkelP)), ICT Engineering Student, Denmark
 - Carlos Lima ([@kakamg0](https://github.com/kakamg0)), Full Stack Developer, Belo Horizonte, Brazil
 - Shubham Pandey ([@shubham9411](https://github.com/shubham9411)), Web Developer, Ranikhet, India
+- Tony Frost ([@Xiradorn](https://github.com/Xiradorn)), Web Designer/Trainer at [XiradornLab - xiradorn.it](http://xiradorn.it) & Networking Expert, Itri, Italy
