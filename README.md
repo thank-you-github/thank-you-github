@@ -112,6 +112,7 @@ Signed,
 - Victor Gama ([@victorgama](https://github.com/victorgama)), Software Engineer
 - Peter Lyons ([@focusaurus](https://github.com/focusaurus)), Developer
 - Shidhin C R ([@shidhincr](https://github.com/shidhincr)), FrontEnd Engineer
+- J. Alexander Curtis ([@jacurtis](https://github.com/jacurtis)), Developer Trainer at [DevMarketer](https://devmarketer.io)
 - Spiros Gerokostas ([@sger](https://github.com/sger)), Developer
 - John Kotz ([@jk47](https://github.com/jk47)), Developer
 - Herbert Shin ([@initbar](https://github.com/initbar)), a student who loves git and GitHub ღ˘⌣˘ღ
