@@ -1493,3 +1493,4 @@ Signed,
 - Somnath Rakshit ([@somnathrakhsit](https://github.com/somnathrakshit)), CS Senior year student at Jalpaiguri Government Engineering College
 - Chaitanya Bapat ([@ChaiBapchya](https://github.com/ChaiBapchya)), CS Masters at Georgia Tech
 - Abhishek Biswal ([@AbhishekBiswal](https://github.com/AbhishekBiswal)), Full Stack Developer
+- Ayush Arya ([@arya-ayush](https://github.com/arya-ayush)), Ruby on Rails core team member
