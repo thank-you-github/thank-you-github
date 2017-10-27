@@ -1457,3 +1457,4 @@ Signed,
 - Lennart Gustafsson ([@TrAnn3l](https://github.com/TrAnn3l)), Developer
 - Dmitry Shamrilo ([@shamrilods](https://github.com/shamrilods)), Frontend Developer, Yaroslavl, Russia
 - Caroline Rodrigues ([@loracsilva](https://github.com/loracsilva)), Software Developer
+- Benjamin SA ([@m6code](https://github.com/m6code)), Computer Science Undergraduate at ABU, Zaria, Nigeria.
