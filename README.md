@@ -19,6 +19,7 @@ GitHub, thank you very much.
 Signed,
 
 - Xavier Noria ([@fxn](https://github.com/fxn)), Ruby on Rails core team member
+- Somnath Rakshit ([@somnathrakhsit](https://github.com/somnathrakshit)), CS Senior year student at Jalpaiguri Government Engineering College
 - Sriram Ravichandran ([@digi0ps](https://github.com/digi0ps)), CS Freshman at VIT Chennai
 - Jose Diaz-Gonzalez ([@josegonzalez](https://github.com/josegonzalez)), CakePHP and Dokku core team member
 - Denis Savitskiy ([@sadfuzzy](https://github.com/sadfuzzy)), Ruby on Rails engineer at Source[Lab]
@@ -1450,21 +1451,3 @@ Signed,
 - Drix Lopez ([@gabrielslach](https://github.com/gabrielslach)), student, Quezon City, Philippines
 - Vasilis Sakkas ([@billsakkas](https://github.com/billsakkas)), Software Engineer - Data Analyst, Thessaloniki, Greece
 - Raven Daugherty ([@Raven34](https://github.com/Raven34)), CS Senior at SIUE
-- Juan Mejia ([@zjuan22](https://github.com/zjuan22)), Electronic and telecomunication eng, Campinas, Brazil
-- Sumit Ghosh  ([@sumitmckv](https://github.com/sumitmckv)), Software Engineer
-- Danny Alex Lachos Perez ([@dlachosper](https://github.com/dlachosper)), Researcher, University of Campinas
-- Jackie owen ([@jackie1969](https://github.com/jackie1969)), student, VIT university vellore, India
-- Lennart Gustafsson ([@TrAnn3l](https://github.com/TrAnn3l)), Developer
-- Dmitry Shamrilo ([@shamrilods](https://github.com/shamrilods)), Frontend Developer, Yaroslavl, Russia
-- Caroline Rodrigues ([@loracsilva](https://github.com/loracsilva)), Software Developer
-- Benjamin SA ([@m6code](https://github.com/m6code)), Computer Science Undergraduate at ABU, Zaria, Nigeria.
-- Ken Koch ([@kkoch986](https://github.com/kkoch986)), Software Engineer, North Carolina, US
-- Taylor Hudson ([@AllenCompSci](https://github.com/AllenCompSci)), High School CS Teacher, Developer - Allen, Texas
-- Nedu ([@nedu](https://github.com/nedu)), Full Stack Web Developer
-- Dhruv Ramani ([@dhruvramani](https://github.com/dhruvramani)), Undergrad at NITW, India
-- Jared Skinner ([@jared-skinner](https://github.com/jared-skinner)), Software Developer, Minnesota, US
-- Prashant Jain ([@prashantjain19](https://github.com/prashantjain19)), Developer
-- Satwik Relwani ([@devsatwik](https://github.com/devsatwik)), Front End Developer
-- Hitanshu Sahu ([@Phantom-Cluster](https://github.com/Phantom-Cluster)), GUI Designer, Data Analyst
-- Allan Mraes ([@mysqlbox](https://github.com/mysqlbox)), DBA MySQL - Sysadmin Linux - www.mysqlbox.com.br
-- Anubhab Sen ([@anubhabsen](https://github.com/anubhabsen)), CSE Undergraduate at IIIT-H
