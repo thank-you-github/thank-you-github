@@ -1487,3 +1487,4 @@ Signed,
 - J. Alexander Curtis ([@jacurtis](https://github.com/jacurtis)), Developer Trainer at [DevMarketer](https://devmarketer.io)
 - P S Narayanan ([@psnappz](https://github.com/psnappz)), Android Developer NeonSec
 - kunwar11 ([@kunwar11](https://github.com/kunwar11)), Developer
+- Dan Watkinson ([@danwatco](https://github.com/danwatco)), Student Developer
