@@ -1490,3 +1490,4 @@ Signed,
 - Dan Watkinson ([@danwatco](https://github.com/danwatco)), Student Developer
 - Dave Brener ([@davebrener](https://github.com/davebrener)), Front-End Developer
 - Aamnah Akram ([@aamnah](https://github.com/aamnah)), Web Developer, Lahore, Pakistan
+- Somnath Rakshit ([@somnathrakhsit](https://github.com/somnathrakshit)), CS Senior year student at Jalpaiguri Government Engineering College
