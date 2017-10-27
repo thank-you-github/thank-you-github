@@ -1488,3 +1488,4 @@ Signed,
 - P S Narayanan ([@psnappz](https://github.com/psnappz)), Android Developer NeonSec
 - kunwar11 ([@kunwar11](https://github.com/kunwar11)), Developer
 - Dan Watkinson ([@danwatco](https://github.com/danwatco)), Student Developer
+- Dave Brener ([@davebrener](https://github.com/davebrener)), Front-End Developer
