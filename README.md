@@ -1455,3 +1455,4 @@ Signed,
 - Danny Alex Lachos Perez ([@dlachosper](https://github.com/dlachosper)), Researcher, University of Campinas
 - Jackie owen ([@jackie1969](https://github.com/jackie1969)), student, VIT university vellore, India
 - Lennart Gustafsson ([@TrAnn3l](https://github.com/TrAnn3l)), Developer
+- Dmitry Shamrilo ([@shamrilods](https://github.com/shamrilods)), Frontend Developer, Yaroslavl, Russia
