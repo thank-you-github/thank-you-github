@@ -1507,3 +1507,4 @@ Signed,
 - Sokratis Fotkatzikis ([@sokratis12GR](https://github.com/sokratis12GR)), Software & TheDragonTeam's Mods Developer, Blagoevgrad, Bulgaria
 - Mehran Aghabozorgi ([@mehranagh20](https://github.com/mehranagh20)), Software Developer, Iran
 - Alexander Ozhigin ([@showmeyourhits](https://github.com/showmeyourhits)), Frontend Developer, Russia
+- Roberto Andres ([@robertoandres21](https://github.com/robertoandres21)), High School Student, Peru
