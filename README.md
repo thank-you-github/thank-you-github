@@ -1428,3 +1428,4 @@ Signed,
 - Mike Kokkolios ([@mikekok](https://github.com/mikekok)), Web Developer, Greece
 - Joshua Richardson ([@jrichocean](https://github.com/jrichocean) Software Developer, Utah
 - Oskari Pirhonen ([@xxc3nsoredxx](https://github.com/xxc3nsoredxx)), C/C++ Developer, Texas, US
+- Vasilis Sakkas ([@billsakkas](https://github.com/billsakkas)), Software Engineer - Data Analyst, Thessaloniki, Greece
