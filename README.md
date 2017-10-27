@@ -1450,3 +1450,4 @@ Signed,
 - Drix Lopez ([@gabrielslach](https://github.com/gabrielslach)), student, Quezon City, Philippines
 - Vasilis Sakkas ([@billsakkas](https://github.com/billsakkas)), Software Engineer - Data Analyst, Thessaloniki, Greece
 - Raven Daugherty ([@Raven34](https://github.com/Raven34)), CS Senior at SIUE
+- Benjamin SA ([@m6code](https://github.com/m6code)), Computer Science Undergraduate at ABU, Zaria, Nigeria.
