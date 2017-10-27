@@ -84,6 +84,7 @@ Signed,
 - Patricio Rojas ([@brujo696](https://github.com/brujo696)), Cofounder at irricrops.com
 - Raphael Amorim ([@raphamorim](https://github.com/raphamorim)), Software Developer
 - Juan Camilo Osorio ([@jcoc611](https://github.com/jcoc611)), Undergrad at the University of Toronto
+- Weston Cannon ([@KaliShark](https://github.com/KaliShark)), Undergrad at the California State University of Northridge
 - Kailan Blanks ([@kblanks](https://github.com/kblanks)), Developer
 - Ann Paul ([@annp89](https://github.com/annp89)), Engineer at Prism Skylabs
 - Leonardo Ruhland ([@leoruhland](https://github.com/leoruhland)), Developer
