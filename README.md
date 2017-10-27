@@ -1516,3 +1516,4 @@ Signed,
 - Cedric Segers ([@CedricSegers] (https://github.com/CedricSegers)), Computer Science student, Brussels, Belgium
 - Ariela Bawol ([@Ariela1127](https://github.com/Ariela1127)), Computer Science student, Newcastle, UK
 - Eric Tran ([@erctrn](https://github.com/erctrn)), CS Student, USA
+- Mikkel Pedersen ([@MikkelP](https://github.com/MikkelP)), ICT Engineering Student, Denmark
