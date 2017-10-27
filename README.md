@@ -1448,3 +1448,4 @@ Signed,
 - Francisco Nievas ([@frannievas](https://github.com/frannievas)), Computer Science Undergraduate at FaMAF, Córdoba, Argentina.
 - Michelle L. ([@michelleclim](https://github.com/michelleclim)), Software Developer, California, US
 - Drix Lopez ([@gabrielslach](https://github.com/gabrielslach)), student, Quezon City, Philippines
+- Vasilis Sakkas ([@billsakkas](https://github.com/billsakkas)), Software Engineer - Data Analyst, Thessaloniki, Greece
