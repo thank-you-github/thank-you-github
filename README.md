@@ -150,7 +150,7 @@ Signed,
 - Alexander Harchenko ([@morontt](https://github.com/morontt)), Developer
 - Luke Elliott ([@revlucio](https://github.com/revlucio)), Developer
 - Bruno Rocha ([@rochacbruno](https://github.com/rochacbruno)), Software Artist at [CathoLabs](http://catholabs.com/) & [Quokka CMS](http://quokkaproject.org)
-- Cris Mihalache ([@f3rno](http://f3rno.com)), Software Engineer
+- Cris Mihalache ([@f3rno](https://f3rno.com)), Software Engineer
 - Jim Slattery ([@jim-slattery-rs](https://github.com/jim-slattery-rs)), Developer
 - Edwin Cruz ([@softr8](https://github.com/softr8)), VP of Engineering at [MagmaLabs](http://www.magmalabs.io/)
 - Todd Qualls ([@tqheel](https://github.com/tqheel)), Software Developer
@@ -1416,4 +1416,16 @@ Signed,
 - Adriano Lemos ([@adriano-lemos-dev](https://github.com/adriano-lemos-dev)) ,Full Stack Web Developer , Brasília, Brasil
 - Kel O'Shaughnessy ([@kelvinosh](https://github.com/kelvinosh)) , Student , USA
 - Eshagh Moutabi ([@EsshaghMoutabi](https://github.com/EshaghMoutabi)) , Computer Engineer & Graphic Designer , Iran
-- Mehran Aghabozorgi ([@mehranAg](https://github.com/mehranagh20)), Software Developer, Iran
+- Mehran Aghabozorgi ([@mehranagh20](https://github.com/mehranagh20)), Software Developer, Iran
+- Marios Georgiou ([@MariosGeorgiou](https://github.com/MariosGeorgiou)), Developer, Cyprus
+- Pradeep Yarlagadda ([@agentcap](https://github.com/agentcap)), Computer Science Student, India
+- Thom Suijkerbuijk ([@thom145](https://github.com/thom145)) , Data Science student , The Netherlands
+- Harshvardhan Singh([@harshvardhansingh58](https://github.com/harshvardhansingh58)), Full Stack Developer, India
+- Trevor Harmon ([@tdharmon](https://github.com/tdharmon)), Developer & Designer, Provo, UT
+- Bhanu Bhandari ([@bhanu1911](https://github.com/bhanu1911)) Student, Developer, Data Scientist - IIIT Allahabad, India
+- Hadi Cahyadi ([@hadicahyadi](https://github.com/hadicahyadi)), Software Developer, Bandung, Indonesia
+- Liosfr ([@Liosfr](https://github.com/Liosfr)), Open Source Fanboy, Silicon Valley, California, United States of America, Western Hemisphere, Earth, Sol System, 0.5 Orion Arm (Inner Rim), Milky Way, Universe 616
+- Kashyap Raval ([@kashyap32](https://github.com/kashyap32)) ,Intern Python/ML developer , Gujarat, India
+- Mike Kokkolios ([@mikekok](https://github.com/mikekok)), Web Developer, Greece
+- Joshua Richardson ([@jrichocean](https://github.com/jrichocean) Software Developer, Utah
+- Oskari Pirhonen ([@xxc3nsoredxx](https://github.com/xxc3nsoredxx)), C/C++ Developer, Texas, US
