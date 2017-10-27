@@ -1513,3 +1513,4 @@ Signed,
 - Robert Valmassoi ([@valmassoi](https://github.com/valmassoi)), Front-end developer working with React, SLC, UT
 - Alex Danila ([@alexdanila](https://github.com/alexdanila)), Developer, UK
 - Daniel Lawrence ([@64Mega])(https://github.com/64Mega)), Freelance Developer, Velddrif, South Africa
+- Cedric Segers ([@CedricSegers] (https://github.com/CedricSegers)), Computer Science student, Brussels, Belgium
