@@ -1510,3 +1510,4 @@ Signed,
 - Roberto Andres ([@robertoandres21](https://github.com/robertoandres21)), High School Student, Peru
 - raghav sharma ([raghav008](https://github.com/raghav008)), JS Developer, India
 - Lorenzo Farinelli ([@lorenzofar](https://github.com/lorenzofar)), Information Engineering student, Milan, Italy
+- Shubham Pandey ([@shubham9411](https://github.com/shubham9411)), Web Developer, Ranikhet, India
