@@ -1476,3 +1476,4 @@ Signed,
 -Divyansh Gautum ([@bhaibhaibhai](https://github.com/bhaibhaibhai)),Developer
 - Niloy ([@Front3ndNinja](https://github.com/Front3ndNinja)), Front End Developer
 - Alex Johnson ([@Eggbongo](https://github.com/Eggbongo)), Developer, Minneapolis, MN
+- Faizal Hasanwala ([@faizal3199](https://github.com/faizal3199)), Computer Science sophomore at IIT Roorkee
