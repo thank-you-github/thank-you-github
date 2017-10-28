@@ -1587,3 +1587,4 @@ Signed,
 - Bian Archer ([@everwondeer](https://github.com/everwondeer)), Design Knight DOT team member
 - Jack J ([@twiflox](https://github.com/twiflox)), Arduino enthusiast, Scotland
 - Francieli Lima ([@fr-al](https://github.com/fr-al)), Android dev, Brazil
+- Karina Kozarova  ([@karinakozarova](https://github.com/karinakozarova)), Software Engineer
