@@ -1525,3 +1525,4 @@ Signed,
 - Atakan Goktepe ([@atakangktepe](https://github.com/atakangktepe)), Software Developer at Tusla, Istanbul, Turkey
 - Tony Frost ([@Xiradorn](https://github.com/Xiradorn)), Web Designer/Trainer at [XiradornLab - xiradorn.it](http://xiradorn.it) & Networking Expert, Itri, Italy
 - Connor Newman ([@connewm](https://github.com/connewm)), Computer and Information Science, undergrad)
+- Ojas Pitre ([@ojas360](https://github.com/ojas360)), Software developer - India
