@@ -1564,3 +1564,4 @@ Signed,
 - Siddharth Jain ([@sidjee](https://github.com/sidjee)), Student, IIT Roorkee, India
 - Ceferino V. ([@whathejoe](https://github.com/whathejoe)), Javascript Developer, Makati, Philippines
 - Jitendra Kumar Tripathi ([@callowidealist](https://github.com/callowidealist)), Developer ,Hyderabad,India
+- Nikita Petrov ([@petrovnr](https://github.com/petrovnr)), Computer Science Student, Web Dev, Russia, Moscow
