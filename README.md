@@ -1559,3 +1559,4 @@ Signed,
 - Thomas Kuntz ([@thomaskuntzz](https://github.com/thomaskuntzz)), High School Student, Grenoble, France
 - Saurabh Daalia ([@saurabhdaalia](https://github.com/saurabhdaalia)), Computer Science Undergraduate, India
 - Julian Rapp ([@julianwue](https://github.com/julianwue)), UX Designer & Developer, Germany
+- Spyros Ioakeimidis ([@spirosikmd](https://github.com/spirosikmd/)), Software Engineer, Amsterdam, The Netherlands
