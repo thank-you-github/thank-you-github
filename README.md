@@ -1580,3 +1580,4 @@ Signed,
 - Jean Manzo ([@jmanzo](https://github.com/jmanzo)), Freelance Fullstack & Wordpress Developer
 - Moneesh Shashank ([@moneesh12](https://github.com/moneesh12)), Computer Science Student, India
 - Kai Oswald ([@kai-oswald](https://github.com/kai-oswald)), Developer
+- Alan Hardman ([@Alanaktion](https://github.com/alanaktion)), Software Developer
