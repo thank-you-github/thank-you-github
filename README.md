@@ -1547,3 +1547,4 @@ Signed,
 - Kustiawanto Halim ([@kuwali](https://github.com/kuwali)), Student, Indonesia
 - Hasnain Yousuf ([@codvlpr](https://github.com/codvlpr)), Web Dev, Pakistan
 - Rohit Pandey ([@masterdungeon](https://github.com/masterdungeon)), Computer Science Student,Dwarahat
+- Archit Kaushik ([@architkshk](https://github.com/architkshk)), Student Web Dev, India
