@@ -1546,3 +1546,4 @@ Signed,
 - Inzimam ([@inhaq](https://github.com/inhaq)), JavaScript Dev, Pakistan
 - Kustiawanto Halim ([@kuwali](https://github.com/kuwali)), Student, Indonesia
 - Hasnain Yousuf ([@codvlpr](https://github.com/codvlpr)), Web Dev, Pakistan
+- Armand Fardeau ([@armandfardeau](https://github.com/armandfardeau)), Web Dev & Product manager, France
