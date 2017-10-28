@@ -1554,3 +1554,4 @@ Signed,
 - Kartik Khandelwal ([@kartikkh](https://github.com/kartikkh)), Full Stack Developer, Bangalore, India
 - Brandon Diaz-Abreu ([@fullstackman](https://github.com/fullstackman)), Full Stack Web Developer, NJ, USA
 - Alexander Fyrdahl ([@fyrdahl](https://github.com/fyrdahl)), Physicist, Stockholm, Sweden
+- Daniel alias Sawyer ([@Sawyer13](https://github.com/Sawyer13)), Espesiah, Madrid, España
