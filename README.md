@@ -1551,4 +1551,4 @@ Signed,
 - Armand Fardeau ([@armandfardeau](https://github.com/armandfardeau)), Web Dev & Product manager, France
 - Udit Mishra ([@MishraUdit](https://github.com/MishraUdit)), Developer, India
 - Rohan Kumar ([@codemasters23](https://github.com/codemasters23)), Web Dev, India
-- Kartik Khandelwal ([@kartikkh](https://github.com/kartikkh)), Full Stack Developer, Bangalore, India
+- Kartik Khandelwal ([@kartikkh](https://github.com/kartikkh)), Full Stack Developer, Bangalore, India- Sanjay Johny ([@san45](https://github.com/san45)), Software Engineer, Bangalore, India
