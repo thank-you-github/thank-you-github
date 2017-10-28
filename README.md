@@ -1563,3 +1563,4 @@ Signed,
 - Nick Tishchenko ([@tishchenkonick](https://github.com/tishchenkonick)), Software Engineer, RU
 - Siddharth Jain ([@sidjee](https://github.com/sidjee)), Student, IIT Roorkee, India
 - Ceferino V. ([@whathejoe](https://github.com/whathejoe)), Javascript Developer, Makati, Philippines
+- Jitendra Kumar Tripathi ([@callowidealist](https://github.com/callowidealist)), Developer ,Hyderabad,India
