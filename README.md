@@ -1574,3 +1574,4 @@ Signed,
 - Monika Kumari ([@MONIKA2013IGDTU](https://github.com/MONIKA2013IGDTU)), Web Developer,India
 - Karim Vergnes ([@thesola10](https://github.com/thesola10)), Student, France, Bordeaux
 - Vinod Selvin ([@vinodselvin](https://github.com/vinodselvin)), Full-Stack Developer, Mumbai, India
+- Nikhil Arora ([@iamoperand](https://github.com/iamoperand)), Computer Science Student, Web Developer, New Delhi, India
