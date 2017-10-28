@@ -1582,3 +1582,4 @@ Signed,
 - Kai Oswald ([@kai-oswald](https://github.com/kai-oswald)), Developer
 - Alan Hardman ([@Alanaktion](https://github.com/alanaktion)), Software Developer
 - Randy D. Binondo ([@binondord](https://github.com/binondord)), Senior Web Developer
+- Nitish Kumar ([@nitish14kumr](https://github.com/nitish14kumr)), Student, Developer
