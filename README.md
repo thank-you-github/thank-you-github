@@ -1576,3 +1576,4 @@ Signed,
 - Vinod Selvin ([@vinodselvin](https://github.com/vinodselvin)), Full-Stack Developer, Mumbai, India
 - Nikhil Arora ([@iamoperand](https://github.com/iamoperand)), Computer Science Student, Web Developer, New Delhi, India
 - Elijah Kleinsmith ([@elijahio](https://github.com/elijahio)), Web Developer, Kansas, USA
+- Paritosh Baghel ([@paritoshmmmec](https://github.com/paritoshmmmec)),  Software Engineer, VitusVet
