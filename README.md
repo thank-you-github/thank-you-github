@@ -1584,3 +1584,4 @@ Signed,
 - Nitish Kumar ([@nitish14kumr](https://github.com/nitish14kumr)), Student, Developer
 - Sanjay Johny ([@san45](https://github.com/san45)), Software Engineer, Bangalore, India
 - Kateryna Makarova ([@kateinua](https://github.com/kateinua)), CS student, Ukraine
+- Bian Archer ([@everwondeer](https://github.com/everwondeer)), Design Knight DOT team member
