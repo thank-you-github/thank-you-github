@@ -1579,3 +1579,4 @@ Signed,
 - Paritosh Baghel ([@paritoshmmmec](https://github.com/paritoshmmmec)),  Software Engineer, VitusVet
 - Jean Manzo ([@jmanzo](https://github.com/jmanzo)), Freelance Fullstack & Wordpress Developer
 - Moneesh Shashank ([@moneesh12](https://github.com/moneesh12)), Computer Science Student, India
+- Kai Oswald ([@kai-oswald](https://github.com/kai-oswald)), Developer
