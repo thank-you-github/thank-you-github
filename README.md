@@ -886,7 +886,7 @@ Signed,
 - Naqushab Neyazee ([@naqushab](https://github.com/naqushab)), Software Engineer, India
 - Alexander Fefelov ([@alexanderfefelov](https://github.com/alexanderfefelov)), Software Engineer
 - Christoph Kluge ([@christoph-kluge](https://github.com/christoph-kluge)), Berlin, Germany
-- Tristan Wiley ([@TristanWiley](https://github.com/TristanWiley)), [Full Stack Developer](http://tristanwiley.com/), I <3 you GitHub
+- Tristan Wiley ([@TristanWiley](https://github.com/TristanWiley)), [Full Stack Developer](http://tristanwiley.com/), <I <3 you GitHub>
 - Adam Neilson ([@adamneilson](https://github.com/adamneilson)), CTO at [Wefarm](https://wefarm.org)
 - Kyle Maune ([@splashinn](https://github.com/splashinn)), Full Stack Developer, Phoenix, Arizona
 - Heman Gandhi ([@hemangandhi](https://github.com/hemangandhi)), CS and Math student, New Jersey, USA.
@@ -1566,3 +1566,4 @@ Signed,
 - Jitendra Kumar Tripathi ([@callowidealist](https://github.com/callowidealist)), Developer ,Hyderabad,India
 - Nikita Petrov ([@petrovnr](https://github.com/petrovnr)), Computer Science Student, Web Dev, Russia, Moscow
 - Ilya Piatrenka ([@odisei369](https://github.com/odisei369)), Web Developer
+- Shaily ([@Shaily20](https://github.com/Shaily20)), Information Technology Undergraduate, New Delhi, India
