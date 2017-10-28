@@ -1548,3 +1548,4 @@ Signed,
 - Hasnain Yousuf ([@codvlpr](https://github.com/codvlpr)), Web Dev, Pakistan
 - Rohit Pandey ([@masterdungeon](https://github.com/masterdungeon)), Computer Science Student,Dwarahat
 - Archit Kaushik ([@architkshk](https://github.com/architkshk)), Student Web Dev, India
+- Armand Fardeau ([@armandfardeau](https://github.com/armandfardeau)), Web Dev & Product manager, France
