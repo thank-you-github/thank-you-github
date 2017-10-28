@@ -1512,8 +1512,8 @@ Signed,
 - Lorenzo Farinelli ([@lorenzofar](https://github.com/lorenzofar)), Information Engineering student, Milan, Italy
 - Robert Valmassoi ([@valmassoi](https://github.com/valmassoi)), Front-end developer working with React, SLC, UT
 - Alex Danila ([@alexdanila](https://github.com/alexdanila)), Developer, UK
-- Daniel Lawrence ([@64Mega])(https://github.com/64Mega)), Freelance Developer, Velddrif, South Africa
-- Cedric Segers ([@CedricSegers] (https://github.com/CedricSegers)), Computer Science student, Brussels, Belgium
+- Daniel Lawrence ([@64Mega](https://github.com/64Mega)), Freelance Developer, Velddrif, South Africa
+- Cedric Segers ([@CedricSegers](https://github.com/CedricSegers)), Computer Science student, Brussels, Belgium
 - Ariela Bawol ([@Ariela1127](https://github.com/Ariela1127)), Computer Science student, Newcastle, UK
 - Eric Tran ([@erctrn](https://github.com/erctrn)), CS Student, USA
 - Mikkel Pedersen ([@MikkelP](https://github.com/MikkelP)), ICT Engineering Student, Denmark
