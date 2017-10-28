@@ -1533,3 +1533,4 @@ Signed,
 - Andrew Pope ([@arosspope](https://github.com/arosspope)), Computer Systems Engineer, undergrad)
 - Nirmal Kumar ([@nirmalks](https://github.com/nirmalks)), Web Developer , India
 - Kaushal Pandey ([@kaushal196](https://github.com/Kaushal196)), Web Developer, Dwarahat, India
+- Ball Surasit ([@ballsurasit](https://github.com/ballsurasit)), Computer Science, Chiang Mai University, Thailand)
