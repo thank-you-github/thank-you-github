@@ -1538,3 +1538,4 @@ Signed,
 - Gaurav Sehgal ([@dggs123](https://github.com/dggs123)), Full Stack Developer, India)
 - Alysssa ([@rageunleashed69](https://github.com/rageunleashed69)), Head Dev, Science Major[Lab]
 - Adrian Ching ([@adrianchinghc](https://github.com/adrianchinghc)), Co-founder at [Upstack Studio](https://upstackstudio.com), Kuala Lumpur, Malaysia
+- Nirmal Rijal ([@nirmalrizal53](https://github.com/nirmalrizal53)), Computer Science Student, Kathmandu, Nepal
