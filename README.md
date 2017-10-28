@@ -1528,7 +1528,6 @@ Signed,
 - TERMINATOR([@TERM1N80R])(https://github.com/TERM1N80R)), Student at Github Classroom
 - Ojas Pitre ([@ojas360](https://github.com/ojas360)), Software developer - India
 - Joseph Iwok ([@richwednesday](https://github.com/richwednesday)), Back End Developer, Lagos, Nigeria
-
 - Harsh Chauhan ([@developerharsh](https://github.com/developerharsh)), Student Developer
 - Andrew Pope ([@arosspope](https://github.com/arosspope)), Computer Systems Engineer, undergrad)
 - Nirmal Kumar ([@nirmalks](https://github.com/nirmalks)), Web Developer , India
