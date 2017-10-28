@@ -1555,3 +1555,4 @@ Signed,
 - Brandon Diaz-Abreu ([@fullstackman](https://github.com/fullstackman)), Full Stack Web Developer, NJ, USA
 - Alexander Fyrdahl ([@fyrdahl](https://github.com/fyrdahl)), Physicist, Stockholm, Sweden
 - Daniel alias Sawyer ([@Sawyer13](https://github.com/Sawyer13)), Espesiah, Madrid, España
+- Sophus Stein George ([@sstein98](https://github.com/sstein98)) , wed developer , kerala ,India
