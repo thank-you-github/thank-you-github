@@ -1552,3 +1552,4 @@ Signed,
 - Udit Mishra ([@MishraUdit](https://github.com/MishraUdit)), Developer, India
 - Rohan Kumar ([@codemasters23](https://github.com/codemasters23)), Web Dev, India
 - Kartik Khandelwal ([@kartikkh](https://github.com/kartikkh)), Full Stack Developer, Bangalore, India
+- Paavini Nanda ([@Paavini](https://github.com/paavininanda)), Web and Android Developer, Delhi, India
