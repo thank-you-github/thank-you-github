@@ -1578,3 +1578,4 @@ Signed,
 - Elijah Kleinsmith ([@elijahio](https://github.com/elijahio)), Web Developer, Kansas, USA
 - Paritosh Baghel ([@paritoshmmmec](https://github.com/paritoshmmmec)),  Software Engineer, VitusVet
 - Jean Manzo ([@jmanzo](https://github.com/jmanzo)), Freelance Fullstack & Wordpress Developer
+- Moneesh Shashank ([@moneesh12](https://github.com/moneesh12)), Computer Science Student, India
