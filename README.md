@@ -1566,3 +1566,4 @@ Signed,
 - Jitendra Kumar Tripathi ([@callowidealist](https://github.com/callowidealist)), Developer ,Hyderabad,India
 - Nikita Petrov ([@petrovnr](https://github.com/petrovnr)), Computer Science Student, Web Dev, Russia, Moscow
 - Ilya Piatrenka ([@odisei369](https://github.com/odisei369)), Web Developer
+- Jean Manzo ([@jmanzo](https://github.com/jmanzo)), Freelance Fullstack & Wordpress Developer
