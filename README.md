@@ -1545,3 +1545,4 @@ Signed,
 - Dollu ([@dollu1](https://github.com/dollu1)), Web Developer
 - Inzimam ([@inhaq](https://github.com/inhaq)), JavaScript Dev, Pakistan
 - Kustiawanto Halim ([@kuwali](https://github.com/kuwali)), Student, Indonesia
+- Hasnain Yousuf ([@codvlpr](https://github.com/codvlpr)), Web Dev, Pakistan
