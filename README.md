@@ -1582,3 +1582,4 @@ Signed,
 - Kai Oswald ([@kai-oswald](https://github.com/kai-oswald)), Developer
 - Alan Hardman ([@Alanaktion](https://github.com/alanaktion)), Software Developer
 - Randy D. Binondo ([@binondord](https://github.com/binondord)), Senior Web Developer
+- Karina Kozarova  ([@karinakozarova](https://github.com/karinakozarova)), Software Engineer
