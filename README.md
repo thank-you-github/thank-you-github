@@ -1565,3 +1565,4 @@ Signed,
 - Ceferino V. ([@whathejoe](https://github.com/whathejoe)), Javascript Developer, Makati, Philippines
 - Jitendra Kumar Tripathi ([@callowidealist](https://github.com/callowidealist)), Developer ,Hyderabad,India
 - Nikita Petrov ([@petrovnr](https://github.com/petrovnr)), Computer Science Student, Web Dev, Russia, Moscow
+- Ilya Piatrenka ([@odisei369](https://github.com/odisei369)), Web Developer
