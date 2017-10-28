@@ -1,4 +1,4 @@
-Dear GitHub,
+﻿Dear GitHub,
 
 Before 2007, the way to participate in Open Source was fragmented. Each project
 had their own workflow, patches circulated in emails, issues were reported in
@@ -1552,3 +1552,4 @@ Signed,
 - Udit Mishra ([@MishraUdit](https://github.com/MishraUdit)), Developer, India
 - Rohan Kumar ([@codemasters23](https://github.com/codemasters23)), Web Dev, India
 - Kartik Khandelwal ([@kartikkh](https://github.com/kartikkh)), Full Stack Developer, Bangalore, India
+- Kateryna Makarova ([@kateinua](https://github.com/kateinua)), CS student, Ukraine
