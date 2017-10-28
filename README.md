@@ -1530,3 +1530,4 @@ Signed,
 - Joseph Iwok ([@richwednesday](https://github.com/richwednesday)), Back End Developer, Lagos, Nigeria
 
 - Harsh Chauhan ([@developerharsh](https://github.com/developerharsh)), Student Developer
+- Andrew Pope ([@arosspope](https://github.com/arosspope)), Computer Systems Engineer, undergrad)
