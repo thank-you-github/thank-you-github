@@ -1561,3 +1561,4 @@ Signed,
 - Julian Rapp ([@julianwue](https://github.com/julianwue)), UX Designer & Developer, Germany
 - Spyros Ioakeimidis ([@spirosikmd](https://github.com/spirosikmd/)), Software Engineer, Amsterdam, The Netherlands
 - Nick Tishchenko ([@tishchenkonick](https://github.com/tishchenkonick)), Software Engineer, RU
+- Siddharth Jain ([@sidjee](https://github.com/sidjee)), Student, IIT Roorkee, India
