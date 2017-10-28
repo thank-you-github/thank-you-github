@@ -243,6 +243,7 @@ Signed,
 - Ashhar Hasan ([@hashhar](https://github.com/hashhar)), Student
 - Nicholas Chum ([@nicholaschum](https://github.com/nicholaschum)), Android Themer and App Developer
 - Alessio Felicioni ([@afelicioni](https://github.com/afelicioni)), Developer & IT Operations, formerly CTO @ [WebDesignProduction](http://www.wdpro.it/), [Lavorint](http://www.lavorint.it/) and [cerca.com](http://www.cerca.com/)
+- Udit Mishra ([@MishraUdit](https://github.com/MishraUdit)), Developer, India
 - Anggiajuang Patria ([@anggiaj](https://github.com/anggiaj)), Software Developer
 - Theo Armour ([@theo-armour](https://github.com/theo-armour)), Developer
 - Asindu Drileba ([@as1ndu](https://github.com/as1ndu)), Programusician Scientist :D
