@@ -1590,3 +1590,4 @@ Signed,
 - Karina Kozarova  ([@karinakozarova](https://github.com/karinakozarova)), Software Engineer
 - Shaily ([@Shaily20](https://github.com/Shaily20)), Information Technology Undergraduate, New Delhi, India
 - Danil Shankovskiy ([@BeAsYit](https://github.com/BeAsYit)), CS Student, Ukraine
+- Rupesh Harode ([@firedranzer](https://github.com/firedranzer)), Student, Software Developer, Indore, India
