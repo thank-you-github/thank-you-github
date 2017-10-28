@@ -1536,3 +1536,4 @@ Signed,
 - Ball Surasit ([@ballsurasit](https://github.com/ballsurasit)), Computer Science, Chiang Mai University, Thailand)
 - HeruRa ([@HeruRa](https://github.com/herura)),Beginner
 - Gaurav Sehgal ([@dggs123](https://github.com/dggs123)), Full Stack Developer, India)
+- Alysssa ([@rageunleashed69](https://github.com/rageunleashed69)), Head Dev, Science Major[Lab]
