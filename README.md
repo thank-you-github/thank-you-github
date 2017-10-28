@@ -1541,3 +1541,4 @@ Signed,
 - Nirmal Rijal ([@nirmalrizal53](https://github.com/nirmalrizal53)), Computer Science Student, Kathmandu, Nepal
 - Juan Miguel Expósito ([@jmexio](https://github.com/jmexio)), Web Developer, Argentina)
 - Yash Mathur ([@Scarface05](https://github.com/Scarface05)), Computer Science Undergrad)
+- Paul Russavage ([@russav](https://github.com/russav)), Student at BYU, Provo, UT
