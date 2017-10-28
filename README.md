@@ -1567,3 +1567,4 @@ Signed,
 - Nikita Petrov ([@petrovnr](https://github.com/petrovnr)), Computer Science Student, Web Dev, Russia, Moscow
 - Ilya Piatrenka ([@odisei369](https://github.com/odisei369)), Web Developer
 - Tucker Chapman ([@tuckerrc](https://github.com/tuckerrc)), Software Developer
+- Nutjane ([@nutjane](https://github.com/nutjane)), Developer
