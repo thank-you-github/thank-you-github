@@ -1560,3 +1560,4 @@ Signed,
 - Saurabh Daalia ([@saurabhdaalia](https://github.com/saurabhdaalia)), Computer Science Undergraduate, India
 - Julian Rapp ([@julianwue](https://github.com/julianwue)), UX Designer & Developer, Germany
 - Spyros Ioakeimidis ([@spirosikmd](https://github.com/spirosikmd/)), Software Engineer, Amsterdam, The Netherlands
+- Nick Tishchenko ([@tishchenkonick](https://github.com/tishchenkonick)), Software Engineer, RU
