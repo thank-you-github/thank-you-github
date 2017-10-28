@@ -1529,3 +1529,4 @@ Signed,
 - Ojas Pitre ([@ojas360](https://github.com/ojas360)), Software developer - India
 - Joseph Iwok ([@richwednesday](https://github.com/richwednesday)), Back End Developer, Lagos, Nigeria
 
+- Harsh Chauhan ([@developerharsh](https://github.com/developerharsh)), Student Developer
