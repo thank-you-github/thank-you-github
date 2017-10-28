@@ -1583,6 +1583,7 @@ Signed,
 - Randy D. Binondo ([@binondord](https://github.com/binondord)), Senior Web Developer
 - Nitish Kumar ([@nitish14kumr](https://github.com/nitish14kumr)), Student, Developer
 - Sanjay Johny ([@san45](https://github.com/san45)), Software Engineer, Bangalore, India
+- Piana Loris ([@PianaLoris](https://github.com/PianaLoris)), Student, Developer
 - Kateryna Makarova ([@kateinua](https://github.com/kateinua)), CS student, Ukraine
 - Bian Archer ([@everwondeer](https://github.com/everwondeer)), Design Knight DOT team member
 - Jack J ([@twiflox](https://github.com/twiflox)), Arduino enthusiast, Scotland
