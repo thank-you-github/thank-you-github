@@ -1525,3 +1525,4 @@ Signed,
 - Atakan Goktepe ([@atakangktepe](https://github.com/atakangktepe)), Software Developer at Tusla, Istanbul, Turkey
 - Tony Frost ([@Xiradorn](https://github.com/Xiradorn)), Web Designer/Trainer at [XiradornLab - xiradorn.it](http://xiradorn.it) & Networking Expert, Itri, Italy
 - Connor Newman ([@connewm](https://github.com/connewm)), Computer and Information Science, undergrad)
+- Adrian Ching ([@adrianchinghc](https://github.com/adrianchinghc)), Co-founder at [Upstack Studio](https://upstackstudio.com), Kuala Lumpur, Malaysia
