@@ -1431,7 +1431,6 @@ Signed,
 - Aayush Arora ([@aayusharora](https://github.com/aayusharora)), Full Stack Developer, New Delhi, India
 - Dhwaneet Bhatt ([@dhwaneetbhatt](https://github.com/dhwaneetbhatt)), Software Engineer, Ahmedabad, India
 - Nestor Afantchao ([@nextybrown](https://github.com/nextybrown)), Android Developer, USA
-
 - Ayudh Hande ([@ayudhhande](https://github.com/ayudhhande)), Web Developer, India
 - Braydon Wakefield ([@BraydonWF](https://github.com/BraydonWF)), Py/C++ Student
 - John Doe ([@AllureQuartz](https://github.com/AllureQuartz)), Malware Analyst
