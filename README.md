@@ -1663,3 +1663,4 @@ Signed,
 - Bharat Saraswat ([@bhansa](https://github.com/bhansa)), Full-stack Developer
 - Vaibhav Bansal ([@vaibhav138](https://github.com/vaibhav138)),Student,IT
 - AashutoshAgrawal ([@AashutoshAgrawal](https://github.com/AashutoshAgrawal)), Student , IIT Guwahati, India
+- Raja Bhatia ([@raja](https://github.com/raja)), Founder at [The Hiring Company](https://www.thehiring.co/)
