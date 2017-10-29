@@ -1629,3 +1629,4 @@ Signed,
 - Melissa Chan ([@Chanme1](https://github.com/Chanme1)), CS Student, Developer, Cyber Security
 - fredy taufik ([@zet99](https://github.com/zet99)), Developer, Central Java, Indonesia
 - Piyapol Raengtip ([@OwlFlyFine](https://github.com/OwlFlyFine)), Developer, Mobile & Web Designer
+- Nathan Nash ([@player2point0](https://github.com/player2point0)), Student, Uk
