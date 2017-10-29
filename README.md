@@ -1472,13 +1472,13 @@ Signed,
 - Giridhar Avinash ([@giridharavinash](https://github.com/giridharavinash)), CSE student, India
 - Khong Chanon ([@PlasmaTonmai](https://github.com/PlasmaTonmai)),Undergrad Hardware Enginee, KMUTT, Thailand
 - Oleg Guzei ([@oguzey-cv](https://github.com/oguzey-cv)), Embedded Software Developer, Ukraine
--Divyansh Gautum ([@bhaibhaibhai](https://github.com/bhaibhaibhai)),Developer
+- Divyansh Gautum ([@bhaibhaibhai](https://github.com/bhaibhaibhai)),Developer
 - Niloy ([@Front3ndNinja](https://github.com/Front3ndNinja)), Front End Developer
 - Alex Johnson ([@Eggbongo](https://github.com/Eggbongo)), Developer, Minneapolis, MN
 - Faizal Hasanwala ([@faizal3199](https://github.com/faizal3199)), Computer Science sophomore at IIT Roorkee
 - Yahnit ([@Yahnit](https://github.com/Yahnit)), CSE Undergraduate at IIIT-H
 - Prasanna Joshi ([@joship89](https://github.com/joship89)) , Data Scientist , USA
--Aurobindo mishra ([@auro2677](https://github.com/auro2677)), cse undergraduate at SUIIT
+- Aurobindo mishra ([@auro2677](https://github.com/auro2677)), cse undergraduate at SUIIT
 - Cristina Cosoroabă ([@cris-cos](https://github.com/cris-cos)), Aspiring Android developer
 - Mauricio Rodrigues ([@zabaala](https://github.com/zabaala)), CTO Ooppah.com, Brazil
 - Jack Sodeman ([@TICG](https://github.com/TICG)), Web Developer, and Computer Science Major.
