@@ -1637,3 +1637,4 @@ Signed,
 - Vera Nikitinskaya ([@nikitinskaya](https://github.com/nikitinskaya)), Web Developer, Saint Petersburg, Russia
 - Ela Novita ([@ElaNovita](https://github.com/ElaNovita)), Developer, Mataram, Indonesia
 - Nathan Nash ([@player2point0](https://github.com/player2point0)), Student, Uk
+- Rick Arendt ([@Arendt](https://github.com/Arendt)), CS Student, Germany
