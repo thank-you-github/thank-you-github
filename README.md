@@ -1667,3 +1667,4 @@ Signed,
 - Ronit Maitra ([@zon2](https://github.com/zon2)),Student,JGEC,CSE
 - Ferry Irawan ([@ferrwan](https://github.com/ferrwan)), Student, Front End Developer, Indonesia
 - Aaron Baker ([@a-baker](https://github.com/a-baker)), Front End Developer
+- Sam Hunter ([@kinson](https://github.com/kinson)), Developer [@robin](https://autopilot.tryrobin.com), [@dialexa](https://dialexa.com)
