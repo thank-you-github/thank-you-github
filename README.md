@@ -1674,3 +1674,4 @@ Signed,
 - Aboobacker MK ([@redtachyons](https://github.com/redtachyons)), Software Engineer at @redpanthers
 - Daniel Gardner ([@danielmarcgardner](https://github.com/danielmarcgardner)), Full Stack Developer
 - Isabel Lima ([@iillx] (https://github.com/iillx)), iOS Developer and Information Systems Undergraduate, Brazil
+- Anthony Ng ([@newyork-anthonyng](https://github.com/newyork-anthonyng)), Front End Developer @Expedia
