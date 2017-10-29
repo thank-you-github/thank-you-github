@@ -1620,3 +1620,4 @@ Signed,
 - Liam Le ([@liamle](https://github.com/liamle)), Software Engineer, Web Developer, Java Developer
 - Paavini Nanda ([@paavininanda](https://github.com/paavininanda)), Web and Android Developer, Delhi, India
 - Himanshu Gupta ([@himanshu6980](https://github.com/himanshu6980)),IT graduate,India
+- Daniel Lim([@NYDanielLim](https://github.com/NYDanielLim)), Computer Engineer
