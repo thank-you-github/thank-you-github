@@ -1662,3 +1662,4 @@ Signed,
 -Kawal Preet Kaur ([@kawal2266](https://github.com/kawal2266)), Information Technology Undergraduate, New Delhi, India
 - Bharat Saraswat ([@bhansa](https://github.com/bhansa)), Full-stack Developer
 - Vaibhav Bansal ([@vaibhav138](https://github.com/vaibhav138)),Student,IT
+- Ronit Maitra ([zon2](https://github.com/zon2)),Student,JGEC,CSE
