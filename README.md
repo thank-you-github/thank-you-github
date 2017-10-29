@@ -1606,3 +1606,4 @@ Signed,
 - Andy Mina ([@andymina](https://github.com/andymina)) Software Engineer, New York City
 - Anjana Supun ([@xlight05](https://github.com/xlight05)), JS developer, Sri lanka
 - Soubhik Rakshit ([@soubh1k](https://github.com/soubh1k)), CS Student, India
+- Zakharov Sergey ([@Zakhse](https://github.com/Zakhse)), Web Developer & HSE Student, Moscow, Russia
