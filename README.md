@@ -1598,3 +1598,4 @@ Signed,
 - Saurabh ([@sarkysaurabh](https://github.com/sarkysaurabh)), IT Student, India
 - Nirosha Jayasundara ([@niroshajayasundara](https://github.com/niroshajayasundara)), BEng SE Undergraduate (IIT) , Sri Lanka
 - Amritanshu Singh ([@samritanshu](https://github.com/samritanshu)),iOS Developer,Bangalore , India
+- Niks Arora ([@nikhilatmaple](https://github.com/nikhilatmaple)), Web Developer, New Delhi, India
