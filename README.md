@@ -1672,3 +1672,4 @@ Signed,
 - Sam Hunter ([@kinson](https://github.com/kinson)), Developer [@robin](https://autopilot.tryrobin.com), [@dialexa](https://dialexa.com)
 -Kawal Preet Kaur ([@kawal2266](https://github.com/kawal2266)), Information Technology Undergraduate, New Delhi, India
 - Aboobacker MK ([@redtachyons](https://github.com/redtachyons)), Software Engineer at @redpanthers
+- Daniel Gardner ([@danielmarcgardner](https://github.com/danielmarcgardner)), Full Stack Developer
