@@ -1609,3 +1609,5 @@ Signed,
 - Zakharov Sergey ([@Zakhse](https://github.com/Zakhse)), Web Developer & HSE Student, Moscow, Russia
 - Pui Lam Cheng ([@pc592](https://github.com/pc592)), Student @ Cornell University
 - Esau Silva ([@esausilva](https://github.com/esausilva)), Software Engineer
+- Dede Hamzah ([@dehamzah](https://github.com/dehamzah)), Fullstack Developer, Indonesia
+
