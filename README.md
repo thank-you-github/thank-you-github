@@ -1680,3 +1680,4 @@ Signed,
 - Eric Hartline ([@wildlifehexagon](https://github.com/wildlifehexagon)), Web Developer
 - Boaz Berman ([@boazberman](https://github.com/boazberman)), Full Stack Developer, Israel
 - Mitansha Agrawal ([@mitansha] (https://github.com/mitansha)), competitive programmer
+- Nate Young ([@nate-io](https://github.com/nate-io)), Web Developer
