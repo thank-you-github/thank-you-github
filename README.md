@@ -1592,3 +1592,4 @@ Signed,
 - Danil Shankovskiy ([@BeAsYit](https://github.com/BeAsYit)), CS Student, Ukraine
 - Srinadhu Preetham ([@srinadhupreetham](https://github.com/srinadhupreetham)), CSE Student,India
 - Thomas Breuss ([@tbreuss](https://github.com/tbreuss)), Software Developer, Switzerland
+- Aaron Horler ([@aghorler](https://github.com/aghorler)), Student, RMIT University, Melbourne, Australia
