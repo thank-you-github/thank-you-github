@@ -1613,3 +1613,4 @@ Signed,
 
 - Al Zverev ([@alwye](https://github.com/alwye)), Software Engineer at Cisco, UK
 - Dibya Prakash Das ([@dibyadas](https://github.com/dibyadas)), Mathematics and Computing Student, India
+- Piana Loris ([@PianaLoris](https://github.com/PianaLoris)), Student, Developer
