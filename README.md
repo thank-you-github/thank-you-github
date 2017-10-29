@@ -1652,3 +1652,4 @@ Signed,
 - Tharindu Dilshan ([@TharinduDilshan](https://github.com/TharinduDilshan)), Software Engineering student, Sri Lanka
 - Suvojit Mondal  ([@msuvojit](https://github.com/msuvojit)), Full Stack Developer
 - Serg Buinov ([@miksself](https://github.com/miksself)), Fullstack Web Developer
+- Vinod Nadar ([@vinodnadarthegreat](https://github.com/vinodnadarthegreat)), Developer, India
