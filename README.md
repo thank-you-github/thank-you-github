@@ -284,6 +284,7 @@ Signed,
 - 朱承浩 ([@neo1218](https://github.com/neo1218)) python学习者, 热爱开源的人
 - Anuj Pahuja ([@alasin](https://github.com/alasin)), Developer
 - Nadeem Khan ([@NadeemKhan](https://github.com/nadeemkhan)), Mobile Apps & Web Developer
+- Vaibhav Bansal ([@vaibhav138](https://github.com/vaibhav138),Student,IT 
 - Junior Xu ([@Junxy](https://github.com/Junxy)) Developer at [Anker](http://www.anker.com)
 - Richard Clayton ([@rclayton-the-terrible](https://github.com/rclayton-the-terrible)), Principal Software Engineer [YouEye](youeye.com)
 - Daniele Campogiani ([@dcampogiani](https://github.com/dcampogiani)), Developer
