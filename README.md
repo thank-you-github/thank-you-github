@@ -1634,3 +1634,4 @@ Signed,
 - Abhishek Chakravarty ([@Abhishekchakru](https://github.com/Abhishekchakru)), Web Developer, India
 - Anurag Barfa ([@AnuragBarfa](https://github.com/AnuragBarfa)) ,Student , IIT Guwahati, India
 - Rabi Raj Khadka ([@rabirajkhadka](https://github.com/rabirajkhadka)), Developer at [NeuromanceR Creation](https://github.com/NeuromanceRCreation), Kathmandu, Nepal
+- Vera Nikitinskaya ([@nikitinskaya](https://github.com/nikitinskaya)), Web Developer, Saint Petersburg, Russia
