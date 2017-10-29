@@ -1623,3 +1623,4 @@ Signed,
 - Daniel Lim([@NYDanielLim](https://github.com/NYDanielLim)), Computer Engineer
 - Rubén Below ([@rbelow](https://github.com/rbelow)), Founder of [Virteal](https://www.virteal.net) - Breeding startups in Berlin, Germany
 - Rahul Singh ([@Rsingh2805](https://github.com/Rsingh2805)), CSE student, IIT Roorkee, India
+- Sameer bhatt ([@bhattsameer](https://github.com/bhattsameer)), Penetration tester and Python Developer, Gujarat, India
