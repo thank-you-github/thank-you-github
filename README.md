@@ -1658,3 +1658,4 @@ Signed,
 - Muhammad Rifqi Fatchurrahman ([@muhrifqii](https://github.com/muhrifqii)), Android Developer, Indonesia
 - AmirAli Mohammadzadeh ([@AmirAliM](https://github.com/AmirAliM)), CTO at QuantCan.ir
 - Meisyarah Dwiastuti ([@meisyarahd](https://github.com/meisyarahd)), Student, Germany
+- Pranshu Goyal ([@pranshu1402](https://github.com/pranshu1402)), ME student,India
