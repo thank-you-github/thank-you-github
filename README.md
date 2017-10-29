@@ -1640,3 +1640,4 @@ Signed,
 - Rick Arendt ([@Arendt](https://github.com/Arendt)), CS Student, Germany
 - Chin Yeong Shern ([@shern91](https://github.com/shern91)), Web Developer
 - Saivenkat Koganti ([@saivenkat09](https://github.com/saivenkat09)),Student,Developer
+- Marco Aimo ([@marcoaimo](https://github.com/marcoaimo)), 🍻 👾 🎸, Fullstack / Web dev at [todo](https://todo.to.it)
