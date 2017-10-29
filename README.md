@@ -1472,13 +1472,13 @@ Signed,
 - Giridhar Avinash([@giridharavinash](https://github.com/giridharavinash)), CSE student, India
 - Khong Chanon ([@PlasmaTonmai](https://github.com/PlasmaTonmai)),Undergrad Hardware Enginee, KMUTT, Thailand
 - Oleg Guzei ([@oguzey-cv](https://github.com/oguzey-cv)), Embedded Software Developer, Ukraine
--Divyansh Gautum ([@bhaibhaibhai](https://github.com/bhaibhaibhai)),Developer
+- Divyansh Gautum ([@bhaibhaibhai](https://github.com/bhaibhaibhai)),Developer
 - Niloy ([@Front3ndNinja](https://github.com/Front3ndNinja)), Front End Developer
 - Alex Johnson ([@Eggbongo](https://github.com/Eggbongo)), Developer, Minneapolis, MN
 - Faizal Hasanwala ([@faizal3199](https://github.com/faizal3199)), Computer Science sophomore at IIT Roorkee
 - Yahnit ([@Yahnit](https://github.com/Yahnit)), CSE Undergraduate at IIIT-H
 - Prasanna Joshi ([@joship89](https://github.com/joship89)) , Data Scientist , USA
--Aurobindo mishra([@auro2677](https://github.com/auro2677)), cse undergraduate at SUIIT
+- Aurobindo mishra([@auro2677](https://github.com/auro2677)), cse undergraduate at SUIIT
 - Cristina Cosoroabă ([@cris-cos](https://github.com/cris-cos)), Aspiring Android developer
 - Mauricio Rodrigues ([@zabaala](https://github.com/zabaala)), CTO Ooppah.com, Brazil
 - Jack Sodeman ([@TICG](https://github.com/TICG)), Web Developer, and Computer Science Major.
@@ -1659,7 +1659,7 @@ Signed,
 - AmirAli Mohammadzadeh ([@AmirAliM](https://github.com/AmirAliM)), CTO at QuantCan.ir
 - Meisyarah Dwiastuti ([@meisyarahd](https://github.com/meisyarahd)), Student, Germany
 - Pranshu Goyal ([@pranshu1402](https://github.com/pranshu1402)), ME student,India
--Kawal Preet Kaur ([@kawal2266](https://github.com/kawal2266)), Information Technology Undergraduate, New Delhi, India
+- Kawal Preet Kaur ([@kawal2266](https://github.com/kawal2266)), Information Technology Undergraduate, New Delhi, India
 - Bharat Saraswat ([@bhansa](https://github.com/bhansa)), Full-stack Developer
 - Vaibhav Bansal ([@vaibhav138](https://github.com/vaibhav138)),Student,IT
 - AashutoshAgrawal ([@AashutoshAgrawal](https://github.com/AashutoshAgrawal)), Student , IIT Guwahati, India
