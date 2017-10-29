@@ -1683,3 +1683,4 @@ Signed,
 - Nate Young ([@nate-io](https://github.com/nate-io)), Web Developer
 - Patrick Weber ([@masterhuck](https://github.com/masterhuck)), Student, Developer, Germany
 - Adrian Teri ([@Adrianteri](https://github.com/Adrianteri)), Student, Platform Eng, DevOps
+- Jacob C. Ward ([@JacobCWard](https://github.com/JacobCWard)), Web Developer at Southern Utah University
