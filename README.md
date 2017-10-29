@@ -310,6 +310,7 @@ Signed,
 - सिद्धांत भवनानी (Sidhant Bhavnani) ([@cosmicAsymmetry](https://github.com/cosmicAsymmetry)), Maker of stuff.
 - Dean Butcher ([@ButchDean](https://github.com/ButchDean)), Game Developer
 - Michael Sanford ([@michaelsanford](https://github.com/michaelsanford)), Software Developer
+- Pulkit Karira ([@pulkitkarira](https://github.com/pkarira)), Software Developer
 - Flavio Mascetti ([@MascioSpam](https://github.com/MascioSpam)), Student
 - Joshua Olson ([@MrMormon](https://github.com/MrMormon)), Student and Future Developer
 - Matheus A. Brasil ([@mabrasil](https://github.com/mabrasil)), Full Stack Developer
