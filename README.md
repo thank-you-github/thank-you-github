@@ -1,4 +1,4 @@
-Dear GitHub,
+﻿Dear GitHub,
 
 Before 2007, the way to participate in Open Source was fragmented. Each project
 had their own workflow, patches circulated in emails, issues were reported in
@@ -1629,3 +1629,4 @@ Signed,
 - Melissa Chan ([@Chanme1](https://github.com/Chanme1)), CS Student, Developer, Cyber Security
 - fredy taufik ([@zet99](https://github.com/zet99)), Developer, Central Java, Indonesia
 - Piyapol Raengtip ([@OwlFlyFine](https://github.com/OwlFlyFine)), Developer, Mobile & Web Designer
+- Tharindu Dilshan ([@TharinduDilshan](https://github.com/TharinduDilshan)), Software Engineering student, Sri Lanka
