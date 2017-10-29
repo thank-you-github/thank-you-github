@@ -1638,3 +1638,4 @@ Signed,
 - Ela Novita ([@ElaNovita](https://github.com/ElaNovita)), Developer, Mataram, Indonesia
 - Nathan Nash ([@player2point0](https://github.com/player2point0)), Student, Uk
 - Rick Arendt ([@Arendt](https://github.com/Arendt)), CS Student, Germany
+- Chin Yeong Shern ([@shern91](https://github.com/shern91)), Web Developer
