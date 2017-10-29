@@ -1667,3 +1667,4 @@ Signed,
 - Ronit Maitra ([@zon2](https://github.com/zon2)),Student,JGEC,CSE
 - Ferry Irawan ([@ferrwan](https://github.com/ferrwan)), Student, Front End Developer, Indonesia
 - Aaron Baker ([@a-baker](https://github.com/a-baker)), Front End Developer
+- Lucas Reynolds ([@lreynolds18](https://github.com/lreynolds18)), Full Stack Developer
