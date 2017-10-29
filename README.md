@@ -1566,4 +1566,4 @@ Signed,
 - Jitendra Kumar Tripathi ([@callowidealist](https://github.com/callowidealist)), Developer ,Hyderabad,India
 - Nikita Petrov ([@petrovnr](https://github.com/petrovnr)), Computer Science Student, Web Dev, Russia, Moscow
 - Ilya Piatrenka ([@odisei369](https://github.com/odisei369)), Web Developer
-- Nathan Le ([@nathanle](https://github.com/nathanle)), Software Engineer, Web Developer, Java Developer
+- Liam Le ([@liamle](https://github.com/liamle)), Software Engineer, Web Developer, Java Developer
