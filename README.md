@@ -1656,3 +1656,4 @@ Signed,
 - Aswin G ([@agzuniverse](https://github.com/agzuniverse)), Developer and CS Undergrad, India
 - Poul Wittig ([@amivit](https://github.com/amivit)), Full stack developer
 - Muhammad Rifqi Fatchurrahman ([@muhrifqii](https://github.com/muhrifqii)), Android Developer, Indonesia
+- AmirAli Mohammadzadeh ([@AmirAliM](https://github.com/AmirAliM)), CTO at QuantCan.ir
