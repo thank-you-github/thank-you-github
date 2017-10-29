@@ -1633,3 +1633,4 @@ Signed,
 - Niki Garner ([@NikiGarner](https://github.com/NikiGarner)), Developer
 - Abhishek Chakravarty ([@Abhishekchakru](https://github.com/Abhishekchakru)), Web Developer, India
 - Anurag Barfa ([@AnuragBarfa](https://github.com/AnuragBarfa)) ,Student , IIT Guwahati, India
+- Rabi Raj Khadka ([@rabirajkhadka](https://github.com/rabirajkhadka)), Developer at [NeuromanceR Creation](https://github.com/NeuromanceRCreation), Kathmandu, Nepal
