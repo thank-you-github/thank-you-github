@@ -1630,3 +1630,4 @@ Signed,
 - fredy taufik ([@zet99](https://github.com/zet99)), Developer, Central Java, Indonesia
 - Piyapol Raengtip ([@OwlFlyFine](https://github.com/OwlFlyFine)), Developer, Mobile & Web Designer
 - Joshua Schirra ([@UpcraftLP](https://github.com/UpcraftLP)), Minecraft Modder, Java & Web Developer from Germany
+- Niki Garner ([@NikiGarner](https://github.com/NikiGarner)), Developer
