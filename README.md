@@ -1618,3 +1618,4 @@ Signed,
 - Rupesh Harode ([@firedranzer](https://github.com/firedranzer)), Student, Software Developer, Indore, India
 - Thomas Dargent ([@Kalwing](https://github.com/Kalwing)), Electrical engineering Student, France
 - Liam Le ([@liamle](https://github.com/liamle)), Software Engineer, Web Developer, Java Developer
+- Paavini Nanda ([@paavininanda](https://github.com/paavininanda)), Web and Android Developer, Delhi, India
