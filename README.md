@@ -1655,3 +1655,4 @@ Signed,
 - Vinod Nadar ([@vinodnadarthegreat](https://github.com/vinodnadarthegreat)), Developer, India
 - Aswin G ([@agzuniverse](https://github.com/agzuniverse)), Developer and CS Undergrad, India
 - Poul Wittig ([@amivit](https://github.com/amivit)), Full stack developer
+- Muhammad Rifqi Fatchurrahman ([@muhrifqii](https://github.com/muhrifqii)), Android Developer, Indonesia
