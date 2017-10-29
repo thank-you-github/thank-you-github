@@ -1643,3 +1643,4 @@ Signed,
 - Marco Aimo ([@marcoaimo](https://github.com/marcoaimo)), 🍻 👾 🎸, Fullstack / Web dev at [todo](https://todo.to.it)
 - Pooja Sahore ([@poojas16](https://github.com/poojas16)), Student, Web Developer
 - Rohan Rajput ([@hard-coder1](https://github.com/hard-coder1)), Developer, India
+- Kenan Christian Dimas ([@kenanchristian](https://github.com/kenanchristian)), Full-Stack Developer, Indonesia
