@@ -1615,3 +1615,4 @@ Signed,
 - Dibya Prakash Das ([@dibyadas](https://github.com/dibyadas)), Mathematics and Computing Student, India
 - Piana Loris ([@PianaLoris](https://github.com/PianaLoris)), Student, Developer
 - Ishank Arora ([@ishank011](https://github.com/ishank011)), CS Student, India
+- Rupesh Harode ([@firedranzer](https://github.com/firedranzer)), Student, Software Developer, Indore, India
