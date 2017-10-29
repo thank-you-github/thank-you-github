@@ -1602,3 +1602,4 @@ Signed,
 - Navindu Cooray ([@navzter](https://github.com/navzter)), Web Developer
 - Manoj Pathak ([@manoj-pathak30](https://github.com/manoj-pathak30)), Java Security Developer, Pune - India
 - Skanda Kaashyap ([@kaashmonee](https://github.com/kaashmonee)), Student, US
+- Ari F. ([@fanuch](https://github.com/fanuch)), Melbourne, Australia
