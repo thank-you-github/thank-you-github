@@ -1679,3 +1679,4 @@ Signed,
 - António Almeida ([@antonioalmeida](https://github.com/antonioalmeida)), Software Engineering Student, Portugal
 - Eric Hartline ([@wildlifehexagon](https://github.com/wildlifehexagon)), Web Developer
 - Boaz Berman ([@boazberman](https://github.com/boazberman)), Full Stack Developer, Israel
+- Mitansha Agrawal ([@mitansha] (https://github.com/mitansha)), competitive programmer
