@@ -1610,7 +1610,6 @@ Signed,
 - Pui Lam Cheng ([@pc592](https://github.com/pc592)), Student @ Cornell University
 - Esau Silva ([@esausilva](https://github.com/esausilva)), Software Engineer
 - Dede Hamzah ([@dehamzah](https://github.com/dehamzah)), Fullstack Developer, Indonesia
-
 - Al Zverev ([@alwye](https://github.com/alwye)), Software Engineer at Cisco, UK
 - Dibya Prakash Das ([@dibyadas](https://github.com/dibyadas)), Mathematics and Computing Student, India
 - Piana Loris ([@PianaLoris](https://github.com/PianaLoris)), Student, Developer
@@ -1629,3 +1628,4 @@ Signed,
 - Melissa Chan ([@Chanme1](https://github.com/Chanme1)), CS Student, Developer, Cyber Security
 - fredy taufik ([@zet99](https://github.com/zet99)), Developer, Central Java, Indonesia
 - Piyapol Raengtip ([@OwlFlyFine](https://github.com/OwlFlyFine)), Developer, Mobile & Web Designer
+- Daniella Taylor ([@sshhdaniella](https://github.com/sshhdaniella)), Front End Web Developer, Newcastle, UK
