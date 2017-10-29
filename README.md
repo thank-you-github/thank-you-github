@@ -1661,4 +1661,4 @@ Signed,
 - Pranshu Goyal ([@pranshu1402](https://github.com/pranshu1402)), ME student,India
 -Kawal Preet Kaur ([@kawal2266](https://github.com/kawal2266)), Information Technology Undergraduate, New Delhi, India
 - Bharat Saraswat ([@bhansa](https://github.com/bhansa)), Full-stack Developer
-- Vaibhav Bansal ([@vaibhav138](https://github.com/vaibhav138)),Student,IT
+- Raja Bhatia ([@raja](https://github.com/raja)), Founder at [The Hiring Company](https://www.thehiring.co/) 
