@@ -1616,3 +1616,4 @@ Signed,
 - Piana Loris ([@PianaLoris](https://github.com/PianaLoris)), Student, Developer
 - Ishank Arora ([@ishank011](https://github.com/ishank011)), CS Student, India
 - Rupesh Harode ([@firedranzer](https://github.com/firedranzer)), Student, Software Developer, Indore, India
+- Thomas Dargent ([@Kalwing](https://github.com/Kalwing)), Electrical engineering Student, France
