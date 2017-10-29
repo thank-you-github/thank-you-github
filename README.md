@@ -1683,3 +1683,4 @@ Signed,
 - Nate Young ([@nate-io](https://github.com/nate-io)), Web Developer
 - Patrick Weber ([@masterhuck](https://github.com/masterhuck)), Student, Developer, Germany
 - Adrian Teri ([@Adrianteri](https://github.com/Adrianteri)), Student, Platform Eng, DevOps
+- Vaibhav Naik ([@Adrianteri](https://github.com/vaibhavnaikprojects)), Student, Software Engineer, JAVA, Python
