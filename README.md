@@ -1600,3 +1600,4 @@ Signed,
 - Amritanshu Singh ([@samritanshu](https://github.com/samritanshu)),iOS Developer,Bangalore , India
 - Niks Arora ([@nikhilatmaple](https://github.com/nikhilatmaple)), Web Developer, New Delhi, India
 - Navindu Cooray ([@navzter](https://github.com/navzter)), Web Developer
+- Manoj Pathak ([@manoj-pathak30](https://github.com/manoj-pathak30)), Java Security Developer, Pune - India
