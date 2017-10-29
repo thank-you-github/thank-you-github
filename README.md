@@ -1677,3 +1677,4 @@ Signed,
 - Anthony Ng ([@newyork-anthonyng](https://github.com/newyork-anthonyng)), Front End Developer @Expedia
 - Gabriel Mendes ([@ggml1](https://github.com/ggml1)), Undergrad Student at Federal University of Pernambuco, Brazil (UFPE)
 - António Almeida ([@antonioalmeida](https://github.com/antonioalmeida)), Software Engineering Student, Portugal
+- Eric Hartline ([@wildlifehexagon](https://github.com/wildlifehexagon)), Web Developer
