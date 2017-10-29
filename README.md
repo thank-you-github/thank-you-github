@@ -1629,3 +1629,4 @@ Signed,
 - Melissa Chan ([@Chanme1](https://github.com/Chanme1)), CS Student, Developer, Cyber Security
 - fredy taufik ([@zet99](https://github.com/zet99)), Developer, Central Java, Indonesia
 - Piyapol Raengtip ([@OwlFlyFine](https://github.com/OwlFlyFine)), Developer, Mobile & Web Designer
+- Marco Aimo ([@marcoaimo](https://github.com/marcoaimo)), 🍻 👾 🎸, Fullstack / Web dev at [todo](https://todo.to.it)
