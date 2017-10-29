@@ -1619,3 +1619,4 @@ Signed,
 - Thomas Dargent ([@Kalwing](https://github.com/Kalwing)), Electrical engineering Student, France
 - Liam Le ([@liamle](https://github.com/liamle)), Software Engineer, Web Developer, Java Developer
 - Paavini Nanda ([@paavininanda](https://github.com/paavininanda)), Web and Android Developer, Delhi, India
+- Melissa Chan ([@chanme1](https://github.com/Chanme1)), CS Student, Developer, Cyber Security
