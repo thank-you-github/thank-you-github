@@ -1591,3 +1591,4 @@ Signed,
 - Shaily ([@Shaily20](https://github.com/Shaily20)), Information Technology Undergraduate, New Delhi, India
 - Danil Shankovskiy ([@BeAsYit](https://github.com/BeAsYit)), CS Student, Ukraine
 - Srinadhu Preetham ([@srinadhupreetham](https://github.com/srinadhupreetham)), CSE Student,India
+- Thomas Breuss ([@tbreuss](https://github.com/tbreuss)), Software Developer, Switzerland
