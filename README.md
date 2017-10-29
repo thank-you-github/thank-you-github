@@ -1673,13 +1673,13 @@ Signed,
 - Kawal Preet Kaur ([@kawal2266](https://github.com/kawal2266)), Information Technology Undergraduate, New Delhi, India
 - Aboobacker MK ([@redtachyons](https://github.com/redtachyons)), Software Engineer at @redpanthers
 - Daniel Gardner ([@danielmarcgardner](https://github.com/danielmarcgardner)), Full Stack Developer
-- Isabel Lima ([@iillx] (https://github.com/iillx)), iOS Developer and Information Systems Undergraduate, Brazil
+- Isabel Lima ([@iillx](https://github.com/iillx)), iOS Developer and Information Systems Undergraduate, Brazil
 - Anthony Ng ([@newyork-anthonyng](https://github.com/newyork-anthonyng)), Front End Developer @Expedia
 - Gabriel Mendes ([@ggml1](https://github.com/ggml1)), Undergrad Student at Federal University of Pernambuco, Brazil (UFPE)
 - António Almeida ([@antonioalmeida](https://github.com/antonioalmeida)), Software Engineering Student, Portugal
 - Eric Hartline ([@wildlifehexagon](https://github.com/wildlifehexagon)), Web Developer
 - Boaz Berman ([@boazberman](https://github.com/boazberman)), Full Stack Developer, Israel
-- Mitansha Agrawal ([@mitansha] (https://github.com/mitansha)), competitive programmer
+- Mitansha Agrawal ([@mitansha](https://github.com/mitansha)), competitive programmer
 - Nate Young ([@nate-io](https://github.com/nate-io)), Web Developer
 - Patrick Weber ([@masterhuck](https://github.com/masterhuck)), Student, Developer, Germany
 - Adrian Teri ([@Adrianteri](https://github.com/Adrianteri)), Student, Platform Eng, DevOps
