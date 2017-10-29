@@ -1681,3 +1681,4 @@ Signed,
 - Boaz Berman ([@boazberman](https://github.com/boazberman)), Full Stack Developer, Israel
 - Mitansha Agrawal ([@mitansha] (https://github.com/mitansha)), competitive programmer
 - Nate Young ([@nate-io](https://github.com/nate-io)), Web Developer
+- Patrick Weber ([@masterhuck](https://github.com/masterhuck)), Student, Developer, Germany
