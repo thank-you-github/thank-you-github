@@ -1753,3 +1753,4 @@ Signed,
 - Nicole Castagno ([@castagnoNicole](https://github.com/castagnoNicole)), Student
 - Andreas Arvidsson ([@chip2n](https://github.com/chip2n)), Android Developer, Sweden
 - Ahmad Mufid ([@mufidtk](https://github.com/mufidtk)), Student, Indonesia
+- David Suilea ([@foryah](https://github.com/foryah)), Full Stack Developer, Germany, Munchen
