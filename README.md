@@ -1687,3 +1687,4 @@ Signed,
 - Jaime Salcedo ([@jsalcedo1987](https://github.com/jsalcedo1987)), Full Stack Developer
 - Conor Gildea ([@csigildea](https://github.com/csigildea)),Student, Ireland
 - Sai Venkat ([@saivenkat1998](https://github.com/saivenkat1998)), Developer,Student
+- Ahmed Gaber ([@aigdonia](https://github.com/aigdonia)), Frontend web developer, Machine Learning guru
