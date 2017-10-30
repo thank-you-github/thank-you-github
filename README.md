@@ -1702,3 +1702,4 @@ Signed,
 - Samagra Sharma ([@samagra14](https://github.com/samagra14)), Android Developer at IIT Roorkee
 - Jai Janyani ([@JAIJANYANI](https://github.com/JAIJANYANI)), Machine Learning Engineer
 - Arthur Moreira ([@tuxao](https://github.com/tuxao)), Student, Web Developer
+- Augusto S. Falcão ([@falcaoaugustos](https://github.com/falcaoaugustos)), Student, iOS Developer
