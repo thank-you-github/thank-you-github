@@ -1710,4 +1710,4 @@ Signed,
 - Seth Miller ([@fantop](https://github.com/fantop)), Student, Aspiring Software Engineer
 - Pranav S ([@pranavsr97])(https://github.com/pranavsr97)), Student, Developer, India
 - João Felipe Gonçalves ([@JFRode](https://github.com/JFRode)), Software Engineer, Brazil
-- Kanit Pongteeraroj([@Azothblader])(https://github.com/Azothblader)), C# Web Developer, Thai
+- Kanit Pongteeraroj ([@Azothblader])(https://github.com/Azothblader)), C# Web Developer, Thai
