@@ -1659,7 +1659,7 @@ Signed,
 - AmirAli Mohammadzadeh ([@AmirAliM](https://github.com/AmirAliM)), CTO at QuantCan.ir
 - Meisyarah Dwiastuti ([@meisyarahd](https://github.com/meisyarahd)), Student, Germany
 - Pranshu Goyal ([@pranshu1402](https://github.com/pranshu1402)), ME student,India
--Kawal Preet Kaur ([@kawal2266](https://github.com/kawal2266)), Information Technology Undergraduate, New Delhi, India
+- Kawal Preet Kaur ([@kawal2266](https://github.com/kawal2266)), Information Technology Undergraduate, New Delhi, India
 - Bharat Saraswat ([@bhansa](https://github.com/bhansa)), Full-stack Developer
 - Vaibhav Bansal ([@vaibhav138](https://github.com/vaibhav138)),Student,IT
 - AashutoshAgrawal ([@AashutoshAgrawal](https://github.com/AashutoshAgrawal)), Student , IIT Guwahati, India
@@ -1667,6 +1667,7 @@ Signed,
 - Ronit Maitra ([@zon2](https://github.com/zon2)),Student,JGEC,CSE
 - Ferry Irawan ([@ferrwan](https://github.com/ferrwan)), Student, Front End Developer, Indonesia
 - Aaron Baker ([@a-baker](https://github.com/a-baker)), Front End Developer
+- Conor Gildea ([@csigildea](https://github.com/csigildea)),Student, Ireland
 - Shounak Dey ([@dylan007](https://github.com/dylan007)),CS Undergrad, India
 - Prakhar Sapre ([@prakhar10](https://github.com/prakhar10)), Software Developer, Texas, USA
 - Sam Hunter ([@kinson](https://github.com/kinson)), Developer [@robin](https://autopilot.tryrobin.com), [@dialexa](https://dialexa.com)
