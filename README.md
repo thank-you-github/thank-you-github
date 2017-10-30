@@ -1700,3 +1700,4 @@ Signed,
 - Felix Putera, ([@felixputera](https://github.com/felixputera)), Student
 - Pankaj Sahu ([@PS3132](https://github.com/PS3132)), Full Stack Developer
 - Samagra Sharma ([@samagra14](https://github.com/samagra14)), Android Developer at IIT Roorkee
+- Jai Janyani ([@JAIJANYANI](https://github.com/JAIJANYANI)), Machine Learning Engineer
