@@ -511,6 +511,7 @@ Signed,
 - Annisa Nurul Azhar ([@annisanurulazhar](https://github.com/annisanurulazhar)), Student, Bandung Institute of Technology, Indonesia.
 - Nabarun Pal ([@paliitr](https://github.com/paliitr)), Software Developer, Student, Indian Institute of Technology Roorkee, India
 - Deni Pramulia ([@denipramulia](https://github.com/denipramulia)), Microsoft Student Partner Indonesia, Student at University of Indonesia.
+- Nir99  ([@nir099(https://github.com/nir099)), Student at University of Moratuwa Faculty of Information Technology.
 - Rahul Babbar ([@rahulbabbar1](https://github.com/rahulbabbar1)), Developer, Computer Science Undergraduate at IIT Roorkee, India.
 - Shivam Agarwal ([@shivam-code97](https://github.com/shivam-code97)), Developer, Computer Science Undergraduate at IIT Roorkee, India.
 - Akshat Bhardwaj ([@akshatr](https://github.com/akshatr)), Developer, Computer Science Undergraduate at IIT Roorkee, India.
@@ -1759,7 +1760,3 @@ Signed,
 - Héricles Emanuel ([@hericlesme](https://github.com/hericlesme)), Student Programmer, Brasil
 - Suman Chaurasia ([@bzero0](https://github.com/bzero0)), Computer Science Engineer, India
 - Ritvik singhal ([@ritviksinghal1998](https://github.com/ritviksinghal1998)),Programmer and developer at IIT Roorkee
-- Dylan Fahringer ([@djfahringer] (https://github.com/djfahringer)), Student
-- Gaurav Tiwari ([@LvnGDead](https://github.com/LvnGDead)), Student, Aspiring Android Developer
-- Kelvin Wong ([@kwong21](https://github.com/kwong21)), DevOps, Canada
-- Priyanshu Agarwal ([@PriyanshuAgg](https://github.com/PriyanshuAgg)), undergrad at The LNM Institue of Information Technology, India
