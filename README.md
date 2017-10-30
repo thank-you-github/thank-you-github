@@ -1724,3 +1724,4 @@ Signed,
 - Ekaterina Khorina ([@mjaffk](https://github.com/mjaffk)), QA Engineer, Russia
 - Farah Clara ([@biawaktamvan](https://github.com/biawaktamvan)), Freelance Programmer, Indonesia
 - Manthan-R-Sheth ([@manthan-r-sheth](https://github.com/manthan-r-sheth)), Developer, EE Undergraduate at IIT Roorkee, India.
+- Đỗ Hoàng Nguyên ([@nguyendhse](https://github.com/nguyendhse)), Software Developer, Vietnam
