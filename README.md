@@ -1748,3 +1748,4 @@ Signed,
 - Andy Nur ([@andynur](https://github.com/andynur)), Web Developer at QODR,  Yogyakarta City, Indonesia
 - Athallah Annafis ([@annafis1](https://github.com/annafis1)), Student, Indonesia
 - Yash Shinde ([@yashinde](https://github.com/yashinde)), Graphic Designer at WONA
+- Bhargav Hegde ([@bhargavbhegde7](https://github.com/bhargavbhegde7)), Software Engineer, India
