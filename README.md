@@ -1712,3 +1712,4 @@ Signed,
 - João Felipe Gonçalves ([@JFRode](https://github.com/JFRode)), Software Engineer, Brazil
 - Kanit Pongteeraroj ([@Azothblader])(https://github.com/Azothblader)), C# Web Developer, Thai
 - Rachana Solanki ([@RanchoDbest](https://github.com/RanchoDbest)), Android Developer
+- Ankur Kumar ([@ankurkumar007](https://github.com/ankurkumar007)), Developer
