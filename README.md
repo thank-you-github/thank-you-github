@@ -1761,3 +1761,4 @@ Signed,
 - Ritvik singhal ([@ritviksinghal1998](https://github.com/ritviksinghal1998)),Programmer and developer at IIT Roorkee
 - Dylan Fahringer ([@djfahringer] (https://github.com/djfahringer)), Student
 - Gaurav Tiwari ([@LvnGDead](https://github.com/LvnGDead)), Student, Aspiring Android Developer
+- Kelvin Wong ([@kwong21](https://github.com/kwong21)), DevOps, Canada
