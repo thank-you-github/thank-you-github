@@ -1709,3 +1709,4 @@ Signed,
 - Jonathan Chen ([@dijonkitchen](https://github.com/dijonkitchen)), Software Engineer
 - Seth Miller ([@fantop](https://github.com/fantop)), Student, Aspiring Software Engineer
 - Pranav S ([@pranavsr97])(https://github.com/pranavsr97)), Student, Developer, India
+- João Felipe Gonçalves ([@JFRode](https://github.com/JFRode)), Software Engineer, Brazil
