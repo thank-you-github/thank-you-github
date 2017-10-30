@@ -1756,3 +1756,4 @@ Signed,
 - David Suilea ([@foryah](https://github.com/foryah)), Full Stack Developer, Germany, Munchen
 - Christopher Ganda ([@christopherganda](https://github.com/christopherganda)), Software Developer, Indonesia
 - Debadutta Godnaik ([@debaduttagodnaik](https://github.com/debaduttagodnaik)), IT student at IIIT-A, India
+- Héricles Emanuel ([@hericlesme](https://github.com/hericlesme)), Student Programmer, Brasil
