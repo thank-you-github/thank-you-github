@@ -1707,3 +1707,4 @@ Signed,
 - Fernando Boaglio ([@boaglio](https://github.com/boaglio)), Developer, Sao Paulo, Brazil
 - Sarawut Silprawat ([@benzsamator](https://github.com/benzsamator)), Developer
 - Jonathan Chen ([@dijonkitchen](https://github.com/dijonkitchen)), Software Engineer
+- Seth Miller ([@fantop](https://github.com/fantop)), Student, Aspiring Software Engineer
