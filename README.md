@@ -1751,3 +1751,4 @@ Signed,
 - Bhargav Hegde ([@bhargavbhegde7](https://github.com/bhargavbhegde7)), Software Engineer, India
 - Sudheer Darla ([@sudheerdarla](https://github.com/sudheerdarla)), Front-end Freelancer, India
 - Nicole Castagno ([@castagnoNicole](https://github.com/castagnoNicole)), Student
+- Andreas Arvidsson ([@chip2n](https://github.com/chip2n)), Android Developer, Sweden
