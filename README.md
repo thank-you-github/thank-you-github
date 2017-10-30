@@ -1682,7 +1682,7 @@ Signed,
 - Mitansha Agrawal ([@mitansha](https://github.com/mitansha)), competitive programmer
 - Nate Young ([@nate-io](https://github.com/nate-io)), Web Developer
 - Patrick Weber ([@masterhuck](https://github.com/masterhuck)), Student, Developer, Germany
+- Pranav S ([@pranavsr97])(https://github.com/pranavsr97)), Student, Developer, India
 - Adrian Teri ([@Adrianteri](https://github.com/Adrianteri)), Student, Platform Eng, DevOps
 - Jacob C. Ward ([@JacobCWard](https://github.com/JacobCWard)), Web Developer at Southern Utah University
 - Jaime Salcedo ([@jsalcedo1987](https://github.com/jsalcedo1987)), Full Stack Developer
-- Conor Gildea ([@csigildea](https://github.com/csigildea)),Student, Ireland
