@@ -1703,3 +1703,4 @@ Signed,
 - Jai Janyani ([@JAIJANYANI](https://github.com/JAIJANYANI)), Machine Learning Engineer
 - Arthur Moreira ([@tuxao](https://github.com/tuxao)), Student, Web Developer
 - Augusto S. Falcão ([@falcaoaugustos](https://github.com/falcaoaugustos)), Student, iOS Developer
+- Brij S ([@brij1010](https://github.com/brij1010)), Web Developer
