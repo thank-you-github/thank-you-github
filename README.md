@@ -1730,3 +1730,4 @@ Signed,
 - Tommaso Montefusco ([@kiailandi](https://github.com/kiailandi)), Frontend developer, Italy
 - Daniel Li ([@d4nyll](https://github.com/d4nyll)), JavaScript Developer, Hong Kong
 - Divyanshu Sahu ([@DivyanshuSahu](https://github.com/DivyanshuSahu)), Information Security Enthusiast, IIT Roorkee, India
+- Shubham Kumar ([@codedev12](https://github.com/codedev12)), Student, India
