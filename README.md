@@ -1686,3 +1686,32 @@ Signed,
 - Jacob C. Ward ([@JacobCWard](https://github.com/JacobCWard)), Web Developer at Southern Utah University
 - Jaime Salcedo ([@jsalcedo1987](https://github.com/jsalcedo1987)), Full Stack Developer
 - Basyrun Halim ([@annahl](https://github.com/annahl)), Software Engineer at [Terato Tech](http://teratotech.com), Malaysia
+- Conor Gildea ([@csigildea](https://github.com/csigildea)),Student, Ireland
+- Sai Venkat ([@saivenkat1998](https://github.com/saivenkat1998)), Developer,Student
+- Ahmed Gaber ([@aigdonia](https://github.com/aigdonia)), Frontend web developer, Machine Learning guru
+- Mayank ([@thakur00mayank](https://github.com/thakur00mayank)), Software Development Engineer, India
+- Rohan Bhatia ([@rohanbh](https://github.com/rohanbh)), Android Developer, India
+- Rian Adam ([@rianrajagede](https://github.com/rianrajagede)), Student, Indonesia
+- Martin Koo ([@mkoo21](https://github.com/mkoo21)), Full Stack Developer
+- Taylor Caldwell ([@taycaldwell](https://github.com/taycaldwell)), Software Engineer
+-Carl Yoder ([@Calasada](https://github.com/Calasada)), Student Programmer
+- Umar ([@tiok-cek1](https://github.com/tiok-cek1)), Developer
+- Thiago Augusto ([@thiagoaugustosm](https://github.com/thiagoaugustosm)), Student, Developer
+- Errazudin Ishak ([@errazudin](https://github.com/errazudin)), Developer, Johor, Malaysia
+- Felix Putera, ([@felixputera](https://github.com/felixputera)), Student
+- Pankaj Sahu ([@PS3132](https://github.com/PS3132)), Full Stack Developer
+- Samagra Sharma ([@samagra14](https://github.com/samagra14)), Android Developer at IIT Roorkee
+- Jai Janyani ([@JAIJANYANI](https://github.com/JAIJANYANI)), Machine Learning Engineer
+- Arthur Moreira ([@tuxao](https://github.com/tuxao)), Student, Web Developer
+- Augusto S. Falcão ([@falcaoaugustos](https://github.com/falcaoaugustos)), Student, iOS Developer
+- Brij S ([@brij1010](https://github.com/brij1010)), Web Developer
+- Fernando Boaglio ([@boaglio](https://github.com/boaglio)), Developer, Sao Paulo, Brazil
+- Sarawut Silprawat ([@benzsamator](https://github.com/benzsamator)), Developer
+- Jonathan Chen ([@dijonkitchen](https://github.com/dijonkitchen)), Software Engineer
+- Seth Miller ([@fantop](https://github.com/fantop)), Student, Aspiring Software Engineer
+- Pranav S ([@pranavsr97])(https://github.com/pranavsr97)), Student, Developer, India
+- João Felipe Gonçalves ([@JFRode](https://github.com/JFRode)), Software Engineer, Brazil
+- Kanit Pongteeraroj ([@Azothblader])(https://github.com/Azothblader)), C# Web Developer, Thai
+- Rachana Solanki ([@RanchoDbest](https://github.com/RanchoDbest)), Android Developer
+- Ankur Kumar ([@ankurkumar007](https://github.com/ankurkumar007)), Developer
+- Sandeepkallepalli ([@SandeepKallepallili123](https://github.com/SandeepKallepallili123)), CSE student at IIIT-H, India
