@@ -1738,3 +1738,4 @@ Signed,
 - Saksham Garg ([@sak6e] (https://github.com/sak6e)), Competitive Programmer, Student,India
 - Quinty van Dijk ([@kwint](https://github.com/kwint)), Student, The Netherlands
 - Dimitar Jilanov ([@djilanov](https://github.com/djilanov)), Software Developer, Bulgaria
+- Logan Stucki ([@Smarticles101](https://github.com/Smarticles101)), Student Developer and Open Source Contributor
