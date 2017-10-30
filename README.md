@@ -1740,3 +1740,4 @@ Signed,
 - Dimitar Jilanov ([@djilanov](https://github.com/djilanov)), Software Developer, Bulgaria
 - Logan Stucki ([@Smarticles101](https://github.com/Smarticles101)), Student Developer and Open Source Contributor
 - Rishiraj Purohit ([@rpLogicode](https://github.com/rpLogicode)), Backend Developer and Hobbyist Programmer, India
+- Shivam Gupta ([@shivamgupta1](https://github.com/shivamgupta1)), Student, India
