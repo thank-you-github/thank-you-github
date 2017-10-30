@@ -1,4 +1,4 @@
-Dear GitHub,
+﻿Dear GitHub,
 
 Before 2007, the way to participate in Open Source was fragmented. Each project
 had their own workflow, patches circulated in emails, issues were reported in
@@ -1765,3 +1765,4 @@ Signed,
 - Priyanshu Agarwal ([@PriyanshuAgg](https://github.com/PriyanshuAgg)), undergrad at The LNM Institue of Information Technology, India
 - Nathan Saraiva ([@nfss83]), (https://github.com/nfss83)), PhD Student, Brazil
 - Nir99 ([@nir099](https://github.com/nir099)), Student at University of Moratuwa Faculty of Information Technology.
+- Stupy Spyy ([@Stupyspyy](https://github.com/Stupyspyy)), Learning student
