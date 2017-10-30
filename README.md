@@ -1749,3 +1749,4 @@ Signed,
 - Athallah Annafis ([@annafis1](https://github.com/annafis1)), Student, Indonesia
 - Yash Shinde ([@yashinde](https://github.com/yashinde)), Graphic Designer at WONA
 - Bhargav Hegde ([@bhargavbhegde7](https://github.com/bhargavbhegde7)), Software Engineer, India
+- Sudheer Darla ([@sudheerdarla](https://github.com/sudheerdarla)), Front-end Freelancer, India
