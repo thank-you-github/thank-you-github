@@ -1543,4 +1543,4 @@ Signed,
 - Paul Russavage ([@russav](https://github.com/russav)), Student at BYU, Provo, UT
 - Nida Khan ([@nidakhan786](https://github.com/nidakhan786)),student,India
 - Dollu ([@dollu1](https://github.com/dollu1)), Web Developer
-- Benzsamator ([@benzsamator](https://github.com/dollbenzsamatoru1)), Developer
+- Benzsamator ([@benzsamator](https://github.com/benzsamator)), Developer
