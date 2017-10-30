@@ -1746,3 +1746,4 @@ Signed,
 - Ankit Kachroo ([@ankitkachru](https://github.com/ankitkachru)), Software Developer
 - Hare Ram ([@Hare-Ram](https://github.com/Hare-Ram)), Kolkata, India
 - Andy Nur ([@andynur](https://github.com/andynur)), Web Developer at QODR,  Yogyakarta City, Indonesia
+- Athallah Annafis ([@annafis1](https://github.com/annafis1)), Student, Indonesia
