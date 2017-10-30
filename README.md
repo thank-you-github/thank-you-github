@@ -1719,3 +1719,4 @@ Signed,
 - Rahul Agrawal ([@rahulagrawal97](https://github.com/rahulagrawal97)), Undergrad at The LNM Institute Of Information Technology, India
 - Vaibhav Agrawal ([@vaibhav1729](https://github.com/vaibhav1729)), Geek, Open Source Enthusiast, Web Developer, India
 - Anshuman Agarwal ([@anshuman73](https://github.com/anshuman73)), Developer
+- Pavel Rodionov ([@krim](https://github.com/krim)), Backend developer, Russia
