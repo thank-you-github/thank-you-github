@@ -1762,3 +1762,4 @@ Signed,
 - Dylan Fahringer ([@djfahringer] (https://github.com/djfahringer)), Student
 - Gaurav Tiwari ([@LvnGDead](https://github.com/LvnGDead)), Student, Aspiring Android Developer
 - Kelvin Wong ([@kwong21](https://github.com/kwong21)), DevOps, Canada
+- Priyanshu Agarwal ([@PriyanshuAgg](https://github.com/PriyanshuAgg)), undergrad at The LNM Institue of Information Technology, India
