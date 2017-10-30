@@ -1714,3 +1714,4 @@ Signed,
 - Rachana Solanki ([@RanchoDbest](https://github.com/RanchoDbest)), Android Developer
 - Ankur Kumar ([@ankurkumar007](https://github.com/ankurkumar007)), Developer
 - Sandeepkallepalli ([@SandeepKallepallili123](https://github.com/SandeepKallepallili123)), CSE student at IIIT-H, India
+- Sean Batongbacal ([@mezzode](https://github.com/mezzode)), Software Engineer
