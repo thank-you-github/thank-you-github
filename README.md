@@ -1697,3 +1697,4 @@ Signed,
 - Umar ([@tiok-cek1](https://github.com/tiok-cek1)), Developer
 - Thiago Augusto ([@thiagoaugustosm](https://github.com/thiagoaugustosm)), Student, Developer
 - Errazudin Ishak ([@errazudin](https://github.com/errazudin)), Developer, Johor, Malaysia
+- Felix Putera, ([@felixputera](https://github.com/felixputera)), Student
