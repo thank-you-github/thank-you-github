@@ -1721,3 +1721,4 @@ Signed,
 - Anshuman Agarwal ([@anshuman73](https://github.com/anshuman73)), Developer
 - Pavel Rodionov ([@krim](https://github.com/krim)), Backend developer, Russia
 - Amanda Savluchinske ([@amandasavluchinske](https://github.com/amandasavluchinske)), Student, Brazil
+- Ekaterina Khorina ([@mjaffk](https://github.com/mjaffk)), QA Engineer, Russia
