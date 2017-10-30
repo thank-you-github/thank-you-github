@@ -1736,3 +1736,4 @@ Signed,
 - Sugeng Sulistiyawan ([@die-coding](https://github.com/die-coding)), Owner Die Coding ([diecoding.com](https://diecoding.com)), Developer
 - Vishal Pouras([@vishal-pouras](https://github.com/vishal-pouras)), Computer Science and Engineering, IIT Roorkee, India
 - Saksham Garg ([@sak6e] (https://github.com/sak6e)), Competitive Programmer, Student,India
+- Quinty van Dijk ([@kwint](https://github.com/kwint)), Student, The Netherlands
