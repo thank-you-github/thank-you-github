@@ -1750,3 +1750,4 @@ Signed,
 - Yash Shinde ([@yashinde](https://github.com/yashinde)), Graphic Designer at WONA
 - Bhargav Hegde ([@bhargavbhegde7](https://github.com/bhargavbhegde7)), Software Engineer, India
 - Sudheer Darla ([@sudheerdarla](https://github.com/sudheerdarla)), Front-end Freelancer, India
+- Nicole Castagno ([@castagnoNicole](https://github.com/castagnoNicole)), Student
