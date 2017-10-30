@@ -1703,7 +1703,6 @@ Signed,
 - Jai Janyani ([@JAIJANYANI](https://github.com/JAIJANYANI)), Machine Learning Engineer
 - Arthur Moreira ([@tuxao](https://github.com/tuxao)), Student, Web Developer
 - Augusto S. Falcão ([@falcaoaugustos](https://github.com/falcaoaugustos)), Student, iOS Developer
-- Debadutta Godnaik ([@debaduttagodnaik](https://github.com/debaduttagodnaik)), IT student at IIIT-A, India
 - Brij S ([@brij1010](https://github.com/brij1010)), Web Developer
 - Fernando Boaglio ([@boaglio](https://github.com/boaglio)), Developer, Sao Paulo, Brazil
 - Sarawut Silprawat ([@benzsamator](https://github.com/benzsamator)), Developer
@@ -1717,4 +1716,4 @@ Signed,
 - Sandeepkallepalli ([@SandeepKallepallili123](https://github.com/SandeepKallepallili123)), CSE student at IIIT-H, India
 - Basyrun Halim ([@annahl](https://github.com/annahl)), Software Engineer at [Terato Tech](http://teratotech.com), Malaysia
 - Des Dulianto ([@desdulianto](https://github.com/desdulianto)), System Administrator and Hobbyist Programmer, Indonesia
-
+- Debadutta Godnaik ([@debaduttagodnaik](https://github.com/debaduttagodnaik)), IT student at IIIT-A, India
