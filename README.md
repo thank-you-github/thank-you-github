@@ -1758,3 +1758,4 @@ Signed,
 - Debadutta Godnaik ([@debaduttagodnaik](https://github.com/debaduttagodnaik)), IT student at IIIT-A, India
 - Héricles Emanuel ([@hericlesme](https://github.com/hericlesme)), Student Programmer, Brasil
 - Suman Chaurasia ([@bzero0](https://github.com/bzero0)), Computer Science Engineer, India
+- Ritvik singhal ([@ritviksinghal1998](https://github.com/ritviksinghal1998)),Programmer and developer at IIT Roorkee
