@@ -1695,3 +1695,4 @@ Signed,
 - Taylor Caldwell ([@taycaldwell](https://github.com/taycaldwell)), Software Engineer
 -Carl Yoder ([@Calasada](https://github.com/Calasada)), Student Programmer
 - Umar ([@tiok-cek1](https://github.com/tiok-cek1)), Developer
+- Thiago Augusto ([@thiagoaugustosm](https://github.com/thiagoaugustosm)), Student, Developer
