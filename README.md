@@ -1727,3 +1727,4 @@ Signed,
 - Đỗ Hoàng Nguyên ([@nguyendhse](https://github.com/nguyendhse)), Software Developer, Vietnam
 - Tharindu ([@tharinduraza](https://github.com/tharinduraza)), Student
 - Davis Byamugisha ([@Davisdoctor](https://github.com/Davisdoctor)), Software Developer, Uganda
+- Tommaso Montefusco ([@kiailandi](https://github.com/kiailandi)), Frontend developer, Italy
