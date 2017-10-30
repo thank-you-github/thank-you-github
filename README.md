@@ -1690,3 +1690,4 @@ Signed,
 - Ahmed Gaber ([@aigdonia](https://github.com/aigdonia)), Frontend web developer, Machine Learning guru
 - Mayank ([@thakur00mayank](https://github.com/thakur00mayank)), Software Development Engineer, India
 - Rohan Bhatia ([@rohanbh](https://github.com/rohanbh)), Android Developer, India
+- Rian Adam ([@rianrajagede](https://github.com/rianrajagede)), Student, Indonesia
