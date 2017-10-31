@@ -1781,7 +1781,7 @@ Signed,
 - Tom Zmyslo ([@tomzmyslo](https://github.com/tomzmyslo)), Software Developer
 - Wolfiri ([@wolfiri](https://github.com/wolfiri)), Not-A-Developer, California
 - lrtr ([@lrtr](https://github.com/lrtr)), Junior Backend Developer, Switzerland
-- Ash Krishna ([@akrishna27](https://github.com/akrishna27))
+- Ash Krishna ([@akrishna27](https://github.com/akrishna27)), Student at Rutgers University
 - Emerson Victor ([@emersonvictor](https://github.com/emersonvictor)), Student at UFPE
 - Salman Fakhri ([@Salamander1012](https://github.com/Salamander1012)), Rutgers University
 - Juan Uribe ([@juribe80](https://github.com/juribe80)), Student at Rutgers University- New Brunswick.
