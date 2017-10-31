@@ -1815,3 +1815,4 @@ Signed,
 - Ashik Ameer ([@ashki98](https://github.com/ashki98)), Student
 - Muhammad Hafidz ([@ciazhar](https://github.com/ciazhar)), Java Backend Developer at Clorus
 - Rajeev Dixit([@keyser-soze-7] (https://github.com/keyser-soze-7)), Undergrad Student at IIIT-Allahabad
+- Bryen Vieira :bulb: ([@bryen95](https://github.com/bryen95)), Android Developer, London, UK
