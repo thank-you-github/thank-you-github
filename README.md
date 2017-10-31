@@ -1839,4 +1839,5 @@ Signed,
 - Aiyas Aboobakar ([@ayswl](https://github.com/ayswl)), Analyst at [Fave](https://myfave.com/)
 - Wai Kit Kong ([@waikitkong](https://github.com/waikitkong)), Business Intelligence Analyst, Malaysia.
 - Gene Xu ([@genexu](https://github.com/genexu)), Geek and Computer Science Engineer, Taiwan
-- Pratik pathak ([@PathakPratik](https://github.com/PathakPratik)), Backend Engineer,India.
+- Pratik pathak ([@PathakPratik](https://github.com/PathakPratik)), Backend Engineer,India
+- Uche Jude ([@JudeTheGenius](https://github.com/JudeTheGenius)), Developer at Brindocorp
