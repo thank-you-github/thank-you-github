@@ -1840,3 +1840,4 @@ Signed,
 - Wai Kit Kong ([@waikitkong](https://github.com/waikitkong)), Business Intelligence Analyst, Malaysia.
 - Gene Xu ([@genexu](https://github.com/genexu)), Geek and Computer Science Engineer, Taiwan
 - Pratik pathak ([@PathakPratik](https://github.com/PathakPratik)), Backend Engineer,India.
+- Luca Beetz ([@404response](https://github.com/404response)), Developer in his spare time, Germany
