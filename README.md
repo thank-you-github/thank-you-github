@@ -1866,3 +1866,4 @@ Signed,
 - Elena ([@Eli312](https://github.com/Eli312)), Student, Germany.
 - Acid Chicken ([@acid-chicken](https://github.com/acid-chicken)), Student, Developer who is using C#, Japanese.
 - Brian-Van-Stoner ([@Brian-Van-Stoner](https://github.com/Brian-Van-Stoner)), Software Developer,Uganda.
+-  Swapnesh Kumar ([@swapneshiitr](https://github.com/swapneshiitr)), E&CE undergrad, IIT Roorkee, India
