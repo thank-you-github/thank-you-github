@@ -1805,3 +1805,4 @@ Signed,
 - Kunal Sharma ([@kunal12422](https://github.com/kunal12422)), Computer Science, NIT Hamirpur, India
 - juansebasmv ([@juansebasmv](https://github.com/juansebasmv)), Student at University of Campinas.
 - Daniel Lazkani Feferman ([@fefer](https://github.com/fefer)), MSc. Student, Brazil
+- Lakshya Khattar ([@lakshya-221b](https://github.com/Lakshya-221b)), Student, Aspiring Android Developer
