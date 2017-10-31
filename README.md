@@ -1879,3 +1879,4 @@ Signed,
 - Shubhi Lohani ([@ShubhiL](https://github.com/ShubhiL)), Student, India
 - Surbhi Jha ([@SurbhiJha](https://github.com/SurbhiJha)), Android Developer, India
 - Jonathan Sun ([@jspsun](https://github.com/jspsun)), Developer
+- Arjun Naha ([@arjunnaha](https://github.com/arjunnaha)), App Engineer, UK.
