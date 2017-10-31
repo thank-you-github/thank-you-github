@@ -1939,3 +1939,4 @@ Signed,
 - Ryan Pineo ([@ryanpineo](https://github.com/ryanpineo)), Software Engineer, Canada
 - Prashant S([@binary-master](https://github/com/binary-master)), Student, San Francisco
 - Julian Engel ([@julianengel](https://github.com/julianengel)), GitHub Campus Expert, Limassol Cyprus
+- Uche Jude ([@JudeTheGenius](https://github.com/JudeTheGenius)), Developer at Brindocor
