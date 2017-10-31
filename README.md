@@ -1927,3 +1927,4 @@ Signed,
 - Roshin C ([@roshinc](https://github.com/roshinc)), CS Student, New York.
 - Alex Klyanchin ([@jbmeerkat](https://github.com/jbmeerkat)), Software Engineer at Bookmate, Russia
 - Jaldhar H. Vyas ([@jaldhar](https://github.com/jaldhar)), CEO, Consolidated Braincells Inc., USA
+- Rishi Kaushik ([@Rishi-kaushik](https://github.com/Rishi-kaushik)), Patiala, India
