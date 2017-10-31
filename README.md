@@ -1807,3 +1807,4 @@ Signed,
 - Daniel Lazkani Feferman ([@fefer](https://github.com/fefer)), MSc. Student, Brazil
 - Lakshya Khattar ([@lakshya-221b](https://github.com/Lakshya-221b)), Student, Aspiring Android Developer
 - Shenith Sandeepa ([@Shenith](https://github.com/Shenith)), Student at University of Moratuwa Faculty of Information Technology.
+- Segun Olumide ([@wonexo](https://github.com/wonexo)), Computer Engineering at Yabatech
