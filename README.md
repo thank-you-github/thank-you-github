@@ -1920,3 +1920,4 @@ Signed,
 - Sam Jakos ([@sjakos](https://github.com/sjakos)), Developer, USA
 - Rick Haan ([@rickhaan](https://github.com/rickhaan)), Student
 - Jen Garcia ([@cuibonobo](https://github.com/cuibonobo)), Software Engineer, Atlanta, GA, USA
+- Patrick Bateman ([@pbateman828](https://github.com/pbateman828)), Student
