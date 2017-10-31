@@ -1781,3 +1781,4 @@ Signed,
 - Eddie Kaleb ([@eddiekaleb](https://github.com/EddieKaleb)), Computer Science Student, Brazil
 - Tom Zmyslo ([@tomzmyslo](https://github.com/tomzmyslo)), Software Developer
 - Wolfiri ([@wolfiri](https://github.com/wolfiri)), Not-A-Developer, California
+- lrtr ([@lrtr](https://github.com/lrtr)), Junior Backend Developer, Switzerland
