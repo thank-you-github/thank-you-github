@@ -1895,3 +1895,4 @@ Signed,
 - Alvaro Menezes ([@alvarollmenezes](https://github.com/alvarollmenezes)), Devops, Prodest.
 - Lucas Gabriel ([@lucasgbriell](https://github.com/lucasgbriell)), Web developer, Brazil.
 - Rafael Díaz ([@palancana](https://github.com/palancana)), CS Student, Spain.
+- Adrian Pistol ([@vifino[(https://github.com/vifino)), Sysadmin and Programmer, Germany.
