@@ -1893,3 +1893,4 @@ Signed,
 - Károlyi Péter ([@nodar86](https://github.com/nodar86)), Engineering student
 - Vinicius Salomão ([@vizeke](https://github.com/vizeke)), Developer, Brasil.
 - Alvaro Menezes ([@alvarollmenezes](https://github.com/alvarollmenezes)), Devops, Prodest.
+- Lucas Gabriel ([@lucasgbriell](https://github.com/lucasgbriell)), Web developer, Brazil.
