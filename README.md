@@ -1949,3 +1949,4 @@ Signed,
 - Sophie L ([@sophieml](https://github.com/sophieml)), Student
 - Akshama ([@Akshama](https://github.com/Akshama)), Student Developer, New Delhi, India
 - Lucas Souto ([@lucassouto](https://github.com/lucassouto)), Student of Computer Science and Developer
+- Grayson Sinclair ([@highwind360](https://github.com/Highwind360)), Developer, Seattle
