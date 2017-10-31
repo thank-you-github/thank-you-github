@@ -1937,3 +1937,4 @@ Signed,
 - Jason Townsley ([@jtownsley](https://github.com/jtownsley)), Software Engineer, United States
 - Markus Schwed ([@SweeD](https://github.com/SweeD)), [Founder @ CompanyMood](https://www.company-mood.com), Saarlouis, Germany
 - Ryan Pineo ([@ryanpineo](https://github.com/ryanpineo)), Software Engineer, Canada
+- Prashant S([@binary-master](https://github/com/binary-master)), Student, San Francisco
