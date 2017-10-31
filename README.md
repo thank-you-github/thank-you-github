@@ -1797,3 +1797,4 @@ Signed,
 - Hampus Lundqvist ([@RekkyRek](https://github.com/rekkyrek)), UI designer and developer for [devRantron](https://github.com/tahnik/devRantron) from Northern Sweden.
 - David White ([@wizardfrag](https://github.com/wizardfrag)), Software developer.
 - Soroush Torkzadeh ([@sorousht](https://github.com/sorousht)), Developer, Iran
+- Cuneyt Yilmaz ([@CuneytYilmaz](https://github.com/CuneytYilmaz)), Software Developer, Turkey
