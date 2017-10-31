@@ -1852,3 +1852,4 @@ Signed,
 - Aditya Gupta ([@adi1998](https://github.com/adi1998)), Hacker, India
 - Vishal Reddy ([@vishalre](https://github.com/vishalre)), CSE Undergraduate at IIIT-H
 - Vishwa Perera ([@astrofowl](https://github.com/astrofowl)),Student, UI/UX Engineering, Sri Lanka
+- Patrick Harris ([@TinyGobby]) (https://github.com/TinyGobby)), Self-teaching right now
