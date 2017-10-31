@@ -540,6 +540,7 @@ Signed,
 - Fábio Assunção ([@fabioassuncao](https://github.com/fabioassuncao)), Full Stack Web Developer, Brazil
 - Debanjan Basu ([@debanjan-basu](https://github.com/debanjan-basu)), Software Developer, Muscat, Oman
 - MD Danish Ansari ([@mddanishansari](https://github.com/mddanishansari)), Android Developer, India
+- Rian Erlangga Saputra ([@rerlanggas](https://github.com/rerlanggas)), Android & iOS Developer, Indonesia
 - Urmanschi Mihail ([@dsdmsa](https://github.com/dsdmsa)), Android Developer
 - Thomas Orth ([@atf1999](https://github.com/atf1999)), Android and Web developer
 - Priyanshu Jain ([@priyanshujain](https://github.com/priyanshujain)), Student Researcher, Guru Ghasidas University,India
