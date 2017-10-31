@@ -1807,6 +1807,7 @@ Signed,
 - Daniel Lazkani Feferman ([@fefer](https://github.com/fefer)), MSc. Student, Brazil
 - Lakshya Khattar ([@lakshya-221b](https://github.com/Lakshya-221b)), Student, Aspiring Android Developer
 - Shenith Sandeepa ([@Shenith](https://github.com/Shenith)), Student at University of Moratuwa Faculty of Information Technology.
+<<<<<<< HEAD
 - Segun Olumide ([@wonexo](https://github.com/wonexo)), Computer Engineering at Yabatech
 - Rian Erlangga Saputra ([@rerlanggas](https://github.com/rerlanggas)), Android & iOS Developer, Indonesia
 - Mohit Yadav ([@mohit242](https://github.com/mohit242)), B.E. Hons Computer Science, BITS Pilani
@@ -1868,3 +1869,4 @@ Signed,
 - Brian-Van-Stoner ([@Brian-Van-Stoner](https://github.com/Brian-Van-Stoner)), Software Developer,Uganda.
 -  Swapnesh Kumar ([@swapneshiitr](https://github.com/swapneshiitr)), E&CE undergrad, IIT Roorkee, India
 - Avish Cheetaram ([@avish0694](https://github.com/avish0694)), Software Developer, Mauritius.
+- Segun Olumide ([@wonexo](https://github.com/wonexo)), Computer Engineering at Yabatech
