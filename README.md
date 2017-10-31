@@ -1784,3 +1784,4 @@ Signed,
 - lrtr ([@lrtr](https://github.com/lrtr)), Junior Backend Developer, Switzerland
 - Ash Krishna ([@akrishna27](https://github.com/akrishna27))
 - Emerson Victor ([@emersonvictor](https://github.com/emersonvictor)), Student at UFPE
+- Salman Fakhri ([@Salamander1012](https://github.com/Salamander1012)), Rutgers University
