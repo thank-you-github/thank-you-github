@@ -1846,3 +1846,4 @@ Signed,
 - Kavitha S ([@Kavi97](https://github.com/Kavi97)), Student,India.
 - Deni Ardiansyah ([@denibla](https://github.com/denibla)), Student, Indonesia
 - Jose Segura ([@Nietzen](https://github.com/Nietzen)), Backend Developer, Costa Rica.
+- Vinay Aggarwal ([@vinagg999](https://github.com/vinagg999)), Computer Science Student, India.
