@@ -1942,3 +1942,4 @@ Signed,
 - Uche Jude ([@JudeTheGenius](https://github.com/JudeTheGenius)), Developer at Brindocor
 - Rejul ([@rejuls](https://github.com/rejuls)), Computer Engineering at KTU
 - Kevin Jonathan ([@kevinjt123](https://github.com/kevinjt123)), Python Developer, Indonesia
+- kittyengineer ([@kittyengineer](https://github.com/kittyengineer)), Student kid at a school in Victoria BC
