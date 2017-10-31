@@ -1799,3 +1799,4 @@ Signed,
 - Soroush Torkzadeh ([@sorousht](https://github.com/sorousht)), Developer, Iran
 - Cuneyt Yilmaz ([@CuneytYilmaz](https://github.com/CuneytYilmaz)), Software Developer, Turkey
 - Shruti Kapoor ([@shrutikapoor08](https://github.com/shrutikapoor08)), Front End Developer, San Francisco, CA.
+- Roman Borovik ([@RomanBorr](https://github.com/RomanBorr)), best C++ developer
