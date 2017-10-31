@@ -1897,6 +1897,7 @@ Signed,
 - Rafael Díaz ([@palancana](https://github.com/palancana)), CS Student, Spain.
 - Okanlawon Emmanuel ([@okanlawonema](https://github.com/okanlawonema)), Yaba college of Technology
 - Letícia Fernandes ([@leticiamara](https://github.com/leticiamara)), Android Developer, Brazil.
+- Hussain Sakriwala ([@hussainskr](https://github.com/hussainskr)), Software Developer, India.
 - Jonathan Carlson ([@jgcarlson](https://github.com/jgcarlson)), Software Developer
 - Hunter Rancourt ([@skwid138](https://github.com/skwid138)), JavaScript Engineer
 - Vitaly Khabarov ([@vitkhab](https://github.com/vitkhab)), Engineer, Russia.
