@@ -1766,3 +1766,4 @@ Signed,
 - Nathan Saraiva ([@nfss83]), (https://github.com/nfss83)), PhD Student, Brazil
 - Nir99 ([@nir099](https://github.com/nir099)), Student at University of Moratuwa Faculty of Information Technology.
 - Renaldy ([@LaurentiusRenaldy], (https://github.com/LaurentiusRenaldy)), iOS Developer, Indonesia
+- Marco Padillo ([@marcopadillo](https://github.com/marcopadillo)), Co-founder and CFOO, [Cynder](https://www.cynder.io)
