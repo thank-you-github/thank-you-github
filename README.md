@@ -1912,3 +1912,4 @@ Signed,
 - Agoston Dauner ([@daunera](https://github.com/daunera)), Student, Hungary.
 - Christian Fleschhut ([@cfleschhut](https://github.com/cfleschhut)), Front-end Developer, Berlin
 - Joshua Pandian ([@joshuag619](https://github.com/joshuag619)), Android developer, Sulur, India
+- Florian Bernklau ([@fbernklau](https://github.com/fbernklau)), Student, Business Computer Science, Austria
