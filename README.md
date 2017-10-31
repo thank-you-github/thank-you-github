@@ -1863,3 +1863,4 @@ Signed,
 - Renã Souza ([@renpas](https://github.com/renpas)), Developer, Brazil
 - Lwin Kyaw Myat ([@lwinkyawmyat](https://github.com/lwinkyawmyat)), Developer, Myanmar.
 - Luca Beetz ([@404response](https://github.com/404response)), Developer in his spare time, Germany
+- Elena ([@Eli312](https://github.com/Eli312)), Student, Germany.
