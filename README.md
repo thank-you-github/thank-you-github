@@ -1840,4 +1840,31 @@ Signed,
 - Wai Kit Kong ([@waikitkong](https://github.com/waikitkong)), Business Intelligence Analyst, Malaysia.
 - Gene Xu ([@genexu](https://github.com/genexu)), Geek and Computer Science Engineer, Taiwan
 - Pratik pathak ([@PathakPratik](https://github.com/PathakPratik)), Backend Engineer,India.
+- ThamiduNaveen ([@ThamiduNaveen](https://github.com/ThamiduNaveen)), Software Engineer,Sri Lanka.
+- Ajay Nataraj ([@ajaynataraj](https://github.com/ajaynataraj)), Software Developer, India.
+- Lucas Gabriel ([@lucasgbriell] (https://github.com/lucasgbriell)), Backend e frontend, Brazil
+- Kavitha S ([@Kavi97](https://github.com/Kavi97)), Student,India.
+- Deni Ardiansyah ([@denibla](https://github.com/denibla)), Student, Indonesia
+- Jose Segura ([@Nietzen](https://github.com/Nietzen)), Backend Developer, Costa Rica.
+- Vinay Aggarwal ([@vinagg999](https://github.com/vinagg999)), Computer Science Student, India.
+- Yasora Perera ([@yasora099](https://github.com/yasora099)), Student at University of Moratuwa .
+- Charuka Herath ([@charuka09](https://github.com/Charuka09)), Student at University of Moratuwa
+- Aditya Gupta ([@adi1998](https://github.com/adi1998)), Hacker, India
+- Vishal Reddy ([@vishalre](https://github.com/vishalre)), CSE Undergraduate at IIIT-H
+- Vishwa Perera ([@astrofowl](https://github.com/astrofowl)),Student, UI/UX Engineering, Sri Lanka
+- Patrick Harris ([@TinyGobby]) (https://github.com/TinyGobby)), Self-teaching right now
+- Shubham Kumar ([@Shubh-96](https://github.com/Shubh-96)), Developer
+- Niks Arora ([@niksofficial](https://github.com/niksofficial)), Backend Web Developer, India.
+- Ashwin jayaprakash ([@fanbyprinciple](https://github.com/fanbyprinciple)), student
+- R B Krishna ([@krishnarb3](https://github.com/krishnarb3)), Software Developer, India.
+- Gareth Griffiths ([@synbyte](https://github.com/synbyte)), Developer
 - Teruteru ([@teruteru128](https://github.com/teruteru128)), Developer, Japan
+- Muhammad Aziz Idharrulhaq ([@Azidharr](https://github.com/Azidharr)), Student, Indonesia
+- Renã Souza ([@renpas](https://github.com/renpas)), Developer, Brazil
+- Lwin Kyaw Myat ([@lwinkyawmyat](https://github.com/lwinkyawmyat)), Developer, Myanmar.
+- Luca Beetz ([@404response](https://github.com/404response)), Developer in his spare time, Germany
+- Elena ([@Eli312](https://github.com/Eli312)), Student, Germany.
+- Acid Chicken ([@acid-chicken](https://github.com/acid-chicken)), Student, Developer who is using C#, Japanese.
+- Brian-Van-Stoner ([@Brian-Van-Stoner](https://github.com/Brian-Van-Stoner)), Software Developer,Uganda.
+-  Swapnesh Kumar ([@swapneshiitr](https://github.com/swapneshiitr)), E&CE undergrad, IIT Roorkee, India
+- Avish Cheetaram ([@avish0694](https://github.com/avish0694)), Software Developer, Mauritius.
