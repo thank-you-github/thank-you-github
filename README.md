@@ -1705,6 +1705,7 @@ Signed,
 - Augusto S. Falcão ([@falcaoaugustos](https://github.com/falcaoaugustos)), Student, iOS Developer
 - Brij S ([@brij1010](https://github.com/brij1010)), Web Developer
 - Fernando Boaglio ([@boaglio](https://github.com/boaglio)), Developer, Sao Paulo, Brazil
+- Renã Souza ([@renpas](https://github.com/renpas)), Developer, Brazil
 - Sarawut Silprawat ([@benzsamator](https://github.com/benzsamator)), Developer
 - Jonathan Chen ([@dijonkitchen](https://github.com/dijonkitchen)), Software Engineer
 - Seth Miller ([@fantop](https://github.com/fantop)), Student, Aspiring Software Engineer
