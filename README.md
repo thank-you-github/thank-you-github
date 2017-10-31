@@ -1889,3 +1889,4 @@ Signed,
 - Suraj Gupta ([@SurajGupta97](https://github.com/SurajGupta97)), CSE Undergrad at IIT Roorkee, India
 - Pedro Sereno ([@psg2](https://github.com/psg2)), Student, Software Engineer, Brazil.
 - kunjan govil ([@kunjan54](https://github.com/kunjan54)), Student, JUIT Solan, India .
+- Andrew Khoma ([@Izuumka](https://github.com/Izuumka)), student
