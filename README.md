@@ -1791,3 +1791,4 @@ Signed,
 - Juliana Stepanova ([@ptishon](https://github.com/ptishon)), Scrum Master, Germany
 - AndiLee111 ([@andilee111](https://github.com/andilee111)), Systems Engineer, Munich, Germany
 - Rob White ([@FearTheFrail](https://github.com/FearTheFrail)), Enthusiast, United States
+- ayush chaubey ([@chaubeyayush](https://github.com/chaubeyayush)), Student at Jadavpur University,kolkata.
