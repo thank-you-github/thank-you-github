@@ -1929,3 +1929,4 @@ Signed,
 - Jaldhar H. Vyas ([@jaldhar](https://github.com/jaldhar)), CEO, Consolidated Braincells Inc., USA
 - Rishi Kaushik ([@Rishi-kaushik](https://github.com/Rishi-kaushik)), Patiala, India
 - Leonardo Monge García ([@leomongeg](https://github.com/leomongeg)), Developer, Costa Rica
+- Stepan Romanchuk ([@ArborLaureus](https://github.com/ArborLaureus)), Student, Ukraine
