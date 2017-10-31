@@ -514,7 +514,7 @@ Signed,
 - Rahul Babbar ([@rahulbabbar1](https://github.com/rahulbabbar1)), Developer, Computer Science Undergraduate at IIT Roorkee, India.
 - Shivam Agarwal ([@shivam-code97](https://github.com/shivam-code97)), Developer, Computer Science Undergraduate at IIT Roorkee, India.
 - Akshat Bhardwaj ([@akshatr](https://github.com/akshatr)), Developer, Computer Science Undergraduate at IIT Roorkee, India.
-- Abhishek Sajwan ([@abhishek1997](https://github.com/abhishek1997)), Developer, Computer Science Undergraduate at IIT Roorkee, India.
+- Abhishek Sajwan ([@abhishek1997](https://github.com/abhishek1997)), Developer, Computer Science Junior at IIT Roorkee, India.
 - Pranjal Tale ([@pranjaltale16](https://github.com/pranjaltale16)), Developer,Applied Mathematics Undergraduate at IIT Roorkee, India.
 - Prempal Singh ([@prempalsingh](https://github.com/prempalsingh)), Android Developer
 - Gautam Chaudhary ([@gchaudhary](https://github.com/gchaudhary)), Android Developer, Computer Science and Engineering at IIT Roorkee, India
@@ -1888,10 +1888,3 @@ Signed,
 - Ankita Muzalda ([@amuzalda](https://github.com/amuzalda)), Student, Jodhpur, India
 - Suraj Gupta ([@SurajGupta97](https://github.com/SurajGupta97)), CSE Undergrad at IIT Roorkee, India
 - Pedro Sereno ([@psg2](https://github.com/psg2)), Student, Software Engineer, Brazil.
-- kunjan govil ([@kunjan54](https://github.com/kunjan54)), Student, JUIT Solan, India .
-- Andrew Khoma ([@Izuumka](https://github.com/Izuumka)), student
-- Károlyi Péter ([@nodar86](https://github.com/nodar86)), Engineering student
-- Vinicius Salomão ([@vizeke](https://github.com/vizeke)), Developer, Brasil.
-- Alvaro Menezes ([@alvarollmenezes](https://github.com/alvarollmenezes)), Devops, Prodest.
-- Lucas Gabriel ([@lucasgbriell](https://github.com/lucasgbriell)), Web developer, Brazil.
-- Rafael Díaz ([@palancana](https://github.com/palancana)), CS Student, Spain.
