@@ -1803,3 +1803,4 @@ Signed,
 - Daniel Lazkani Feferman ([@fefer]), (https://github.com/fefer)), MSc. Student, Brazil
 - Anubhav Patel ([@anubhavp28](https://github.com/anubhavp28)), Undergrad student at Indian Institute of Information Technology, Kalyani, India.
 - Kunal Sharma ([@kunal12422](https://github.com/kunal12422)), Computer Science, NIT Hamirpur, India
+- juansebasmv ([@juansebasmv](https://github.com/juansebasmv)), Student at University of Campinas.
