@@ -1872,3 +1872,4 @@ Signed,
 - Florent Espanet ([@volnt](https://github.com/volnt)), Software Engineer, France
 - Bonsembiante Patricio ([@Phanatos-](https://github.com/Phanatos-)), Software Developer, Argentina
 - Nassim Belferoum ([@Snyplife](https://github.com/Snyplife)), Developer Junior, France
+- Hafiz ([@xmhafiz](https://github.com/xmhafiz)), Swift Developer, Malaysia
