@@ -1786,3 +1786,4 @@ Signed,
 - Emerson Victor ([@emersonvictor](https://github.com/emersonvictor)), Student at UFPE
 - Salman Fakhri ([@Salamander1012](https://github.com/Salamander1012)), Rutgers University
 - Juan Uribe ([@juribe80](https://github.com/juribe80)), Student at Rutgers University- New Brunswick.
+- Kuber Sethi ([@kubersethi](https://github.com/kubersethi)), Student at Rutgers University
