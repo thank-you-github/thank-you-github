@@ -1941,3 +1941,4 @@ Signed,
 - Julian Engel ([@julianengel](https://github.com/julianengel)), GitHub Campus Expert, Limassol Cyprus
 - Uche Jude ([@JudeTheGenius](https://github.com/JudeTheGenius)), Developer at Brindocor
 - Rejul ([@rejuls](https://github.com/rejuls)), Computer Engineering at KTU
+- Kevin Jonathan ([@kevinjt123](https://github.com/kevinjt123)), Python Developer, Indonesia
