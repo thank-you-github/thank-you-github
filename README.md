@@ -1845,3 +1845,4 @@ Signed,
 - Lucas Gabriel ([@lucasgbriell] (https://github.com/lucasgbriell)), Backend e frontend, Brazil
 - Kavitha S ([@Kavi97](https://github.com/Kavi97)), Student,India.
 - Deni Ardiansyah ([@denibla](https://github.com/denibla)), Student, Indonesia
+- Jose Segura ([@Nietzen](https://github.com/Nietzen)), Backend Developer, Costa Rica.
