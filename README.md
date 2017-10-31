@@ -1782,3 +1782,4 @@ Signed,
 - Tom Zmyslo ([@tomzmyslo](https://github.com/tomzmyslo)), Software Developer
 - Wolfiri ([@wolfiri](https://github.com/wolfiri)), Not-A-Developer, California
 - lrtr ([@lrtr](https://github.com/lrtr)), Junior Backend Developer, Switzerland
+- Ash Krishna ([@akrishna27](https://github.com/akrishna27))
