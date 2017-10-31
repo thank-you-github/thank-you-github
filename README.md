@@ -1832,3 +1832,4 @@ Signed,
 - Anmol Singh ([@radbrawler](https://github.com/radbrawler)), Software developer, India
 - Fitriana Alivia ([@mrsdark](https://github.com/mrsdark)), Student, Indonesia
 - Yudhi Satrio ([@isatrio](https://github.com/isatrio)), Front End Developer from Indonesia
+- Bharat Raghunathan ([@Bharat123rox](https://github.com/Bharat123rox)), Undergraduate at BITS Pilani Hyderabad Campus
