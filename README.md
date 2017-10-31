@@ -1764,4 +1764,5 @@ Signed,
 - Kelvin Wong ([@kwong21](https://github.com/kwong21)), DevOps, Canada
 - Priyanshu Agarwal ([@PriyanshuAgg](https://github.com/PriyanshuAgg)), undergrad at The LNM Institue of Information Technology, India
 - Nathan Saraiva ([@nfss83]), (https://github.com/nfss83)), PhD Student, Brazil
-- Nir99 ([@nir099](https://github.com/nir099)), Student at University of Moratuwa Faculty of Information Technology.
+- Nir99 ([@nir099](https://github.com/nir099)), Student at University of Moratuwa Faculty of Information Technology
+- kittyengineer ([@kittyengineer](https://github.com/kittyengineer)), Student kid at a school in Victoria BC 
