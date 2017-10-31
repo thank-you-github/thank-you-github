@@ -1858,3 +1858,4 @@ Signed,
 - Ashwin jayaprakash ([@fanbyprinciple](https://github.com/fanbyprinciple)), student
 - R B Krishna ([@krishnarb3](https://github.com/krishnarb3)), Software Developer, India.
 - Gareth Griffiths ([@synbyte](https://github.com/synbyte)), Developer
+- Teruteru ([@teruteru128](https://github.com/teruteru128)), Developer, Japan
