@@ -1891,3 +1891,4 @@ Signed,
 - kunjan govil ([@kunjan54](https://github.com/kunjan54)), Student, JUIT Solan, India .
 - Andrew Khoma ([@Izuumka](https://github.com/Izuumka)), student
 - Károlyi Péter ([@nodar86](https://github.com/nodar86)), Engineering student
+- Vinicius Salomão ([@vizeke](https://github.com/vizeke)), Developer, Brasil.
