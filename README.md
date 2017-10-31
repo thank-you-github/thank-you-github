@@ -1861,3 +1861,4 @@ Signed,
 - Teruteru ([@teruteru128](https://github.com/teruteru128)), Developer, Japan
 - Muhammad Aziz Idharrulhaq ([@Azidharr](https://github.com/Azidharr)), Student, Indonesia
 - Renã Souza ([@renpas](https://github.com/renpas)), Developer, Brazil
+- Lwin Kyaw Myat ([@lwinkyawmyat](https://github.com/lwinkyawmyat)), Developer, Myanmar.
