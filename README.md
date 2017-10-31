@@ -1818,3 +1818,4 @@ Signed,
 - Bryen Vieira :bulb: ([@bryen95](https://github.com/bryen95)), Android Developer, London, UK
 - Martijn Smidt ([@HemeraOne](https://github.com/HemeraOne)), IT Engineer, Netherlands
 - Jonathan de Zoete ([@jonathandezoete](https://github.com/jonathandezoete)),Webdeveloper @ Den Haag, Holland
+- Santanaraj Esguerra ([@akiyamamio16](https://github.com/akiyamamio16)), Back-End Developer, Student at Our Lady Of Fatima University, Intern at Toro.io
