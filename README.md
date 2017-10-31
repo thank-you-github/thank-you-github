@@ -1898,3 +1898,4 @@ Signed,
 - Okanlawon Emmanuel ([@okanlawonema](https://github.com/okanlawonema)), Yaba college of Technology
 - Letícia Fernandes ([@leticiamara](https://github.com/leticiamara)), Android Developer, Brazil.
 - Jonathan Carlson ([@jgcarlson](https://github.com/jgcarlson)), Software Developer
+- Hunter Rancourt ([@skwid138](https://github.com/skwid138)), JavaScript Engineer
