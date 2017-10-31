@@ -1772,3 +1772,4 @@ Signed,
 - Martin Valentino ([@martindavid](https://github.com/martindavid)), Software Engineer, Master Student, Melbourne, AU
 - Ash Krishna ([@akrishna27](https://github.com/akrishna27)), Student at Rutgers University
 - Stupy Spyy ([@Stupyspyy](https://github.com/Stupyspyy)), Learning student
+- Jesse Rhoads ([@JesseRhoads](https://github.com/JesseRhoads)), OpsDev Engineer, USA
