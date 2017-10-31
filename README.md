@@ -1824,3 +1824,4 @@ Signed,
 - Ondrej Vasko ([@Lirt](https://github.com/Lirt)), System Administrator and founder of [kirro.io](https://kirro.io/), Slovakia
 - Muhammad Refa ([@muhammadrefa](https://github.com/muhammadrefa)), ordinary people
 - Ingako Umi ([@ingako](https://github.com/ingako)), Software Engineer
+- Ashik Jose ([@ashikjose](https://github.com/ashikjose)), Computer Science, Madras Institute of Technology
