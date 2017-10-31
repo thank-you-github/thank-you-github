@@ -1774,3 +1774,4 @@ Signed,
 - Stupy Spyy ([@Stupyspyy](https://github.com/Stupyspyy)), Learning student
 - Jesse Rhoads ([@JesseRhoads](https://github.com/JesseRhoads)), OpsDev Engineer, USA
 - Gabriel  ([@GabrielFiel](https://github.com/GabrielFiel)), Student, Brazil
+- David Rojas ([@DavidRojas1612](https://github.com/DavidRojas1612)), Developer
