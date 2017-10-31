@@ -1880,3 +1880,4 @@ Signed,
 - Surbhi Jha ([@SurbhiJha](https://github.com/SurbhiJha)), Android Developer, India
 - Jonathan Sun ([@jspsun](https://github.com/jspsun)), Developer
 - Arjun Naha ([@arjunnaha](https://github.com/arjunnaha)), App Engineer, UK.
+- Viktor Malieichyk ([@viktor-malieichyk](https://github.com/viktor-malieichyk)), Mobile Developer, Ukraine
