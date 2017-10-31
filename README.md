@@ -1886,3 +1886,4 @@ Signed,
 - Sailaja Nimmagadda ([@sailaja-nimmagadda](https://github.com/sailaja-nimmagadda)), ECE Undergraduate at IIIT-H.
 - Dhananjay P ([@dhananjaypugalendi](https://github.com/dhananjaypugalendi)), Android and Django Developer.
 - Ankita Muzalda ([@amuzalda](https://github.com/amuzalda)), Student, Jodhpur, India
+- Suraj Gupta ([@SurajGupta97](https://github.com/SurajGupta97)), CSE Undergrad at IIT Roorkee, India
