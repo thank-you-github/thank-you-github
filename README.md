@@ -1948,3 +1948,4 @@ Signed,
 - Abhishek Tiwari ([@zeus0789](https://github.com/zeus0789)), Student at Indian Institute of Information Technology, Kalyani
 - Sophie L ([@sophieml](https://github.com/sophieml)), Student
 - Akshama ([@Akshama](https://github.com/Akshama)), Student Developer, New Delhi, India
+- Lucas Souto ([@lucassouto](https://github.com/lucassouto)), Student of Computer Science and Developer
