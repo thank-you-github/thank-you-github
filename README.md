@@ -1809,3 +1809,4 @@ Signed,
 - Shenith Sandeepa ([@Shenith](https://github.com/Shenith)), Student at University of Moratuwa Faculty of Information Technology.
 - Segun Olumide ([@wonexo](https://github.com/wonexo)), Computer Engineering at Yabatech
 - Rian Erlangga Saputra ([@rerlanggas](https://github.com/rerlanggas)), Android & iOS Developer, Indonesia
+- Mohit Yadav ([@mohit242](https://github.com/mohit242)), B.E. Hons Computer Science, BITS Pilani
