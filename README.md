@@ -1900,3 +1900,4 @@ Signed,
 - Jonathan Carlson ([@jgcarlson](https://github.com/jgcarlson)), Software Developer
 - Hunter Rancourt ([@skwid138](https://github.com/skwid138)), JavaScript Engineer
 - Vitaly Khabarov ([@vitkhab](https://github.com/vitkhab)), Engineer, Russia.
+- Júnior Lima ([@juniorlimaivd](https://github.com/juniorlimaivd)), Computer Engineering Student, Brazil.
