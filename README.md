@@ -1922,3 +1922,4 @@ Signed,
 - Jen Garcia ([@cuibonobo](https://github.com/cuibonobo)), Software Engineer, Atlanta, GA, USA
 - Patrick Bateman ([@pbateman828](https://github.com/pbateman828)), Student
 - Kosuke Hata ([@entire](https://github.com/entire)), Software Engineer
+- Velimir Kumric ([@vkumric](https://github.com/vkumric)), Student, Toronto.
