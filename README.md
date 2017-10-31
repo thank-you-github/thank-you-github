@@ -1890,3 +1890,4 @@ Signed,
 - Pedro Sereno ([@psg2](https://github.com/psg2)), Student, Software Engineer, Brazil.
 - kunjan govil ([@kunjan54](https://github.com/kunjan54)), Student, JUIT Solan, India .
 - Andrew Khoma ([@Izuumka](https://github.com/Izuumka)), student
+- Károlyi Péter ([@nodar86](https://github.com/nodar86)), Engineering student
