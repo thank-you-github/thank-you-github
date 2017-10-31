@@ -1,4 +1,4 @@
-Dear GitHub,
+﻿Dear GitHub,
 
 Before 2007, the way to participate in Open Source was fragmented. Each project
 had their own workflow, patches circulated in emails, issues were reported in
@@ -1936,3 +1936,4 @@ Signed,
 - Ritwik Patil ([@draguve](https://github.com/draguve)) , Student , India
 - Jason Townsley ([@jtownsley](https://github.com/jtownsley)), Software Engineer, United States
 - Markus Schwed ([@SweeD](https://github.com/SweeD)), [Founder @ CompanyMood](https://www.company-mood.com), Saarlouis, Germany
+- Sophie L ([@sophieml](https://github.com/sophieml)), Student
