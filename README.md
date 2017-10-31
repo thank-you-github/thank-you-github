@@ -1130,7 +1130,7 @@ Signed,
 - Max Rugen ([@maxrugen](https://github.com/maxrugen)), Student, Dresden, Germany
 - Massimiliano Montaleone ([@Fast0n](https://github.com/Fast0n)), Student and Developer, Italy
 - Melby Baldove ([@melbystyle](https://github.com/melbystyle)), Software Developer, Philippines
-- Prakash Chakraborty ([@Joonsang1994](https://github.com/Joonsang1994)), Software Developer, Mysore, India
+- Prakash Chakraborty ([@Joonsang1994](https://github.com/Joonsang1994)), Software Developer, Mysore, India.
 - Theo Massard ([@massard-t](https://github.com/massard-t/)), DevOps, France
 - Sivakorn Pranomsri ([@Sivakorn12](https://github.com/Sivakorn12)), Student, Thailand
 - Oriol Fitó ([@orifito](https://github.com/orifito)), DevOps Engineer, Catalonia
