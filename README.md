@@ -211,6 +211,7 @@ Signed,
 - Alessandro Nadalin ([@odino](https://github.com/odino)), VP technology at [Namshi](https://www.namshi.com)
 - David Mackay ([@JX7P](https://github.com/JX7P)), Development Lead and Critical Theory of Programming Languages Researcher for [JX Objective-C](https://github.com/JX7P/JXobjC)
 - Andrew Sun ([@as-com](https://github.com/as-com)), Kitten Hugger
+- Ashwin jayaprakash ([@fanbyprinciple](https://github.com/fanbyprinciple)), student
 - Krish Munot ([@krishmunot](https://github.com/krishmunot)), Developer
 - Wellington Pardim ([@wellpardim](https://github.com/Wellpardim/)), Student
 - Soumya Ray ([@soumyaray](https://github.com/soumyaray)), Associate Professor, National Tsing Hua University, Taiwan
