@@ -1912,3 +1912,4 @@ Signed,
 - Decipher ([@Decipher0](https://github.com/Decipher0)), Stupid Student.
 - Albert Itayev ([@Johnnycus](https://github.com/Johnnycus)), Full Stack JavaScript Developer, Kazakhstan.
 - Agoston Dauner ([@daunera](https://github.com/daunera)), Student, Hungary.
+- Christian Fleschhut ([@cfleschhut](https://github.com/cfleschhut)), Front-end Developer, Berlin
