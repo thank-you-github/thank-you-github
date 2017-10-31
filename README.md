@@ -1918,3 +1918,4 @@ Signed,
 - Adam Lamar ([@adamlamar](https://github.com/adamlamar)), Software Developer, USA
 - Jessica Solis ([@jessynay](https://github.com/jessynay)), Student, California
 - Sam Jakos ([@sjakos](https://github.com/sjakos)), Developer, USA
+- Rick Haan ([@rickhaan](https://github.com/rickhaan)), Student
