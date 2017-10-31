@@ -1925,3 +1925,4 @@ Signed,
 - Velimir Kumric ([@vkumric](https://github.com/vkumric)), Student, Toronto.
 - Leonardo Soares ([@leonardogcsoares](https://github.com/leonardogcsoares)), Developer, Amsterdam, Netherlands
 - Roshin C ([@roshinc](https://github.com/roshinc)), CS Student, New York.
+- Alex Klyanchin ([@jbmeerkat](https://github.com/jbmeerkat)), Software Engineer at Bookmate, Russia
