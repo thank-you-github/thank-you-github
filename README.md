@@ -1899,3 +1899,4 @@ Signed,
 - Letícia Fernandes ([@leticiamara](https://github.com/leticiamara)), Android Developer, Brazil.
 - Jonathan Carlson ([@jgcarlson](https://github.com/jgcarlson)), Software Developer
 - Hunter Rancourt ([@skwid138](https://github.com/skwid138)), JavaScript Engineer
+- Vitaly Khabarov ([@vitkhab](https://github.com/vitkhab)), Engineer, Russia.
