@@ -1768,3 +1768,4 @@ Signed,
 - Renaldy ([@LaurentiusRenaldy], (https://github.com/LaurentiusRenaldy)), iOS Developer, Indonesia
 - Marco Padillo ([@marcopadillo](https://github.com/marcopadillo)), Co-founder and CFOO, [Cynder](https://www.cynder.io)
 - Robert Olsthoorn ([@rolstenhouse](https://github.com/rolstenhouse)), Computer engineering student and fledgling engineer
+- Karun Japhet ([@javatarz](https://github.com/javatarz)), Developer, ThoughtWorks
