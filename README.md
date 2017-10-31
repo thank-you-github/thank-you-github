@@ -1788,3 +1788,4 @@ Signed,
 - Juan Uribe ([@juribe80](https://github.com/juribe80)), Student at Rutgers University- New Brunswick.
 - Kuber Sethi ([@kubersethi](https://github.com/kubersethi)), Student at Rutgers University
 - Jacqueline Outka ([@outkaj](https://github.com/outkaj)), Full Stack Software Developer
+- Juliana Stepanova ([@ptishon](https://github.com/ptishon)), Scrum Master, Germany
