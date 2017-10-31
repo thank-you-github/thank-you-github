@@ -1836,3 +1836,4 @@ Signed,
 -Andrea Perera ([@AndreaNim](https://github.com/AndreaNim)),Student of Informatics Intitute Of Tecnology
 - Chanon Sae-lee ([@yong0011](https://github.com/yong0011)), Computer Science at King Mongkut's Institute of Technology Ladkrabang.
 - Cameron Behning ([@cbehn](https://github.com/cbehn)), Digital Architect and Generative Design, Univeristy of Arizona
+- Aiyas Aboobakar ([@ayswl](https://github.com/ayswl)), Analyst at [Fave](https://myfave.com/)
