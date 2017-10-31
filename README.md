@@ -1868,3 +1868,4 @@ Signed,
 - Brian-Van-Stoner ([@Brian-Van-Stoner](https://github.com/Brian-Van-Stoner)), Software Developer,Uganda.
 -  Swapnesh Kumar ([@swapneshiitr](https://github.com/swapneshiitr)), E&CE undergrad, IIT Roorkee, India
 - Avish Cheetaram ([@avish0694](https://github.com/avish0694)), Software Developer, Mauritius.
+- Viktor Malieichyk ([@viktor-malieichyk](https://github.com/viktor-malieichyk)), Mobile Developer, Ukraine
