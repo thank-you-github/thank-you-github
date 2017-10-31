@@ -1821,3 +1821,4 @@ Signed,
 - Santanaraj Esguerra ([@akiyamamio16](https://github.com/akiyamamio16)), Back-End Developer, Student at Our Lady Of Fatima University, Intern at Toro.io
 - Joonas Tiala ([@jtiala](https://github.com/jtiala)), Software Engineer, Oulu, Finland
 - Pranshu Pranjal ([@Pranshu98](https://github.com/Pranshu98)), Student at VIT Vellore, IT Branch
+- Ondrej Vasko ([@Lirt](https://github.com/Lirt)), System Administrator and founder of [kirro.io](https://kirro.io/), Slovakia
