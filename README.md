@@ -1610,7 +1610,6 @@ Signed,
 - Pui Lam Cheng ([@pc592](https://github.com/pc592)), Student @ Cornell University
 - Esau Silva ([@esausilva](https://github.com/esausilva)), Software Engineer
 - Dede Hamzah ([@dehamzah](https://github.com/dehamzah)), Fullstack Developer, Indonesia
-
 - Al Zverev ([@alwye](https://github.com/alwye)), Software Engineer at Cisco, UK
 - Dibya Prakash Das ([@dibyadas](https://github.com/dibyadas)), Mathematics and Computing Student, India
 - Piana Loris ([@PianaLoris](https://github.com/PianaLoris)), Student, Developer
@@ -1735,7 +1734,7 @@ Signed,
 - Arvind S ([@arvind0598](https://github.com/arvind0598)), CCE Student, MIT Manipal.
 - Sugeng Sulistiyawan ([@die-coding](https://github.com/die-coding)), Owner Die Coding ([diecoding.com](https://diecoding.com)), Developer
 - Vishal Pouras([@vishal-pouras](https://github.com/vishal-pouras)), Computer Science and Engineering, IIT Roorkee, India
-- Saksham Garg ([@sak6e] (https://github.com/sak6e)), Competitive Programmer, Student,India
+- Saksham Garg ([@sak6e](https://github.com/sak6e)), Competitive Programmer, Student,India
 - Quinty van Dijk ([@kwint](https://github.com/kwint)), Student, The Netherlands
 - Dimitar Jilanov ([@djilanov](https://github.com/djilanov)), Software Developer, Bulgaria
 - Logan Stucki ([@Smarticles101](https://github.com/Smarticles101)), Student Developer and Open Source Contributor
@@ -1759,9 +1758,10 @@ Signed,
 - Héricles Emanuel ([@hericlesme](https://github.com/hericlesme)), Student Programmer, Brasil
 - Suman Chaurasia ([@bzero0](https://github.com/bzero0)), Computer Science Engineer, India
 - Ritvik singhal ([@ritviksinghal1998](https://github.com/ritviksinghal1998)),Programmer and developer at IIT Roorkee
-- Dylan Fahringer ([@djfahringer] (https://github.com/djfahringer)), Student
+- Dylan Fahringer ([@djfahringer](https://github.com/djfahringer)), Student
 - Gaurav Tiwari ([@LvnGDead](https://github.com/LvnGDead)), Student, Aspiring Android Developer
 - Kelvin Wong ([@kwong21](https://github.com/kwong21)), DevOps, Canada
 - Priyanshu Agarwal ([@PriyanshuAgg](https://github.com/PriyanshuAgg)), undergrad at The LNM Institue of Information Technology, India
 - Nathan Saraiva ([@nfss83]), (https://github.com/nfss83)), PhD Student, Brazil
 - Nir99 ([@nir099](https://github.com/nir099)), Student at University of Moratuwa Faculty of Information Technology.
+- Airqz ([@Airqz](https://github.com/airqz)), Everlasting student, France
