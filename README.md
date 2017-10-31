@@ -1921,3 +1921,4 @@ Signed,
 - Rick Haan ([@rickhaan](https://github.com/rickhaan)), Student
 - Jen Garcia ([@cuibonobo](https://github.com/cuibonobo)), Software Engineer, Atlanta, GA, USA
 - Patrick Bateman ([@pbateman828](https://github.com/pbateman828)), Student
+- Kosuke Hata ([@entire](https://github.com/entire)), Software Engineer
