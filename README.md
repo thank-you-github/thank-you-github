@@ -26,6 +26,7 @@ Signed,
 - David Pacioianu ([@davidpacioianu](https://github.com/davidpacioianu)), CEO at PixelCan
 - Drew Morris ([@drewry](https://github.com/drewry)), Developer
 - John Drago ([@jdrago999](https://github.com/jdrago999)), Developer
+- Yasora Perera ([@yasora099](https://github.com/yasora099)), Student at University of Moratuwa .
 - Josh Kurz ([@jkurz](https://github.com/jkurz)), BA
 - Joshua Burns ([@jdburnz](https://github.com/jdburnz)), CEO at Message In Action
 - Justin Wayne ([@jcwayne](https://github.com/jcwayne)), CIO at BIG Inventory
