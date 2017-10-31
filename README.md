@@ -1769,7 +1769,7 @@ Signed,
 - Robert Olsthoorn ([@rolstenhouse](https://github.com/rolstenhouse)), Computer engineering student and fledgling engineer
 - Karun Japhet ([@javatarz](https://github.com/javatarz)), Developer, ThoughtWorks
 - Martin Valentino ([@martindavid](https://github.com/martindavid)), Software Engineer, Master Student, Melbourne, AU
-- Ash Krishna ([@akrishna27](https://github.com/akrishna27)), Student at Rutgers University
+- Ash Krishna ([@akrishna27](https://github.com/akrishna27)), Student at Rutgers University - New Brunswick, USA
 - Stupy Spyy ([@Stupyspyy](https://github.com/Stupyspyy)), Learning student
 - Jesse Rhoads ([@JesseRhoads](https://github.com/JesseRhoads)), OpsDev Engineer, USA
 - Gabriel  ([@GabrielFiel](https://github.com/GabrielFiel)), Student, Brazil
