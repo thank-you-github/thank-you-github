@@ -1769,3 +1769,4 @@ Signed,
 - Marco Padillo ([@marcopadillo](https://github.com/marcopadillo)), Co-founder and CFOO, [Cynder](https://www.cynder.io)
 - Robert Olsthoorn ([@rolstenhouse](https://github.com/rolstenhouse)), Computer engineering student and fledgling engineer
 - Karun Japhet ([@javatarz](https://github.com/javatarz)), Developer, ThoughtWorks
+- Martin Valentino ([@martindavid](https://github.com/martindavid)), Software Engineer, Master Student, Melbourne, AU
