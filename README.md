@@ -1869,3 +1869,4 @@ Signed,
 -  Swapnesh Kumar ([@swapneshiitr](https://github.com/swapneshiitr)), E&CE undergrad, IIT Roorkee, India
 - Avish Cheetaram ([@avish0694](https://github.com/avish0694)), Software Developer, Mauritius.
 - Sahil Sharma ([@end83](https://github.com/end83)),Programming Enthusiast,IIT Patna,India
+- Florent Espanet ([@volnt](https://github.com/volnt)), Software Engineer, France
