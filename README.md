@@ -1897,3 +1897,4 @@ Signed,
 - Rafael Díaz ([@palancana](https://github.com/palancana)), CS Student, Spain.
 - Okanlawon Emmanuel ([@okanlawonema](https://github.com/okanlawonema)), Yaba college of Technology
 - Letícia Fernandes ([@leticiamara](https://github.com/leticiamara)), Android Developer, Brazil.
+- Jonathan Carlson ([@jgcarlson](https://github.com/jgcarlson)), Software Developer
