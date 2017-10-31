@@ -90,6 +90,7 @@ Signed,
 - Paul Knopf ([@theonlylawislove](https://github.com/theonlylawislove)), Developer
 - Přemysl Donát ([@masa331](https://github.com/Masa331)), Web Developer
 - Alex Meswarb ([@ameswarb](https://github.com/ameswarb)), Developer
+- Patrick Harris ([@TinyGobby]) (https://github.com/TinyGobby)), Self-teaching right now
 - Alessio Fanelli ([@FanaHOVA](https://github.com/FanaHOVA)), Developer
 - Huqiu Liao ([@liaohuqiu](https://github.com/liaohuqiu)), Full Stack Engineer [Top ranked in USA](http://github-awards.com/users/search?login=liaohuqiu)
 - Teodor Szente ([@teosz](https://github.com/teosz)), Developer
