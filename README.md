@@ -221,6 +221,7 @@ Signed,
 - Danil Dubrovsky ([@FRedEnergy](https://github.com/FRedEnergy)), Software Engineer and OSS contributor
 - Philippe Loctaux ([@ploctaux](https://github.com/ploctaux)), Software Developer
 - Gaurav Ragtah ([@gragtah](https://github.com/gragtah)), Student, Software Engineer, Startup founder
+
 - Mukesh M ([@silentninja](https://github.com/silentninja)), Software Developer
 - Stefan Ric ([@cybre](https://github.com/cybre)), Software Developer
 - Andrew Quebe ([@Andrew-Quebe](https://github.com/Andrew-Quebe)), Student, Android Developer, Web Developer
@@ -617,6 +618,7 @@ Signed,
 - Tero Tasanen ([@ttasanen](https://github.com/ttasanen)), CTO at [CRM-service](https://crm-service.fi/)
 - Patrick Wozniak ([@patlux](https://github.com/patlux)), Developer, Germany
 - David Zhang ([@crispgm](https://github.com/crispgm)), Full-Stack Web Developer, China
+- Shenith Sandeepa ([@Shenith](https://github.com/Shenith/Shenith)) , Student at University of Moratuwa Faculty of Information Technology.
 - Enoch Nyako ([@enochN](https://github.com/enochN)), Software Engineer, Ghana
 - Aditya Arora ([@adi23arora](https://github.com/adi23arora)), Android Developer, India.
 - Willian Yassunaka ([@willianhy](https://github.com/willianhy)), Developer, Brazil
