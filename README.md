@@ -1896,3 +1896,4 @@ Signed,
 - Lucas Gabriel ([@lucasgbriell](https://github.com/lucasgbriell)), Web developer, Brazil.
 - Rafael Díaz ([@palancana](https://github.com/palancana)), CS Student, Spain.
 - Okanlawon Emmanuel ([@okanlawonema](https://github.com/okanlawonema)), Yaba college of Technology
+- Jonathan Carlson ([@jgcarlson](https://github.com/jgcarlson)), Software Developer
