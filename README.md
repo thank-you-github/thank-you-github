@@ -1779,3 +1779,4 @@ Signed,
 - Ryan Vansickle ([@Doeoeod](https://github.com/Doeoeod)), Aspiring (competent) Developer, Canada
 - Ross Brown ([@Ross-Likes-Math](https://github.com/Ross-Likes-Math)), Math and Computer Science student, New Jersey, USA
 - Eddie Kaleb ([@eddiekaleb](https://github.com/EddieKaleb)), Computer Science Student, Brazil
+- Tom Zmyslo ([@tomzmyslo](https://github.com/tomzmyslo)), Software Developer
