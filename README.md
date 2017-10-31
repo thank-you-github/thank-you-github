@@ -1390,7 +1390,7 @@ Signed,
 - Mayank ([@myk7hackon](https://github.com/myk7hackon)), Student , Delhi , India
 - Apurva N. Saraogi ([@apurva91](https://github.com/apurva91)), CSE student, IIT Guwahati, India
 - Taras Yarema ([@tarasyarema](https://github.com/tarasyarema)), Maths Student, Barcelona, Spain
-- Tino Max Thayil ([@tinomaxthayil)](https://github.com/tinomaxthayil)) ,CSE student , MEC, India
+- Tino Max Thayil ([@tinomaxthayil](https://github.com/tinomaxthayil)) ,CSE student , MEC, India
 - Ayush Shrivastava ([@interritus1996](https://github.com/interritus1996)), CSE Student, IIT (BHU) Varanasi, India
 - Lucas Moraes ([@moraesslucas](https://github.com/moraesslucas)), Software Developer, Porto Alegre, Brazil
 - Arkady Telegin ([@Akyshnik](https://github.com/Akyshnik)), ML student, Worldwide
@@ -1411,7 +1411,7 @@ Signed,
 - Abhishek Chakravarty ([@Chakru](https://github.com/Chakru)), Web Developer, India
 - Matheus Guizolfi ([@MatheusGuizolfi](https://github.com/MatheusGuizolfi)) ,student , Brazil
 - Giri Kuncoro ([@girikuncoro](https://github.com/girikuncoro)), Software Engineer, Indonesia
-- Manoj Selvin ([@manojselvin)](https://github.com/manojselvin)), Full-Stack Developer, Mumbai, India
+- Manoj Selvin ([@manojselvin](https://github.com/manojselvin)), Full-Stack Developer, Mumbai, India
 - Tamir ([@TpSr52](https://github.com/TpSr52)), CS Student
 - Adriano Lemos ([@adriano-lemos-dev](https://github.com/adriano-lemos-dev)) ,Full Stack Web Developer , Brasília, Brasil
 - Kel O'Shaughnessy ([@kelvinosh](https://github.com/kelvinosh)) , Student , USA
