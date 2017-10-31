@@ -1778,3 +1778,4 @@ Signed,
 - akhamesy ([@akhamesy](https://github.com/akhamesy)), Student at Simon Fraser University School of Computing Science
 - Ryan Vansickle ([@Doeoeod](https://github.com/Doeoeod)), Aspiring (competent) Developer, Canada
 - Ross Brown ([@Ross-Likes-Math](https://github.com/Ross-Likes-Math)), Math and Computer Science student, New Jersey, USA
+- Eddie Kaleb ([@eddiekaleb](https://github.com/EddieKaleb)), Computer Science Student, Brazil
