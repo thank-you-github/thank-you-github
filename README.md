@@ -1873,3 +1873,4 @@ Signed,
 - Bonsembiante Patricio ([@Phanatos-](https://github.com/Phanatos-)), Software Developer, Argentina
 - Nassim Belferoum ([@Snyplife](https://github.com/Snyplife)), Developer Junior, France
 - Hafiz ([@xmhafiz](https://github.com/xmhafiz)), Swift Developer, Malaysia
+- Damián Rotta ([@Dipiert](https://github.com/Dipiert)), Software Developer, Argentina
