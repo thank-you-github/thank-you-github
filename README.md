@@ -1777,3 +1777,4 @@ Signed,
 - David Rojas ([@DavidRojas1612](https://github.com/DavidRojas1612)), Developer
 - akhamesy ([@akhamesy](https://github.com/akhamesy)), Student at Simon Fraser University School of Computing Science
 - Ryan Vansickle ([@Doeoeod](https://github.com/Doeoeod)), Aspiring (competent) Developer, Canada
+- Ross Brown ([@Ross-Likes-Math](https://github.com/Ross-Likes-Math)), Math and Computer Science student, New Jersey, USA
