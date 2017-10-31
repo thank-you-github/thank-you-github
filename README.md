@@ -1883,3 +1883,4 @@ Signed,
 - Viktor Malieichyk ([@viktor-malieichyk](https://github.com/viktor-malieichyk)), Mobile Developer, Ukraine
 - Scott Lyons ([@scott-lyons](https://github.com/Scott-Lyons)), Developer
 - Agham Arta Bima ([@aghambla](https://github.com/aghambla)), Student, Indonesia
+- Sailaja Nimmagadda ([@sailaja-nimmagadda](https://github.com/sailaja-nimmagadda)), ECE Undergraduate at IIIT-H.
