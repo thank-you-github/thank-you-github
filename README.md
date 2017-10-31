@@ -18,6 +18,7 @@ GitHub, thank you very much.
 
 Signed,
 
+- Charuka Herath ([@charuka09](https://github.com/Charuka09)), Student at University of Moratuwa
 - Xavier Noria ([@fxn](https://github.com/fxn)), Ruby on Rails core team member
 - Sriram Ravichandran ([@digi0ps](https://github.com/digi0ps)), CS Freshman at VIT Chennai
 - Jose Diaz-Gonzalez ([@josegonzalez](https://github.com/josegonzalez)), CakePHP and Dokku core team member
