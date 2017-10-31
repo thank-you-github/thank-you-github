@@ -1820,3 +1820,4 @@ Signed,
 - Jonathan de Zoete ([@jonathandezoete](https://github.com/jonathandezoete)),Webdeveloper @ Den Haag, Holland
 - Santanaraj Esguerra ([@akiyamamio16](https://github.com/akiyamamio16)), Back-End Developer, Student at Our Lady Of Fatima University, Intern at Toro.io
 - Joonas Tiala ([@jtiala](https://github.com/jtiala)), Software Engineer, Oulu, Finland
+- Pranshu Pranjal ([@Pranshu98](https://github.com/Pranshu98)), Student at VIT Vellore, IT Branch
