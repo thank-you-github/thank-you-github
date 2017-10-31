@@ -214,8 +214,9 @@ Signed,
 - Krish Munot ([@krishmunot](https://github.com/krishmunot)), Developer
 - Wellington Pardim ([@wellpardim](https://github.com/Wellpardim/)), Student
 - Soumya Ray ([@soumyaray](https://github.com/soumyaray)), Associate Professor, National Tsing Hua University, Taiwan
-- Justin Cohen ([@justincoh](https://github.com/justincoh)), Developer
+- Justinian's Cohen ([@justincoh](https://github.com/justincoh)), Developer
 - Thomas Mansencal ([@KelSolaar](https://github.com/KelSolaar)), Developer at colour-science.org
+- Dalip ([@dalip123](https://github.com/dalip123)), Student, Software Engineer, Startup founder
 - Domenico Luciani ([@dlion](https://github.com/dlion)), Software Developer
 - Pratyush Nalam ([@pratnala](https://github.com/pratnala)), Student
 - Danil Dubrovsky ([@FRedEnergy](https://github.com/FRedEnergy)), Software Engineer and OSS contributor
