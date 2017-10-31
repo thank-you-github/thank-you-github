@@ -1916,3 +1916,4 @@ Signed,
 - Aisling Murphy ([@aislingm745](https://github.com/aislingm745/)), Developer, Ireland
 - Ranjith Kumar Nagella ([@rnagella](https://github.com/rnagella)), Mobile developer
 - Adam Lamar ([@adamlamar](https://github.com/adamlamar)), Software Developer, USA
+- Jessica Solis ([@jessynay](https://github.com/jessynay)), Student, California
