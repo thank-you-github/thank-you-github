@@ -1826,3 +1826,4 @@ Signed,
 - Ingako Umi ([@ingako](https://github.com/ingako)), Software Engineer
 - Ashik Jose ([@ashikjose](https://github.com/ashikjose)), Computer Science, Madras Institute of Technology
 - Hieu Chu ([@aaazureee](https://github.com/aaazureee)), Student at University of Wollongong
+- Ammar Faizi ([@ammarfaizi2](https://github.com/ammarfaizi2)), Backend Developer, Indonesia
