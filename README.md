@@ -1864,3 +1864,4 @@ Signed,
 - Lwin Kyaw Myat ([@lwinkyawmyat](https://github.com/lwinkyawmyat)), Developer, Myanmar.
 - Luca Beetz ([@404response](https://github.com/404response)), Developer in his spare time, Germany
 - Elena ([@Eli312](https://github.com/Eli312)), Student, Germany.
+- Acid Chicken ([@acid-chicken](https://github.com/acid-chicken)), Student, Developer who is using C#, Japanese.
