@@ -1938,3 +1938,4 @@ Signed,
 - Markus Schwed ([@SweeD](https://github.com/SweeD)), [Founder @ CompanyMood](https://www.company-mood.com), Saarlouis, Germany
 - Ryan Pineo ([@ryanpineo](https://github.com/ryanpineo)), Software Engineer, Canada
 - Prashant S([@binary-master](https://github/com/binary-master)), Student, San Francisco
+- Julian Engel ([@julianengel](https://github.com/julianengel)), GitHub Campus Expert, Limassol Cyprus
