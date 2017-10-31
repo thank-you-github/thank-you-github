@@ -1780,3 +1780,4 @@ Signed,
 - Ross Brown ([@Ross-Likes-Math](https://github.com/Ross-Likes-Math)), Math and Computer Science student, New Jersey, USA
 - Eddie Kaleb ([@eddiekaleb](https://github.com/EddieKaleb)), Computer Science Student, Brazil
 - Tom Zmyslo ([@tomzmyslo](https://github.com/tomzmyslo)), Software Developer
+- Wolfiri ([@wolfiri](https://github.com/wolfiri)), Not-A-Developer, California
