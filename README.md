@@ -1930,3 +1930,4 @@ Signed,
 - Rishi Kaushik ([@Rishi-kaushik](https://github.com/Rishi-kaushik)), Patiala, India
 - Leonardo Monge García ([@leomongeg](https://github.com/leomongeg)), Developer, Costa Rica
 - Stepan Romanchuk ([@ArborLaureus](https://github.com/ArborLaureus)), Student, Ukraine
+- Ash Krishna ([@akrishna27](https://github.com/akrishna27)), Student at Rutgers University - New Brunswick, USA
