@@ -1874,3 +1874,4 @@ Signed,
 - Nassim Belferoum ([@Snyplife](https://github.com/Snyplife)), Developer Junior, France
 - Hafiz ([@xmhafiz](https://github.com/xmhafiz)), Swift Developer, Malaysia
 - Damián Rotta ([@Dipiert](https://github.com/Dipiert)), Software Developer, Argentina
+- Nicole Shayne Elim ([@ncleshyne](https://github.com/ncleshyne)), Web Developer, Philippines.
