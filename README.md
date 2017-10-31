@@ -1903,3 +1903,5 @@ Signed,
 - Júnior Lima ([@juniorlimaivd](https://github.com/juniorlimaivd)), Computer Engineering Student, Brazil.
 - Abhishek Sajwan ([@abhishek1997](https://github.com/abhishek1997)), Developer, Computer Science Junior at IIT Roorkee, India.
 - Meganth Maniraj ([@tricolo711](https://github.com/tricolo711)), Student
+- Anita Yip ([@ceruleanox](https://github.com/Ceruleanox)), Developer by moonlight, Boston, MA.
+- Sam Martorana ([@carnationcrab](https://github.com/carnationcrab)), software enginneer, USA
