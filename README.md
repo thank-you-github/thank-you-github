@@ -1912,3 +1912,4 @@ Signed,
 - Agoston Dauner ([@daunera](https://github.com/daunera)), Student, Hungary.
 - Christian Fleschhut ([@cfleschhut](https://github.com/cfleschhut)), Front-end Developer, Berlin
 - Joshua Pandian ([@joshuag619](https://github.com/joshuag619)), Android developer, Sulur, India
+- Markus Schwed ([@SweeD](https://github.com/SweeD)), [Founder @ CompanyMood](https://www.company-mood.com), Saarlouis, Germany
