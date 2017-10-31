@@ -1914,3 +1914,4 @@ Signed,
 - Joshua Pandian ([@joshuag619](https://github.com/joshuag619)), Android developer, Sulur, India
 - Florian Bernklau ([@fbernklau](https://github.com/fbernklau)), Student, Business Computer Science, Austria
 - Aisling Murphy ([@aislingm745](https://github.com/aislingm745/)), Developer, Ireland
+- Ranjith Kumar Nagella ([@rnagella](https://github.com/rnagella)), Mobile developer
