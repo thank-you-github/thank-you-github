@@ -1829,3 +1829,4 @@ Signed,
 - Ammar Faizi ([@ammarfaizi2](https://github.com/ammarfaizi2)), Backend Developer, Indonesia
 - Nynke Niehof ([@NNiehof](https://github.com/NNiehof)), PhD student, Donders Institute, Radboud University Nijmegen, Netherlands
 - Andy Zefri ([@autobanned](https://github.com/autobanned)), Student, Indonesia
+- Anmol Singh ([@radbrawler](https://github.com/radbrawler)), Software developer, India
