@@ -1898,4 +1898,10 @@ Signed,
 - Okanlawon Emmanuel ([@okanlawonema](https://github.com/okanlawonema)), Yaba college of Technology
 - Letícia Fernandes ([@leticiamara](https://github.com/leticiamara)), Android Developer, Brazil.
 - Hussain Sakriwala ([@hussainskr](https://github.com/hussainskr)), Software Developer, India.
-
+- Jonathan Carlson ([@jgcarlson](https://github.com/jgcarlson)), Software Developer
+- Hunter Rancourt ([@skwid138](https://github.com/skwid138)), JavaScript Engineer
+- Vitaly Khabarov ([@vitkhab](https://github.com/vitkhab)), Engineer, Russia.
+- Júnior Lima ([@juniorlimaivd](https://github.com/juniorlimaivd)), Computer Engineering Student, Brazil.
+- Abhishek Sajwan ([@abhishek1997](https://github.com/abhishek1997)), Developer, Computer Science Junior at IIT Roorkee, India.
+- Anita Yip ([@ceruleanox](https://github.com/Ceruleanox)), Developer by moonlight, Boston, MA.
+- Sam Martorana ([@carnationcrab](https://github.com/carnationcrab)), software enginneer, USA
