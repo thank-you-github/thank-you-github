@@ -1926,3 +1926,4 @@ Signed,
 - Leonardo Soares ([@leonardogcsoares](https://github.com/leonardogcsoares)), Developer, Amsterdam, Netherlands
 - Roshin C ([@roshinc](https://github.com/roshinc)), CS Student, New York.
 - Alex Klyanchin ([@jbmeerkat](https://github.com/jbmeerkat)), Software Engineer at Bookmate, Russia
+- Jaldhar H. Vyas ([@jaldhar](https://github.com/jaldhar)), CEO, Consolidated Braincells Inc., USA
