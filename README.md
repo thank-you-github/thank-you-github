@@ -1831,3 +1831,4 @@ Signed,
 - Andy Zefri ([@autobanned](https://github.com/autobanned)), Student, Indonesia
 - Anmol Singh ([@radbrawler](https://github.com/radbrawler)), Software developer, India
 - Fitriana Alivia ([@mrsdark](https://github.com/mrsdark)), Student, Indonesia
+- Yudhi Satrio ([@isatrio](https://github.com/isatrio)), Front End Developer from Indonesia
