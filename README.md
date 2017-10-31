@@ -1775,3 +1775,4 @@ Signed,
 - Jesse Rhoads ([@JesseRhoads](https://github.com/JesseRhoads)), OpsDev Engineer, USA
 - Gabriel  ([@GabrielFiel](https://github.com/GabrielFiel)), Student, Brazil
 - David Rojas ([@DavidRojas1612](https://github.com/DavidRojas1612)), Developer
+- akhamesy ([@akhamesy](https://github.com/akhamesy)), Student at Simon Fraser University School of Computing Science
