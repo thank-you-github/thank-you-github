@@ -1895,4 +1895,4 @@ Signed,
 - Alvaro Menezes ([@alvarollmenezes](https://github.com/alvarollmenezes)), Devops, Prodest.
 - Lucas Gabriel ([@lucasgbriell](https://github.com/lucasgbriell)), Web developer, Brazil.
 - Rafael Díaz ([@palancana](https://github.com/palancana)), CS Student, Spain.
-- Rory Hager ([@aurora-hager](https://github.com/aurora-hager)), Javascript software developer
+- Rory Hager ([@aurorahager](https://github.com/aurora-hager)), Javascript software developer
