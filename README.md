@@ -1961,3 +1961,4 @@ Signed,
 - Jessica Wynn ([@Jessicashinjo](https://github.com/Jessicashinjo)), Software Engineer, Tennessee, USA
 - Augusto da Silva Costa ([@gutocosta](https://github.com/gutocosta)), Student of Computer Engineering and IT Consultant
 - Robert Yuen ([@rhyuen](https://github.com/rhyuen)), Web Developer, Canada
+- John Ward ([@itsjohnward](https://github.com/itsjohnward)), Software Engineer, New York NY
