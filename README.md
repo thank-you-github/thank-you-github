@@ -1966,3 +1966,4 @@ Signed,
 - Bruno Casali ([@brunoocasali](https://github.com/brunoocasali)), Full Stack Developer at [Trustvox](https://trustvox.com.br)
 - Cooper Makhijani ([@sudomoose](https://github.com/sudomoose)), Student, NodeJS Dev, YouTuber, California, United States
 - Amrutha Vasili ([@mantrarush](https://github.com/mantrarush)), Developer, Studied at University of Illinois-Urbana Champaign
+- Tejas Kumar ([@TejasQ](https://github.com/tejasq)), Frontend Lead @ [Contiamo](https://www.github.com/Contiamo)
