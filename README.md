@@ -1949,3 +1949,5 @@ Signed,
 - Sophie L ([@sophieml](https://github.com/sophieml)), Student
 - Akshama ([@Akshama](https://github.com/Akshama)), Student Developer, New Delhi, India
 - Lucas Souto ([@lucassouto](https://github.com/lucassouto)), Student of Computer Science and Developer
+- Sarah Masud ([@sara-02](https://github.com/sara-02)), Software Developer
+ 
