@@ -1952,3 +1952,4 @@ Signed,
 - Rory Hager ([@aurorahager](https://github.com/aurorahager)), Javascript software developer
 - Muhammad Ammar Hasan ([@ammarhasan](https://github.com/ammarhasan)), Application Developer, Karachi, Pakistan
 - Shashank Varanasi ([@CrazyByDefault](https://github.com/CrazyByDefault)), Student, Full Stack Developer
+- Sarah Masud ([@sara-02](https://github.com/sara-02)), Software Developer
