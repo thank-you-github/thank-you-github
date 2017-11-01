@@ -1977,3 +1977,4 @@ Signed,
 - Josue Murhabazi ([@josuemurhabazi](https://github.com/josuemurhabazi)), computer science, Daystar Univeristy, Kenya
 - Justin Walsh ([@thejustinwalsh](https://github.com/thejustinwalsh)), Developer, 🌎
 - Brad Saxman ([@saxmanbf](https://github.com/saxmanbf)), Student
+- Joel Reis ([@ElJoelReis](https://github.com/ElJoelReis)), Noob Developer
