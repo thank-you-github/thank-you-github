@@ -1959,3 +1959,4 @@ Signed,
 - Jazmin A ([@jazmina47](https://github.com/jazmina47)), Developer, USA
 - Daniel Wang ([@meow404](https://github.com/meow404)), Student
 - Jessica Wynn ([@Jessicashinjo](https://github.com/Jessicashinjo)), Software Engineer, Tennessee, USA
+- Augusto da Silva Costa ([@gutocosta](https://github.com/gutocosta)), Student of Computer Engineering and IT Consultant
