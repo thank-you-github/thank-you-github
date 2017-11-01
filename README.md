@@ -1870,3 +1870,4 @@ Signed,
 - Avish Cheetaram ([@avish0694](https://github.com/avish0694)), Software Developer, Mauritius.
 - josuemurhabazi (https://github.com/josuemurhabazi), computer science, Daystar Univeristy, Kenya
 
+- Josue Murhabazi ([@josuemurhabazi](https://github.com/josuemurhabazi)), computer science, Daystar Univeristy, Kenya  
