@@ -1950,3 +1950,4 @@ Signed,
 - Akshama ([@Akshama](https://github.com/Akshama)), Student Developer, New Delhi, India
 - Lucas Souto ([@lucassouto](https://github.com/lucassouto)), Student of Computer Science and Developer
 - Rory Hager ([@aurorahager](https://github.com/aurorahager)), Javascript software developer
+- Muhammad Ammar Hasan ([@ammarhasan](https://github.com/ammarhasan)), Application Developer, Karachi, Pakistan
