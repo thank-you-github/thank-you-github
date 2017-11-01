@@ -1985,3 +1985,4 @@ Signed,
 - Hoppy Bouasavanh ([@nerdylizard](https://github.com/nerdylizard)), IT student, Gujarat Technological University, Gujarat, India.
 - Zain Ali ([@Aetheryx](https://github.com/Aetheryx)), Student & Node.js Developer, Amsterdam, the Netherlands
 - Michal Cerman ([@micer](https://github.com/micer)), Android Developer, Prague, Czechia
+- Bhargav Tarpara ([@BTruer](https://github.com/btruer)), Student & Software Engineer, NYC
