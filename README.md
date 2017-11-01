@@ -1973,3 +1973,4 @@ Signed,
 - Grayson Sinclair ([@highwind360](https://github.com/Highwind360)), Developer, Seattle
 - H R Monarch ([@hrmonarch](https://github.com/hrmonarch)), Student
 - Lucas Varela ([@lucasvarela](https://github.com/lucasvarela)), Colombian Physicist
+- Joyce Echessa ([@echessa](https://github.com/echessa)), Software Engineer, Nairobi, Kenya
