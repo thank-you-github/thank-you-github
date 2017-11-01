@@ -1974,3 +1974,4 @@ Signed,
 - H R Monarch ([@hrmonarch](https://github.com/hrmonarch)), Student
 - Lucas Varela ([@lucasvarela](https://github.com/lucasvarela)), Colombian Physicist
 - Joyce Echessa ([@echessa](https://github.com/echessa)), Software Engineer, Nairobi, Kenya
+- Josue Murhabazi ([@josuemurhabazi](https://github.com/josuemurhabazi)), computer science, Daystar Univeristy, Kenya
