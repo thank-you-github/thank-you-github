@@ -1972,3 +1972,4 @@ Signed,
 - Shriyash Jalukar ([@shriyash](https://github.com/shriyash)), Software Developer, Detroit, MI
 - Grayson Sinclair ([@highwind360](https://github.com/Highwind360)), Developer, Seattle
 - H R Monarch ([@hrmonarch](https://github.com/hrmonarch)), Student
+- Lucas Varela ([@lucasvarela](https://github.com/lucasvarela)), Colombian Physicist
