@@ -1866,6 +1866,7 @@ Signed,
 - Brian-Van-Stoner ([@Brian-Van-Stoner](https://github.com/Brian-Van-Stoner)), Software Developer,Uganda.
 - Swapnesh Kumar ([@swapneshiitr](https://github.com/swapneshiitr)), E&CE undergrad, IIT Roorkee, India
 - Avish Cheetaram ([@avish0694](https://github.com/avish0694)), Software Developer, Mauritius.
+- Josue Murhabazi ([@josuemurhabazi](https://github.com/josuemurhabazi)), computer science, Daystar Univeristy, Kenya  
 - Sahil Sharma ([@end83](https://github.com/end83)),Programming Enthusiast,IIT Patna,India
 - Florent Espanet ([@volnt](https://github.com/volnt)), Software Engineer, France
 - Bonsembiante Patricio ([@Phanatos-](https://github.com/Phanatos-)), Software Developer, Argentina
