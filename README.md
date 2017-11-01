@@ -1981,3 +1981,9 @@ Signed,
 - Segun Josuha ([@segunjosh](https://github.com/segunjosh)), CEO, Brindocorp
 - Prathmesh Pathwar ([@Dancing-Goose](https://github.com/Dancing-Goose)), CS Freshman, IIIT Allahabad.
 - Renaissa Jaiswal ([@renaissa4](https://github.com/renaissa4)), CS student, IIIT Allahabad, India.
+- Vitaliy Kanev ([@vitalkanev](https://github.com/vitalkanev))
+- Hoppy Bouasavanh ([@nerdylizard](https://github.com/nerdylizard)), IT student, Gujarat Technological University, Gujarat, India.
+- Zain Ali ([@Aetheryx](https://github.com/Aetheryx)), Student & Node.js Developer, Amsterdam, the Netherlands
+- Michal Cerman ([@micer](https://github.com/micer)), Android Developer, Prague, Czechia
+- Bhargav Tarpara ([@BTruer](https://github.com/BTruer)), Student & Software Engineer, NYC
+- Santos Solorzano ([@santos22](https://github.com/santos22)), Software Engineer
