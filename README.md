@@ -1957,3 +1957,4 @@ Signed,
 - Usman Hussain ([@usmandap](https://github.com/usmandap)), Software Developer, Pakistan
 - Creighton Magoun([@magoun](https://github.com/magoun)), SC Codes Almunus, Greenville, SC
 - Jazmin A ([@jazmina47](https://github.com/jazmina47)), Developer, USA
+- Daniel Wang ([@meow404](https://github.com/meow404)), Student
