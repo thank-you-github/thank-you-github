@@ -1986,3 +1986,4 @@ Signed,
 - Zain Ali ([@Aetheryx](https://github.com/Aetheryx)), Student & Node.js Developer, Amsterdam, the Netherlands
 - Michal Cerman ([@micer](https://github.com/micer)), Android Developer, Prague, Czechia
 - Bhargav Tarpara ([@BTruer](https://github.com/BTruer)), Student & Software Engineer, NYC
+- Santos Solorzano ([@santos22](https://github.com/santos22)), Software Engineer
