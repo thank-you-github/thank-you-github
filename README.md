@@ -1975,3 +1975,4 @@ Signed,
 - Lucas Varela ([@lucasvarela](https://github.com/lucasvarela)), Colombian Physicist
 - Joyce Echessa ([@echessa](https://github.com/echessa)), Software Engineer, Nairobi, Kenya
 - Josue Murhabazi ([@josuemurhabazi](https://github.com/josuemurhabazi)), computer science, Daystar Univeristy, Kenya
+- Justin Walsh ([@thejustinwalsh](https://github.com/thejustinwalsh)), Developer, 🌎
