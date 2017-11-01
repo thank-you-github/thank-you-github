@@ -1955,3 +1955,4 @@ Signed,
 - Sarah Masud ([@sara-02](https://github.com/sara-02)), Software Developer
 - Mustafa C ([@mustafazc](https://github.com/mustafazc)), Software Engineer in Dubai, United Arab Emirates
 - Usman Hussain ([@usmandap](https://github.com/usmandap)), Software Developer, Pakistan
+- Creighton Magoun([@magoun](https://github.com/magoun)), SC Codes Almunus, Greenville, SC
