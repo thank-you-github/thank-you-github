@@ -1963,3 +1963,4 @@ Signed,
 - Robert Yuen ([@rhyuen](https://github.com/rhyuen)), Web Developer, Canada
 - John Ward ([@itsjohnward](https://github.com/itsjohnward)), Software Engineer, New York NY
 - Enieber Cunha ([@enieber](https://github.com/enieber)), Software Developer
+- Bruno Casali ([@brunoocasali](https://github.com/brunoocasali)), Full Stack Developer at [Trustvox](https://trustvox.com.br)
