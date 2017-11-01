@@ -1978,3 +1978,4 @@ Signed,
 - Justin Walsh ([@thejustinwalsh](https://github.com/thejustinwalsh)), Developer, 🌎
 - Brad Saxman ([@saxmanbf](https://github.com/saxmanbf)), Student
 - Joel Reis ([@ElJoelReis](https://github.com/ElJoelReis)), Noob Developer
+- Segun Josuha ([@segunjosh](https://github.com/segunjosh)), CEO, Brindocorp
