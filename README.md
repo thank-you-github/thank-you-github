@@ -370,7 +370,7 @@ Signed,
 - Jake Prather ([@Jakehp](https://github.com/Jakehp)), dude
 - Nikhil ([@Nikhil-z](https://github.com/Nikhil_z)), Software Developr (Android)
 - Shinelw（[@Shinelw](https://github.com/Shinelw)), Android Developer
-- William de Oliveira Souza（[@woliveiras](https://github.com/woliveiras)), Front End Developer (<http://woliveiras.com.br>), Brazil
+- William de Oliveira Souza（[@woliveiras](https://github.com/woliveiras)), Front End Developer (http://woliveiras.com.br), Brazil
 - Filipe Carmona ([@carmona](https://github.com/carmona)), Front End Developer, Brazil
 - Wendell Adriel Luiz Silva ([@WendellAdriel](https://github.com/WendellAdriel)), Full Stack Developer ([http://wendelladriel.github.io](http://wendelladriel.github.io)), Brazil
 - J. Teles（[@teles](https://github.com/teles)), Front end developer at [vivadecora.com.br](https://www.vivadecora.com.br), Brazil
@@ -485,7 +485,7 @@ Signed,
 - Suparerk Nookraw ([@tonbz](https://github.com/tonbz)), Node & Javascript Developer, Thailand
 - Pablo Hernández Torres ([@DeicPro](https://github.com/DeicPro)), Open Source Lover, Madrid, Spain
 - 王立超 ([@0532](https://github.com/0532)), [Java Developer](http://0532.github.io/resume),beijing
-- Fernando Nogueira ([@fernandonogueira](https://github.com/fernandonogueira)), Software Engineer (<http://fernandonogueira.io>), Brazil
+- Fernando Nogueira ([@fernandonogueira](https://github.com/fernandonogueira)), Software Engineer (http://fernandonogueira.io), Brazil
 - Ed Wassermann ([@vis-kid](https://github.com/vis-kid/)), Designer & Developer, Europe
 - 张拭心 ([@shixinzhang](https://github.com/shixinzhang)), Android Developer and Open Source Lover
 - Tiaan du Plessis ([@mightyCrow](https://github.com/mightyCrow)), iOS & Web Developer, Student, Cape Town, South Africa
@@ -920,7 +920,7 @@ Signed,
 - Henrique Melanda ([@hjdesigner](https://github.com/hjdesigner)), Front-End Developer based in São Paulo, Brazil
 - Igor Borges ([@Igor1201](https://github.com/Igor1201)), Software Engineer, Brazil
 - Luiz Gonçalves ([@lhcgoncalves](https://github.com/lhcgoncalves)) Fullstack, Zanta IT, Brazil
-- Marcos Vinicius ([@vmarcosp](https://github.com/vmarcosp)), Full Stack Developer (<http://www.vmarcosp.com.br/>), Brazil
+- Marcos Vinicius ([@vmarcosp](https://github.com/vmarcosp)), Full Stack Developer (http://www.vmarcosp.com.br/), Brazil
 - အောင်မျိုးကျော် ([@AungMyoKyaw](https://github.com/AungMyoKyaw/)), Web Developer, Rangoon, Burma
 - Evlos Huang ([@Evlos](https://github.com/Evlos/)), Full Stack Developer
 - B Hindujhan ([@hindujhan](https://github.com/hindujhan)), Full Stack Developer, Sri Lanka
