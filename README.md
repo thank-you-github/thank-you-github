@@ -1964,3 +1964,4 @@ Signed,
 - John Ward ([@itsjohnward](https://github.com/itsjohnward)), Software Engineer, New York NY
 - Enieber Cunha ([@enieber](https://github.com/enieber)), Software Developer
 - Bruno Casali ([@brunoocasali](https://github.com/brunoocasali)), Full Stack Developer at [Trustvox](https://trustvox.com.br)
+- Cooper Makhijani ([@sudomoose](https://github.com/sudomoose)), Student, NodeJS Dev, YouTuber, California, United States
