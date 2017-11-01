@@ -1951,3 +1951,4 @@ Signed,
 - Lucas Souto ([@lucassouto](https://github.com/lucassouto)), Student of Computer Science and Developer
 - Rory Hager ([@aurorahager](https://github.com/aurorahager)), Javascript software developer
 - Muhammad Ammar Hasan ([@ammarhasan](https://github.com/ammarhasan)), Application Developer, Karachi, Pakistan
+- Shashank Varanasi ([@CrazyByDefault](https://github.com/CrazyByDefault)), Student, Full Stack Developer
