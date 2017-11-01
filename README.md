@@ -1962,3 +1962,4 @@ Signed,
 - Augusto da Silva Costa ([@gutocosta](https://github.com/gutocosta)), Student of Computer Engineering and IT Consultant
 - Robert Yuen ([@rhyuen](https://github.com/rhyuen)), Web Developer, Canada
 - John Ward ([@itsjohnward](https://github.com/itsjohnward)), Software Engineer, New York NY
+- Enieber Cunha ([@enieber](https://github.com/enieber)), Software Developer
