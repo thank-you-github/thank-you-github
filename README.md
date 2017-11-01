@@ -1,4 +1,4 @@
-Dear GitHub,
+## Dear GitHub,
 
 Before 2007, the way to participate in Open Source was fragmented. Each project
 had their own workflow, patches circulated in emails, issues were reported in
@@ -16,7 +16,7 @@ We want to express our gratitude for all you've done and do for Open Source.
 
 GitHub, thank you very much.
 
-Signed,
+**Signed,**
 
 - Xavier Noria ([@fxn](https://github.com/fxn)), Ruby on Rails core team member
 - Sriram Ravichandran ([@digi0ps](https://github.com/digi0ps)), CS Freshman at VIT Chennai
