@@ -489,7 +489,7 @@ Signed,
 - Ed Wassermann ([@vis-kid](https://github.com/vis-kid/)), Designer & Developer, Europe
 - 张拭心 ([@shixinzhang](https://github.com/shixinzhang)), Android Developer and Open Source Lover
 - Tiaan du Plessis ([@mightyCrow](https://github.com/mightyCrow)), iOS & Web Developer, Student, Cape Town, South Africa
-- Omondi Ochieng ([@JustOmondi](https://github.com/JustOmondi), Developer, Student at UCT, Cape Town, South Africa
+- Omondi Ochieng ([@JustOmondi](https://github.com/JustOmondi)), Developer, Student at UCT, Cape Town, South Africa
 - Sunil Tatipelly ([@Sunil02324](https://github.com/Sunil02324)), Student
 - Trương Thái Nguyên Bình ([@crziter](https://github.com/crziter/)), Developer, Việt Nam
 - Dave Goodchild ([@dlgoodchild](https://github.com/dlgoodchild/)), Lead Developer at Gyron Internet, Zaragoza, Spain
@@ -1188,7 +1188,7 @@ Signed,
 - Yugal Yadav ([@yugalxd](https://github.com/yugalxd)), Full-Stack, India
 - Abhijeet Singh ([@aps120797](https://github.com/aps120797)), CSE Undergrad, IIIT Trichy, India
 - Pratham Agrawal ([@pagrawl3](https://github.com/pagrawl3)), Co-Founder, Soch Technologies
-- Hum4n01d ([@hum4n01d])(https://github.com/hum4n01d)), Student, Full Stack Developer, USA
+- Hum4n01d ([@hum4n01d](https://github.com/hum4n01d)), Student, Full Stack Developer, USA
 - Kelly C ([@kcheng9](https://github.com/kcheng9)), Developer, USA
 - Rute Carrapato ([@RuteCarrapato](https://github.com/RuteCarrapato)), Junior Software Developer, Portugal
 - Cassie Theobald ([@cassietheobald](https://github.com/cassietheobald)), Student, Data Analysis, USA
@@ -1658,7 +1658,7 @@ Signed,
 - AmirAli Mohammadzadeh ([@AmirAliM](https://github.com/AmirAliM)), CTO at QuantCan.ir
 - Meisyarah Dwiastuti ([@meisyarahd](https://github.com/meisyarahd)), Student, Germany
 - Pranshu Goyal ([@pranshu1402](https://github.com/pranshu1402)), ME student,India
--Kawal Preet Kaur ([@kawal2266](https://github.com/kawal2266)), Information Technology Undergraduate, New Delhi, India
+- Kawal Preet Kaur ([@kawal2266](https://github.com/kawal2266)), Information Technology Undergraduate, New Delhi, India
 - Bharat Saraswat ([@bhansa](https://github.com/bhansa)), Full-stack Developer
 - Vaibhav Bansal ([@vaibhav138](https://github.com/vaibhav138)),Student,IT
 - AashutoshAgrawal ([@AashutoshAgrawal](https://github.com/AashutoshAgrawal)), Student , IIT Guwahati, India
@@ -1692,7 +1692,7 @@ Signed,
 - Rian Adam ([@rianrajagede](https://github.com/rianrajagede)), Student, Indonesia
 - Martin Koo ([@mkoo21](https://github.com/mkoo21)), Full Stack Developer
 - Taylor Caldwell ([@taycaldwell](https://github.com/taycaldwell)), Software Engineer
--Carl Yoder ([@Calasada](https://github.com/Calasada)), Student Programmer
+- Carl Yoder ([@Calasada](https://github.com/Calasada)), Student Programmer
 - Umar ([@tiok-cek1](https://github.com/tiok-cek1)), Developer
 - Thiago Augusto ([@thiagoaugustosm](https://github.com/thiagoaugustosm)), Student, Developer
 - Errazudin Ishak ([@errazudin](https://github.com/errazudin)), Developer, Johor, Malaysia
@@ -1831,7 +1831,7 @@ Signed,
 - Fitriana Alivia ([@mrsdark](https://github.com/mrsdark)), Student, Indonesia
 - Yudhi Satrio ([@isatrio](https://github.com/isatrio)), Front End Developer from Indonesia
 - Bharat Raghunathan ([@Bharat123rox](https://github.com/Bharat123rox)), Undergraduate at BITS Pilani Hyderabad Campus
--Andrea Perera ([@AndreaNim](https://github.com/AndreaNim)),Student of Informatics Intitute Of Tecnology
+- Andrea Perera ([@AndreaNim](https://github.com/AndreaNim)),Student of Informatics Intitute Of Tecnology
 - Chanon Sae-lee ([@yong0011](https://github.com/yong0011)), Computer Science at King Mongkut's Institute of Technology Ladkrabang.
 - Cameron Behning ([@cbehn](https://github.com/cbehn)), Digital Architect and Generative Design, Univeristy of Arizona
 - Aiyas Aboobakar ([@ayswl](https://github.com/ayswl)), Analyst at [Fave](https://myfave.com/)
@@ -1840,7 +1840,7 @@ Signed,
 - Pratik pathak ([@PathakPratik](https://github.com/PathakPratik)), Backend Engineer,India.
 - ThamiduNaveen ([@ThamiduNaveen](https://github.com/ThamiduNaveen)), Software Engineer,Sri Lanka.
 - Ajay Nataraj ([@ajaynataraj](https://github.com/ajaynataraj)), Software Developer, India.
-- Lucas Gabriel ([@lucasgbriell] (https://github.com/lucasgbriell)), Backend e frontend, Brazil
+- Lucas Gabriel ([@lucasgbriell](https://github.com/lucasgbriell)), Backend e frontend, Brazil
 - Kavitha S ([@Kavi97](https://github.com/Kavi97)), Student,India.
 - Deni Ardiansyah ([@denibla](https://github.com/denibla)), Student, Indonesia
 - Jose Segura ([@Nietzen](https://github.com/Nietzen)), Backend Developer, Costa Rica.
@@ -1850,7 +1850,7 @@ Signed,
 - Aditya Gupta ([@adi1998](https://github.com/adi1998)), Hacker, India
 - Vishal Reddy ([@vishalre](https://github.com/vishalre)), CSE Undergraduate at IIIT-H
 - Vishwa Perera ([@astrofowl](https://github.com/astrofowl)),Student, UI/UX Engineering, Sri Lanka
-- Patrick Harris ([@TinyGobby]) (https://github.com/TinyGobby)), Self-teaching right now
+- Patrick Harris ([@TinyGobby](https://github.com/TinyGobby)), Self-teaching right now
 - Shubham Kumar ([@Shubh-96](https://github.com/Shubh-96)), Developer
 - Niks Arora ([@niksofficial](https://github.com/niksofficial)), Backend Web Developer, India.
 - Ashwin jayaprakash ([@fanbyprinciple](https://github.com/fanbyprinciple)), student
@@ -1864,7 +1864,7 @@ Signed,
 - Elena ([@Eli312](https://github.com/Eli312)), Student, Germany.
 - Acid Chicken ([@acid-chicken](https://github.com/acid-chicken)), Student, Developer who is using C#, Japanese.
 - Brian-Van-Stoner ([@Brian-Van-Stoner](https://github.com/Brian-Van-Stoner)), Software Developer,Uganda.
--  Swapnesh Kumar ([@swapneshiitr](https://github.com/swapneshiitr)), E&CE undergrad, IIT Roorkee, India
+- Swapnesh Kumar ([@swapneshiitr](https://github.com/swapneshiitr)), E&CE undergrad, IIT Roorkee, India
 - Avish Cheetaram ([@avish0694](https://github.com/avish0694)), Software Developer, Mauritius.
 - Sahil Sharma ([@end83](https://github.com/end83)),Programming Enthusiast,IIT Patna,India
 - Florent Espanet ([@volnt](https://github.com/volnt)), Software Engineer, France
