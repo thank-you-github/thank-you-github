@@ -1969,3 +1969,4 @@ Signed,
 - Tejas Kumar ([@TejasQ](https://github.com/tejasq)), Frontend Lead @ [Contiamo](https://www.github.com/Contiamo)
 - Ryan Dobyns ([@ryandobby](https://github.com/ryandobby)), Virtual Reality Developler
 - Kevin Madison ([@kevinlmadison](https://github.com/kevinlmadison)), Computer Engineering Student
+- Shriyash Jalukar ([@shriyash](https://github.com/shriyash)), Software Developer, Detroit, MI
