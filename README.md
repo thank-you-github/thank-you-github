@@ -1968,3 +1968,4 @@ Signed,
 - Amrutha Vasili ([@mantrarush](https://github.com/mantrarush)), Developer, Studied at University of Illinois-Urbana Champaign
 - Tejas Kumar ([@TejasQ](https://github.com/tejasq)), Frontend Lead @ [Contiamo](https://www.github.com/Contiamo)
 - Ryan Dobyns ([@ryandobby](https://github.com/ryandobby)), Virtual Reality Developler
+- Kevin Madison ([@kevinlmadison](https://github.com/kevinlmadison)), Computer Engineering Student
