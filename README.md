@@ -1949,3 +1949,4 @@ Signed,
 - Sophie L ([@sophieml](https://github.com/sophieml)), Student
 - Akshama ([@Akshama](https://github.com/Akshama)), Student Developer, New Delhi, India
 - Lucas Souto ([@lucassouto](https://github.com/lucassouto)), Student of Computer Science and Developer
+- Tejas Kumar ([@TejasQ](https://github.com/tejasq)), Frontend Lead @ [Contiamo](https://www.github.com/Contiamo)
