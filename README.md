@@ -1983,3 +1983,4 @@ Signed,
 - Renaissa Jaiswal ([@renaissa4](https://github.com/renaissa4)), CS student, IIIT Allahabad, India.
 - Vitaliy Kanev ([@vitalkanev](https://github.com/vitalkanev))
 - Hoppy Bouasavanh ([@nerdylizard](https://github.com/nerdylizard)), IT student, Gujarat Technological University, Gujarat, India.
+- Zain Ali ([@Aetheryx](https://github.com/Aetheryx)), Student & Node.js Developer, Amsterdam, the Netherlands
