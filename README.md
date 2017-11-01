@@ -1976,3 +1976,4 @@ Signed,
 - Joyce Echessa ([@echessa](https://github.com/echessa)), Software Engineer, Nairobi, Kenya
 - Josue Murhabazi ([@josuemurhabazi](https://github.com/josuemurhabazi)), computer science, Daystar Univeristy, Kenya
 - Justin Walsh ([@thejustinwalsh](https://github.com/thejustinwalsh)), Developer, 🌎
+- Renaissa Jaiswal ([@renaissa4](https://github.com/renaissa4)), CS student, IIIT Allahabad, India.
