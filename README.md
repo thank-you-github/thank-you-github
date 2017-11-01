@@ -1949,3 +1949,35 @@ Signed,
 - Sophie L ([@sophieml](https://github.com/sophieml)), Student
 - Akshama ([@Akshama](https://github.com/Akshama)), Student Developer, New Delhi, India
 - Lucas Souto ([@lucassouto](https://github.com/lucassouto)), Student of Computer Science and Developer
+- Rory Hager ([@aurorahager](https://github.com/aurorahager)), Javascript software developer
+- Muhammad Ammar Hasan ([@ammarhasan](https://github.com/ammarhasan)), Application Developer, Karachi, Pakistan
+- Shashank Varanasi ([@CrazyByDefault](https://github.com/CrazyByDefault)), Student, Full Stack Developer
+- Sarah Masud ([@sara-02](https://github.com/sara-02)), Software Developer
+- Mustafa C ([@mustafazc](https://github.com/mustafazc)), Software Engineer in Dubai, United Arab Emirates
+- Usman Hussain ([@usmandap](https://github.com/usmandap)), Software Developer, Pakistan
+- Creighton Magoun([@magoun](https://github.com/magoun)), SC Codes Almunus, Greenville, SC
+- Jazmin A ([@jazmina47](https://github.com/jazmina47)), Developer, USA
+- Daniel Wang ([@meow404](https://github.com/meow404)), Student
+- Jessica Wynn ([@Jessicashinjo](https://github.com/Jessicashinjo)), Software Engineer, Tennessee, USA
+- Augusto da Silva Costa ([@gutocosta](https://github.com/gutocosta)), Student of Computer Engineering and IT Consultant
+- Robert Yuen ([@rhyuen](https://github.com/rhyuen)), Web Developer, Canada
+- John Ward ([@itsjohnward](https://github.com/itsjohnward)), Software Engineer, New York NY
+- Enieber Cunha ([@enieber](https://github.com/enieber)), Software Developer
+- Bruno Casali ([@brunoocasali](https://github.com/brunoocasali)), Full Stack Developer at [Trustvox](https://trustvox.com.br)
+- Cooper Makhijani ([@sudomoose](https://github.com/sudomoose)), Student, NodeJS Dev, YouTuber, California, United States
+- Amrutha Vasili ([@mantrarush](https://github.com/mantrarush)), Developer, Studied at University of Illinois-Urbana Champaign
+- Tejas Kumar ([@TejasQ](https://github.com/tejasq)), Frontend Lead @ [Contiamo](https://www.github.com/Contiamo)
+- Ryan Dobyns ([@ryandobby](https://github.com/ryandobby)), Virtual Reality Developler
+- Kevin Madison ([@kevinlmadison](https://github.com/kevinlmadison)), Computer Engineering Student
+- Shriyash Jalukar ([@shriyash](https://github.com/shriyash)), Software Developer, Detroit, MI
+- Grayson Sinclair ([@highwind360](https://github.com/Highwind360)), Developer, Seattle
+- H R Monarch ([@hrmonarch](https://github.com/hrmonarch)), Student
+- Lucas Varela ([@lucasvarela](https://github.com/lucasvarela)), Colombian Physicist
+- Joyce Echessa ([@echessa](https://github.com/echessa)), Software Engineer, Nairobi, Kenya
+- Josue Murhabazi ([@josuemurhabazi](https://github.com/josuemurhabazi)), computer science, Daystar Univeristy, Kenya
+- Justin Walsh ([@thejustinwalsh](https://github.com/thejustinwalsh)), Developer, 🌎
+- Brad Saxman ([@saxmanbf](https://github.com/saxmanbf)), Student
+- Joel Reis ([@ElJoelReis](https://github.com/ElJoelReis)), Noob Developer
+- Segun Josuha ([@segunjosh](https://github.com/segunjosh)), CEO, Brindocorp
+- Prathmesh Pathwar ([@Dancing-Goose](https://github.com/Dancing-Goose)), CS Freshman, IIIT Allahabad.
+- Renaissa Jaiswal ([@renaissa4](https://github.com/renaissa4)), CS student, IIIT Allahabad, India.
