@@ -27,6 +27,7 @@ Signed,
 - Drew Morris ([@drewry](https://github.com/drewry)), Developer
 - John Drago ([@jdrago999](https://github.com/jdrago999)), Developer
 - Josh Kurz ([@jkurz](https://github.com/jkurz)), BA
+- Aditya Singh ([@adityauser225](https://github.com/adityauser225)), Developer
 - Joshua Burns ([@jdburnz](https://github.com/jdburnz)), CEO at Message In Action
 - Justin Wayne ([@jcwayne](https://github.com/jcwayne)), CIO at BIG Inventory
 - Mark Story ([@markstory](https://github.com/markstory)), CakePHP core team member
