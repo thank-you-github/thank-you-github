@@ -1990,3 +1990,4 @@ Signed,
 - Reza Juliandri ([@ppabcd](https://github.com/ppabcd)), Backend Developer @ [Cermin Diskusi](https://s.id/cermindiskusi), Indonesia
 - Zoran Pandovski ([@zoranpandovski](https://github.com/ZoranPandovski)), Full stack developer, Bitola, Macedonia
 - Ketan Keshri ([@ketankk](https://github.com/ketankk)) ,Data Engineer , MOBIKWIK,DTU, DELHI India
+- Abdurrachman Mappuji ([@mappuji](https://github.com/mappuji)), Software Craftsman and Researcher, Jakarta, Indonesia
