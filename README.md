@@ -1988,3 +1988,4 @@ Signed,
 - Bhargav Tarpara ([@BTruer](https://github.com/BTruer)), Student & Software Engineer, NYC
 - Santos Solorzano ([@santos22](https://github.com/santos22)), Software Engineer
 - Reza Juliandri ([@ppabcd](https://github.com/ppabcd)), Backend Developer @ [Cermin Diskusi](https://s.id/cermindiskusi), Indonesia
+- Zoran Pandovski ([@zoranpandovski](https://github.com/ZoranPandovski)), Full stack developer, Bitola, Macedonia
