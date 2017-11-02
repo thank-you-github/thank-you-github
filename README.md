@@ -1993,3 +1993,4 @@ Signed,
 - Rajendra Chotiya ([@rajcg271](https://github.com/rajcg271)), Undergrad , IIT Guwahati, India
 - Apara Venkat ([@AparaV](https://github.com/AparaV/)), Student
 - Paul Vollmer ([@paulvollmer](https://github.com/paulvollmer)), Developer, Germany
+- Elliot Whitehead ([@elliotwhitehead](https://github.com/elliotwhitehead)), a student, developer and entrepreneur from Boulder, Colorado USA
