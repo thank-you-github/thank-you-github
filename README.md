@@ -1994,4 +1994,4 @@ Signed,
 - Apara Venkat ([@AparaV](https://github.com/AparaV/)), Student
 - Paul Vollmer ([@paulvollmer](https://github.com/paulvollmer)), Developer, Germany
 - Elliot Whitehead ([@elliotwhitehead](https://github.com/elliotwhitehead)), a student, developer and entrepreneur from Boulder, Colorado USA
-- Ruxandra Anghel ([@ruxiang05])(https://github.com/ruxiang05)), Front End Dev, London
+- Ruxandra Anghel ([@ruxiang05](https://github.com/ruxiang05)), Front End Dev, London
