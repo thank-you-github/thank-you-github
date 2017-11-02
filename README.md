@@ -1987,3 +1987,4 @@ Signed,
 - Michal Cerman ([@micer](https://github.com/micer)), Android Developer, Prague, Czechia
 - Bhargav Tarpara ([@BTruer](https://github.com/BTruer)), Student & Software Engineer, NYC
 - Santos Solorzano ([@santos22](https://github.com/santos22)), Software Engineer
+- Reza Juliandri ([@ppabcd](https://github.com/ppabcd)), Backend Developer @ [Cermin Diskusi](https://s.id/cermindiskusi), Indonesia
