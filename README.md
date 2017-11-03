@@ -1995,3 +1995,4 @@ Signed,
 - Paul Vollmer ([@paulvollmer](https://github.com/paulvollmer)), Developer, Germany
 - Elliot Whitehead ([@elliotwhitehead](https://github.com/elliotwhitehead)), a student, developer and entrepreneur from Boulder, Colorado USA
 - Ruxandra Anghel ([@ruxiang05](https://github.com/ruxiang05)), Front End Dev, London
+- Abdurrachman Mappuji ([@mappuji](https://github.com/mappuji)), Software Craftsman and Researcher, Jakarta, Indonesia
