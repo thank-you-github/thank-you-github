@@ -1998,3 +1998,4 @@ Signed,
 - PNGRU ([@PNGRU](https://github.com/PNGRU)), Student & Developer, Japan
 - Abhishek J M ([@abhi-r3v0](https://github.com/abhi-r3v0)), CEO, NeOnSec, India
 - Marc Ignacio ([@padi](https://github.com/padi)), Software Developer, Philippines
+- Abdurrachman Mappuji ([@mappuji](https://github.com/mappuji)), Software Craftsman and Researcher, Jakarta, Indonesia
