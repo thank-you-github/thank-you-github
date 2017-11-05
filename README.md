@@ -2003,3 +2003,4 @@ Signed,
 - Jogendra Singh ([@imjog](https://github.com/imjog)), iOS, Web and Windows Developer, Undergrad, IIT (BHU) Varanasi
 - Ehatsham Ahamed([@Ehatsham])(https://github.com/Ehatsham)), Student and Web Developer
 - Mark Ormesher ([@markormesher](https://github.com/markormesher)), Software Engineer, London
+- Aman Satnami ([@zzbazinga](https://github.com/zzbazinga)), Open Source enthusiast, Developer from India
