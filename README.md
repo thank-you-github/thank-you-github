@@ -2000,3 +2000,4 @@ Signed,
 - Marc Ignacio ([@padi](https://github.com/padi)), Software Developer, Philippines
 - Abdurrachman Mappuji ([@mappuji](https://github.com/mappuji)), Software Craftsman and Researcher, Jakarta, Indonesia
 - Jian Liew ([@JianLoong](https://github.com/JianLoong)), Developer, Melbourne, Australia
+- Jogendra Singh ([@imjog](https://github.com/imjog)), iOS, Web and Windows Developer, Undergrad, IIT (BHU) Varanasi
