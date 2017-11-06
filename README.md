@@ -2007,3 +2007,4 @@ Signed,
 - Fábio C. Schmidt ([@fcschmidt](https://github.com/fcschmidt)), Student and Aspiring Scientific Researcher
 - James Ah Yong ([@RetroCraft](https://github.com/RetroCraft)), high school sophmore and hopeful web developer
 - Muhibbudin Suretno ([@muhibbudins](https://github.com/muhibbudins)), UI/UX Designer & Frontend Developer, Jakarta, Indonesia
+- Baruch Velez ([@baruchvlz](https://github.com/baruchvlz)), FrontEnd Engineer @ [McMakler](https://github.com/mcmakler), Berlin, Germany
