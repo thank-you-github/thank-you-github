@@ -2011,3 +2011,4 @@ Signed,
 - Baruch Velez ([@baruchvlz](https://github.com/baruchvlz)), FrontEnd Engineer @ [McMakler](https://github.com/mcmakler), Berlin, Germany
 - Glenn Dimaliwat ([@Gurenax](https://github.com/Gurenax)), Software Developer and Designer, Melbourne, Australia
 - Youngsoo Han ([@heyman333](https://github.com/heyman333)), Mobile Developer, Seoul, South Korea
+- Lukasz Ozimek ([@ozimeu](https://github.com/ozimeu)), Developer, Tychy, Poland
