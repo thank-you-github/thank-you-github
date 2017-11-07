@@ -1990,3 +1990,23 @@ Signed,
 - Reza Juliandri ([@ppabcd](https://github.com/ppabcd)), Backend Developer @ [Cermin Diskusi](https://s.id/cermindiskusi), Indonesia
 - Zoran Pandovski ([@zoranpandovski](https://github.com/ZoranPandovski)), Full stack developer, Bitola, Macedonia
 - Ketan Keshri ([@ketankk](https://github.com/ketankk)) ,Data Engineer , MOBIKWIK,DTU, DELHI India
+- Rajendra Chotiya ([@rajcg271](https://github.com/rajcg271)), Undergrad , IIT Guwahati, India
+- Apara Venkat ([@AparaV](https://github.com/AparaV/)), Student
+- Paul Vollmer ([@paulvollmer](https://github.com/paulvollmer)), Developer, Germany
+- Elliot Whitehead ([@elliotwhitehead](https://github.com/elliotwhitehead)), a student, developer and entrepreneur from Boulder, Colorado USA
+- Ruxandra Anghel ([@ruxiang05](https://github.com/ruxiang05)), Front End Dev, London
+- PNGRU ([@PNGRU](https://github.com/PNGRU)), Student & Developer, Japan
+- Abhishek J M ([@abhi-r3v0](https://github.com/abhi-r3v0)), CEO, NeOnSec, India
+- Marc Ignacio ([@padi](https://github.com/padi)), Software Developer, Philippines
+- Abdurrachman Mappuji ([@mappuji](https://github.com/mappuji)), Software Craftsman and Researcher, Jakarta, Indonesia
+- Jian Liew ([@JianLoong](https://github.com/JianLoong)), Developer, Melbourne, Australia
+- Jogendra Singh ([@imjog](https://github.com/imjog)), iOS, Web and Windows Developer, Undergrad, IIT (BHU) Varanasi
+- Ehatsham Ahamed([@Ehatsham])(https://github.com/Ehatsham)), Student and Web Developer
+- Mark Ormesher ([@markormesher](https://github.com/markormesher)), Software Engineer, London
+- Aman Satnami ([@zzbazinga](https://github.com/zzbazinga)), Open Source enthusiast, Developer from India
+- Fábio C. Schmidt ([@fcschmidt](https://github.com/fcschmidt)), Student and Aspiring Scientific Researcher
+- James Ah Yong ([@RetroCraft](https://github.com/RetroCraft)), high school sophmore and hopeful web developer
+- Muhibbudin Suretno ([@muhibbudins](https://github.com/muhibbudins)), UI/UX Designer & Frontend Developer, Jakarta, Indonesia
+- Shahjahan Jewel ([@techjewel](https://github.com/techjewel)), Software Engineer, Sylhet, Bangladesh
+- Baruch Velez ([@baruchvlz](https://github.com/baruchvlz)), FrontEnd Engineer @ [McMakler](https://github.com/mcmakler), Berlin, Germany
+- Glenn Dimaliwat ([@Gurenax](https://github.com/Gurenax)), Software Developer and Designer, Melbourne, Australia
