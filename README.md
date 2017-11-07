@@ -2001,7 +2001,7 @@ Signed,
 - Abdurrachman Mappuji ([@mappuji](https://github.com/mappuji)), Software Craftsman and Researcher, Jakarta, Indonesia
 - Jian Liew ([@JianLoong](https://github.com/JianLoong)), Developer, Melbourne, Australia
 - Jogendra Singh ([@imjog](https://github.com/imjog)), iOS, Web and Windows Developer, Undergrad, IIT (BHU) Varanasi
-- Ehatsham Ahamed([@Ehatsham])(https://github.com/Ehatsham)), Student and Web Developer
+- Ehatsham Ahamed([@Ehatsham](https://github.com/Ehatsham)), Student and Web Developer
 - Mark Ormesher ([@markormesher](https://github.com/markormesher)), Software Engineer, London
 - Aman Satnami ([@zzbazinga](https://github.com/zzbazinga)), Open Source enthusiast, Developer from India
 - Fábio C. Schmidt ([@fcschmidt](https://github.com/fcschmidt)), Student and Aspiring Scientific Researcher
