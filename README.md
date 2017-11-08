@@ -2013,3 +2013,4 @@ Signed,
 - Youngsoo Han ([@heyman333](https://github.com/heyman333)), Mobile Developer, Seoul, South Korea
 - Muhammed Hasan Celik ([@muhammedhasan](https://github.com/muhammedhasan)), Research Asistant, Istanbul, Turkey
 - Lukasz Ozimek ([@ozimeu](https://github.com/ozimeu)), Developer, Tychy, Poland
+- Ivan Delsinne ([@IvanDelsinne](https://github.com/IvanDelsinne)), Developer, Sophia-Antipolis, France
