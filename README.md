@@ -2015,3 +2015,4 @@ Signed,
 - Lukasz Ozimek ([@ozimeu](https://github.com/ozimeu)), Developer, Tychy, Poland
 - Ivan Delsinne ([@IvanDelsinne](https://github.com/IvanDelsinne)), Developer, Sophia-Antipolis, France
 - Jackson Lewis ([@JacksonCoder](https://github.com/jacksoncoder)), Software Developer, Eugene, Oregon
+- Dwi Fahni Denni ([@zeroc0d3](https://github.com/zeroc0d3)), Full Stack Developer, Founder ZeroC0D3Lab, Jakarta, Indonesia
