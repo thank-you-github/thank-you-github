@@ -2015,3 +2015,4 @@ Signed,
 - Lukasz Ozimek ([@ozimeu](https://github.com/ozimeu)), Developer, Tychy, Poland
 - Ivan Delsinne ([@IvanDelsinne](https://github.com/IvanDelsinne)), Developer, Sophia-Antipolis, France
 - Jackson Lewis ([@JacksonCoder](https://github.com/jacksoncoder)), Software Developer, Eugene, Oregon
+- Boris Odnopozov ([@borod108](https://github.com/borod108)), Software Engineer at RedHat, Raanana, Israel
