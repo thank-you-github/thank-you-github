@@ -2015,3 +2015,4 @@ Signed,
 - Lukasz Ozimek ([@ozimeu](https://github.com/ozimeu)), Developer, Tychy, Poland
 - Ivan Delsinne ([@IvanDelsinne](https://github.com/IvanDelsinne)), Developer, Sophia-Antipolis, France
 - Jackson Lewis ([@JacksonCoder](https://github.com/jacksoncoder)), Software Developer, Eugene, Oregon
+- Nathan Smith ([@NathanRSmith](https://github.com/NathanRSmith)), Software Engineer, USA
