@@ -2018,3 +2018,4 @@ Signed,
 - Nathan Smith ([@NathanRSmith](https://github.com/NathanRSmith)), Software Engineer, USA
 - Dwi Fahni Denni ([@zeroc0d3](https://github.com/zeroc0d3)), Full Stack Developer, Founder ZeroC0D3Lab, Jakarta, Indonesia
 - Boris Odnopozov ([@borod108](https://github.com/borod108)), Software Engineer at RedHat, Raanana, Israel
+- Taylor Wiley ([@trwiley](https://github.com/trwiley)), college senior and aspiring information scientist/digital humanist
