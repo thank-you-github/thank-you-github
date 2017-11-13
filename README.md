@@ -2023,3 +2023,4 @@ Signed,
 - 廖兴旺 Xingwang Liao ([@kuoruan](https://github.com/kuoruan)), Developer, China
 - Ashish Kumar Goyal ([@AshishkrGoyal](https://github.com/AshishkrGoyal)), full Stack Web Developer, New Delhi, India
 - Gil Balsiger ([@balsigergil](https://github.com/balsigergil)), Full Stack Developer, Vevey, Switzerland
+- Shreelola Hegde ([@shreelola](https://github.com/shreelola)), Software Engineer, Bangalore, India
