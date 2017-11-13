@@ -2021,3 +2021,4 @@ Signed,
 - Taylor Wiley ([@trwiley](https://github.com/trwiley)), college senior and aspiring information scientist/digital humanist
 - Surya Dantuluri ([@dantuluri](https://github.com/dantuluri)), High School Sophomore, ROS Developer, Almost Full Stack Developer, and Machine Learning enthusiast
 - 廖兴旺 Xingwang Liao ([@kuoruan](https://github.com/kuoruan)), Developer, China
+- Ashish Kumar Goyal ([@AshishkrGoyal](https://github.com/AshishkrGoyal)), full Stack Web Developer, New Delhi, India
