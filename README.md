@@ -2020,3 +2020,4 @@ Signed,
 - Boris Odnopozov ([@borod108](https://github.com/borod108)), Software Engineer at RedHat, Raanana, Israel
 - Taylor Wiley ([@trwiley](https://github.com/trwiley)), college senior and aspiring information scientist/digital humanist
 - Surya Dantuluri ([@dantuluri](https://github.com/dantuluri)), High School Sophomore, ROS Developer, Almost Full Stack Developer, and Machine Learning enthusiast
+- Ashish Kumar Goyal ([@AshishkrGoyal](https://github.com/AshishkrGoyal)), full Stack Web Developer, New Delhi, India
