@@ -2024,3 +2024,4 @@ Signed,
 - Ashish Kumar Goyal ([@AshishkrGoyal](https://github.com/AshishkrGoyal)), full Stack Web Developer, New Delhi, India
 - Gil Balsiger ([@balsigergil](https://github.com/balsigergil)), Full Stack Developer, Vevey, Switzerland
 - Nirantak Singh Raghav ([@nirantak](https://github.com/nirantak)), Student, India
+- Shreelola Hegde ([@shreelola](https://github.com/shreelola)), Software Engineer, Bangalore, India
