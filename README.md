@@ -2025,3 +2025,4 @@ Signed,
 - Gil Balsiger ([@balsigergil](https://github.com/balsigergil)), Full Stack Developer, Vevey, Switzerland
 - Nirantak Singh Raghav ([@nirantak](https://github.com/nirantak)), Student, India
 - Shreelola Hegde ([@shreelola](https://github.com/shreelola)), Software Engineer, Bangalore, India
+- Guillermo Garrido ([@GuillermoGarrido](https://github.com/GuillermoGarrido)), Computer Engineering Student, Miami, Florida, USA
