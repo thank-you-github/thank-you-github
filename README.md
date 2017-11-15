@@ -2031,3 +2031,4 @@ Signed,
 - Willem Labuschagne ([@willemlabu](https://github.com/willemlabu)), Developer
 - Mojca Rojko ([@xtrinch](https://github.com/xtrinch)), Programmer, Maribor, Slovenia
 - Sandeep Ranjan (Flame) ([@srsandy](https://github.com/srsandy)), Full Stack Web Developer, New Delhi, India
+- Ilya Lopukhin ([@architektor](https://github.com/Architektor)), Developer @ [web-pal](https://github.com/web-pal 🗿
