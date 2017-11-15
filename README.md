@@ -2010,3 +2010,24 @@ Signed,
 - Shahjahan Jewel ([@techjewel](https://github.com/techjewel)), Software Engineer, Sylhet, Bangladesh
 - Baruch Velez ([@baruchvlz](https://github.com/baruchvlz)), FrontEnd Engineer @ [McMakler](https://github.com/mcmakler), Berlin, Germany
 - Glenn Dimaliwat ([@Gurenax](https://github.com/Gurenax)), Software Developer and Designer, Melbourne, Australia
+- Youngsoo Han ([@heyman333](https://github.com/heyman333)), Mobile Developer, Seoul, South Korea
+- Muhammed Hasan Celik ([@muhammedhasan](https://github.com/muhammedhasan)), Research Asistant, Istanbul, Turkey
+- Lukasz Ozimek ([@ozimeu](https://github.com/ozimeu)), Developer, Tychy, Poland
+- Ivan Delsinne ([@IvanDelsinne](https://github.com/IvanDelsinne)), Developer, Sophia-Antipolis, France
+- Jackson Lewis ([@JacksonCoder](https://github.com/jacksoncoder)), Software Developer, Eugene, Oregon
+- Nathan Smith ([@NathanRSmith](https://github.com/NathanRSmith)), Software Engineer, USA
+- Dwi Fahni Denni ([@zeroc0d3](https://github.com/zeroc0d3)), Full Stack Developer, Founder ZeroC0D3Lab, Jakarta, Indonesia
+- Boris Odnopozov ([@borod108](https://github.com/borod108)), Software Engineer at RedHat, Raanana, Israel
+- Taylor Wiley ([@trwiley](https://github.com/trwiley)), college senior and aspiring information scientist/digital humanist
+- Surya Dantuluri ([@dantuluri](https://github.com/dantuluri)), High School Sophomore, ROS Developer, Almost Full Stack Developer, and Machine Learning enthusiast
+- 廖兴旺 Xingwang Liao ([@kuoruan](https://github.com/kuoruan)), Developer, China
+- Ashish Kumar Goyal ([@AshishkrGoyal](https://github.com/AshishkrGoyal)), full Stack Web Developer, New Delhi, India
+- Gil Balsiger ([@balsigergil](https://github.com/balsigergil)), Full Stack Developer, Vevey, Switzerland
+- Nirantak Singh Raghav ([@nirantak](https://github.com/nirantak)), Student, India
+- Shreelola Hegde ([@shreelola](https://github.com/shreelola)), Software Engineer, Bangalore, India
+- Eddy Kioi ([@kioie](https://github.com/kioie)), Nairobi-Kenya
+- Guillermo Garrido ([@GuillermoGarrido](https://github.com/GuillermoGarrido)), Computer Engineering Student, Miami, Florida, USA
+- Carlos Schults ([@carlosschults](https://github.com/carlosschults)), Developer ([http://carlosschults.net](http://carlosschults.net)), Brazil
+- Willem Labuschagne ([@willemlabu](https://github.com/willemlabu)), Developer
+- Mojca Rojko ([@xtrinch](https://github.com/xtrinch)), Programmer, Maribor, Slovenia
+- Sandeep Ranjan (Flame) ([@srsandy](https://github.com/srsandy)), Full Stack Web Developer, New Delhi, India
