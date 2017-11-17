@@ -2034,3 +2034,4 @@ Signed,
 - Ilya Lopukhin ([@architektor](https://github.com/Architektor)), Developer @ [web-pal](https://github.com/web-pal 🗿
 - ItsPugle ([@ItsPugle](https://github.com/itspugle)), Student, Community Stars Team @ Spotify, Brisbane, Australia
 - Rupsha Bagchi ([@rupshabagchi](https://github.com/rupshabagchi)), Developer, Finland
+- Tiago Dionesto ([@tiagodws](https://github.com/tiagodws)), Developer, Brazil
