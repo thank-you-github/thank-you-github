@@ -2038,3 +2038,4 @@ Signed,
 - Rizwan Reza ([@rizwanreza](https://github.com/rizwanreza)), Software Engineer
 - Rohit Naik ([@rohitnaik246](https://github.com/rohitnaik246)), Computer Science Masters student @ North Carolina State University, United States
 - Nidelson Gimenes ([@nidelson](https://github.com/nidelson)), CIO at CoreMAX Tecnologia, Brazil
+- Mrugesh Modi ([@modimrugesh1910](https://github.com/modimrugesh1910)), Full Stack Developer, ICT undergraduate, DA-IICT, India
