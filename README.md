@@ -2035,3 +2035,4 @@ Signed,
 - ItsPugle ([@ItsPugle](https://github.com/itspugle)), Student, Community Stars Team @ Spotify, Brisbane, Australia
 - Rupsha Bagchi ([@rupshabagchi](https://github.com/rupshabagchi)), Developer, Finland
 - Nidelson Gimenes ([@nidelson](https://github.com/nidelson)), CIO at CoreMAX Tecnologia, Brasil
+- Tiago Dionesto ([@tiagodws](https://github.com/tiagodws)), Developer, Brazil
