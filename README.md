@@ -2035,3 +2035,4 @@ Signed,
 - ItsPugle ([@ItsPugle](https://github.com/itspugle)), Student, Community Stars Team @ Spotify, Brisbane, Australia
 - Rupsha Bagchi ([@rupshabagchi](https://github.com/rupshabagchi)), Developer, Finland
 - Tiago Dionesto ([@tiagodws](https://github.com/tiagodws)), Developer, Brazil
+- Rohit Naik ([@rohitnaik246](https://github.com/rohitnaik246)), Computer Science Masters student @ North Carolina State University, United States
