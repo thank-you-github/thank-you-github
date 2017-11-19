@@ -2031,3 +2031,16 @@ Signed,
 - Willem Labuschagne ([@willemlabu](https://github.com/willemlabu)), Developer
 - Mojca Rojko ([@xtrinch](https://github.com/xtrinch)), Programmer, Maribor, Slovenia
 - Sandeep Ranjan (Flame) ([@srsandy](https://github.com/srsandy)), Full Stack Web Developer, New Delhi, India
+- Ilya Lopukhin ([@architektor](https://github.com/Architektor)), Developer @ [web-pal](https://github.com/web-pal 🗿
+- ItsPugle ([@ItsPugle](https://github.com/itspugle)), Student, Community Stars Team @ Spotify, Brisbane, Australia
+- Rupsha Bagchi ([@rupshabagchi](https://github.com/rupshabagchi)), Developer, Finland
+- Tiago Dionesto ([@tiagodws](https://github.com/tiagodws)), Developer, Brazil
+- Rizwan Reza ([@rizwanreza](https://github.com/rizwanreza)), Software Engineer
+- Rohit Naik ([@rohitnaik246](https://github.com/rohitnaik246)), Computer Science Masters student @ North Carolina State University, United States
+- Nidelson Gimenes ([@nidelson](https://github.com/nidelson)), CIO at CoreMAX Tecnologia, Brazil
+- Mrugesh Modi ([@modimrugesh1910](https://github.com/modimrugesh1910)), Full Stack Developer, ICT undergraduate, DA-IICT, India
+- Manish Maurya ([@mkrat123](https://github.com/mkrat123)), Student, Computer Science ,India
+- Alejandro Mesa ([@alemesa](https://github.com/alemesa)), Web Developer, Canada
+- Elon Brown :cn: ([@ElonBrown](https://github.com/ElonBrown)), Student, China
+- Miguel Sousa ([@Krazune](https://github.com/Krazune)), Developer, Portugal
+- Rahul Batra ([@rahulbatra065](https://github.com/rahulbatra065)), Developer, India
