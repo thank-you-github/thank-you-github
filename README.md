@@ -2042,3 +2042,4 @@ Signed,
 - Manish Maurya ([@mkrat123](https://github.com/mkrat123)), Student, Computer Science ,India
 - Alejandro Mesa ([@alemesa](https://github.com/alemesa)), Web Developer, Canada
 - Elon Brown :cn: ([@ElonBrown](https://github.com/ElonBrown)), Student, China
+- Miguel Sousa ([@Krazune](https://github.com/Krazune)), Developer, Portugal
