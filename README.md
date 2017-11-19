@@ -2043,3 +2043,4 @@ Signed,
 - Alejandro Mesa ([@alemesa](https://github.com/alemesa)), Web Developer, Canada
 - Elon Brown :cn: ([@ElonBrown](https://github.com/ElonBrown)), Student, China
 - Miguel Sousa ([@Krazune](https://github.com/Krazune)), Developer, Portugal
+- Rahul Batra ([@rahulbatra065](https://github.com/rahulbatra065)), Developer, India
