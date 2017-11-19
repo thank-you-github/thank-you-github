@@ -2040,3 +2040,4 @@ Signed,
 - Nidelson Gimenes ([@nidelson](https://github.com/nidelson)), CIO at CoreMAX Tecnologia, Brazil
 - Mrugesh Modi ([@modimrugesh1910](https://github.com/modimrugesh1910)), Full Stack Developer, ICT undergraduate, DA-IICT, India
 - Manish Maurya ([@mkrat123](https://github.com/mkrat123)), Student, Computer Science ,India
+- Alejandro Mesa ([@alemesa](https://github.com/alemesa)), Web Developer, Canada
