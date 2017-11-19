@@ -2033,3 +2033,4 @@ Signed,
 - Sandeep Ranjan (Flame) ([@srsandy](https://github.com/srsandy)), Full Stack Web Developer, New Delhi, India
 - Ilya Lopukhin ([@architektor](https://github.com/Architektor)), Developer @ [web-pal](https://github.com/web-pal 🗿
 - ItsPugle ([@ItsPugle](https://github.com/itspugle)), Student, Community Stars Team @ Spotify, Brisbane, Australia
+- Manish Maurya ([@mkrat123](https://github.com/mkrat123)), Student, Computer Science ,India
