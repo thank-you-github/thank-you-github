@@ -2045,3 +2045,4 @@ Signed,
 - Miguel Sousa ([@Krazune](https://github.com/Krazune)), Developer, Portugal
 - Rahul Batra ([@rahulbatra065](https://github.com/rahulbatra065)), Developer, India
 - Kuba Niewiarowski ([@marsjaninzmarsa](https://github.com/marsjaninzmarsa)), WordPress/Full Stack Developer, Warsaw, Poland
+- Aaditya Menon ([@Sparker0i](https://github.com/Sparker0i)), Android and Windows 10 App Developer, Kollam, India
