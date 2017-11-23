@@ -2051,3 +2051,4 @@ Signed,
 - Aaditya Menon ([@Sparker0i](https://github.com/Sparker0i)), Android and Windows 10 App Developer, Kollam, India
 - Porimol Chandro ([@porimol](https://github.com/porimol)), Data Engineer, Bangladesh
 - Charles Vinodh ([@rogue-one](https://github.com/rogue-one)), Groupon/Full Stack Developer, Chennai, India
+- Miriam Retka ([@Auralcat](https://github.com/Auralcat)), Developer, Ponta Grossa, Brazil
