@@ -2045,4 +2045,4 @@ Signed,
 - Miguel Sousa ([@Krazune](https://github.com/Krazune)), Developer, Portugal
 - Rahul Batra ([@rahulbatra065](https://github.com/rahulbatra065)), Developer, India
 - Kuba Niewiarowski ([@marsjaninzmarsa](https://github.com/marsjaninzmarsa)), WordPress/Full Stack Developer, Warsaw, Poland
-- Charles Vinodh ([@marsjaninzmarsa](https://github.com/rogue-one)), Groupon/Full Stack Developer, Chennai, India
+- Charles Vinodh ([@rogue-one](https://github.com/rogue-one)), Groupon/Full Stack Developer, Chennai, India
