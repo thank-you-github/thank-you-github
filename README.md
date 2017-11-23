@@ -2046,3 +2046,4 @@ Signed,
 - Rahul Batra ([@rahulbatra065](https://github.com/rahulbatra065)), Developer, India
 - Kuba Niewiarowski ([@marsjaninzmarsa](https://github.com/marsjaninzmarsa)), WordPress/Full Stack Developer, Warsaw, Poland
 - Jae Bradley ([@jaebradley]_(https://github.com/jaebradley)), Software Engineer
+- Stephen Hinett ([@coderste](https://github.com/coderste)), Frontend Website Developer, United Kingdom
