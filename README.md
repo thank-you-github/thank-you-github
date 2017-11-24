@@ -2052,3 +2052,4 @@ Signed,
 - Porimol Chandro ([@porimol](https://github.com/porimol)), Data Engineer, Bangladesh
 - Charles Vinodh ([@rogue-one](https://github.com/rogue-one)), Groupon/Full Stack Developer, Chennai, India
 - Adarsh Learner ([@learneradarsh](https://github.com/learneradarsh)), Learner/Front-End Developer/Hactivist, Uttar Pradesh, India
+- Miriam Retka ([@Auralcat](https://github.com/Auralcat)), Developer, Ponta Grossa, Brazil
