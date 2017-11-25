@@ -2044,3 +2044,12 @@ Signed,
 - Elon Brown :cn: ([@ElonBrown](https://github.com/ElonBrown)), Student, China
 - Miguel Sousa ([@Krazune](https://github.com/Krazune)), Developer, Portugal
 - Rahul Batra ([@rahulbatra065](https://github.com/rahulbatra065)), Developer, India
+- Kuba Niewiarowski ([@marsjaninzmarsa](https://github.com/marsjaninzmarsa)), WordPress/Full Stack Developer, Warsaw, Poland
+- Jae Bradley ([@jaebradley]_(https://github.com/jaebradley)), Software Engineer
+- Stephen Hinett ([@coderste](https://github.com/coderste)), Frontend Website Developer, United Kingdom
+- Shawon Ashraf ([@ShawonAshraf](https://github.com/ShawonAshraf)), Student
+- Aaditya Menon ([@Sparker0i](https://github.com/Sparker0i)), Android and Windows 10 App Developer, Kollam, India
+- Porimol Chandro ([@porimol](https://github.com/porimol)), Data Engineer, Bangladesh
+- Charles Vinodh ([@rogue-one](https://github.com/rogue-one)), Groupon/Full Stack Developer, Chennai, India
+- Adarsh Learner ([@learneradarsh](https://github.com/learneradarsh)), Learner/Front-End Developer/Hactivist, Uttar Pradesh, India
+- Miriam Retka ([@Auralcat](https://github.com/Auralcat)), Developer, Ponta Grossa, Brazil
