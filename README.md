@@ -2055,3 +2055,4 @@ Signed,
 - Miriam Retka ([@Auralcat](https://github.com/Auralcat)), Developer, Ponta Grossa, Brazil
 - Vinayak Kulkarni ([@vinayakkulkarni](https://github.com/vinayakkulkarni)), Full Stack Developer, Pune, India
 - Amruth Pillai ([@AmruthPillai](https://github.com/AmruthPillai)), Designer/Developer, Bengaluru, India
+- Praveen Kumar Ahirwar ([@Praveen1027](https://github.com/praveen1027)) Computer Science student, web developer, IIT Roorkee,India
