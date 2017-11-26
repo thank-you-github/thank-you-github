@@ -2054,3 +2054,4 @@ Signed,
 - Adarsh Learner ([@learneradarsh](https://github.com/learneradarsh)), Learner/Front-End Developer/Hactivist, Uttar Pradesh, India
 - Miriam Retka ([@Auralcat](https://github.com/Auralcat)), Developer, Ponta Grossa, Brazil
 - Vinayak Kulkarni ([@vinayakkulkarni](https://github.com/vinayakkulkarni)), Full Stack Developer, Pune, India
+- Amruth Pillai ([@AmruthPillai](https://github.com/AmruthPillai)), Designer/Developer, Bengaluru, India
