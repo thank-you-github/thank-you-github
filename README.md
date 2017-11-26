@@ -2031,7 +2031,7 @@ Signed,
 - Willem Labuschagne ([@willemlabu](https://github.com/willemlabu)), Developer
 - Mojca Rojko ([@xtrinch](https://github.com/xtrinch)), Programmer, Maribor, Slovenia
 - Sandeep Ranjan (Flame) ([@srsandy](https://github.com/srsandy)), Full Stack Web Developer, New Delhi, India
-- Ilya Lopukhin ([@architektor](https://github.com/Architektor)), Developer @ [web-pal](https://github.com/web-pal 🗿
+- Ilya Lopukhin ([@architektor](https://github.com/Architektor)), Developer @ [web-pal](https://github.com/web-pal) 🗿
 - ItsPugle ([@ItsPugle](https://github.com/itspugle)), Student, Community Stars Team @ Spotify, Brisbane, Australia
 - Rupsha Bagchi ([@rupshabagchi](https://github.com/rupshabagchi)), Developer, Finland
 - Tiago Dionesto ([@tiagodws](https://github.com/tiagodws)), Developer, Brazil
@@ -2045,7 +2045,7 @@ Signed,
 - Miguel Sousa ([@Krazune](https://github.com/Krazune)), Developer, Portugal
 - Rahul Batra ([@rahulbatra065](https://github.com/rahulbatra065)), Developer, India
 - Kuba Niewiarowski ([@marsjaninzmarsa](https://github.com/marsjaninzmarsa)), WordPress/Full Stack Developer, Warsaw, Poland
-- Jae Bradley ([@jaebradley]_(https://github.com/jaebradley)), Software Engineer
+- Jae Bradley ([@jaebradley](https://github.com/jaebradley)), Software Engineer
 - Stephen Hinett ([@coderste](https://github.com/coderste)), Frontend Website Developer, United Kingdom
 - Shawon Ashraf ([@ShawonAshraf](https://github.com/ShawonAshraf)), Student
 - Aaditya Menon ([@Sparker0i](https://github.com/Sparker0i)), Android and Windows 10 App Developer, Kollam, India
