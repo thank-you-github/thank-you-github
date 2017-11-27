@@ -2056,3 +2056,4 @@ Signed,
 - Vinayak Kulkarni ([@vinayakkulkarni](https://github.com/vinayakkulkarni)), Full Stack Developer, Pune, India
 - Amruth Pillai ([@AmruthPillai](https://github.com/AmruthPillai)), Designer/Developer, Bengaluru, India
 - Praveen Kumar Ahirwar ([@Praveen1027](https://github.com/praveen1027)) Computer Science student, web developer, IIT Roorkee,India
+- Lukas Borke ([@lborke](https://github.com/lborke)), Software engineer, data scientist and creator of [BitQuery](https://github.com/bemined/BitQuery), a GitHub API driven and D3 based search engine for open source repositories, Berlin, Germany
