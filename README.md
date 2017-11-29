@@ -2059,3 +2059,4 @@ Signed,
 - Eduardo Viana Pessoa ([@duduvp](https://github.com/duduvp)), Android Developer, Brazil
 - Lukas Borke ([@lborke](https://github.com/lborke)), Software engineer, data scientist and creator of [BitQuery](https://github.com/bemined/BitQuery), a GitHub API driven and D3 based search engine for open source repositories, Berlin, Germany
 - Mustafa Culban ([@karamusluk](https://github.com/karamusluk)) Computer Science Student, Bilkent University, Ankara, Turkey
+- Gaurav Deshpande ([@93gaurav93](https://github.com/93gaurav93)), Full Stack Developer, India
