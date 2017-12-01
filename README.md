@@ -2065,3 +2065,4 @@ Signed,
 - Sainath Reddy ([@reddysainathn](https://github.com/reddysainathn)), Software Developer
 - Thiago Galvani ([@thiagopaiva99](https://github.com/thiagopaiva99)) Fullstack Developer & Analyst & Network Engineer, Porto Alegre, Brazil
 - Dorian Neto ([@dorianneto](https://github.com/dorianneto)) Full Stack Developer, Fortaleza, Brazil
+* Leandro Henrique ([@emtudo](https://github.com/emtudo)), Software Engineer, Curitiba, Brazil
