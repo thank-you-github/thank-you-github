@@ -2069,3 +2069,4 @@ Signed,
 - Emilien Fugier ([@NinjArbuste](https://github.com/NinjArbuste)), Computer Science Student, Université de Technologie de Compigène, France
 - Abdelrahman Maged ([@ar-maged](https://github.com/ar-maged)), Computer Science & Engineering Student, German University in Cairo, Egypt
 - Krishnan R ([@krishnan-r](https://github.com/krishnan-r)), Computer Science Student, IIT Bhubaneswar, India
+- Aman Pratap Singh ([@apsknight](https://github.com/apsknight)), Student Developer, India
