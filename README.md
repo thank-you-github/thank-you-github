@@ -2067,3 +2067,4 @@ Signed,
 - Dorian Neto ([@dorianneto](https://github.com/dorianneto)) Full Stack Developer, Fortaleza, Brazil
 - Leandro Henrique ([@emtudo](https://github.com/emtudo)), Software Engineer, Curitiba, Brazil
 - Emilien Fugier ([@NinjArbuste](https://github.com/NinjArbuste)), Computer Science Student, Université de Technologie de Compigène, France
+- Abdelrahman Maged ([@ar-maged](https://github.com/ar-maged)), Computer Science & Engineering Student, German University in Cairo, Egypt
