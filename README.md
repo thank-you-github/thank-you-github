@@ -765,3 +765,4 @@ Signed,
 - Alaa Masoud ([@alaatm](https://github.com/alaatm)), Software Developer
 - Timo Lins([@timolins](https://github.com/timolins)), Software Developer, Austria
 - Riccardo Serafini ([@tapionx](https://github.com/tapionx)), Web Developer, Italy
+- Martin De Luca ([@Hammond95](https://github.com/Hammond95)), Developer, Italy
