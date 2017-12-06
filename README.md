@@ -2074,3 +2074,4 @@ Signed,
 - Hossam Ahmed ([@hossamElfar](https://github.com/hossamElfar)), Software Engineer, Egypt.
 - Samsul Ma'arif ([@samsulmaarif](https://github.com/samsulmaarif)), System Administrator, PuskoMedia Indonesia, Indonesia
 - Tiago Severino ([@TiagoSeverino](https://github.com/TiagoSeverino)), Software Developer, Portugal
+- Kevin Toft ([@kevintoft](https://github.com/kevintoft)), Computer Science Undergrad, New Jersey, USA
