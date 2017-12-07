@@ -2077,3 +2077,4 @@ Signed,
 - Kevin Toft ([@kevintoft](https://github.com/kevintoft)), Computer Science Undergrad, New Jersey, USA
 - Derek Sagun([@dereksagun](https://github.com/dereksagun)), Computer Science Student
 - Afrijal Dzuhri ([@afrijaldz](https://github.com/afrijaldz)), Frontend Developer, Yogyakarta, Indonesia
+- Adi Andrea([@dekzitfz](https://github.com/dekzitfz)), Android Developer, Indonesia
