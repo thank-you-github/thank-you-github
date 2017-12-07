@@ -2076,3 +2076,4 @@ Signed,
 - Tiago Severino ([@TiagoSeverino](https://github.com/TiagoSeverino)), Software Developer, Portugal
 - Kevin Toft ([@kevintoft](https://github.com/kevintoft)), Computer Science Undergrad, New Jersey, USA
 - Derek Sagun([@dereksagun](https://github.com/dereksagun)), Computer Science Student
+- javathunderman ([@javathunderman](https://github.com/javathunderman)), developer at [Nomik](https://github.com/nomikxyz)
