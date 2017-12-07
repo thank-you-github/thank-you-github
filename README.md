@@ -2075,5 +2075,8 @@ Signed,
 - Samsul Ma'arif ([@samsulmaarif](https://github.com/samsulmaarif)), System Administrator, PuskoMedia Indonesia, Indonesia
 - Tiago Severino ([@TiagoSeverino](https://github.com/TiagoSeverino)), Software Developer, Portugal
 - Kevin Toft ([@kevintoft](https://github.com/kevintoft)), Computer Science Undergrad, New Jersey, USA
-- Derek Sagun ([@dereksagun](https://github.com/dereksagun)), Computer Science Student
+- Derek Sagun([@dereksagun](https://github.com/dereksagun)), Computer Science Student
 - Raj Gurung ([@rajgurung](https://github.com/rajgurung)), Backend Engineer, London, United Kingdom
+- Afrijal Dzuhri ([@afrijaldz](https://github.com/afrijaldz)), Frontend Developer, Yogyakarta, Indonesia
+- Adi Andrea([@dekzitfz](https://github.com/dekzitfz)), Android Developer, Indonesia
+- javathunderman ([@javathunderman](https://github.com/javathunderman)), developer at [Nomik](https://github.com/nomikxyz)
