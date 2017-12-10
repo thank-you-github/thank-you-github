@@ -2091,3 +2091,4 @@ Signed,
 - Oscar Wieman ([@oscrx](https://github.com/oscrx)), Student, Utrecht, The Netherlands
 - Prachi agarwal ([@prachiagarwal14](https://github.com/prachiagarwal14)),android developer,c,c++,india
 - Divyanshi Bhojak ([@Divyanshi-Bhojak](https://github.com/Divyanshi-Bhojak)),computer science,Bhubaneshwar,India
+- Karishma Singh ([@Singhkarishma](https://github.com/Singhkarishma),Computer Science Engineer, Bhubaneswar, India
