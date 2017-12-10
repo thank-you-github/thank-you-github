@@ -2094,3 +2094,4 @@ Signed,
 - Karishma Singh ([@Singhkarishma](https://github.com/Singhkarishma),Computer Science Engineer, Bhubaneswar, India
 - Divisha1210 ([@Divisha1210](https//github.com/Divisha1210)),learner,student
 - Swati Singh ([@swati524](https://github.com/swati524)),Android Developer,India
+- Faizaan Datoo ([@faizaand](https://github.com/faizaand)), High School Student, Pennsylvania, USA
