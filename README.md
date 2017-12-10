@@ -2084,3 +2084,4 @@ Signed,
 - NEHARIKA ([@neharikay](https://github.com/neharikay)), student
 - Swati Shrivastava ([@SwatiShrivastava9](https://github.com/SwatiShrivastava9)), Computer Science undergrat, Bhubaneshwar, India
 - Neha([@veraciousalien](https://github.com/veraciousalien)),Student
+- Shruti Pradhan([@Shruti07prad](https://github.com/Shruti07prad)),Information Technology Undergrad at Kalinga Institute of Industrial Technology,India
