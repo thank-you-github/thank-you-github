@@ -2080,3 +2080,4 @@ Signed,
 - Adi Andrea([@dekzitfz](https://github.com/dekzitfz)), Android Developer, Indonesia
 - javathunderman ([@javathunderman](https://github.com/javathunderman)), developer at [Nomik](https://github.com/nomikxyz)
 - Raj Gurung ([@rajgurung](https://github.com/rajgurung)), Backend Engineer, London, United Kingdom
+- Shruti Pradhan([@Shruti07prad](https://github.com/Shruti07prad)),Information Technology Undergrad at Kalinga Institute of Industrial Technology,India
