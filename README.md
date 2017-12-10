@@ -2075,17 +2075,17 @@ Signed,
 - Samsul Ma'arif ([@samsulmaarif](https://github.com/samsulmaarif)), System Administrator, PuskoMedia Indonesia, Indonesia
 - Tiago Severino ([@TiagoSeverino](https://github.com/TiagoSeverino)), Software Developer, Portugal
 - Kevin Toft ([@kevintoft](https://github.com/kevintoft)), Computer Science Undergrad, New Jersey, USA
-- Derek Sagun([@dereksagun](https://github.com/dereksagun)), Computer Science Student
+- Derek Sagun ([@dereksagun](https://github.com/dereksagun)), Computer Science Student
 - Afrijal Dzuhri ([@afrijaldz](https://github.com/afrijaldz)), Frontend Developer, Yogyakarta, Indonesia
-- Adi Andrea([@dekzitfz](https://github.com/dekzitfz)), Android Developer, Indonesia
+- Adi Andrea ([@dekzitfz](https://github.com/dekzitfz)), Android Developer, Indonesia
 - javathunderman ([@javathunderman](https://github.com/javathunderman)), developer at [Nomik](https://github.com/nomikxyz)
 - Raj Gurung ([@rajgurung](https://github.com/rajgurung)), Backend Engineer, London, United Kingdom
 - Nandini Munda ([@nandini-m](https://github.com/nandini-m)),Computer Science Student,Kiit University,India
 - NEHARIKA ([@neharikay](https://github.com/neharikay)), student
 - Swati Shrivastava ([@SwatiShrivastava9](https://github.com/SwatiShrivastava9)), Computer Science undergrat, Bhubaneshwar, India
 - Neha([@veraciousalien](https://github.com/veraciousalien)),Student
-- Shruti Pradhan([@Shruti07prad](https://github.com/Shruti07prad)),Information Technology Undergrad at Kalinga Institute of Industrial Technology,India
+- Shruti Pradhan ([@Shruti07prad](https://github.com/Shruti07prad)),Information Technology Undergrad at Kalinga Institute of Industrial Technology,India
 -Preeti Saini ([@sainipreeti](https://github.com/sainipreeti)),Web develper,India
 - Shrikriti Singh ([@shrikriti5singh](https://github.com/shrikriti5singh)), Android & Web Developer, India
-Avantika Singh([@avantikasingh](https://github.com/avantikasingh)),Software Developer,Bhubaneswar,India
+- Avantika Singh ([@avantikasingh](https://github.com/avantikasingh)),Software Developer,Bhubaneswar,India
 - Oscar Wieman ([@oscrx](https://github.com/oscrx)), Student, Utrecht, The Netherlands
