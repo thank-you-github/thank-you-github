@@ -2085,7 +2085,7 @@ Signed,
 - Swati Shrivastava ([@SwatiShrivastava9](https://github.com/SwatiShrivastava9)), Computer Science undergrat, Bhubaneshwar, India
 - Neha([@veraciousalien](https://github.com/veraciousalien)),Student
 - Shruti Pradhan ([@Shruti07prad](https://github.com/Shruti07prad)),Information Technology Undergrad at Kalinga Institute of Industrial Technology,India
--Preeti Saini ([@sainipreeti](https://github.com/sainipreeti)),Web develper,India
+- Preeti Saini ([@sainipreeti](https://github.com/sainipreeti)),Web develper,India
 - Shrikriti Singh ([@shrikriti5singh](https://github.com/shrikriti5singh)), Android & Web Developer, India
 - Avantika Singh ([@avantikasingh](https://github.com/avantikasingh)),Software Developer,Bhubaneswar,India
 - Oscar Wieman ([@oscrx](https://github.com/oscrx)), Student, Utrecht, The Netherlands
