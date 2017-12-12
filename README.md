@@ -2096,3 +2096,4 @@ Signed,
 - Swati Singh ([@swati524](https://github.com/swati524)),Android Developer,India
 - Faizaan Datoo ([@faizaand](https://github.com/faizaand)), High School Student, Pennsylvania, USA
 - Animesh Pandey ([@AnimeshPandey](https://github.com/AnimeshPandey)), Web Developer, India
+- Bennett Talpers ([@btalpers](https://github.com/btalpers)), Software Engineer, USA
