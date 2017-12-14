@@ -2097,3 +2097,4 @@ Signed,
 - Faizaan Datoo ([@faizaand](https://github.com/faizaand)), High School Student, Pennsylvania, USA
 - Animesh Pandey ([@AnimeshPandey](https://github.com/AnimeshPandey)), Web Developer, India
 - Pranav Pratap Singh([@PranavPratapSingh](https://github.com/PranavPratapSingh)), Machine Learning Enthusiast, India
+- Sanchit Nayyar ([@sanchit-nayyar](https://github.com/sanchit-nayyar)), Back End Web Developer and Automation Systems Developer, India
