@@ -2099,3 +2099,4 @@ Signed,
 - Pranav Pratap Singh([@PranavPratapSingh](https://github.com/PranavPratapSingh)), Machine Learning Enthusiast, India
 - Sanchit Nayyar ([@sanchit-nayyar](https://github.com/sanchit-nayyar)), Back End Web Developer and Automation Systems Developer, India
 - Bennett Talpers ([@btalpers](https://github.com/btalpers)), Software Engineer, USA
+- Mohit singh ([@mritunjaygoutam12](https://github.com/mritunjaygoutam12)), al-->Javascript ,India
