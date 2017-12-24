@@ -546,7 +546,7 @@ Signed,
 - 杨伟庆 Wayne Yang ([@wengzhong2001](https://github.com/wengzhong2001)), Software Engineer & Project Manager, Guangzhou, China
 - Priyank Agarwal ([@priyank1205](https://github.com/priyank1205)), Student, Design, Indian Institute of Technology, Guwahati
 - Lucas Michot ([@lucasmichot](https://github.com/lucasmichot)), Web architect, Core ([Homebrew](https://github.com/homebrew)) contributor
-- Vipul Sharma ([@vsvipul555](https://github.com/vsvipul555)), Programmer, Undergraduate at IIIT Allahabad, India
+- Vipul Sharma ([@vsvipul](https://github.com/vsvipul)), Programmer, Undergraduate at IIT Mandi, India
 - Sukeesh ([@sukeesh](https://github.com/sukeesh)), Programmer, Student at IIT Roorkee, India
 - Akhilesh Kumar ([@akhilesh-k](https://github.com/akhilesh-k)), Student Developer, Undergraduate at [JUIT](https://www.juit.ac.in)
 - Rohit Mourya ([@mrohit](https://github.com/MRohit)), Software Engineer, India
