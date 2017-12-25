@@ -56,6 +56,7 @@ Signed,
 - Daniel Lockard ([@daniellockard](https://github.com/daniellockard)), Developer
 - Vikash Tiwari ([@tiwarivikash](https://github.com/tiwarivikash)), Software Engineer
 - Anthony Pipkin ([@apipkin](https://github.com/apipkin)), Software Developer (across various teams and companies)
+- Aswin VB ([@apipkin](https://github.com/aswinzz)), Web Developer
 - Graham Weldon ([@predominant](https://github.com/predominant))
 - Evol Mark Johnson ([@ejohnsonw](https://github.com/ejohnsonw)), www.generatron.com, Software architect
 - Blake Niemyjski ([@niemyjski](https://github.com/niemyjski)), Architect at [Exceptionless](https://github.com/exceptionless/Exceptionless)
@@ -1639,7 +1640,7 @@ Signed,
 - Rick Arendt ([@Arendt](https://github.com/Arendt)), CS Student, Germany
 - Chin Yeong Shern ([@shern91](https://github.com/shern91)), Web Developer
 - Saivenkat Koganti ([@saivenkat09](https://github.com/saivenkat09)),Student,Developer
-- Marco Aimo ([@marcoaimo](https://github.com/marcoaimo)), 🍻 👾 🎸, Fullstack / Web dev at [todo](https://todo.to.it)
+- Marco Aimo ([@marcoaimo](https://github.com/marcoaimo)),   , Fullstack / Web dev at [todo](https://todo.to.it)
 - Pooja Sahore ([@poojas16](https://github.com/poojas16)), Student, Web Developer
 - Rohan Rajput ([@hard-coder1](https://github.com/hard-coder1)), Developer, India
 - Kenan Christian Dimas ([@kenanchristian](https://github.com/kenanchristian)), Full-Stack Developer, Indonesia
