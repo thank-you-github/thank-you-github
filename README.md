@@ -2103,3 +2103,4 @@ Signed,
 - Sandeep chauhan([@sandeepsajan0](https://github.com/sandeepsajan0)),Python devloper ,India
 - Serghei Iakovlev ([@sergeyklay](https://github.com/sergeyklay)), Phalcon core team member, Ukraine
 - Vipul Sharma ([@vsvipul](https://github.com/vsvipul)), Programmer, Undergraduate at IIT Mandi, India
+- Anuj Upadhyay([@anuj97](https://github.com/anuj97)), Web Developer, India
