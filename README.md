@@ -2104,3 +2104,4 @@ Signed,
 - Serghei Iakovlev ([@sergeyklay](https://github.com/sergeyklay)), Phalcon core team member, Ukraine
 - Vipul Sharma ([@vsvipul](https://github.com/vsvipul)), Programmer, Undergraduate at IIT Mandi, India
 - Anuj Upadhyay([@anuj97](https://github.com/anuj97)), Web Developer, India
+- Elías Josué Puma Chávez ([@zeroblazer](https://github.com/zeroblazer)), Student, Software developer, Rust, Perú
