@@ -2083,7 +2083,7 @@ Signed,
 - Nandini Munda ([@nandini-m](https://github.com/nandini-m)),Computer Science Student,Kiit University,India
 - NEHARIKA ([@neharikay](https://github.com/neharikay)), student
 - Swati Shrivastava ([@SwatiShrivastava9](https://github.com/SwatiShrivastava9)), Computer Science undergrat, Bhubaneshwar, India
-- Neha([@veraciousalien](https://github.com/veraciousalien)),Student
+- Neha ([@veraciousalien](https://github.com/veraciousalien)),Student
 - Shruti Pradhan ([@Shruti07prad](https://github.com/Shruti07prad)),Information Technology Undergrad at Kalinga Institute of Industrial Technology,India
 - Preeti Saini ([@sainipreeti](https://github.com/sainipreeti)),Web develper,India
 - Shrikriti Singh ([@shrikriti5singh](https://github.com/shrikriti5singh)), Android & Web Developer, India
@@ -2096,12 +2096,12 @@ Signed,
 - Swati Singh ([@swati524](https://github.com/swati524)),Android Developer,India
 - Faizaan Datoo ([@faizaand](https://github.com/faizaand)), High School Student, Pennsylvania, USA
 - Animesh Pandey ([@AnimeshPandey](https://github.com/AnimeshPandey)), Web Developer, India
-- Pranav Pratap Singh([@PranavPratapSingh](https://github.com/PranavPratapSingh)), Machine Learning Enthusiast, India
+- Pranav Pratap Singh ([@PranavPratapSingh](https://github.com/PranavPratapSingh)), Machine Learning Enthusiast, India
 - Sanchit Nayyar ([@sanchit-nayyar](https://github.com/sanchit-nayyar)), Back End Web Developer and Automation Systems Developer, India
 - Bennett Talpers ([@btalpers](https://github.com/btalpers)), Software Engineer, USA
 - Mohit singh ([@mritunjaygoutam12](https://github.com/mritunjaygoutam12)), al-->Javascript ,India
-- Sandeep chauhan([@sandeepsajan0](https://github.com/sandeepsajan0)),Python devloper ,India
+- Sandeep chauhan ([@sandeepsajan0](https://github.com/sandeepsajan0)),Python devloper ,India
 - Serghei Iakovlev ([@sergeyklay](https://github.com/sergeyklay)), Phalcon core team member, Ukraine
 - Vipul Sharma ([@vsvipul](https://github.com/vsvipul)), Programmer, Undergraduate at IIT Mandi, India
-- Anuj Upadhyay([@anuj97](https://github.com/anuj97)), Web Developer, India
+- Anuj Upadhyay ([@anuj97](https://github.com/anuj97)), Web Developer, India
 - Elías Josué Puma Chávez ([@zeroblazer](https://github.com/zeroblazer)), Student, Software developer, Rust, Perú
