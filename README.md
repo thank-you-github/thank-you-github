@@ -2105,3 +2105,4 @@ Signed,
 - Vipul Sharma ([@vsvipul](https://github.com/vsvipul)), Programmer, Undergraduate at IIT Mandi, India
 - Anuj Upadhyay ([@anuj97](https://github.com/anuj97)), Web Developer, India
 - Elías Josué Puma Chávez ([@zeroblazer](https://github.com/zeroblazer)), Student, Software developer, Rust, Perú
+- Paulo Henrique Sacramento ([@henriquesacramento](https://github.com/henriquesacramento)), Full Stack Developer, Bahia <3, Brazil
