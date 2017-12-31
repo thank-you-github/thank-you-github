@@ -2105,3 +2105,6 @@ Signed,
 - Vipul Sharma ([@vsvipul](https://github.com/vsvipul)), Programmer, Undergraduate at IIT Mandi, India
 - Anuj Upadhyay ([@anuj97](https://github.com/anuj97)), Web Developer, India
 - Elías Josué Puma Chávez ([@zeroblazer](https://github.com/zeroblazer)), Student, Software developer, Rust, Perú
+- Jason Lukose ([@jlukose12](https://github.com/jlukose12)), Georgia Tech Student, 2018
+
+
