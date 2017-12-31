@@ -2106,3 +2106,4 @@ Signed,
 - Anuj Upadhyay ([@anuj97](https://github.com/anuj97)), Web Developer, India
 - Elías Josué Puma Chávez ([@zeroblazer](https://github.com/zeroblazer)), Student, Software developer, Rust, Perú
 - Jason Lukose ([@JasonLukose](https://github.com/JasonLukose)), Georgia Tech Student, 2018
+- Paulo Henrique Sacramento ([@henriquesacramento](https://github.com/henriquesacramento)), Full Stack Developer, Bahia <3, Brazil
