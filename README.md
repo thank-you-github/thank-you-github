@@ -2109,3 +2109,4 @@ Signed,
 - Paulo Henrique Sacramento ([@henriquesacramento](https://github.com/henriquesacramento)), Full Stack Developer, Bahia <3, Brazil
 - Jake Lacey ([@jakelacey2012](https://github.com/jakelacey2012)), Software Developer.
 - Ronnie ([@geekslider](https://github.com/geekslider)), CSE Undergraduate at Karunya University, Coimbatore,India
+- Kashif Minhaj ([@kashifmin](https://github.com/kashifmin)), CSE Undergraduate at NMAMIT, Nitte,India
