@@ -2110,3 +2110,4 @@ Signed,
 - Jake Lacey ([@jakelacey2012](https://github.com/jakelacey2012)), Software Developer.
 - Ronnie ([@geekslider](https://github.com/geekslider)), CSE Undergraduate at Karunya University, Coimbatore,India
 - Deepak Mangla ([@i-amgeek](https://github.com/i-amgeek)), Student, Python Developer, India.
+- Kashif Minhaj ([@kashifmin](https://github.com/kashifmin)), CSE Undergraduate at NMAMIT, Nitte,India
