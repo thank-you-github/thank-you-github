@@ -2112,3 +2112,4 @@ Signed,
 - Deepak Mangla ([@i-amgeek](https://github.com/i-amgeek)), Student, Python Developer, India.
 - Kashif Minhaj ([@kashifmin](https://github.com/kashifmin)), CSE Undergraduate at NMAMIT, Nitte,India
 - Naveen Venkat ([@nmakes](https://github.com/nmakes)), CS Undergrad at BITS Pilani, India
+- Anas Husseini ([@linostar](https://github.com/linostar)), Developer
