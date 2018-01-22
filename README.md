@@ -2120,3 +2120,4 @@ Signed,
 - Jérémie Astori ([@astorije](https://github.com/astorije)), Software Engineer
 - André Varandas ([@andrevarandas](https://github.com/andrevarandas)), JavaScript Developer, Portugal
 - Benjamin De Brasi ([@BenDeBrasi](https://github.com/BenDeBrasi)), Software Developer.
+- Dimitri Do Bairro ([@rimiti](https://github.com/rimiti)), Full Stack Developer, CEO, France 
