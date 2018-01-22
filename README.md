@@ -2118,3 +2118,4 @@ Signed,
 - Doriel Fonseca ([@doriel](https://github.com/doriel)), Front-end Developer, Luanda (Angola)
 - Fabien Bénariac ([@fbenariac](https://github.com/fbenariac)), Code Artist Enthusiast, Boussy Saint Antoine (France)
 - Jérémie Astori ([@astorije](https://github.com/astorije)), Software Engineer
+- André Varandas ([@andrevarandas](https://github.com/andrevarandas)), JavaScript Developer, Portugal
