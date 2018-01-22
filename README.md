@@ -2116,4 +2116,4 @@ Signed,
 - Chris Werner Rau ([@cwrau](https://github.com/cwrau)), Full Stack Developer; loves security, C# and Java; fan of Docker and Rancher; Germany
 - Niraj Kadam ([@nirajkadam](https://github.com/nirajkadam)), CS graduate student
 - Doriel Fonseca ([@doriel](https://github.com/doriel)), Front-end Developer, Luanda (Angola)
-- Benjamin De Brasi(@BenDeBrasi)(https://github.com/BenDeBrasi), Software Developer. 
+- Benjamin De Brasi ([@BenDeBrasi](https://github.com/BenDeBrasi)), Software Developer. 
