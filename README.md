@@ -2119,3 +2119,4 @@ Signed,
 - Fabien Bénariac ([@fbenariac](https://github.com/fbenariac)), Code Artist Enthusiast, Boussy Saint Antoine (France)
 - Jérémie Astori ([@astorije](https://github.com/astorije)), Software Engineer
 - André Varandas ([@andrevarandas](https://github.com/andrevarandas)), JavaScript Developer, Portugal
+- Benjamin De Brasi ([@BenDeBrasi](https://github.com/BenDeBrasi)), Software Developer.
