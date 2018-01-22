@@ -2117,3 +2117,4 @@ Signed,
 - Niraj Kadam ([@nirajkadam](https://github.com/nirajkadam)), CS graduate student
 - Doriel Fonseca ([@doriel](https://github.com/doriel)), Front-end Developer, Luanda (Angola)
 - Fabien Bénariac ([@fbenariac](https://github.com/fbenariac)), Code Artist Enthusiast, Boussy Saint Antoine (France)
+- Jérémie Astori ([@astorije](https://github.com/astorije)), Software Engineer
