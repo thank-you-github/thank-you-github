@@ -637,3 +637,5 @@ Signed,
 - Eliott Hauteclair ([@Eliottiosdevs](https://github.com/Eliottiosdevs)), Developer, Belgium
 - Wael Nasreddine ([@kalbasit](https://github.com/kalbasit)), VP of Engineering at [Publica](https://getpublica.com/)
 - Stephen Jennings ([@jennings](https://github.com/jennings)), Software Developer
+- Mohib Abdul Wasay ([@MohibWasay](https://github.com/MohibWasay)), Software Developer|Engineer|Architect, Zaavya Technologies LLC. 
+
