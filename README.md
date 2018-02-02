@@ -2121,3 +2121,4 @@ Signed,
 - André Varandas ([@andrevarandas](https://github.com/andrevarandas)), JavaScript Developer, Portugal
 - Benjamin De Brasi ([@BenDeBrasi](https://github.com/BenDeBrasi)), Software Developer.
 - Wellington Costa ([@WellingtonCosta](https://github.com/WellingtonCosta)), Software Engineer, Brazil.
+- Miguel Sozinho Ramalho ([@msramalho](https://github.com/msramalho)), Computer Science & Engineering Student @ FEUP, Portugal.
