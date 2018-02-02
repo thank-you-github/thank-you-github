@@ -2123,3 +2123,4 @@ Signed,
 - Wellington Costa ([@WellingtonCosta](https://github.com/WellingtonCosta)), Software Engineer, Brazil.
 - Miguel Sozinho Ramalho ([@msramalho](https://github.com/msramalho)), Computer Science & Engineering Student @ FEUP, Portugal.
 - Mohib Abdul Wasay ([@MohibWasay](https://github.com/MohibWasay)), Software Developer, Pakistan.
+- Daniel Andersson ([@danielandersson](https://github.com/danielandersson)), Software Engineer.
