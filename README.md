@@ -2125,3 +2125,4 @@ Signed,
 - Mohib Abdul Wasay ([@MohibWasay](https://github.com/MohibWasay)), Software Developer, Pakistan.
 - Daniel Andersson ([@danielandersson](https://github.com/danielandersson)), Software Engineer.
 - Saurav Bhattarai ([@drklrd](https://github.com/drklrd)), Developer, Nepal
+- Arjun Gautam ([@arjun-gautam](https://github.com/arjun-gautam)), Computer Scientist, Nepal.
