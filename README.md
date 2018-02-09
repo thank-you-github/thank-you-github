@@ -2127,3 +2127,4 @@ Signed,
 - Saurav Bhattarai ([@drklrd](https://github.com/drklrd)), Developer, Nepal
 - Arjun Gautam ([@arjun-gautam](https://github.com/arjun-gautam)), Computer Scientist, Nepal.
 - Jessica Lewinter ([@jessicalewinter](https://github.com/jessicalewinter)), Full Stack Developer, Fortaleza, Brazil.
+- Garvit Kothari ([@Garvit-k](https://github.com/Garvit-k)), Undergrad at SRM IST,Chennai.
