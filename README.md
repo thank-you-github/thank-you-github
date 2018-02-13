@@ -2130,3 +2130,4 @@ Signed,
 - Sagar Khatri ([@ragasirtahk](https://github.com/ragasirtahk)), Student, Open Source Enthusiast, India
 - Jitendra Kumar ([@contactjittu](https://github.com/contactjittu)), Software Engineer, India
 - Abid Uzair ([@abiduzz420](https://github.com/abiduzz420)), Student Developer & an open source contributor, India.
+- Garvit Kothari ([@Garvit-k](https://github.com/Garvit-k)), Undergrad at SRM IST,Chennai.
