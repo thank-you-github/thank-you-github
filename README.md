@@ -2129,3 +2129,4 @@ Signed,
 - Jessica Lewinter ([@jessicalewinter](https://github.com/jessicalewinter)), Full Stack Developer, Fortaleza, Brazil.
 - Sagar Khatri ([@ragasirtahk](https://github.com/ragasirtahk)), Student, Open Source Enthusiast, India
 - Jitendra Kumar ([@contactjittu](https://github.com/contactjittu)), Software Engineer, India
+- Abid Uzair ([@abiduzz420](https://github.com/abiduzz420)), Student Developer & an open source contributor, India.
