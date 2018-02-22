@@ -2134,3 +2134,4 @@ Signed,
 - Mohd Monis ([@monis01](https://github.com/monis01)), frontEnd developer from India (Delhi).
 - Russell Jurney ([@rjurney](https://github.com/rjurney)), Committer, Apache DataFu
 - Emre Tanrıverdi ([@achillesveil](https://github.com/achillesveil)), Computer Engineering Student & Android Developer, Turkey.
+- Ninjayoto ([@ninjayoto](https://github.com/ninjayoto)), Android Developer, Canada.
