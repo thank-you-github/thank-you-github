@@ -2138,3 +2138,4 @@ Signed,
 - Adhyan Dhull ([@adhyandhull](https://github.com/adhyandhull)), Student, Open Source Contributor, India
 - Pradeep P ([@pradeepppc](https://github.com/pradeepppc)) CS Student, Mobile and Web Developer
 - Devansh Agarwal([@Devansh-Agarwal](https://github.com/Devansh-Agarwal)) student at IITH, VR & AR Developer
+- Rushab Shah ([@DroidFreak32](https://github.com/DroidFreak32)) CS UG Student at NMAMIT, Android Enthusiast, India.
