@@ -2140,3 +2140,4 @@ Signed,
 - Devansh Agarwal([@Devansh-Agarwal](https://github.com/Devansh-Agarwal)) student at IITH, VR & AR Developer
 - Rushab Shah ([@DroidFreak32](https://github.com/DroidFreak32)) CS UG Student at NMAMIT, Android Enthusiast, India.
 - Aymeric Flaisler ([@aflaisler](https://github.com/aflaisler)) data engineer, England, United Kingdom
+- Burak Yaldırak ([@byaldira](https://github.com/byaldira)), Software Engineer, Turkey
