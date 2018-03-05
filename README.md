@@ -2141,3 +2141,4 @@ Signed,
 - Rushab Shah ([@DroidFreak32](https://github.com/DroidFreak32)) CS UG Student at NMAMIT, Android Enthusiast, India.
 - Aymeric Flaisler ([@aflaisler](https://github.com/aflaisler)) data engineer, England, United Kingdom
 - Mandeep Singh ([@meSingh](https://github.com/meSingh)) Full Stack Developer & Startups Enthusiast, Delhi, India
+- Burak Yaldırak ([@byaldira](https://github.com/byaldira)), Software Engineer, Turkey
