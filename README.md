@@ -2143,3 +2143,4 @@ Signed,
 - Mandeep Singh ([@meSingh](https://github.com/meSingh)) Full Stack Developer & Startups Enthusiast, Delhi, India
 - Burak Yaldırak ([@byaldira](https://github.com/byaldira)), Software Engineer, Turkey
 - Rishabh Tayal ([@RishabhTayal](https://github.com/rishabhtayal)) iOS Engineer, Chicago, USA
+- Kassem Itani ([@kassemitani](https://github.com/kassemitani)) Mobile App Developer, Beirut, Lebanon
