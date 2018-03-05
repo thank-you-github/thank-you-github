@@ -2144,3 +2144,4 @@ Signed,
 - Burak Yaldırak ([@byaldira](https://github.com/byaldira)), Software Engineer, Turkey
 - Rishabh Tayal ([@RishabhTayal](https://github.com/rishabhtayal)) iOS Engineer, Chicago, USA
 - Kassem Itani ([@kassemitani](https://github.com/kassemitani)) Mobile App Developer, Beirut, Lebanon
+- Akash Ranjan ([@akasranjan005](https://github.com/akasranjan005)) Python Developer, Mumbai, India
