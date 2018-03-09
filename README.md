@@ -2146,3 +2146,4 @@ Signed,
 - Kassem Itani ([@kassemitani](https://github.com/kassemitani)) Mobile App Developer, Beirut, Lebanon
 - Akash Ranjan ([@akasranjan005](https://github.com/akasranjan005)) Python Developer, Mumbai, India
 - Surajeet Sen ([@surajeetsen](https://github.com/surajeetsen)) Software Engineer, India.
+- Niyaz Bin Hashem ([@niyazed](https://github.com/niyazed)) Designer & Developer, PC Enthusiast, CS Undergrade Student at NSU, Bangladesh.
