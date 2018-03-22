@@ -2151,4 +2151,5 @@
     - Ruwan Ranganath Senarathne ([@ruwan-ranganath](https://github.com/ruwan-ranganath)) DevOps Engineer, Sri Lanka.
     - Jigar Tarpara ([@jigartarpara](https://github.com/jigartarpara)) Python Developer, Surat, India
     - Xuan-An Phan ([@gr33ntii](https://github.com/gr33ntii)) Full Stack Developer & Coffeescript & Javascript, Vietnam
-    - Niels Moseley ([@trcwm](https://github.com/trcwm)) CEO and head coffee-maker at [www.moseleyinstruments.com](https://www.moseleyinstruments.com/).
+    - Niels Moseley ([@trcwm](https://github.com/trcwm)) CEO and head coffee-maker at [www.moseleyinstruments.com (https://www.moseleyinstruments.com/).
+    - Rohit Gangupantulu ([@rgangu](https://github.com/rgangu)) Software Engineer, State College, USA
