@@ -2153,3 +2153,4 @@ Signed,
 - Xuan-An Phan ([@gr33ntii](https://github.com/gr33ntii)) Full Stack Developer & Coffeescript & Javascript, Vietnam
 - Niels Moseley ([@trcwm](https://github.com/trcwm)) CEO and head coffee-maker at [www.moseleyinstruments.com](https://www.moseleyinstruments.com/).
 - Roger P. Oliveira ([@zlown3t](https://github.com/zlown3t)) Fullstack Web Developer at HP inc, Porto Alegre - Brazil.
+- Nishtha Bhatia ([@nb2998](https://github.com/nb2998)), Android Developer
