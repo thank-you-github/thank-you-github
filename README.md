@@ -2156,3 +2156,4 @@ Signed,
 - Nishtha Bhatia ([@nb2998](https://github.com/nb2998)), Android Developer
 - Trung-Duc Nguyen ([@nguyentrungduc08](https://github.com/nguyentrungduc08)) C/C++ Developer, Vietnam
 - Akash Shankar Bisariya ([@akash-bisariya](https://github.com/akash-bisariya)) Android Developer, Gurgaon, India
+- Rohit Gangupantulu ([@rgangu](https://github.com/rgangu)) Software Engineer, State College, USA
