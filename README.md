@@ -2159,3 +2159,4 @@ Signed,
 - Rohit Gangupantulu ([@rgangu](https://github.com/rgangu)) Software Engineer, State College, USA
 - Arash Aghajani ([@arshiamidos](https://github.com/arshiamidos)) FullStack Hacker Developer, Tehran, Iran
 - Ville Hellman ([@efexen](https://github.com/efexen)) CTO & Developer, Surrey, UK
+- Max Goh ([@maxgoh](https://github.com/maxgoh)) FullStack Software Engineer, Singapore
