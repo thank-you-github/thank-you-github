@@ -2147,3 +2147,17 @@ Signed,
 - Akash Ranjan ([@akasranjan005](https://github.com/akasranjan005)) Python Developer, Mumbai, India
 - Surajeet Sen ([@surajeetsen](https://github.com/surajeetsen)) Software Engineer, India.
 - Jackson Zhipeng Chang ([@Zhipeng-Chang](https://github.com/Zhipeng-Chang)) Student, System Analyst, Software Engineer, Canada.
+- Van-Duyet LE ([@duyetdev](https://github.com/duyetdev)), Data Engineer, Vietnam
+- Nicolas Talle ([@Nicolab](https://github.com/Nicolab)), Full Stack Developer & OSS Dev & CEO at [inStack.io](https://instack.io)
+- Ruwan Ranganath Senarathne ([@ruwan-ranganath](https://github.com/ruwan-ranganath)) DevOps Engineer, Sri Lanka.
+- Jigar Tarpara ([@jigartarpara](https://github.com/jigartarpara)) Python Developer, Surat, India
+- Xuan-An Phan ([@gr33ntii](https://github.com/gr33ntii)) Full Stack Developer & Coffeescript & Javascript, Vietnam
+- Niels Moseley ([@trcwm](https://github.com/trcwm)) CEO and head coffee-maker at [www.moseleyinstruments.com](https://www.moseleyinstruments.com/).
+- Roger P. Oliveira ([@zlown3t](https://github.com/zlown3t)) Fullstack Web Developer at HP inc, Porto Alegre - Brazil.
+- Nishtha Bhatia ([@nb2998](https://github.com/nb2998)), Android Developer
+- Trung-Duc Nguyen ([@nguyentrungduc08](https://github.com/nguyentrungduc08)) C/C++ Developer, Vietnam
+- Akash Shankar Bisariya ([@akash-bisariya](https://github.com/akash-bisariya)) Android Developer, Gurgaon, India
+- Rohit Gangupantulu ([@rgangu](https://github.com/rgangu)) Software Engineer, State College, USA
+- Arash Aghajani ([@arshiamidos](https://github.com/arshiamidos)) FullStack Hacker Developer, Tehran, Iran
+- Ville Hellman ([@efexen](https://github.com/efexen)) CTO & Developer, Surrey, UK
+- Max Goh ([@maxgoh](https://github.com/maxgoh)) FullStack Software Engineer, Singapore
