@@ -2161,3 +2161,4 @@ Signed,
 - Ville Hellman ([@efexen](https://github.com/efexen)) CTO & Developer, Surrey, UK
 - Max Goh ([@maxgoh](https://github.com/maxgoh)) FullStack Software Engineer, Singapore
 - Jackson Zhipeng Chang ([@Zhipeng-Chang](https://github.com/Zhipeng-Chang)) Student, System Analyst, Software Engineer, Canada.
+- Nan Zhang ([@zhangn49](https://github.com/zhangn49)), SE Graduate Student & Developer, China
