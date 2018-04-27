@@ -2162,3 +2162,4 @@ Signed,
 - Max Goh ([@maxgoh](https://github.com/maxgoh)) FullStack Software Engineer, Singapore
 - Jackson Zhipeng Chang ([@Zhipeng-Chang](https://github.com/Zhipeng-Chang)) Student, System Analyst, Software Engineer, Canada.
 - Nan Zhang ([@zhangn49](https://github.com/zhangn49)), SE Graduate Student & Developer, China
+- Xiang Wang ([@ramwin](https://github.com/ramwin)), Full Stack Developer, China
