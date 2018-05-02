@@ -2164,3 +2164,4 @@ Signed,
 - Nan Zhang ([@zhangn49](https://github.com/zhangn49)), SE Graduate Student & Developer, China
 - Xiang Wang ([@ramwin](https://github.com/ramwin)), Full Stack Developer, China
 - Himanshu Gupta([@himanshug396](https://github.com/himanshug396)) Frontend developer, IIT Roorkee, India
+- Vladimiro Bellini ([@vlasvlasvlas](https://github.com/vlasvlasvlas)), Data Analyst & Developer at Sistemas Mapache (http://www.smapache.com.ar/), Argentina
