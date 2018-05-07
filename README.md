@@ -2167,3 +2167,4 @@ Signed,
 - Vladimiro Bellini ([@vlasvlasvlas](https://github.com/vlasvlasvlas)), Data Analyst & Developer at Sistemas Mapache (http://www.smapache.com.ar/), Argentina
 - Erik Nguyen ([@eriknguyen](https://github.com/eriknguyen)), Software Engineer, Singapore
 - Sowmya Dharanipragada ([@sowmyadvn] (https://github.com/sowmyadvn)), Software Engineer, California
+- Nikolaos Dimopoulos ([@niden](https://github.com/niden)), Phalcon core team member, USA
