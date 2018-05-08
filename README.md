@@ -2168,3 +2168,4 @@ Signed,
 - Erik Nguyen ([@eriknguyen](https://github.com/eriknguyen)), Software Engineer, Singapore
 - Sowmya Dharanipragada ([@sowmyadvn] (https://github.com/sowmyadvn)), Software Engineer, California
 - Chris Salgado ([@cgado12](https://github.com/cgado12)), Software Engineer, Tampa, USA
+- Nikolaos Dimopoulos ([@niden](https://github.com/niden)), Phalcon core team member, USA
