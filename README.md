@@ -2167,3 +2167,4 @@ Signed,
 - Vladimiro Bellini ([@vlasvlasvlas](https://github.com/vlasvlasvlas)), Data Analyst & Developer at Sistemas Mapache (http://www.smapache.com.ar/), Argentina
 - Erik Nguyen ([@eriknguyen](https://github.com/eriknguyen)), Software Engineer, Singapore
 - Sowmya Dharanipragada ([@sowmyadvn] (https://github.com/sowmyadvn)), Software Engineer, California
+- Chris Salgado ([@cgado12](https://github.com/cgado12)), Software Engineer, Tampa, USA
