@@ -2170,3 +2170,4 @@ Signed,
 - Chris Salgado ([@cgado12](https://github.com/cgado12)), Software Engineer, Tampa, USA
 - Nikolaos Dimopoulos ([@niden](https://github.com/niden)), Phalcon core team member, USA
 - Pascal Iske ([@pascaliske](https://github.com/pascaliske)), TypeScript / JavaScript Developer, Germany
+- Rohit Ashiwal ([@r1walz](https://github.com/r1walz)), Android Developer at IIT Roorkee
