@@ -2163,6 +2163,7 @@ Signed,
 - Jackson Zhipeng Chang ([@Zhipeng-Chang](https://github.com/Zhipeng-Chang)) Student, System Analyst, Software Engineer, Canada.
 - Nan Zhang ([@zhangn49](https://github.com/zhangn49)), SE Graduate Student & Developer, China
 - Xiang Wang ([@ramwin](https://github.com/ramwin)), Full Stack Developer, China
+- Akshay Raul ([@AkshayRaul](https://github.com/AkshayRaul)), Full Stack Developer, Software Engineer, Mumbai, India
 - Himanshu Gupta([@himanshug396](https://github.com/himanshug396)) Frontend developer, IIT Roorkee, India
 - Vladimiro Bellini ([@vlasvlasvlas](https://github.com/vlasvlasvlas)), Data Analyst & Developer at Sistemas Mapache (http://www.smapache.com.ar/), Argentina
 - Erik Nguyen ([@eriknguyen](https://github.com/eriknguyen)), Software Engineer, Singapore
