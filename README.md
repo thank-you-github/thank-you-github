@@ -2166,7 +2166,7 @@ Signed,
 - Himanshu Gupta([@himanshug396](https://github.com/himanshug396)) Frontend developer, IIT Roorkee, India
 - Vladimiro Bellini ([@vlasvlasvlas](https://github.com/vlasvlasvlas)), Data Analyst & Developer at Sistemas Mapache (http://www.smapache.com.ar/), Argentina
 - Erik Nguyen ([@eriknguyen](https://github.com/eriknguyen)), Software Engineer, Singapore
-- Sowmya Dharanipragada ([@sowmyadvn] (https://github.com/sowmyadvn)), Software Engineer, California
+- Sowmya Dharanipragada ([@sowmyadvn](https://github.com/sowmyadvn)), Software Engineer, California
 - Chris Salgado ([@cgado12](https://github.com/cgado12)), Software Engineer, Tampa, USA
 - Nikolaos Dimopoulos ([@niden](https://github.com/niden)), Phalcon core team member, USA
 - Pascal Iske ([@pascaliske](https://github.com/pascaliske)), TypeScript / JavaScript Developer, Germany
