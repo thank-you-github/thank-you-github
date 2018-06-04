@@ -2179,3 +2179,5 @@ Signed,
 - Sukhbir Singh ([@sukhbir-singh](https://github.com/sukhbir-singh)), Computer Science Student at NIT Hamirpur, India
 - Rishi Pithadiya ([@rishiip](https://github.com/rishiip)), Ruby on Rails Programmer
 - Vibhav Agarawal ([@vibhavagarwal5](https://github.com/vibhavagarwal5)), Developer/Student, India
+- Rishabh Chaudhary ([@Rishabh04-02](https://github.com/Rishabh04-02)), Computer Science & Engineering Student at NIT Hamirpur, India
+
