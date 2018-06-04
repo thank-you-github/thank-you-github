@@ -2180,3 +2180,4 @@ Signed,
 - Rishi Pithadiya ([@rishiip](https://github.com/rishiip)), Ruby on Rails Programmer
 - Vibhav Agarawal ([@vibhavagarwal5](https://github.com/vibhavagarwal5)), Developer/Student, India
 - Vibhor Agarwal ([@vibhor98](https://github.com/vibhor98)), Data Scientist/UG Student, India
+- Rishabh Chaudhary ([@Rishabh04-02](https://github.com/Rishabh04-02)), Computer Science & Engineering Student at NIT Hamirpur, India
