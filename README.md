@@ -2177,3 +2177,4 @@ Signed,
 - Saif Eddin Gmati ([@azjezz](https://github.com/azjezz)), Back-End Web Developer, Tunisia
 - Yashovardhan Agrawal ([@yashovardhanagrawal](https://github.com/yashovardhanagrawal)), React Native Developer, India
 - Sukhbir Singh ([@sukhbir-singh](https://github.com/sukhbir-singh)), Computer Science Student at NIT Hamirpur, India
+- Rishi Pithadiya ([@rishiip](https://github.com/rishiip)), Ruby on Rails Programmer
