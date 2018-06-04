@@ -1468,4 +1468,3 @@ Signed,
 - Hitanshu Sahu ([@Phantom-Cluster](https://github.com/Phantom-Cluster)), GUI Designer, Data Analyst
 - Allan Mraes ([@mysqlbox](https://github.com/mysqlbox)), DBA MySQL - Sysadmin Linux - www.mysqlbox.com.br
 - Anubhab Sen ([@anubhabsen](https://github.com/anubhabsen)), CSE Undergraduate at IIIT-H
-- Alex Johnson ([@Eggbongo](https://github.com/Eggbongo)), Developer, Minneapolis, MN
