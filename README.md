@@ -2183,3 +2183,4 @@ Signed,
 - Rishabh Chaudhary ([@Rishabh04-02](https://github.com/Rishabh04-02)), Computer Science & Engineering Student at NIT Hamirpur, India
 - Dishant Rathi ([@dishantrathi](https://github.com/dishantrathi)), Computer Engineering Student at Govt. Engineering College, Modasa.
 - Prashant Nigam ([@prashant0598](https://github.com/prashant0598)), Data Scientist, India
+- Kevin Rodríguez ([@kevyder](https://github.com/kevyder)), Full-Stack Developer, Colombia.
