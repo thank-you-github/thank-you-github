@@ -2187,3 +2187,4 @@ Signed,
 - Wilson Ng ([@wilson-ng](https://github.com/wilson-ng)), System Engineer, Indonesia
 - Willy Nugraha Utomo ([@willymiiee](https://github.com/willymiiee)), Software Engineer, Indonesia
 - Miguel Piedrafita ([@m1guelpf](https://github.com/m1guelpf)), teenager dev, Spain
+- Max Vetrov ([@tigertv](https://github.com/tigertv)), Software Developer, Russia
