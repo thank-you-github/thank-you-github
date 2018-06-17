@@ -2188,3 +2188,4 @@ Signed,
 - Willy Nugraha Utomo ([@willymiiee](https://github.com/willymiiee)), Software Engineer, Indonesia
 - Miguel Piedrafita ([@m1guelpf](https://github.com/m1guelpf)), teenager dev, Spain
 - Max Vetrov ([@tigertv](https://github.com/tigertv)), Software Developer, Russia
+- James Larrowe ([@JL2210](https://github.com/JL2210)), Chromebrew Developer, Indiana, United States
