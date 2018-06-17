@@ -2189,3 +2189,4 @@ Signed,
 - Miguel Piedrafita ([@m1guelpf](https://github.com/m1guelpf)), teenager dev, Spain
 - Max Vetrov ([@tigertv](https://github.com/tigertv)), Software Developer, Russia
 - James Larrowe ([@JL2210](https://github.com/JL2210)), Chromebrew Developer, Indiana, United States
+- Benjamin H Boruff ([@benjaminboruff](https://github.com/benjaminboruff)), Developer, Bloomington, Indiana, USA
