@@ -2190,3 +2190,4 @@ Signed,
 - Max Vetrov ([@tigertv](https://github.com/tigertv)), Software Developer, Russia
 - James Larrowe ([@JL2210](https://github.com/JL2210)), Chromebrew Developer, Indiana, United States
 - Benjamin H Boruff ([@benjaminboruff](https://github.com/benjaminboruff)), Developer, Bloomington, Indiana, USA
+- Osusara Kammalawatta ([@osusara](https://github.com/osusara)), IS Undergraduate at SUSL, Sri Lanka
