@@ -2192,3 +2192,4 @@ Signed,
 - Benjamin H Boruff ([@benjaminboruff](https://github.com/benjaminboruff)), Developer, Bloomington, Indiana, USA
 - Osusara Kammalawatta ([@osusara](https://github.com/osusara)), IS Undergraduate at SUSL, Sri Lanka
 - Azkar Moulana ([@azkarmoulana](https://github.com/azkarmoulana)), Software Engineer
+- Shashi Prakash Gautam ([@shweshi](https://github.com/shweshi)), Software Developer
