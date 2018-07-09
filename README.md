@@ -2194,3 +2194,4 @@ Signed,
 - Azkar Moulana ([@azkarmoulana](https://github.com/azkarmoulana)), Software Engineer
 - Xinh Nguyen ([@nguyentrucxinh](https://github.com/nguyentrucxinh)), Sr. Full-stack JavaScript Developer, Vietnam
 - Niyaz Bin Hashem ([@niyazed](https://github.com/niyazed)) Designer & Developer, PC Enthusiast, CS Undergrade Student at NSU, Bangladesh.
+- Shashi Prakash Gautam ([@shweshi](https://github.com/shweshi)), Software Developer
