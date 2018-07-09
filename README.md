@@ -2193,3 +2193,4 @@ Signed,
 - Osusara Kammalawatta ([@osusara](https://github.com/osusara)), IS Undergraduate at SUSL, Sri Lanka
 - Azkar Moulana ([@azkarmoulana](https://github.com/azkarmoulana)), Software Engineer
 - Xinh Nguyen ([@nguyentrucxinh](https://github.com/nguyentrucxinh)), Sr. Full-stack JavaScript Developer, Vietnam
+- Niyaz Bin Hashem ([@niyazed](https://github.com/niyazed)) Designer & Developer, PC Enthusiast, CS Undergrade Student at NSU, Bangladesh.
