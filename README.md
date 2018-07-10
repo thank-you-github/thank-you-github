@@ -2195,3 +2195,4 @@ Signed,
 - Xinh Nguyen ([@nguyentrucxinh](https://github.com/nguyentrucxinh)), Sr. Full-stack JavaScript Developer, Vietnam
 - Niyaz Bin Hashem ([@niyazed](https://github.com/niyazed)) Designer & Developer, PC Enthusiast, CS Undergrade Student at NSU, Bangladesh.
 - Shashi Prakash Gautam ([@shweshi](https://github.com/shweshi)), Software Developer
+- Brett Mack ([@devopsbrett](https://github.com/devopsbrett)), DevOps/InfoSec Consultant, UK
