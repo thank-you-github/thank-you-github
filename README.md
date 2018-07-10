@@ -2183,3 +2183,15 @@ Signed,
 - Rishabh Chaudhary ([@Rishabh04-02](https://github.com/Rishabh04-02)), Computer Science & Engineering Student at NIT Hamirpur, India
 - Dishant Rathi ([@dishantrathi](https://github.com/dishantrathi)), Computer Engineering Student at Govt. Engineering College, Modasa.
 - Prashant Nigam ([@prashant0598](https://github.com/prashant0598)), Data Scientist, India
+- Kevin Rodríguez ([@kevyder](https://github.com/kevyder)), Full-Stack Developer, Colombia.
+- Wilson Ng ([@wilson-ng](https://github.com/wilson-ng)), System Engineer, Indonesia
+- Willy Nugraha Utomo ([@willymiiee](https://github.com/willymiiee)), Software Engineer, Indonesia
+- Miguel Piedrafita ([@m1guelpf](https://github.com/m1guelpf)), teenager dev, Spain
+- Max Vetrov ([@tigertv](https://github.com/tigertv)), Software Developer, Russia
+- James Larrowe ([@JL2210](https://github.com/JL2210)), Chromebrew Developer, Indiana, United States
+- Benjamin H Boruff ([@benjaminboruff](https://github.com/benjaminboruff)), Developer, Bloomington, Indiana, USA
+- Osusara Kammalawatta ([@osusara](https://github.com/osusara)), IS Undergraduate at SUSL, Sri Lanka
+- Azkar Moulana ([@azkarmoulana](https://github.com/azkarmoulana)), Software Engineer
+- Xinh Nguyen ([@nguyentrucxinh](https://github.com/nguyentrucxinh)), Sr. Full-stack JavaScript Developer, Vietnam
+- Niyaz Bin Hashem ([@niyazed](https://github.com/niyazed)) Designer & Developer, PC Enthusiast, CS Undergrade Student at NSU, Bangladesh.
+- Shashi Prakash Gautam ([@shweshi](https://github.com/shweshi)), Software Developer
