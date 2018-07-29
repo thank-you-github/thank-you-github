@@ -2199,3 +2199,4 @@ Signed,
 - Brett Mack ([@devopsbrett](https://github.com/devopsbrett)), DevOps/InfoSec Consultant, UK
 - Len Zhao ([@zhaoshiling1017](https://github.com/zhaoshiling1017)), Software Engineer, China
 - Murat Gundes ([@muratgundes](https://github.com/muratgundes)), Software Engineer, Turkey
+- Henry Addo ([@eyedol](https://github.com/eyedol)), Software Engineer, Ghana
