@@ -2204,5 +2204,4 @@ Signed,
 - Yohan Malshika([@yohanym95](https://github.com/yohanym95)),IS Undergraduate at SUSL, Sri Lanka
 - Ross Strachan ([@rbstrachan](https://github.com/rbstrachan)), Physics Undergraduate, UK
 - Faruk Terzioğlu ([@farukterzioglu](https://github.com/farukterzioglu)), Sr. Software Developer, Turkey
-- Yoann Moinet ([@yoannmoinet](https://github.com/yoannmoinet)), Senior Software Engineer, [Zendesk](https://www.zendesk.com)
 - Simon Woldemichael ([@swoldemi](https://github.com/swoldemi)), Developer, Houston, Texas, USA
