@@ -2205,3 +2205,4 @@ Signed,
 - Ross Strachan ([@rbstrachan](https://github.com/rbstrachan)), Physics Undergraduate, UK
 - Faruk Terzioğlu ([@farukterzioglu](https://github.com/farukterzioglu)), Sr. Software Developer, Turkey
 - Simon Woldemichael ([@swoldemi](https://github.com/swoldemi)), Developer, Houston, Texas, USA
+- Rudra Sadhu ([@rdrsadhu](https://github.com/rdrsadhu)), Human
