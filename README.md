@@ -2206,3 +2206,4 @@ Signed,
 - Faruk Terzioğlu ([@farukterzioglu](https://github.com/farukterzioglu)), Sr. Software Developer, Turkey
 - Simon Woldemichael ([@swoldemi](https://github.com/swoldemi)), Developer, Houston, Texas, USA
 - Yonglong Chan ([@iluvsnail](https://github.com/iluvsnail)), Software Engineer, China
+- Rudra Sadhu ([@rdrsadhu](https://github.com/rdrsadhu)), Human
