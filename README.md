@@ -2208,3 +2208,4 @@ Signed,
 - Yonglong Chan ([@iluvsnail](https://github.com/iluvsnail)), Software Engineer, China
 - Rudra Sadhu ([@rdrsadhu](https://github.com/rdrsadhu)), Human
 - Sabique Ahmed Khan ([@sabique](https://github.com/sabique)), Software Developer, Earth
+- Niko Solihin ([@nikosolihin](https://github.com/nikosolihin)), Full Stack Developer, Jakarta, Indonesia
