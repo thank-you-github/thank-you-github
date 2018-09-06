@@ -2209,3 +2209,4 @@ Signed,
 - Rudra Sadhu ([@rdrsadhu](https://github.com/rdrsadhu)), Human
 - Sabique Ahmed Khan ([@sabique](https://github.com/sabique)), Software Developer, Earth
 - Niko Solihin ([@nikosolihin](https://github.com/nikosolihin)), Full Stack Developer, Jakarta, Indonesia
+- Suman Astani([@sumanAstani](https://github.com/SimonAstani)), Software Developer, Kathmandu , Nepal
