@@ -2210,3 +2210,4 @@ Signed,
 - Sabique Ahmed Khan ([@sabique](https://github.com/sabique)), Software Developer, Earth
 - Niko Solihin ([@nikosolihin](https://github.com/nikosolihin)), Full Stack Developer, Jakarta, Indonesia
 - S Ben Stewart ([@sbenstewart](https://github.com/sbenstewart)), Student, Chennai, India
+- Suman Astani([@SimonAstani](https://github.com/SimonAstani)), Software Developer, Kathmandu , Nepal
