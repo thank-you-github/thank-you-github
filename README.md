@@ -18,7 +18,6 @@ GitHub, thank you very much.
 
 Signed,
 
-- Tosotada ([Tosotada](https://github.com/Tosotada)), Small developer & Lover of open source projects
 - Xavier Noria ([@fxn](https://github.com/fxn)), Ruby on Rails core team member
 - Sriram Ravichandran ([@digi0ps](https://github.com/digi0ps)), CS Freshman at VIT Chennai
 - Jose Diaz-Gonzalez ([@josegonzalez](https://github.com/josegonzalez)), CakePHP and Dokku core team member
@@ -2210,3 +2209,4 @@ Signed,
 - Rudra Sadhu ([@rdrsadhu](https://github.com/rdrsadhu)), Human
 - Sabique Ahmed Khan ([@sabique](https://github.com/sabique)), Software Developer, Earth
 - Niko Solihin ([@nikosolihin](https://github.com/nikosolihin)), Full Stack Developer, Jakarta, Indonesia
+- Tosotada ([Tosotada](https://github.com/Tosotada)), Small developer & Lover of open source projects
