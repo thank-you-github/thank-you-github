@@ -2081,3 +2081,4 @@ Signed,
 - javathunderman ([@javathunderman](https://github.com/javathunderman)), developer at [Nomik](https://github.com/nomikxyz)
 - Raj Gurung ([@rajgurung](https://github.com/rajgurung)), Backend Engineer, London, United Kingdom
 - NEHARIKA ([@neharikay](https://github.com/neharikay)), student
+- neharika ([@neharikay]) (https://github.com/neharikay) , still a student 
