@@ -2213,3 +2213,4 @@ Signed,
 - Suman Astani([@SimonAstani](https://github.com/SimonAstani)), Software Developer, Kathmandu , Nepal
 - Arnav Borborah ([@arnavb](https://github.com/arnavb)), High school student who loves programming
 - Tosotada ([@Tosotada](https://github.com/Tosotada)), Small developer & Lover of open source projects
+- Aravind V. Nair ([@AravindVNair99](https://github.com/AravindVNair99)), Computer Science enthusiast mainly interested in web development and cybersecurity [Portfolio Website](https://aravindvnair99.firebaseapp.com), [Blog](https://aravindvnair1999.blogspot.com)
