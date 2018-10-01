@@ -2218,3 +2218,4 @@ Signed,
 - Wilson Ng ([@wilson-ng](https://github.com/wilson-ng)), Software Engineer at Mokapos, Indonesia
 - Aravind V. Nair ([@AravindVNair99](https://github.com/AravindVNair99)), Computer Science enthusiast mainly interested in web development and cybersecurity [Portfolio Website](https://aravindvnair99.firebaseapp.com), [Blog](https://aravindvnair1999.blogspot.com)
 - Ervien Ismunandar Susila ([@ervinismu](https://github.com/ervinismu)), Software Engineer, Yogyakarta, Indonesia
+- Leo Riviera ([@leoriviera](https://github.com/leoriviera)), Computer Science and Information Technology Student and Software Developer, London, UK
