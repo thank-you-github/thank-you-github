@@ -2184,7 +2184,7 @@ Signed,
 - Dishant Rathi ([@dishantrathi](https://github.com/dishantrathi)), Computer Engineering Student at Govt. Engineering College, Modasa.
 - Prashant Nigam ([@prashant0598](https://github.com/prashant0598)), Data Scientist, India
 - Kevin Rodríguez ([@kevyder](https://github.com/kevyder)), Full-Stack Developer, Colombia.
-- Wilson Ng ([@wilson-ng](https://github.com/wilson-ng)), System Engineer, Indonesia
+- Wilson Ng ([@wilson-ng](https://github.com/wilson-ng)), Software Engineer at Mokapos, Indonesia
 - Willy Nugraha Utomo ([@willymiiee](https://github.com/willymiiee)), Software Engineer, Indonesia
 - Miguel Piedrafita ([@m1guelpf](https://github.com/m1guelpf)), teenager dev, Spain
 - Max Vetrov ([@tigertv](https://github.com/tigertv)), Software Developer, Russia
