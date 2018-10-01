@@ -2201,6 +2201,7 @@ Signed,
 - Murat Gundes ([@muratgundes](https://github.com/muratgundes)), Software Engineer, Turkey
 - Henry Addo ([@eyedol](https://github.com/eyedol)), Software Engineer, Ghana
 - Santhosh Kumar ([@santhosh6328](https://github.com/santhosh6328)), Student, India
+- Siffrein Sigy ([@siffreinsg](https://github.com/siffreinsg)) Student, France
 - Yohan Malshika ([@yohanym95](https://github.com/yohanym95)),IS Undergraduate at SUSL, Sri Lanka
 - Ross Strachan ([@rbstrachan](https://github.com/rbstrachan)), Physics Undergraduate, UK
 - Faruk Terzioğlu ([@farukterzioglu](https://github.com/farukterzioglu)), Sr. Software Developer, Turkey
