@@ -2213,3 +2213,4 @@ Signed,
 - Suman Astani([@SimonAstani](https://github.com/SimonAstani)), Software Developer, Kathmandu , Nepal
 - Arnav Borborah ([@arnavb](https://github.com/arnavb)), High school student who loves programming
 - Tosotada ([@Tosotada](https://github.com/Tosotada)), Small developer & Lover of open source projects
+- Naveen Naidu ([@Naveenaidu](https://github.com/Naveenaidu)), Student, PES University, India
