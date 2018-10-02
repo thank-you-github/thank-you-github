@@ -1,4 +1,4 @@
-Dear GitHub,
+﻿Dear GitHub,
 
 Before 2007, the way to participate in Open Source was fragmented. Each project
 had their own workflow, patches circulated in emails, issues were reported in
@@ -252,6 +252,7 @@ Signed,
 - Bidyut Mukherjee ([@gokussjx](https://github.com/gokussjx)), Student, Developer
 - Davide Pastore ([@DavidePastore](https://github.com/DavidePastore)), Developer
 - Jens Driller ([@jenzz](https://github.com/jenzz)), Android Dev
+- Rajat Kumar Maurya ([@Rajat](https://github.com/rjkumar22)), Student, Software Engineer
 - Daimajia ([@daimajia](https://github.com/daimajia)), Android & Node Developer
 - Sandeep Gupta ([@sangupta](https://github.com/sangupta)), Software Developer
 - Mariam AlJamea ([@Maryom](https://github.com/Maryom)), iOS Developer
