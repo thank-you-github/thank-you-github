@@ -2223,3 +2223,4 @@ Signed,
 - Tibetegya George ([@tibetegya](https://github.com/tibetegya)), Developer, Andela, Kampala, Uganda
 - Ayush Agarwal ([@aagarwal1012](https://github.com/aagarwal1012)), Mobile App Developer | Undergraduate at IIT, Roorkee
 - Sreetam Das ([@sreetamdas](https://github.com/sreetamdas)), FrontEnd Developer, India
+- Siffrein Sigy ([@siffreinsg](https://github.com/siffreinsg)) Student, France
