@@ -2221,3 +2221,4 @@ Signed,
 - Leo Riviera ([@leoriviera](https://github.com/leoriviera)), Computer Science and Information Technology Student and Software Developer, London, UK
 - Mansi Agarwal ([@Mansi449](https://github.com/Mansi449)), Developer, Computer Science Undergraduate at IIT Roorkee, India
 - Tibetegya George ([@tibetegya](https://github.com/tibetegya)), Developer, Andela, Kampala, Uganda
+- Ayush Agarwal ([@aagarwal1012](https://github.com/aagarwal1012)), Mobile App Developer | Undergraduate at IIT, Roorkee
