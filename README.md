@@ -228,7 +228,7 @@ Signed,
 - Chandra Vedantham ([@chandu](https://github.com/chandu)), Developer
 - H Senem ([@hsen](https://github.com/hsen-dev)), Full Stack Developer
 - Ranjith Kumar ([@ranji2612](https://github.com/ranji2612)), Developer
-- Yoann Moinet ([@yoannmoinet](https://github.com/yoannmoinet)), Software Engineer, [Autodesk](http://www.autodesk.com)
+- Yoann Moinet ([@yoannmoinet](https://github.com/yoannmoinet)), Senior Software Engineer, [Zendesk](https://www.zendesk.com)
 - David Caccavella ([@dthree](https://github.com/dthree)), Non-profit Developer
 - Ramon Fried ([@mellowcandle](https://github.com/mellowcandle)), Software Developer
 - Brandon Buck ([@bbuck](https://github.com/bbuck)), Senior Software Engineer at The Honest Company
@@ -489,7 +489,7 @@ Signed,
 - Ed Wassermann ([@vis-kid](https://github.com/vis-kid/)), Designer & Developer, Europe
 - 张拭心 ([@shixinzhang](https://github.com/shixinzhang)), Android Developer and Open Source Lover
 - Tiaan du Plessis ([@mightyCrow](https://github.com/mightyCrow)), iOS & Web Developer, Student, Cape Town, South Africa
-- Omondi Ochieng (@JustOmondi) (https://github.com/JustOmondi), Developer, Student at UCT, Cape Town, South Africa
+- Omondi Ochieng ([@JustOmondi](https://github.com/JustOmondi)), Developer, Student at UCT, Cape Town, South Africa
 - Sunil Tatipelly ([@Sunil02324](https://github.com/Sunil02324)), Student
 - Trương Thái Nguyên Bình ([@crziter](https://github.com/crziter/)), Developer, Việt Nam
 - Dave Goodchild ([@dlgoodchild](https://github.com/dlgoodchild/)), Lead Developer at Gyron Internet, Zaragoza, Spain
@@ -871,7 +871,7 @@ Signed,
 - Ernesto Anaya ([@texai](https://github.com/texai)), Software Developer, Peru
 - Helmy Abdulelah ([@731MY](https://github.com/731MY)), Full Stack Developer, Yemen
 - Sina Soltanieh ([@AdeptLink](https://github.com/AdeptLink)), Student Developer, Buffalo, NY
-- Manish Jung Thapa ([@emp3ror])(https://github.com/emp3ror)), Nepali developer, Open source lover
+- Manish Jung Thapa ([@emp3ror](https://github.com/emp3ror)), Nepali developer, Open source lover
 - Tom Bowden ([@bowdens](https://github.com/bowdens)), CS Student, UNSW Australia
 - Seonghoon Baek ([@Lutece](https://github.com/Lutece)), Frontend Developer, South Korea
 - Gulzar Ahmed. ([@gulzar1996](https://github.com/gulzar1996)), Android Developer
@@ -1107,7 +1107,7 @@ Signed,
 - Arushit Mudgal ([@kira0204](https://github.com/kira0204)), CSE Junior, VIT Vellore, India
 - Mohamd Dorra ([@mhddurrah](https://github.com/mhddurrah)), SrSoftwareDeveloper implements SoftwareEngineer, Turkey
 - Hugo Torzuoli ([@TorzuoliH](https://github.com/TorzuoliH)), Web Developer, France
-- Maximilian M ([@dradey])(https://github.com/dradey)), Mobile App Developer, Norway
+- Maximilian M ([@dradey](https://github.com/dradey)), Mobile App Developer, Norway
 - Shaunak Pagnis ([@shaunakpp](https://github.com/shaunakpp)), Software Developer, Pune, India
 - Tom Rochat ([@Kornhe](https://github.com/Kornhe)), student, France
 - Cristhian Ferreira ([@cferreirasuazo](https://github.com/cferreirasuazo)),Student, System Engineering, Rep Dom
@@ -1188,7 +1188,7 @@ Signed,
 - Yugal Yadav ([@yugalxd](https://github.com/yugalxd)), Full-Stack, India
 - Abhijeet Singh ([@aps120797](https://github.com/aps120797)), CSE Undergrad, IIIT Trichy, India
 - Pratham Agrawal ([@pagrawl3](https://github.com/pagrawl3)), Co-Founder, Soch Technologies
-- Hum4n01d ([@hum4n01d])(https://github.com/hum4n01d)), Student, Full Stack Developer, USA
+- Hum4n01d ([@hum4n01d](https://github.com/hum4n01d)), Student, Full Stack Developer, USA
 - Kelly C ([@kcheng9](https://github.com/kcheng9)), Developer, USA
 - Rute Carrapato ([@RuteCarrapato](https://github.com/RuteCarrapato)), Junior Software Developer, Portugal
 - Cassie Theobald ([@cassietheobald](https://github.com/cassietheobald)), Student, Data Analysis, USA
@@ -1390,7 +1390,7 @@ Signed,
 - Mayank ([@myk7hackon](https://github.com/myk7hackon)), Student , Delhi , India
 - Apurva N. Saraogi ([@apurva91](https://github.com/apurva91)), CSE student, IIT Guwahati, India
 - Taras Yarema ([@tarasyarema](https://github.com/tarasyarema)), Maths Student, Barcelona, Spain
-- Tino Max Thayil ([@tinomaxthayil)](https://github.com/tinomaxthayil)) ,CSE student , MEC, India
+- Tino Max Thayil ([@tinomaxthayil](https://github.com/tinomaxthayil)) ,CSE student , MEC, India
 - Ayush Shrivastava ([@interritus1996](https://github.com/interritus1996)), CSE Student, IIT (BHU) Varanasi, India
 - Lucas Moraes ([@moraesslucas](https://github.com/moraesslucas)), Software Developer, Porto Alegre, Brazil
 - Arkady Telegin ([@Akyshnik](https://github.com/Akyshnik)), ML student, Worldwide
@@ -1411,7 +1411,7 @@ Signed,
 - Abhishek Chakravarty ([@Chakru](https://github.com/Chakru)), Web Developer, India
 - Matheus Guizolfi ([@MatheusGuizolfi](https://github.com/MatheusGuizolfi)) ,student , Brazil
 - Giri Kuncoro ([@girikuncoro](https://github.com/girikuncoro)), Software Engineer, Indonesia
-- Manoj Selvin ([@manojselvin)](https://github.com/manojselvin)), Full-Stack Developer, Mumbai, India
+- Manoj Selvin ([@manojselvin](https://github.com/manojselvin)), Full-Stack Developer, Mumbai, India
 - Tamir ([@TpSr52](https://github.com/TpSr52)), CS Student
 - Adriano Lemos ([@adriano-lemos-dev](https://github.com/adriano-lemos-dev)) ,Full Stack Web Developer , Brasília, Brasil
 - Kel O'Shaughnessy ([@kelvinosh](https://github.com/kelvinosh)) , Student , USA
@@ -1482,7 +1482,7 @@ Signed,
 - Cristina Cosoroabă ([@cris-cos](https://github.com/cris-cos)), Aspiring Android developer
 - Mauricio Rodrigues ([@zabaala](https://github.com/zabaala)), CTO Ooppah.com, Brazil
 - Jack Sodeman ([@TICG](https://github.com/TICG)), Web Developer, and Computer Science Major.
-- pinky101 ([@pinky101])(https://github.com/pinky101)), Front End Developer
+- pinky101 ([@pinky101](https://github.com/pinky101)), Front End Developer
 - J. Alexander Curtis ([@jacurtis](https://github.com/jacurtis)), Developer Trainer at [DevMarketer](https://devmarketer.io)
 - P S Narayanan ([@psnappz](https://github.com/psnappz)), Android Developer NeonSec
 - kunwar11 ([@kunwar11](https://github.com/kunwar11)), Developer
@@ -1610,7 +1610,6 @@ Signed,
 - Pui Lam Cheng ([@pc592](https://github.com/pc592)), Student @ Cornell University
 - Esau Silva ([@esausilva](https://github.com/esausilva)), Software Engineer
 - Dede Hamzah ([@dehamzah](https://github.com/dehamzah)), Fullstack Developer, Indonesia
-
 - Al Zverev ([@alwye](https://github.com/alwye)), Software Engineer at Cisco, UK
 - Dibya Prakash Das ([@dibyadas](https://github.com/dibyadas)), Mathematics and Computing Student, India
 - Piana Loris ([@PianaLoris](https://github.com/PianaLoris)), Student, Developer
@@ -1659,7 +1658,7 @@ Signed,
 - AmirAli Mohammadzadeh ([@AmirAliM](https://github.com/AmirAliM)), CTO at QuantCan.ir
 - Meisyarah Dwiastuti ([@meisyarahd](https://github.com/meisyarahd)), Student, Germany
 - Pranshu Goyal ([@pranshu1402](https://github.com/pranshu1402)), ME student,India
--Kawal Preet Kaur ([@kawal2266](https://github.com/kawal2266)), Information Technology Undergraduate, New Delhi, India
+- Kawal Preet Kaur ([@kawal2266](https://github.com/kawal2266)), Information Technology Undergraduate, New Delhi, India
 - Bharat Saraswat ([@bhansa](https://github.com/bhansa)), Full-stack Developer
 - Vaibhav Bansal ([@vaibhav138](https://github.com/vaibhav138)),Student,IT
 - AashutoshAgrawal ([@AashutoshAgrawal](https://github.com/AashutoshAgrawal)), Student , IIT Guwahati, India
@@ -1685,4 +1684,553 @@ Signed,
 - Adrian Teri ([@Adrianteri](https://github.com/Adrianteri)), Student, Platform Eng, DevOps
 - Jacob C. Ward ([@JacobCWard](https://github.com/JacobCWard)), Web Developer at Southern Utah University
 - Jaime Salcedo ([@jsalcedo1987](https://github.com/jsalcedo1987)), Full Stack Developer
+- Conor Gildea ([@csigildea](https://github.com/csigildea)),Student, Ireland
+- Sai Venkat ([@saivenkat1998](https://github.com/saivenkat1998)), Developer,Student
+- Ahmed Gaber ([@aigdonia](https://github.com/aigdonia)), Frontend web developer, Machine Learning guru
+- Mayank ([@thakur00mayank](https://github.com/thakur00mayank)), Software Development Engineer, India
+- Rohan Bhatia ([@rohanbh](https://github.com/rohanbh)), Android Developer, India
 - Rian Adam ([@rianrajagede](https://github.com/rianrajagede)), Student, Indonesia
+- Martin Koo ([@mkoo21](https://github.com/mkoo21)), Full Stack Developer
+- Taylor Caldwell ([@taycaldwell](https://github.com/taycaldwell)), Software Engineer
+- Carl Yoder ([@Calasada](https://github.com/Calasada)), Student Programmer
+- Umar ([@tiok-cek1](https://github.com/tiok-cek1)), Developer
+- Thiago Augusto ([@thiagoaugustosm](https://github.com/thiagoaugustosm)), Student, Developer
+- Errazudin Ishak ([@errazudin](https://github.com/errazudin)), Developer, Johor, Malaysia
+- Felix Putera, ([@felixputera](https://github.com/felixputera)), Student
+- Pankaj Sahu ([@PS3132](https://github.com/PS3132)), Full Stack Developer
+- Samagra Sharma ([@samagra14](https://github.com/samagra14)), Android Developer at IIT Roorkee
+- Jai Janyani ([@JAIJANYANI](https://github.com/JAIJANYANI)), Machine Learning Engineer
+- Arthur Moreira ([@tuxao](https://github.com/tuxao)), Student, Web Developer
+- Augusto S. Falcão ([@falcaoaugustos](https://github.com/falcaoaugustos)), Student, iOS Developer
+- Brij S ([@brij1010](https://github.com/brij1010)), Web Developer
+- Fernando Boaglio ([@boaglio](https://github.com/boaglio)), Developer, Sao Paulo, Brazil
+- Sarawut Silprawat ([@benzsamator](https://github.com/benzsamator)), Developer
+- Jonathan Chen ([@dijonkitchen](https://github.com/dijonkitchen)), Software Engineer
+- Seth Miller ([@fantop](https://github.com/fantop)), Student, Aspiring Software Engineer
+- Pranav S ([@pranavsr97](https://github.com/pranavsr97)), Student, Developer, India
+- João Felipe Gonçalves ([@JFRode](https://github.com/JFRode)), Software Engineer, Brazil
+- Kanit Pongteeraroj ([@Azothblader](https://github.com/Azothblader)), C# Web Developer, Thai
+- Rachana Solanki ([@RanchoDbest](https://github.com/RanchoDbest)), Android Developer
+- Ankur Kumar ([@ankurkumar007](https://github.com/ankurkumar007)), Developer
+- Sandeepkallepalli ([@SandeepKallepallili123](https://github.com/SandeepKallepallili123)), CSE student at IIIT-H, India
+- Basyrun Halim ([@annahl](https://github.com/annahl)), Software Engineer at [Terato Tech](http://teratotech.com), Malaysia
+- Des Dulianto ([@desdulianto](https://github.com/desdulianto)), System Administrator and Hobbyist Programmer, Indonesia
+- Rahul Agrawal ([@rahulagrawal97](https://github.com/rahulagrawal97)), Undergrad at The LNM Institute Of Information Technology, India
+- Vaibhav Agrawal ([@vaibhav1729](https://github.com/vaibhav1729)), Geek, Open Source Enthusiast, Web Developer, India
+- Anshuman Agarwal ([@anshuman73](https://github.com/anshuman73)), Developer
+- Pavel Rodionov ([@krim](https://github.com/krim)), Backend developer, Russia
+- Amanda Savluchinske ([@amandasavluchinske](https://github.com/amandasavluchinske)), Student, Brazil
+- Ekaterina Khorina ([@mjaffk](https://github.com/mjaffk)), QA Engineer, Russia
+- Farah Clara ([@biawaktamvan](https://github.com/biawaktamvan)), Freelance Programmer, Indonesia
+- Manthan-R-Sheth ([@manthan-r-sheth](https://github.com/manthan-r-sheth)), Developer, EE Undergraduate at IIT Roorkee, India.
+- Đỗ Hoàng Nguyên ([@nguyendhse](https://github.com/nguyendhse)), Software Developer, Vietnam
+- Tharindu ([@tharinduraza](https://github.com/tharinduraza)), Student
+- Davis Byamugisha ([@Davisdoctor](https://github.com/Davisdoctor)), Software Developer, Uganda
+- Tommaso Montefusco ([@kiailandi](https://github.com/kiailandi)), Frontend developer, Italy
+- Daniel Li ([@d4nyll](https://github.com/d4nyll)), JavaScript Developer, Hong Kong
+- Divyanshu Sahu ([@DivyanshuSahu](https://github.com/DivyanshuSahu)), Information Security Enthusiast, IIT Roorkee, India
+- Shubham Kumar ([@codedev12](https://github.com/codedev12)), Student, India
+- Abhijit Roy ([@EmberCS15](https://github.com/EmberCS15)), Junior Year Undergrad at IIT Patna
+- Arvind S ([@arvind0598](https://github.com/arvind0598)), CCE Student, MIT Manipal.
+- Sugeng Sulistiyawan ([@die-coding](https://github.com/die-coding)), Owner Die Coding ([diecoding.com](https://diecoding.com)), Developer
+- Vishal Pouras ([@vishal-pouras](https://github.com/vishal-pouras)), Computer Science and Engineering, IIT Roorkee, India
+- Saksham Garg ([@sak6e](https://github.com/sak6e)), Competitive Programmer, Student,India
+- Quinty van Dijk ([@kwint](https://github.com/kwint)), Student, The Netherlands
+- Dimitar Jilanov ([@djilanov](https://github.com/djilanov)), Software Developer, Bulgaria
+- Logan Stucki ([@Smarticles101](https://github.com/Smarticles101)), Student Developer and Open Source Contributor
+- Rishiraj Purohit ([@rpLogicode](https://github.com/rpLogicode)), Backend Developer and Hobbyist Programmer, India
+- Shivam Gupta ([@shivamgupta1](https://github.com/shivamgupta1)), Student, India
+- Mallika ([@xlelouch05](https://github.com/xlelouch05)), Student , Sri lanka
+- Hirishegan Karuneswaran ([@hirishegank](https://github.com/hirishegank)), Student, IIT , Sri lanka
+- Ankit Kachroo ([@ankitkachru](https://github.com/ankitkachru)), Software Developer
+- Hare Ram ([@Hare-Ram](https://github.com/Hare-Ram)), Kolkata, India
+- Andy Nur ([@andynur](https://github.com/andynur)), Web Developer at QODR,  Yogyakarta City, Indonesia
+- Athallah Annafis ([@annafis1](https://github.com/annafis1)), Student, Indonesia
+- Yash Shinde ([@yashinde](https://github.com/yashinde)), Graphic Designer at WONA
+- Bhargav Hegde ([@bhargavbhegde7](https://github.com/bhargavbhegde7)), Software Engineer, India
+- Sudheer Darla ([@sudheerdarla](https://github.com/sudheerdarla)), Front-end Freelancer, India
+- Nicole Castagno ([@castagnoNicole](https://github.com/castagnoNicole)), Student
+- Andreas Arvidsson ([@chip2n](https://github.com/chip2n)), Android Developer, Sweden
+- Ahmad Mufid ([@mufidtk](https://github.com/mufidtk)), Student, Indonesia
+- David Suilea ([@foryah](https://github.com/foryah)), Full Stack Developer, Germany, Munchen
+- Christopher Ganda ([@christopherganda](https://github.com/christopherganda)), Software Developer, Indonesia
+- Debadutta Godnaik ([@debaduttagodnaik](https://github.com/debaduttagodnaik)), IT student at IIIT-A, India
+- Héricles Emanuel ([@hericlesme](https://github.com/hericlesme)), Student Programmer, Brasil
+- Suman Chaurasia ([@bzero0](https://github.com/bzero0)), Computer Science Engineer, India
+- Ritvik singhal ([@ritviksinghal1998](https://github.com/ritviksinghal1998)),Programmer and developer at IIT Roorkee
+- Dylan Fahringer ([@djfahringer](https://github.com/djfahringer)), Student
+- Gaurav Tiwari ([@LvnGDead](https://github.com/LvnGDead)), Student, Aspiring Android Developer
+- Kelvin Wong ([@kwong21](https://github.com/kwong21)), DevOps, Canada
+- Priyanshu Agarwal ([@PriyanshuAgg](https://github.com/PriyanshuAgg)), undergrad at The LNM Institue of Information Technology, India
+- Nathan Saraiva ([@nfss83](https://github.com/nfss83)), PhD Student, Brazil
+- Nir99 ([@nir099](https://github.com/nir099)), Student at University of Moratuwa Faculty of Information Technology.
+- Renaldy ([@LaurentiusRenaldy](https://github.com/LaurentiusRenaldy)), iOS Developer, Indonesia
+- Marco Padillo ([@marcopadillo](https://github.com/marcopadillo)), Co-founder and CFOO, [Cynder](https://www.cynder.io)
+- Robert Olsthoorn ([@rolstenhouse](https://github.com/rolstenhouse)), Computer engineering student and fledgling engineer
+- Karun Japhet ([@javatarz](https://github.com/javatarz)), Developer, ThoughtWorks
+- Martin Valentino ([@martindavid](https://github.com/martindavid)), Software Engineer, Master Student, Melbourne, AU
+- Ash Krishna ([@akrishna27](https://github.com/akrishna27)), Student at Rutgers University
+- Stupy Spyy ([@Stupyspyy](https://github.com/Stupyspyy)), Learning student
+- Jesse Rhoads ([@JesseRhoads](https://github.com/JesseRhoads)), OpsDev Engineer, USA
+- Gabriel  ([@GabrielFiel](https://github.com/GabrielFiel)), Student, Brazil
+- David Rojas ([@DavidRojas1612](https://github.com/DavidRojas1612)), Developer
+- akhamesy ([@akhamesy](https://github.com/akhamesy)), Student at Simon Fraser University School of Computing Science
+- Ryan Vansickle ([@Doeoeod](https://github.com/Doeoeod)), Aspiring (competent) Developer, Canada
+- Ross Brown ([@Ross-Likes-Math](https://github.com/Ross-Likes-Math)), Math and Computer Science student, New Jersey, USA
+- Eddie Kaleb ([@eddiekaleb](https://github.com/EddieKaleb)), Computer Science Student, Brazil
+- Tom Zmyslo ([@tomzmyslo](https://github.com/tomzmyslo)), Software Developer
+- Wolfiri ([@wolfiri](https://github.com/wolfiri)), Not-A-Developer, California
+- lrtr ([@lrtr](https://github.com/lrtr)), Junior Backend Developer, Switzerland
+- Ash Krishna ([@akrishna27](https://github.com/akrishna27))
+- Emerson Victor ([@emersonvictor](https://github.com/emersonvictor)), Student at UFPE
+- Salman Fakhri ([@Salamander1012](https://github.com/Salamander1012)), Rutgers University
+- Juan Uribe ([@juribe80](https://github.com/juribe80)), Student at Rutgers University- New Brunswick.
+- Kuber Sethi ([@kubersethi](https://github.com/kubersethi)), Student at Rutgers University
+- Jacqueline Outka ([@outkaj](https://github.com/outkaj)), Full Stack Software Developer
+- Juliana Stepanova ([@ptishon](https://github.com/ptishon)), Scrum Master, Germany
+- AndiLee111 ([@andilee111](https://github.com/andilee111)), Systems Engineer, Munich, Germany
+- Rob White ([@FearTheFrail](https://github.com/FearTheFrail)), Enthusiast, United States
+- ayush chaubey ([@chaubeyayush](https://github.com/chaubeyayush)), Student at Jadavpur University,kolkata.
+- Adrian Muntean ([@adrianMuntean](https://github.com/AdrianMuntean)), Software Engineer, Romania
+- Inche-ali ([@inche-ali](https://github.com/inche-ali)), Student at University of Life
+- Hampus Lundqvist ([@RekkyRek](https://github.com/rekkyrek)), UI designer and developer for [devRantron](https://github.com/tahnik/devRantron) from Northern Sweden.
+- David White ([@wizardfrag](https://github.com/wizardfrag)), Software developer.
+- Soroush Torkzadeh ([@sorousht](https://github.com/sorousht)), Developer, Iran
+- Cuneyt Yilmaz ([@CuneytYilmaz](https://github.com/CuneytYilmaz)), Software Developer, Turkey
+- Shruti Kapoor ([@shrutikapoor08](https://github.com/shrutikapoor08)), Front End Developer, San Francisco, CA.
+- Roman Borovik ([@RomanBorr](https://github.com/RomanBorr)), best C++ developer
+- Anubhav Patel ([@anubhavp28](https://github.com/anubhavp28)), Undergrad student at Indian Institute of Information Technology, Kalyani, India.
+- Kunal Sharma ([@kunal12422](https://github.com/kunal12422)), Computer Science, NIT Hamirpur, India
+- juansebasmv ([@juansebasmv](https://github.com/juansebasmv)), Student at University of Campinas.
+- Daniel Lazkani Feferman ([@fefer](https://github.com/fefer)), MSc. Student, Brazil
+- Lakshya Khattar ([@lakshya-221b](https://github.com/Lakshya-221b)), Student, Aspiring Android Developer
+- Shenith Sandeepa ([@Shenith](https://github.com/Shenith)), Student at University of Moratuwa Faculty of Information Technology.
+- Segun Olumide ([@wonexo](https://github.com/wonexo)), Computer Engineering at Yabatech
+- Rian Erlangga Saputra ([@rerlanggas](https://github.com/rerlanggas)), Android & iOS Developer, Indonesia
+- Mohit Yadav ([@mohit242](https://github.com/mohit242)), B.E. Hons Computer Science, BITS Pilani
+- Mehul Prajapati ([@mehul-m-prajapati](https://github.com/mehul-m-prajapati)), Embedded Software Developer, India
+- Karan Razdan ([@karanrazdan](https://github.com/karanrazdan)), Android Developer
+- Ashik Ameer ([@ashki98](https://github.com/ashki98)), Student
+- Muhammad Hafidz ([@ciazhar](https://github.com/ciazhar)), Java Backend Developer at Clorus
+- Rajeev Dixit ([@keyser-soze-7](https://github.com/keyser-soze-7)), Undergrad Student at IIIT-Allahabad
+- Bryen Vieira :bulb: ([@bryen95](https://github.com/bryen95)), Android Developer, London, UK
+- Martijn Smidt ([@HemeraOne](https://github.com/HemeraOne)), IT Engineer, Netherlands
+- Jonathan de Zoete ([@jonathandezoete](https://github.com/jonathandezoete)),Webdeveloper @ Den Haag, Holland
+- Santanaraj Esguerra ([@akiyamamio16](https://github.com/akiyamamio16)), Back-End Developer, Student at Our Lady Of Fatima University, Intern at Toro.io
+- Joonas Tiala ([@jtiala](https://github.com/jtiala)), Software Engineer, Oulu, Finland
+- Pranshu Pranjal ([@Pranshu98](https://github.com/Pranshu98)), Student at VIT Vellore, IT Branch
+- Ondrej Vasko ([@Lirt](https://github.com/Lirt)), System Administrator and founder of [kirro.io](https://kirro.io/), Slovakia
+- Muhammad Refa ([@muhammadrefa](https://github.com/muhammadrefa)), ordinary people
+- Ingako Umi ([@ingako](https://github.com/ingako)), Software Engineer
+- Ashik Jose ([@ashikjose](https://github.com/ashikjose)), Computer Science, Madras Institute of Technology
+- Hieu Chu ([@aaazureee](https://github.com/aaazureee)), Student at University of Wollongong
+- Ammar Faizi ([@ammarfaizi2](https://github.com/ammarfaizi2)), Backend Developer, Indonesia
+- Nynke Niehof ([@NNiehof](https://github.com/NNiehof)), PhD student, Donders Institute, Radboud University Nijmegen, Netherlands
+- Andy Zefri ([@autobanned](https://github.com/autobanned)), Student, Indonesia
+- Anmol Singh ([@radbrawler](https://github.com/radbrawler)), Software developer, India
+- Fitriana Alivia ([@mrsdark](https://github.com/mrsdark)), Student, Indonesia
+- Yudhi Satrio ([@isatrio](https://github.com/isatrio)), Front End Developer from Indonesia
+- Bharat Raghunathan ([@Bharat123rox](https://github.com/Bharat123rox)), Undergraduate at BITS Pilani Hyderabad Campus
+- Andrea Perera ([@AndreaNim](https://github.com/AndreaNim)),Student of Informatics Intitute Of Tecnology
+- Chanon Sae-lee ([@yong0011](https://github.com/yong0011)), Computer Science at King Mongkut's Institute of Technology Ladkrabang.
+- Cameron Behning ([@cbehn](https://github.com/cbehn)), Digital Architect and Generative Design, Univeristy of Arizona
+- Aiyas Aboobakar ([@ayswl](https://github.com/ayswl)), Analyst at [Fave](https://myfave.com/)
+- Wai Kit Kong ([@waikitkong](https://github.com/waikitkong)), Business Intelligence Analyst, Malaysia.
+- Gene Xu ([@genexu](https://github.com/genexu)), Geek and Computer Science Engineer, Taiwan
+- Pratik pathak ([@PathakPratik](https://github.com/PathakPratik)), Backend Engineer,India.
+- ThamiduNaveen ([@ThamiduNaveen](https://github.com/ThamiduNaveen)), Software Engineer,Sri Lanka.
+- Ajay Nataraj ([@ajaynataraj](https://github.com/ajaynataraj)), Software Developer, India.
+- Lucas Gabriel ([@lucasgbriell](https://github.com/lucasgbriell)), Backend e frontend, Brazil
+- Kavitha S ([@Kavi97](https://github.com/Kavi97)), Student,India.
+- Deni Ardiansyah ([@denibla](https://github.com/denibla)), Student, Indonesia
+- Jose Segura ([@Nietzen](https://github.com/Nietzen)), Backend Developer, Costa Rica.
+- Vinay Aggarwal ([@vinagg999](https://github.com/vinagg999)), Computer Science Student, India.
+- Yasora Perera ([@yasora099](https://github.com/yasora099)), Student at University of Moratuwa .
+- Charuka Herath ([@charuka09](https://github.com/Charuka09)), Student at University of Moratuwa
+- Aditya Gupta ([@adi1998](https://github.com/adi1998)), Hacker, India
+- Vishal Reddy ([@vishalre](https://github.com/vishalre)), CSE Undergraduate at IIIT-H
+- Vishwa Perera ([@astrofowl](https://github.com/astrofowl)),Student, UI/UX Engineering, Sri Lanka
+- Patrick Harris ([@TinyGobby](https://github.com/TinyGobby)), Self-teaching right now
+- Shubham Kumar ([@Shubh-96](https://github.com/Shubh-96)), Developer
+- Niks Arora ([@niksofficial](https://github.com/niksofficial)), Backend Web Developer, India.
+- Ashwin jayaprakash ([@fanbyprinciple](https://github.com/fanbyprinciple)), student
+- R B Krishna ([@krishnarb3](https://github.com/krishnarb3)), Software Developer, India.
+- Gareth Griffiths ([@synbyte](https://github.com/synbyte)), Developer
+- Teruteru ([@teruteru128](https://github.com/teruteru128)), Developer, Japan
+- Muhammad Aziz Idharrulhaq ([@Azidharr](https://github.com/Azidharr)), Student, Indonesia
+- Renã Souza ([@renpas](https://github.com/renpas)), Developer, Brazil
+- Lwin Kyaw Myat ([@lwinkyawmyat](https://github.com/lwinkyawmyat)), Developer, Myanmar.
+- Luca Beetz ([@404response](https://github.com/404response)), Developer in his spare time, Germany
+- Elena ([@Eli312](https://github.com/Eli312)), Student, Germany.
+- Acid Chicken ([@acid-chicken](https://github.com/acid-chicken)), Student, Developer who is using C#, Japanese.
+- Brian-Van-Stoner ([@Brian-Van-Stoner](https://github.com/Brian-Van-Stoner)), Software Developer,Uganda.
+- Swapnesh Kumar ([@swapneshiitr](https://github.com/swapneshiitr)), E&CE undergrad, IIT Roorkee, India
+- Avish Cheetaram ([@avish0694](https://github.com/avish0694)), Software Developer, Mauritius.
+- Sahil Sharma ([@end83](https://github.com/end83)),Programming Enthusiast,IIT Patna,India
+- Florent Espanet ([@volnt](https://github.com/volnt)), Software Engineer, France
+- Bonsembiante Patricio ([@Phanatos-](https://github.com/Phanatos-)), Software Developer, Argentina
+- Nassim Belferoum ([@Snyplife](https://github.com/Snyplife)), Developer Junior, France
+- Hafiz ([@xmhafiz](https://github.com/xmhafiz)), Swift Developer, Malaysia
+- Damián Rotta ([@Dipiert](https://github.com/Dipiert)), Software Developer, Argentina
+- Nicole Shayne Elim ([@ncleshyne](https://github.com/ncleshyne)), Web Developer, Philippines.
+- Afroza Nasrin   ([@afroza17](https://github.com/afroza17)), BCSE, Jadavpur University, India.
+- Shubhi Lohani ([@ShubhiL](https://github.com/ShubhiL)), Student, India
+- Surbhi Jha ([@SurbhiJha](https://github.com/SurbhiJha)), Android Developer, India
+- Jonathan Sun ([@jspsun](https://github.com/jspsun)), Developer
+- Arjun Naha ([@arjunnaha](https://github.com/arjunnaha)), App Engineer, UK.
+- Viktor Malieichyk ([@viktor-malieichyk](https://github.com/viktor-malieichyk)), Mobile Developer, Ukraine
+- Scott Lyons ([@scott-lyons](https://github.com/Scott-Lyons)), Developer
+- Agham Arta Bima ([@aghambla](https://github.com/aghambla)), Student, Indonesia
+- Sailaja Nimmagadda ([@sailaja-nimmagadda](https://github.com/sailaja-nimmagadda)), ECE Undergraduate at IIIT-H.
+- Dhananjay P ([@dhananjaypugalendi](https://github.com/dhananjaypugalendi)), Android and Django Developer.
+- Ankita Muzalda ([@amuzalda](https://github.com/amuzalda)), Student, Jodhpur, India
+- Suraj Gupta ([@SurajGupta97](https://github.com/SurajGupta97)), CSE Undergrad at IIT Roorkee, India
+- Pedro Sereno ([@psg2](https://github.com/psg2)), Student, Software Engineer, Brazil.
+- kunjan govil ([@kunjan54](https://github.com/kunjan54)), Student, JUIT Solan, India .
+- Andrew Khoma ([@Izuumka](https://github.com/Izuumka)), student
+- Károlyi Péter ([@nodar86](https://github.com/nodar86)), Engineering student
+- Vinicius Salomão ([@vizeke](https://github.com/vizeke)), Developer, Brasil.
+- Alvaro Menezes ([@alvarollmenezes](https://github.com/alvarollmenezes)), Devops, Prodest.
+- Lucas Gabriel ([@lucasgbriell](https://github.com/lucasgbriell)), Web developer, Brazil.
+- Rafael Díaz ([@palancana](https://github.com/palancana)), CS Student, Spain.
+- Okanlawon Emmanuel ([@okanlawonema](https://github.com/okanlawonema)), Yaba college of Technology
+- Letícia Fernandes ([@leticiamara](https://github.com/leticiamara)), Android Developer, Brazil.
+- Jonathan Carlson ([@jgcarlson](https://github.com/jgcarlson)), Software Developer
+- Hunter Rancourt ([@skwid138](https://github.com/skwid138)), JavaScript Engineer
+- Vitaly Khabarov ([@vitkhab](https://github.com/vitkhab)), Engineer, Russia.
+- Júnior Lima ([@juniorlimaivd](https://github.com/juniorlimaivd)), Computer Engineering Student, Brazil.
+- Abhishek Sajwan ([@abhishek1997](https://github.com/abhishek1997)), Developer, Computer Science Junior at IIT Roorkee, India.
+- Anita Yip ([@ceruleanox](https://github.com/Ceruleanox)), Developer by moonlight, Boston, MA.
+- Sam Martorana ([@carnationcrab](https://github.com/carnationcrab)), software enginneer, USA
+- Abhishek mishra ([@theabhitech](https://github.com/theabhitech)),cs student,Devloper
+- Abhishek Sajwan ([@abhishek1997](https://github.com/abhishek1997)), Developer, Computer Science Junior at IIT Roorkee, India.
+- Hussain Sakriwala ([@hussainskr](https://github.com/hussainskr)), Software Developer, India.
+- Meganth Maniraj ([@tricolo711](https://github.com/tricolo711)), Student
+- Adrian Pistol ([@vifino](https://github.com/vifino)), Sysadmin and Programmer, Germany.
+- Decipher ([@Decipher0](https://github.com/Decipher0)), Stupid Student.
+- Albert Itayev ([@Johnnycus](https://github.com/Johnnycus)), Full Stack JavaScript Developer, Kazakhstan.
+- Agoston Dauner ([@daunera](https://github.com/daunera)), Student, Hungary.
+- Christian Fleschhut ([@cfleschhut](https://github.com/cfleschhut)), Front-end Developer, Berlin
+- Joshua Pandian ([@joshuag619](https://github.com/joshuag619)), Android developer, Sulur, India
+- Florian Bernklau ([@fbernklau](https://github.com/fbernklau)), Student, Business Computer Science, Austria
+- Aisling Murphy ([@aislingm745](https://github.com/aislingm745/)), Developer, Ireland
+- Ranjith Kumar Nagella ([@rnagella](https://github.com/rnagella)), Mobile developer
+- Adam Lamar ([@adamlamar](https://github.com/adamlamar)), Software Developer, USA
+- Jessica Solis ([@jessynay](https://github.com/jessynay)), Student, California
+- Sam Jakos ([@sjakos](https://github.com/sjakos)), Developer, USA
+- Rick Haan ([@rickhaan](https://github.com/rickhaan)), Student
+- Jen Garcia ([@cuibonobo](https://github.com/cuibonobo)), Software Engineer, Atlanta, GA, USA
+- Patrick Bateman ([@pbateman828](https://github.com/pbateman828)), Student
+- Kosuke Hata ([@entire](https://github.com/entire)), Software Engineer
+- Velimir Kumric ([@vkumric](https://github.com/vkumric)), Student, Toronto.
+- Leonardo Soares ([@leonardogcsoares](https://github.com/leonardogcsoares)), Developer, Amsterdam, Netherlands
+- Roshin C ([@roshinc](https://github.com/roshinc)), CS Student, New York.
+- Alex Klyanchin ([@jbmeerkat](https://github.com/jbmeerkat)), Software Engineer at Bookmate, Russia
+- Jaldhar H. Vyas ([@jaldhar](https://github.com/jaldhar)), CEO, Consolidated Braincells Inc., USA
+- Rishi Kaushik ([@Rishi-kaushik](https://github.com/Rishi-kaushik)), Patiala, India
+- Leonardo Monge García ([@leomongeg](https://github.com/leomongeg)), Developer, Costa Rica
+- Stepan Romanchuk ([@ArborLaureus](https://github.com/ArborLaureus)), Student, Ukraine
+- Ash Krishna ([@akrishna27](https://github.com/akrishna27)), Student at Rutgers University - New Brunswick, USA
+- Parajuli, Kalyan ([@kalyanranjan](https://github.com/kalyanranjan)), CS student
+- Brian Mix ([@brino](https://github.com/brino)), Web Developer, Minnesota, USA
+- Ritwik Patil ([@draguve](https://github.com/draguve)) , Student , India
+- Jason Townsley ([@jtownsley](https://github.com/jtownsley)), Software Engineer, United States
+- Markus Schwed ([@SweeD](https://github.com/SweeD)), [Founder @ CompanyMood](https://www.company-mood.com), Saarlouis, Germany
+- Ryan Pineo ([@ryanpineo](https://github.com/ryanpineo)), Software Engineer, Canada
+- Prashant S ([@binary-master](https://github/com/binary-master)), Student, San Francisco
+- Julian Engel ([@julianengel](https://github.com/julianengel)), GitHub Campus Expert, Limassol Cyprus
+- Uche Jude ([@JudeTheGenius](https://github.com/JudeTheGenius)), Developer at Brindocor
+- Rejul ([@rejuls](https://github.com/rejuls)), Computer Engineering at KTU
+- Kevin Jonathan ([@kevinjt123](https://github.com/kevinjt123)), Python Developer, Indonesia
+- kittyengineer ([@kittyengineer](https://github.com/kittyengineer)), Student kid at a school in Victoria BC
+- Wanhar Aderta ([@wanharaderta](https://github.com/wanharaderta)), Android Mobile Developer, Indonesia
+- Airqz ([@airqz](https://github.com/airqz)), Everlasting student, France
+- Abhishek Tiwari ([@zeus0789](https://github.com/zeus0789)), Student at Indian Institute of Information Technology, Kalyani
+- Sophie L ([@sophieml](https://github.com/sophieml)), Student
+- Akshama ([@Akshama](https://github.com/Akshama)), Student Developer, New Delhi, India
+- Lucas Souto ([@lucassouto](https://github.com/lucassouto)), Student of Computer Science and Developer
+- Rory Hager ([@aurorahager](https://github.com/aurorahager)), Javascript software developer
+- Muhammad Ammar Hasan ([@ammarhasan](https://github.com/ammarhasan)), Application Developer, Karachi, Pakistan
+- Shashank Varanasi ([@CrazyByDefault](https://github.com/CrazyByDefault)), Student, Full Stack Developer
+- Sarah Masud ([@sara-02](https://github.com/sara-02)), Software Developer
+- Mustafa C ([@mustafazc](https://github.com/mustafazc)), Software Engineer in Dubai, United Arab Emirates
+- Usman Hussain ([@usmandap](https://github.com/usmandap)), Software Developer, Pakistan
+- Creighton Magoun ([@magoun](https://github.com/magoun)), SC Codes Almunus, Greenville, SC
+- Jazmin A ([@jazmina47](https://github.com/jazmina47)), Developer, USA
+- Daniel Wang ([@meow404](https://github.com/meow404)), Student
+- Jessica Wynn ([@Jessicashinjo](https://github.com/Jessicashinjo)), Software Engineer, Tennessee, USA
+- Augusto da Silva Costa ([@gutocosta](https://github.com/gutocosta)), Student of Computer Engineering and IT Consultant
+- Robert Yuen ([@rhyuen](https://github.com/rhyuen)), Web Developer, Canada
+- John Ward ([@itsjohnward](https://github.com/itsjohnward)), Software Engineer, New York NY
+- Enieber Cunha ([@enieber](https://github.com/enieber)), Software Developer
+- Bruno Casali ([@brunoocasali](https://github.com/brunoocasali)), Full Stack Developer at [Trustvox](https://trustvox.com.br)
+- Cooper Makhijani ([@sudomoose](https://github.com/sudomoose)), Student, NodeJS Dev, YouTuber, California, United States
+- Amrutha Vasili ([@mantrarush](https://github.com/mantrarush)), Developer, Studied at University of Illinois-Urbana Champaign
+- Tejas Kumar ([@TejasQ](https://github.com/tejasq)), Frontend Lead @ [Contiamo](https://www.github.com/Contiamo)
+- Ryan Dobyns ([@ryandobby](https://github.com/ryandobby)), Virtual Reality Developler
+- Kevin Madison ([@kevinlmadison](https://github.com/kevinlmadison)), Computer Engineering Student
+- Shriyash Jalukar ([@shriyash](https://github.com/shriyash)), Software Developer, Detroit, MI
+- Grayson Sinclair ([@highwind360](https://github.com/Highwind360)), Developer, Seattle
+- H R Monarch ([@hrmonarch](https://github.com/hrmonarch)), Student
+- Lucas Varela ([@lucasvarela](https://github.com/lucasvarela)), Colombian Physicist
+- Joyce Echessa ([@echessa](https://github.com/echessa)), Software Engineer, Nairobi, Kenya
+- Josue Murhabazi ([@josuemurhabazi](https://github.com/josuemurhabazi)), computer science, Daystar Univeristy, Kenya
+- Justin Walsh ([@thejustinwalsh](https://github.com/thejustinwalsh)), Developer, 🌎
+- Brad Saxman ([@saxmanbf](https://github.com/saxmanbf)), Student
+- Joel Reis ([@ElJoelReis](https://github.com/ElJoelReis)), Noob Developer
+- Segun Josuha ([@segunjosh](https://github.com/segunjosh)), CEO, Brindocorp
+- Prathmesh Pathwar ([@Dancing-Goose](https://github.com/Dancing-Goose)), CS Freshman, IIIT Allahabad.
+- Renaissa Jaiswal ([@renaissa4](https://github.com/renaissa4)), CS student, IIIT Allahabad, India.
+- Vitaliy Kanev ([@vitalkanev](https://github.com/vitalkanev))
+- Hoppy Bouasavanh ([@nerdylizard](https://github.com/nerdylizard)), IT student, Gujarat Technological University, Gujarat, India.
+- Zain Ali ([@Aetheryx](https://github.com/Aetheryx)), Student & Node.js Developer, Amsterdam, the Netherlands
+- Michal Cerman ([@micer](https://github.com/micer)), Android Developer, Prague, Czechia
+- Bhargav Tarpara ([@BTruer](https://github.com/BTruer)), Student & Software Engineer, NYC
+- Santos Solorzano ([@santos22](https://github.com/santos22)), Software Engineer
+- Reza Juliandri ([@ppabcd](https://github.com/ppabcd)), Backend Developer @ [Cermin Diskusi](https://s.id/cermindiskusi), Indonesia
+- Zoran Pandovski ([@zoranpandovski](https://github.com/ZoranPandovski)), Full stack developer, Bitola, Macedonia
+- Ketan Keshri ([@ketankk](https://github.com/ketankk)) ,Data Engineer , MOBIKWIK,DTU, DELHI India
+- Rajendra Chotiya ([@rajcg271](https://github.com/rajcg271)), Undergrad , IIT Guwahati, India
+- Apara Venkat ([@AparaV](https://github.com/AparaV/)), Student
+- Paul Vollmer ([@paulvollmer](https://github.com/paulvollmer)), Developer, Germany
+- Elliot Whitehead ([@elliotwhitehead](https://github.com/elliotwhitehead)), a student, developer and entrepreneur from Boulder, Colorado USA
+- Ruxandra Anghel ([@ruxiang05](https://github.com/ruxiang05)), Front End Dev, London
+- PNGRU ([@PNGRU](https://github.com/PNGRU)), Student & Developer, Japan
+- Abhishek J M ([@abhi-r3v0](https://github.com/abhi-r3v0)), CEO, NeOnSec, India
+- Marc Ignacio ([@padi](https://github.com/padi)), Software Developer, Philippines
+- Abdurrachman Mappuji ([@mappuji](https://github.com/mappuji)), Software Craftsman and Researcher, Jakarta, Indonesia
+- Jian Liew ([@JianLoong](https://github.com/JianLoong)), Developer, Melbourne, Australia
+- Jogendra Singh ([@imjog](https://github.com/imjog)), iOS, Web and Windows Developer, Undergrad, IIT (BHU) Varanasi
+- Ehatsham Ahamed ([@Ehatsham](https://github.com/Ehatsham)), Student and Web Developer
+- Mark Ormesher ([@markormesher](https://github.com/markormesher)), Software Engineer, London
+- Aman Satnami ([@zzbazinga](https://github.com/zzbazinga)), Open Source enthusiast, Developer from India
+- Fábio C. Schmidt ([@fcschmidt](https://github.com/fcschmidt)), Student and Aspiring Scientific Researcher
+- James Ah Yong ([@RetroCraft](https://github.com/RetroCraft)), high school sophmore and hopeful web developer
+- Muhibbudin Suretno ([@muhibbudins](https://github.com/muhibbudins)), UI/UX Designer & Frontend Developer, Jakarta, Indonesia
+- Shahjahan Jewel ([@techjewel](https://github.com/techjewel)), Software Engineer, Sylhet, Bangladesh
+- Baruch Velez ([@baruchvlz](https://github.com/baruchvlz)), FrontEnd Engineer @ [McMakler](https://github.com/mcmakler), Berlin, Germany
+- Glenn Dimaliwat ([@Gurenax](https://github.com/Gurenax)), Software Developer and Designer, Melbourne, Australia
+- Youngsoo Han ([@heyman333](https://github.com/heyman333)), Mobile Developer, Seoul, South Korea
+- Muhammed Hasan Celik ([@muhammedhasan](https://github.com/muhammedhasan)), Research Asistant, Istanbul, Turkey
+- Lukasz Ozimek ([@ozimeu](https://github.com/ozimeu)), Developer, Tychy, Poland
+- Ivan Delsinne ([@IvanDelsinne](https://github.com/IvanDelsinne)), Developer, Sophia-Antipolis, France
+- Jackson Lewis ([@JacksonCoder](https://github.com/jacksoncoder)), Software Developer, Eugene, Oregon
+- Nathan Smith ([@NathanRSmith](https://github.com/NathanRSmith)), Software Engineer, USA
+- Dwi Fahni Denni ([@zeroc0d3](https://github.com/zeroc0d3)), Full Stack Developer, Founder ZeroC0D3Lab, Jakarta, Indonesia
+- Boris Odnopozov ([@borod108](https://github.com/borod108)), Software Engineer at RedHat, Raanana, Israel
+- Taylor Wiley ([@trwiley](https://github.com/trwiley)), college senior and aspiring information scientist/digital humanist
+- Surya Dantuluri ([@dantuluri](https://github.com/dantuluri)), High School Sophomore, ROS Developer, Almost Full Stack Developer, and Machine Learning enthusiast
+- 廖兴旺 Xingwang Liao ([@kuoruan](https://github.com/kuoruan)), Developer, China
+- Ashish Kumar Goyal ([@AshishkrGoyal](https://github.com/AshishkrGoyal)), full Stack Web Developer, New Delhi, India
+- Gil Balsiger ([@balsigergil](https://github.com/balsigergil)), Full Stack Developer, Vevey, Switzerland
+- Nirantak Singh Raghav ([@nirantak](https://github.com/nirantak)), Student, India
+- Shreelola Hegde ([@shreelola](https://github.com/shreelola)), Software Engineer, Bangalore, India
+- Eddy Kioi ([@kioie](https://github.com/kioie)), Nairobi-Kenya
+- Guillermo Garrido ([@GuillermoGarrido](https://github.com/GuillermoGarrido)), Computer Engineering Student, Miami, Florida, USA
+- Carlos Schults ([@carlosschults](https://github.com/carlosschults)), Developer ([http://carlosschults.net](http://carlosschults.net)), Brazil
+- Willem Labuschagne ([@willemlabu](https://github.com/willemlabu)), Developer
+- Mojca Rojko ([@xtrinch](https://github.com/xtrinch)), Programmer, Maribor, Slovenia
+- Sandeep Ranjan (Flame) ([@srsandy](https://github.com/srsandy)), Full Stack Web Developer, New Delhi, India
+- Ilya Lopukhin ([@architektor](https://github.com/Architektor)), Developer @ [web-pal](https://github.com/web-pal) 🗿
+- ItsPugle ([@ItsPugle](https://github.com/itspugle)), Student, Community Stars Team @ Spotify, Brisbane, Australia
+- Rupsha Bagchi ([@rupshabagchi](https://github.com/rupshabagchi)), Developer, Finland
+- Tiago Dionesto ([@tiagodws](https://github.com/tiagodws)), Developer, Brazil
+- Rizwan Reza ([@rizwanreza](https://github.com/rizwanreza)), Software Engineer
+- Rohit Naik ([@rohitnaik246](https://github.com/rohitnaik246)), Computer Science Masters student @ North Carolina State University, United States
+- Nidelson Gimenes ([@nidelson](https://github.com/nidelson)), CIO at CoreMAX Tecnologia, Brazil
+- Mrugesh Modi ([@modimrugesh1910](https://github.com/modimrugesh1910)), Full Stack Developer, ICT undergraduate, DA-IICT, India
+- Manish Maurya ([@mkrat123](https://github.com/mkrat123)), Student, Computer Science ,India
+- Alejandro Mesa ([@alemesa](https://github.com/alemesa)), Web Developer, Canada
+- Elon Brown :cn: ([@ElonBrown](https://github.com/ElonBrown)), Student, China
+- Miguel Sousa ([@Krazune](https://github.com/Krazune)), Developer, Portugal
+- Rahul Batra ([@rahulbatra065](https://github.com/rahulbatra065)), Developer, India
+- Kuba Niewiarowski ([@marsjaninzmarsa](https://github.com/marsjaninzmarsa)), WordPress/Full Stack Developer, Warsaw, Poland
+- Jae Bradley ([@jaebradley](https://github.com/jaebradley)), Software Engineer
+- Stephen Hinett ([@coderste](https://github.com/coderste)), Frontend Website Developer, United Kingdom
+- Shawon Ashraf ([@ShawonAshraf](https://github.com/ShawonAshraf)), Student
+- Aaditya Menon ([@Sparker0i](https://github.com/Sparker0i)), Android and Windows 10 App Developer, Kollam, India
+- Porimol Chandro ([@porimol](https://github.com/porimol)), Data Engineer, Bangladesh
+- Charles Vinodh ([@rogue-one](https://github.com/rogue-one)), Groupon/Full Stack Developer, Chennai, India
+- Adarsh Learner ([@learneradarsh](https://github.com/learneradarsh)), Learner/Front-End Developer/Hactivist, Uttar Pradesh, India
+- Miriam Retka ([@Auralcat](https://github.com/Auralcat)), Developer, Ponta Grossa, Brazil
+- Vinayak Kulkarni ([@vinayakkulkarni](https://github.com/vinayakkulkarni)), Full Stack Developer, Pune, India
+- Amruth Pillai ([@AmruthPillai](https://github.com/AmruthPillai)), Designer/Developer, Bengaluru, India
+- Praveen Kumar Ahirwar ([@Praveen1027](https://github.com/praveen1027)) Computer Science student, web developer, IIT Roorkee,India
+- Eduardo Viana Pessoa ([@duduvp](https://github.com/duduvp)), Android Developer, Brazil
+- Lukas Borke ([@lborke](https://github.com/lborke)), Software engineer, data scientist and creator of [BitQuery](https://github.com/bemined/BitQuery), a GitHub API driven and D3 based search engine for open source repositories, Berlin, Germany
+- Mustafa Culban ([@karamusluk](https://github.com/karamusluk)) Computer Science Student, Bilkent University, Ankara, Turkey
+- Dan Beneventano ([@danbeneventano](https://github.com/danbeneventano)), Developer and Student
+- PJ Frazer ([@frazjp65](https://github.com/frazjp65)) Developer, Buffalo, NY, USA
+- Gaurav Deshpande ([@93gaurav93](https://github.com/93gaurav93)), Full Stack Developer, India
+- Sainath Reddy ([@reddysainathn](https://github.com/reddysainathn)), Software Developer
+- Thiago Galvani ([@thiagopaiva99](https://github.com/thiagopaiva99)) Fullstack Developer & Analyst & Network Engineer, Porto Alegre, Brazil
+- Dorian Neto ([@dorianneto](https://github.com/dorianneto)) Full Stack Developer, Fortaleza, Brazil
+- Leandro Henrique ([@emtudo](https://github.com/emtudo)), Software Engineer, Curitiba, Brazil
+- Emilien Fugier ([@NinjArbuste](https://github.com/NinjArbuste)), Computer Science Student, Université de Technologie de Compigène, France
+- Abdelrahman Maged ([@ar-maged](https://github.com/ar-maged)), Computer Science & Engineering Student, German University in Cairo, Egypt
+- Krishnan R ([@krishnan-r](https://github.com/krishnan-r)), Computer Science Student, IIT Bhubaneswar, India
+- Aman Pratap Singh ([@apsknight](https://github.com/apsknight)), Student Developer, India
+- Abdelrahman Elkady ([@abdelrahman-elkady](https://github.com/abdelrahman-elkady)), Software Engineer, Egypt.
+- Hossam Ahmed ([@hossamElfar](https://github.com/hossamElfar)), Software Engineer, Egypt.
+- Samsul Ma'arif ([@samsulmaarif](https://github.com/samsulmaarif)), System Administrator, PuskoMedia Indonesia, Indonesia
+- Tiago Severino ([@TiagoSeverino](https://github.com/TiagoSeverino)), Software Developer, Portugal
+- Kevin Toft ([@kevintoft](https://github.com/kevintoft)), Computer Science Undergrad, New Jersey, USA
+- Derek Sagun ([@dereksagun](https://github.com/dereksagun)), Computer Science Student
+- Afrijal Dzuhri ([@afrijaldz](https://github.com/afrijaldz)), Frontend Developer, Yogyakarta, Indonesia
+- Adi Andrea ([@dekzitfz](https://github.com/dekzitfz)), Android Developer, Indonesia
+- javathunderman ([@javathunderman](https://github.com/javathunderman)), developer at [Nomik](https://github.com/nomikxyz)
+- Raj Gurung ([@rajgurung](https://github.com/rajgurung)), Backend Engineer, London, United Kingdom
+- Nandini Munda ([@nandini-m](https://github.com/nandini-m)),Computer Science Student,Kiit University,India
+- NEHARIKA ([@neharikay](https://github.com/neharikay)), student
+- Swati Shrivastava ([@SwatiShrivastava9](https://github.com/SwatiShrivastava9)), Computer Science undergrat, Bhubaneshwar, India
+- Neha ([@veraciousalien](https://github.com/veraciousalien)),Student
+- Shruti Pradhan ([@Shruti07prad](https://github.com/Shruti07prad)),Information Technology Undergrad at Kalinga Institute of Industrial Technology,India
+- Preeti Saini ([@sainipreeti](https://github.com/sainipreeti)),Web develper,India
+- Shrikriti Singh ([@shrikriti5singh](https://github.com/shrikriti5singh)), Android & Web Developer, India
+- Avantika Singh ([@avantikasingh](https://github.com/avantikasingh)),Software Developer,Bhubaneswar,India
+- Oscar Wieman ([@oscrx](https://github.com/oscrx)), Student, Utrecht, The Netherlands
+- Prachi agarwal ([@prachiagarwal14](https://github.com/prachiagarwal14)),android developer,c,c++,india
+- Divyanshi Bhojak ([@Divyanshi-Bhojak](https://github.com/Divyanshi-Bhojak)),computer science,Bhubaneshwar,India
+- Karishma Singh ([@Singhkarishma](https://github.com/Singhkarishma),Computer Science Engineer, Bhubaneswar, India
+- Divisha1210 ([@Divisha1210](https//github.com/Divisha1210)),learner,student
+- Swati Singh ([@swati524](https://github.com/swati524)),Android Developer,India
+- Faizaan Datoo ([@faizaand](https://github.com/faizaand)), High School Student, Pennsylvania, USA
+- Animesh Pandey ([@AnimeshPandey](https://github.com/AnimeshPandey)), Web Developer, India
+- Pranav Pratap Singh ([@PranavPratapSingh](https://github.com/PranavPratapSingh)), Machine Learning Enthusiast, India
+- Sanchit Nayyar ([@sanchit-nayyar](https://github.com/sanchit-nayyar)), Back End Web Developer and Automation Systems Developer, India
+- Bennett Talpers ([@btalpers](https://github.com/btalpers)), Software Engineer, USA
+- Mohit singh ([@mritunjaygoutam12](https://github.com/mritunjaygoutam12)), al-->Javascript ,India
+- Sandeep chauhan ([@sandeepsajan0](https://github.com/sandeepsajan0)),Python devloper ,India
+- Serghei Iakovlev ([@sergeyklay](https://github.com/sergeyklay)), Phalcon core team member, Ukraine
+- Vipul Sharma ([@vsvipul](https://github.com/vsvipul)), Programmer, Undergraduate at IIT Mandi, India
+- Anuj Upadhyay ([@anuj97](https://github.com/anuj97)), Web Developer, India
+- Elías Josué Puma Chávez ([@zeroblazer](https://github.com/zeroblazer)), Student, Software developer, Rust, Perú
+- Jason Lukose ([@JasonLukose](https://github.com/JasonLukose)), Georgia Tech Student, 2018
+- Paulo Henrique Sacramento ([@henriquesacramento](https://github.com/henriquesacramento)), Full Stack Developer, Bahia <3, Brazil
+- Jake Lacey ([@jakelacey2012](https://github.com/jakelacey2012)), Software Developer.
+- Ronnie ([@geekslider](https://github.com/geekslider)), CSE Undergraduate at Karunya University, Coimbatore,India
+- Deepak Mangla ([@i-amgeek](https://github.com/i-amgeek)), Student, Python Developer, India.
+- Kashif Minhaj ([@kashifmin](https://github.com/kashifmin)), CSE Undergraduate at NMAMIT, Nitte,India
+- Naveen Venkat ([@nmakes](https://github.com/nmakes)), CS Undergrad at BITS Pilani, India
+- Anas Husseini ([@linostar](https://github.com/linostar)), Developer
+- Chris Werner Rau ([@cwrau](https://github.com/cwrau)), Full Stack Developer; loves security, C# and Java; fan of Docker and Rancher; Germany
+- Niraj Kadam ([@nirajkadam](https://github.com/nirajkadam)), CS graduate student
+- Doriel Fonseca ([@doriel](https://github.com/doriel)), Front-end Developer, Luanda (Angola)
+- Fabien Bénariac ([@fbenariac](https://github.com/fbenariac)), Code Artist Enthusiast, Boussy Saint Antoine (France)
+- Jérémie Astori ([@astorije](https://github.com/astorije)), Software Engineer
+- André Varandas ([@andrevarandas](https://github.com/andrevarandas)), JavaScript Developer, Portugal
+- Benjamin De Brasi ([@BenDeBrasi](https://github.com/BenDeBrasi)), Software Developer.
+- Wellington Costa ([@WellingtonCosta](https://github.com/WellingtonCosta)), Software Engineer, Brazil.
+- Miguel Sozinho Ramalho ([@msramalho](https://github.com/msramalho)), Computer Science & Engineering Student @ FEUP, Portugal.
+- Mohib Abdul Wasay ([@MohibWasay](https://github.com/MohibWasay)), Software Developer, Pakistan.
+- Daniel Andersson ([@danielandersson](https://github.com/danielandersson)), Software Engineer.
+- Saurav Bhattarai ([@drklrd](https://github.com/drklrd)), Developer, Nepal
+- Arjun Gautam ([@arjun-gautam](https://github.com/arjun-gautam)), Computer Scientist, Nepal.
+- Jessica Lewinter ([@jessicalewinter](https://github.com/jessicalewinter)), Full Stack Developer, Fortaleza, Brazil.
+- Sagar Khatri ([@ragasirtahk](https://github.com/ragasirtahk)), Student, Open Source Enthusiast, India
+- Jitendra Kumar ([@contactjittu](https://github.com/contactjittu)), Software Engineer, India
+- Abid Uzair ([@abiduzz420](https://github.com/abiduzz420)), Student Developer & an open source contributor, India.
+- Garvit Kothari ([@Garvit-k](https://github.com/Garvit-k)), Undergrad at SRM IST,Chennai.
+- Mohd Monis ([@monis01](https://github.com/monis01)), frontEnd developer from India (Delhi).
+- Russell Jurney ([@rjurney](https://github.com/rjurney)), Committer, Apache DataFu
+- Emre Tanrıverdi ([@achillesveil](https://github.com/achillesveil)), Computer Engineering Student & Android Developer, Turkey.
+- Ninjayoto ([@ninjayoto](https://github.com/ninjayoto)), Android Developer, Canada.
+- Adhyan Dhull ([@adhyandhull](https://github.com/adhyandhull)), Student, Open Source Contributor, India
+- Pradeep P ([@pradeepppc](https://github.com/pradeepppc)) CS Student, Mobile and Web Developer
+- Devansh Agarwal ([@Devansh-Agarwal](https://github.com/Devansh-Agarwal)) student at IITH, VR & AR Developer
+- Rushab Shah ([@DroidFreak32](https://github.com/DroidFreak32)) CS UG Student at NMAMIT, Android Enthusiast, India.
+- Aymeric Flaisler ([@aflaisler](https://github.com/aflaisler)) data engineer, England, United Kingdom
+- Mandeep Singh ([@meSingh](https://github.com/meSingh)) Full Stack Developer & Startups Enthusiast, Delhi, India
+- Burak Yaldırak ([@byaldira](https://github.com/byaldira)), Software Engineer, Turkey
+- Rishabh Tayal ([@RishabhTayal](https://github.com/rishabhtayal)) iOS Engineer, Chicago, USA
+- Kassem Itani ([@kassemitani](https://github.com/kassemitani)) Mobile App Developer, Beirut, Lebanon
+- Akash Ranjan ([@akasranjan005](https://github.com/akasranjan005)) Python Developer, Mumbai, India
+- Surajeet Sen ([@surajeetsen](https://github.com/surajeetsen)) Software Engineer, India.
+- Van-Duyet LE ([@duyetdev](https://github.com/duyetdev)), Data Engineer, Vietnam
+- Nicolas Talle ([@Nicolab](https://github.com/Nicolab)), Full Stack Developer & OSS Dev & CEO at [inStack.io](https://instack.io)
+- Ruwan Ranganath Senarathne ([@ruwan-ranganath](https://github.com/ruwan-ranganath)) DevOps Engineer, Sri Lanka.
+- Jigar Tarpara ([@jigartarpara](https://github.com/jigartarpara)) Python Developer, Surat, India
+- Xuan-An Phan ([@gr33ntii](https://github.com/gr33ntii)) Full Stack Developer & Coffeescript & Javascript, Vietnam
+- Niels Moseley ([@trcwm](https://github.com/trcwm)) CEO and head coffee-maker at [www.moseleyinstruments.com](https://www.moseleyinstruments.com/).
+- Roger P. Oliveira ([@zlown3t](https://github.com/zlown3t)) Fullstack Web Developer at HP inc, Porto Alegre - Brazil.
+- Nishtha Bhatia ([@nb2998](https://github.com/nb2998)), Android Developer
+- Trung-Duc Nguyen ([@nguyentrungduc08](https://github.com/nguyentrungduc08)) C/C++ Developer, Vietnam
+- Akash Shankar Bisariya ([@akash-bisariya](https://github.com/akash-bisariya)) Android Developer, Gurgaon, India
+- Rohit Gangupantulu ([@rgangu](https://github.com/rgangu)) Software Engineer, State College, USA
+- Arash Aghajani ([@arshiamidos](https://github.com/arshiamidos)) FullStack Hacker Developer, Tehran, Iran
+- Ville Hellman ([@efexen](https://github.com/efexen)) CTO & Developer, Surrey, UK
+- Max Goh ([@maxgoh](https://github.com/maxgoh)) FullStack Software Engineer, Singapore
+- Jackson Zhipeng Chang ([@Zhipeng-Chang](https://github.com/Zhipeng-Chang)) Student, System Analyst, Software Engineer, Canada.
+- Nan Zhang ([@zhangn49](https://github.com/zhangn49)), SE Graduate Student & Developer, China
+- Xiang Wang ([@ramwin](https://github.com/ramwin)), Full Stack Developer, China
+- Himanshu Gupta ([@himanshug396](https://github.com/himanshug396)) Frontend developer, IIT Roorkee, India
+- Vladimiro Bellini ([@vlasvlasvlas](https://github.com/vlasvlasvlas)), Data Analyst & Developer at Sistemas Mapache (http://www.smapache.com.ar/), Argentina
+- Erik Nguyen ([@eriknguyen](https://github.com/eriknguyen)), Software Engineer, Singapore
+- Sowmya Dharanipragada ([@sowmyadvn](https://github.com/sowmyadvn)), Software Engineer, California
+- Chris Salgado ([@cgado12](https://github.com/cgado12)), Software Engineer, Tampa, USA
+- Nikolaos Dimopoulos ([@niden](https://github.com/niden)), Phalcon core team member, USA
+- Pascal Iske ([@pascaliske](https://github.com/pascaliske)), TypeScript / JavaScript Developer, Germany
+- Rohit Ashiwal ([@r1walz](https://github.com/r1walz)), Android Developer at IIT Roorkee
+- Aryan Agal ([@grubdragon](https://github.com/grubdragon)), Undergrad at IIT Bombay
+- Akshay Raul ([@AkshayRaul](https://github.com/AkshayRaul)), Full Stack Developer, Software Engineer, Mumbai, India
+- Napoleon Arouldas ([@neps-in](https://github.com/neps-in)), Lead developer [Rollout](http://grandappstudio.com/roll-out)
+- Saif Eddin Gmati ([@azjezz](https://github.com/azjezz)), Back-End Web Developer, Tunisia
+- Yashovardhan Agrawal ([@yashovardhanagrawal](https://github.com/yashovardhanagrawal)), React Native Developer, India
+- Sukhbir Singh ([@sukhbir-singh](https://github.com/sukhbir-singh)), Computer Science Student at NIT Hamirpur, India
+- Rishi Pithadiya ([@rishiip](https://github.com/rishiip)), Ruby on Rails Programmer
+- Vibhav Agarawal ([@vibhavagarwal5](https://github.com/vibhavagarwal5)), Developer/Student, India
+- Vibhor Agarwal ([@vibhor98](https://github.com/vibhor98)), Data Scientist/UG Student, India
+- Rishabh Chaudhary ([@Rishabh04-02](https://github.com/Rishabh04-02)), Computer Science & Engineering Student at NIT Hamirpur, India
+- Dishant Rathi ([@dishantrathi](https://github.com/dishantrathi)), Computer Engineering Student at Govt. Engineering College, Modasa.
+- Prashant Nigam ([@prashant0598](https://github.com/prashant0598)), Data Scientist, India
+- Kevin Rodríguez ([@kevyder](https://github.com/kevyder)), Full-Stack Developer, Colombia.
+- Wilson Ng ([@wilson-ng](https://github.com/wilson-ng)), System Engineer, Indonesia
+- Willy Nugraha Utomo ([@willymiiee](https://github.com/willymiiee)), Software Engineer, Indonesia
+- Miguel Piedrafita ([@m1guelpf](https://github.com/m1guelpf)), teenager dev, Spain
+- Max Vetrov ([@tigertv](https://github.com/tigertv)), Software Developer, Russia
+- James Larrowe ([@JL2210](https://github.com/JL2210)), Chromebrew Developer, Indiana, United States
+- Benjamin H Boruff ([@benjaminboruff](https://github.com/benjaminboruff)), Developer, Bloomington, Indiana, USA
+- Osusara Kammalawatta ([@osusara](https://github.com/osusara)), IS Undergraduate at SUSL, Sri Lanka
+- Azkar Moulana ([@azkarmoulana](https://github.com/azkarmoulana)), Software Engineer
+- Xinh Nguyen ([@nguyentrucxinh](https://github.com/nguyentrucxinh)), Sr. Full-stack JavaScript Developer, Vietnam
+- Niyaz Bin Hashem ([@niyazed](https://github.com/niyazed)) Designer & Developer, PC Enthusiast, CS Undergrade Student at NSU, Bangladesh.
+- Shashi Prakash Gautam ([@shweshi](https://github.com/shweshi)), Software Developer
+- Akash Sharma ([@as8297](https://github.com/as8297)), CS Engineer, MRU, India
+- Brett Mack ([@devopsbrett](https://github.com/devopsbrett)), DevOps/InfoSec Consultant, UK
+- Len Zhao ([@zhaoshiling1017](https://github.com/zhaoshiling1017)), Software Engineer, China
+- Murat Gundes ([@muratgundes](https://github.com/muratgundes)), Software Engineer, Turkey
+- Henry Addo ([@eyedol](https://github.com/eyedol)), Software Engineer, Ghana
+- Santhosh Kumar ([@santhosh6328](https://github.com/santhosh6328)), Student, India
+- Yohan Malshika ([@yohanym95](https://github.com/yohanym95)),IS Undergraduate at SUSL, Sri Lanka
+- Ross Strachan ([@rbstrachan](https://github.com/rbstrachan)), Physics Undergraduate, UK
+- Faruk Terzioğlu ([@farukterzioglu](https://github.com/farukterzioglu)), Sr. Software Developer, Turkey
+- Simon Woldemichael ([@swoldemi](https://github.com/swoldemi)), Developer, Houston, Texas, USA
+- Yonglong Chan ([@iluvsnail](https://github.com/iluvsnail)), Software Engineer, China
+- Rudra Sadhu ([@rdrsadhu](https://github.com/rdrsadhu)), Human
+- Sabique Ahmed Khan ([@sabique](https://github.com/sabique)), Software Developer, Earth
+- Niko Solihin ([@nikosolihin](https://github.com/nikosolihin)), Full Stack Developer, Jakarta, Indonesia
+- S Ben Stewart ([@sbenstewart](https://github.com/sbenstewart)), Student, Chennai, India
+- Suman Astani ([@SimonAstani](https://github.com/SimonAstani)), Software Developer, Kathmandu , Nepal
+- Arnav Borborah ([@arnavb](https://github.com/arnavb)), High school student who loves programming
+- Tosotada ([@Tosotada](https://github.com/Tosotada)), Small developer & Lover of open source projects
+- Naveen Naidu ([@Naveenaidu](https://github.com/Naveenaidu)), Student, PES University, India
+- Maikel Chandika ([@mkdika](https://github.com/mkdika)), Java Developer, Medan, North Sumatera, Indonesia.
+- Wilson Ng ([@wilson-ng](https://github.com/wilson-ng)), Software Engineer at Mokapos, Indonesia
+- Aravind V. Nair ([@AravindVNair99](https://github.com/AravindVNair99)), Computer Science enthusiast mainly interested in web development and cybersecurity [Portfolio Website](https://aravindvnair99.firebaseapp.com), [Blog](https://aravindvnair1999.blogspot.com)
+- Ervien Ismunandar Susila ([@ervinismu](https://github.com/ervinismu)), Software Engineer, Yogyakarta, Indonesia
+- Leo Riviera ([@leoriviera](https://github.com/leoriviera)), Computer Science and Information Technology Student and Software Developer, London, UK
+- Mansi Agarwal ([@Mansi449](https://github.com/Mansi449)), Developer, Computer Science Undergraduate at IIT Roorkee, India
+- Tibetegya George ([@tibetegya](https://github.com/tibetegya)), Developer, Andela, Kampala, Uganda
+- Ayush Agarwal ([@aagarwal1012](https://github.com/aagarwal1012)), Mobile App Developer | Undergraduate at IIT, Roorkee
+- Sreetam Das ([@sreetamdas](https://github.com/sreetamdas)), FrontEnd Developer, India
+- Siffrein Sigy ([@siffreinsg](https://github.com/siffreinsg)) Student, France
+- Mansi Breja ([@MansiBreja](https://github.com/MansiBreja)), Student at Netaji Subhas Institute of Technology, Delhi, India
+- Biswajit Roy ([@Biswajee](https://github.com/Biswajee)), Student at University Institute of Technology, Burdwan University, India
+- Saurabh Singh ([@singh-saurabh](https://github.com/singh-saurabh)), Developer | Undergraduate at IIT Roorkee, India
+- Thomas Murphy ([@tmurph21](https://github.com/tmurph21)), Software Developer
+- Tridhuli ([@opyearsa](https://github.com/opyearsa)), Software Engineer, India
+- Atif Ameen ([@tylerdurdenn](https://github.com/tylerdurdenn)), Web Developer
+- Stephen Sladek ([@StaneCobalt](https://github.com/StaneCobalt)), Web Developer and VR Enthusiast, USA
+- Rwothoromo Elijah ([@Rwothoromo](https://github.com/Rwothoromo)), Software Developer, Uganda
+- Theng ([@vxavictor513](https://github.com/vxavictor513/)), Software Developer
+- Neeraj Pandey ([@Neal0892](https://github.com/neal0892)),Developer,Cognizant Technology Solutions,Kolkata,India
