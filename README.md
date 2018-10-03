@@ -861,7 +861,7 @@ Signed,
 - Roshan Gautam ([@roshangm1](https://github.com/roshangm1)), Developer, Nepal
 - Yao Chao ([@yaochao](https://github.com/yaochao)), Software Developer, China
 - Andrés Arias ([@giantquartz](https://github.com/giantquartz)), Backend Developer, Spain
-- Rochana PH ([@rochanaph](https://github.com/rochanaph)), Student, Indonesia
+- Rochana Prih H ([@rochanaph](https://github.com/rochanaph)), Student, Indonesia
 - Kevin Lloyd Bernal ([@BurnzZ](https://github.com/BurnzZ)), Software Engineer, Philippines
 - Vijay Anand ([@vjyanand](https://github.com/vjyanand)), Software Enfineer, Bangalore, India
 - Ahmad Alfy ([@ahmadalfy](https://github.com/ahmadalfy)), Front-end developer, Egypt
