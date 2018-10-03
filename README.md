@@ -2230,3 +2230,4 @@ Signed,
 - Thomas Murphy ([@tmurph21](https://github.com/tmurph21)), Software Developer
 - Tridhuli ([@opyearsa](https://github.com/opyearsa)), Software Engineer, India
 -Atif Ameen ([@tylerdurdenn](https://github.com/tylerdurdenn)), Web Developer
+- Stephen Sladek ([@StaneCobalt](https://github.com/StaneCobalt)), Web Developer and VR Enthusiast, USA
