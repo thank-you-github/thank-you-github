@@ -2232,3 +2232,4 @@ Signed,
 - Atif Ameen ([@tylerdurdenn](https://github.com/tylerdurdenn)), Web Developer
 - Stephen Sladek ([@StaneCobalt](https://github.com/StaneCobalt)), Web Developer and VR Enthusiast, USA
 - Rwothoromo Elijah ([@Rwothoromo](https://github.com/Rwothoromo)), Software Developer, Uganda
+- Sheryansh Kulshreshtha([@shreyanshkuls](http://github.com/shreyanshkuls)), Student, India
