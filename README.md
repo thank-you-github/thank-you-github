@@ -2231,3 +2231,4 @@ Signed,
 - Tridhuli ([@opyearsa](https://github.com/opyearsa)), Software Engineer, India
 -Atif Ameen ([@tylerdurdenn](https://github.com/tylerdurdenn)), Web Developer
 - Stephen Sladek ([@StaneCobalt](https://github.com/StaneCobalt)), Web Developer and VR Enthusiast, USA
+- Rwothoromo Elijah ([@Rwothoromo](https://github.com/Rwothoromo)), Software Developer, Uganda
