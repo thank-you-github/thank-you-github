@@ -1689,7 +1689,7 @@ Signed,
 - Ahmed Gaber ([@aigdonia](https://github.com/aigdonia)), Frontend web developer, Machine Learning guru
 - Mayank ([@thakur00mayank](https://github.com/thakur00mayank)), Software Development Engineer, India
 - Rohan Bhatia ([@rohanbh](https://github.com/rohanbh)), Android Developer, India
-- Rian Adam ([@rianrajagede](https://github.com/rianrajagede)), Student, Indonesia
+- Rian Adam ([@rianrajagede](https://github.com/rianrajagede)), AI Engineer, Indonesia
 - Martin Koo ([@mkoo21](https://github.com/mkoo21)), Full Stack Developer
 - Taylor Caldwell ([@taycaldwell](https://github.com/taycaldwell)), Software Engineer
 - Carl Yoder ([@Calasada](https://github.com/Calasada)), Student Programmer
