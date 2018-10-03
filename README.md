@@ -2236,3 +2236,4 @@ Signed,
 - Neeraj Pandey ([@Neal0892](https://github.com/neal0892)),Developer,Cognizant Technology Solutions,Kolkata,India
 - Suvin Nimnaka ([@suvink](https://github.com/suvink)),Developer,Student
 - Rochana Prih H ([@rochanaph](https://github.com/rochanaph)), Student, Indonesia
+- Darsh Patel ([@darshkpatel](https://github.com/darshkpatel/)), Computer Science Undergrad
