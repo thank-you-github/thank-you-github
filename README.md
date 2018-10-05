@@ -2257,3 +2257,4 @@ Signed,
 - Jaime Velaz ([@jaimevelaz](https://github.com/jaimevelaz)), Developer
 - Sheryansh Kulshreshtha([@shreyanshkuls](https://github.com/shreyanshkuls)), Student, India
 - Devyanshu Shukla([@Devyanshu](https://github.com/Devyanshu)), Python Enthusiast, India
+- Skyler Curtis([@deadPix3l](https://github.com/deadPix3l)), Developer
