@@ -2240,3 +2240,4 @@ Signed,
 - Ye Lin Aung ([@ye-lin-aung](https://github.com/ye-lin-aung)), Software Engineer at [Zwenexsys.com](http://zwenex.com)
 - Prasanna V ([@worldofprasanna](https://github.com/worldofprasanna)), Application Developer at [Thoughtworks](https://www.thoughtworks.com/), India
 - Bindu S ([@BinduST](https://github.com/BinduST)), Developer, India
+- Kishan B ([@kishaningithub](https://github.com/kishaningithub)), Developer
