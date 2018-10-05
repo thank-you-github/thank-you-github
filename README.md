@@ -2256,3 +2256,4 @@ Signed,
 - Swapnil Panwala ([@panwalas](https://github.com/panwalas)), Machine Learning Enthusiast, India
 - Jaime Velaz ([@jaimevelaz](https://github.com/jaimevelaz)), Developer
 - Sheryansh Kulshreshtha([@shreyanshkuls](https://github.com/shreyanshkuls)), Student, India
+- Devyanshu Shukla([@Devyanshu](https://github.com/Devyanshu)), Python Enthusiast, India
