@@ -2242,3 +2242,4 @@ Signed,
 - Bindu S ([@BinduST](https://github.com/BinduST)), Developer, India
 - Kishan B ([@kishaningithub](https://github.com/kishaningithub)), Developer
 - Daniel Monazah ([@dmonazah](https://github.com/dmonazah)), Student
+- Elena ([@Eli312](https://github.com/Eli312)), Student, Germany.
