@@ -2243,3 +2243,4 @@ Signed,
 - Kishan B ([@kishaningithub](https://github.com/kishaningithub)), Developer
 - Daniel Monazah ([@dmonazah](https://github.com/dmonazah)), Student
 - Elena ([@Eli312](https://github.com/Eli312)), Student, Germany.
+- Nitish Jadia ([@w4rb0y](https://github.com/w4rb0y)), Computer Science Postgraduate at University of Hyderabad, India
