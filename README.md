@@ -1689,7 +1689,7 @@ Signed,
 - Ahmed Gaber ([@aigdonia](https://github.com/aigdonia)), Frontend web developer, Machine Learning guru
 - Mayank ([@thakur00mayank](https://github.com/thakur00mayank)), Software Development Engineer, India
 - Rohan Bhatia ([@rohanbh](https://github.com/rohanbh)), Android Developer, India
-- Rian Adam ([@rianrajagede](https://github.com/rianrajagede)), Student, Indonesia
+- Rian Adam ([@rianrajagede](https://github.com/rianrajagede)), AI Engineer, Indonesia
 - Martin Koo ([@mkoo21](https://github.com/mkoo21)), Full Stack Developer
 - Taylor Caldwell ([@taycaldwell](https://github.com/taycaldwell)), Software Engineer
 - Carl Yoder ([@Calasada](https://github.com/Calasada)), Student Programmer
@@ -2235,3 +2235,7 @@ Signed,
 - Theng ([@vxavictor513](https://github.com/vxavictor513/)), Software Developer
 - Neeraj Pandey ([@Neal0892](https://github.com/neal0892)),Developer,Cognizant Technology Solutions,Kolkata,India
 - Set Kyar Wa Lar ([@setkyar](http://github.com/setkyar)), Software Engineer, Singapore
+- Suvin Nimnaka ([@suvink](https://github.com/suvink)),Developer,Student
+- Rochana Prih H ([@rochanaph](https://github.com/rochanaph)), Student, Indonesia
+- Darsh Patel ([@darshkpatel](https://github.com/darshkpatel/)), Computer Science Undergrad
+- Ye Lin Aung ([@ye-lin-aung](https://github.com/ye-lin-aung)), Software Engineer at [Zwenexsys.com](http://zwenex.com)
