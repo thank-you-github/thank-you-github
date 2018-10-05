@@ -2250,5 +2250,5 @@ Signed,
 - Emin Khateeb ([@emin93](https://github.com/emin93)), Developer
 - Burhan Bharmal ([@ibuli](https://github.com/ibuli)), MEAN Stack Developer, Ahmedabad, Gujarat, India
 - Tunap Paul ([@tunap](https://github.com/tunap)), Blockchain Evangelist
-- Anusree Prakash([@anusreePrakash](https://github.com/anusreePrakash)), Developer, India
+- Anusree Prakash ([@anusreePrakash](https://github.com/anusreePrakash)), Developer, India
 - Farhan ([@FarhanRA](https://github.com/FarhanRA)),Software Engineer, Padalarang, Indonesia
