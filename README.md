@@ -1689,7 +1689,7 @@ Signed,
 - Ahmed Gaber ([@aigdonia](https://github.com/aigdonia)), Frontend web developer, Machine Learning guru
 - Mayank ([@thakur00mayank](https://github.com/thakur00mayank)), Software Development Engineer, India
 - Rohan Bhatia ([@rohanbh](https://github.com/rohanbh)), Android Developer, India
-- Rian Adam ([@rianrajagede](https://github.com/rianrajagede)), Student, Indonesia
+- Rian Adam ([@rianrajagede](https://github.com/rianrajagede)), AI Engineer, Indonesia
 - Martin Koo ([@mkoo21](https://github.com/mkoo21)), Full Stack Developer
 - Taylor Caldwell ([@taycaldwell](https://github.com/taycaldwell)), Software Engineer
 - Carl Yoder ([@Calasada](https://github.com/Calasada)), Student Programmer
@@ -2232,4 +2232,27 @@ Signed,
 - Atif Ameen ([@tylerdurdenn](https://github.com/tylerdurdenn)), Web Developer
 - Stephen Sladek ([@StaneCobalt](https://github.com/StaneCobalt)), Web Developer and VR Enthusiast, USA
 - Rwothoromo Elijah ([@Rwothoromo](https://github.com/Rwothoromo)), Software Developer, Uganda
-- Sheryansh Kulshreshtha([@shreyanshkuls](http://github.com/shreyanshkuls)), Student, India
+- Sheryansh Kulshreshtha([@shreyanshkuls](https://github.com/shreyanshkuls)), Student, India
+- Theng ([@vxavictor513](https://github.com/vxavictor513/)), Software Developer
+- Neeraj Pandey ([@Neal0892](https://github.com/neal0892)),Developer,Cognizant Technology Solutions,Kolkata,India
+- Suvin Nimnaka ([@suvink](https://github.com/suvink)),Developer,Student
+- Rochana Prih H ([@rochanaph](https://github.com/rochanaph)), Student, Indonesia
+- Darsh Patel ([@darshkpatel](https://github.com/darshkpatel/)), Computer Science Undergrad
+- Ye Lin Aung ([@ye-lin-aung](https://github.com/ye-lin-aung)), Software Engineer at [Zwenexsys.com](http://zwenex.com)
+- Prasanna V ([@worldofprasanna](https://github.com/worldofprasanna)), Application Developer at [Thoughtworks](https://www.thoughtworks.com/), India
+- Bindu S ([@BinduST](https://github.com/BinduST)), Developer, India
+- Kishan B ([@kishaningithub](https://github.com/kishaningithub)), Developer
+- Daniel Monazah ([@dmonazah](https://github.com/dmonazah)), Student
+- Elena ([@Eli312](https://github.com/Eli312)), Student, Germany.
+- Nitish Jadia ([@w4rb0y](https://github.com/w4rb0y)), Computer Science Postgraduate at University of Hyderabad, India
+- AndiLee111 (2018) ([@andilee111](https://github.com/andilee111)), Systems Engineer, Munich, Germany
+- Alexis Norech ([@Norech](https://github.com/Norech)), Student, Reunion
+- Santhosh ([@gsanthosh98](https://github.com/gsanthosh98)), Student, Anna University, India
+- Emin Khateeb ([@emin93](https://github.com/emin93)), Developer
+- Burhan Bharmal ([@ibuli](https://github.com/ibuli)), MEAN Stack Developer, Ahmedabad, Gujarat, India
+- Tunap Paul ([@tunap](https://github.com/tunap)), Blockchain Evangelist
+- Anusree Prakash ([@anusreePrakash](https://github.com/anusreePrakash)), Developer, India
+- Farhan ([@FarhanRA](https://github.com/FarhanRA)),Software Engineer, Padalarang, Indonesia
+- Arpit Gupta ([@alphawizard](https://github.com/alphaWizard/)), Computer science undergrad, India
+- Swapnil Panwala ([@panwalas](https://github.com/panwalas)), Machine Learning Enthusiast, India
+- Jaime Velaz ([@jaimevelaz](https://github.com/jaimevelaz)), Developer
