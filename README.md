@@ -2254,3 +2254,4 @@ Signed,
 - Farhan ([@FarhanRA](https://github.com/FarhanRA)),Software Engineer, Padalarang, Indonesia
 - Arpit Gupta ([@alphawizard](https://github.com/alphaWizard/)), Computer science undergrad, India
 - Swapnil Panwala ([@panwalas](https://github.com/panwalas)), Machine Learning Enthusiast, India
+- Jaime Velaz ([@jaimevelaz](https://github.com/jaimevelaz)), Developer
