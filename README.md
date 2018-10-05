@@ -2253,3 +2253,4 @@ Signed,
 - Anusree Prakash ([@anusreePrakash](https://github.com/anusreePrakash)), Developer, India
 - Farhan ([@FarhanRA](https://github.com/FarhanRA)),Software Engineer, Padalarang, Indonesia
 - Arpit Gupta ([@alphawizard](https://github.com/alphaWizard/)), Computer science undergrad, India
+- Swapnil Panwala ([@panwalas](https://github.com/panwalas)), Machine Learning Enthusiast, India
