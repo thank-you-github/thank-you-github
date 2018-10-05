@@ -1972,6 +1972,7 @@ Signed,
 - Shriyash Jalukar ([@shriyash](https://github.com/shriyash)), Software Developer, Detroit, MI
 - Grayson Sinclair ([@highwind360](https://github.com/Highwind360)), Developer, Seattle
 - H R Monarch ([@hrmonarch](https://github.com/hrmonarch)), Student
+- Daniel Monazah ([@dmonazah](https://github.com/dmonazah)), Student
 - Lucas Varela ([@lucasvarela](https://github.com/lucasvarela)), Colombian Physicist
 - Joyce Echessa ([@echessa](https://github.com/echessa)), Software Engineer, Nairobi, Kenya
 - Josue Murhabazi ([@josuemurhabazi](https://github.com/josuemurhabazi)), computer science, Daystar Univeristy, Kenya
