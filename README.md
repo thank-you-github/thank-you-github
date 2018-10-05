@@ -2241,3 +2241,4 @@ Signed,
 - Prasanna V ([@worldofprasanna](https://github.com/worldofprasanna)), Application Developer at [Thoughtworks](https://www.thoughtworks.com/), India
 - Bindu S ([@BinduST](https://github.com/BinduST)), Developer, India
 - Kishan B ([@kishaningithub](https://github.com/kishaningithub)), Developer
+- Daniel Monazah ([@dmonazah](https://github.com/dmonazah)), Student
