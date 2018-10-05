@@ -1078,3 +1078,4 @@ Signed,
 - Kayvan Mazaheri ([@KayvanMazaheri](https://github.com/KayvanMazaheri)), Software Engineer, Iran
 - Simon Verhoeven ([@SimonVerhoeven](https://github.com/SimonVerhoeven/)), Developer, Belgium
 - Usman Shahid ([@codemug](https://github.com/codemug/)), Software Developer, Pakistan
+- Arpit Gupta ([@alphawizard](https://github.com/alphaWizard/)), Computer science undergrad, India
