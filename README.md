@@ -2244,3 +2244,4 @@ Signed,
 - Daniel Monazah ([@dmonazah](https://github.com/dmonazah)), Student
 - Elena ([@Eli312](https://github.com/Eli312)), Student, Germany.
 - Nitish Jadia ([@w4rb0y](https://github.com/w4rb0y)), Computer Science Postgraduate at University of Hyderabad, India
+- AndiLee111 (2018) ([@andilee111](https://github.com/andilee111)), Systems Engineer, Munich, Germany
