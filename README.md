@@ -41,7 +41,6 @@ Signed,
 - Andrea Bergamasco ([@vjandrea](https://github.com/vjandrea)), Developer
 - Jon Swanson ([@swansong](https://github.com/swansong)), Software Engineer at Rakuten Marketing
 - Caleb Madrigal ([@calebmadrigal](https://github.com/calebmadrigal)), Software Engineer
-- Kavita Maurya ([@Kavita309](https://github.com/Kavita309)), undergraduate student at NSIT
 - Sylvain Perron ([@slvnperron](https://github.com/slvnperron)), SE from Quebec
 - Alexander Kuleshov ([@0xAX](https://github.com/0xAX)), Erlang/Elixir developer at traveping, author of linux-insides
 - Daniel Doubrovkine ([@dblock](https://github.com/dblock)), [Ruby Grape](http://www.ruby-grape.org/), CTO Artsy.net
@@ -2260,3 +2259,4 @@ Signed,
 - Devyanshu Shukla ([@Devyanshu](https://github.com/Devyanshu)), Python Enthusiast, India
 - Skyler Curtis ([@deadPix3l](https://github.com/deadPix3l)), Developer
 - Arunvel Sriram ([@arunvelsriram](https://github.com/arunvelsriram)), Developer, India
+- Kavita Maurya ([@Kavita309](https://github.com/Kavita309)), undergraduate student at NSIT
