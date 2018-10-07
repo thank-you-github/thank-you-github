@@ -2258,3 +2258,4 @@ Signed,
 - Sheryansh Kulshreshtha ([@shreyanshkuls](https://github.com/shreyanshkuls)), Student, India
 - Devyanshu Shukla ([@Devyanshu](https://github.com/Devyanshu)), Python Enthusiast, India
 - Skyler Curtis ([@deadPix3l](https://github.com/deadPix3l)), Developer
+- Arunvel Sriram ([@arunvelsriram](https://github.com/arunvelsriram)), Developer, India
