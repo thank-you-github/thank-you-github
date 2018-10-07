@@ -1,4 +1,4 @@
-Dear GitHub,
+﻿Dear GitHub,
 
 Before 2007, the way to participate in Open Source was fragmented. Each project
 had their own workflow, patches circulated in emails, issues were reported in
@@ -41,6 +41,7 @@ Signed,
 - Andrea Bergamasco ([@vjandrea](https://github.com/vjandrea)), Developer
 - Jon Swanson ([@swansong](https://github.com/swansong)), Software Engineer at Rakuten Marketing
 - Caleb Madrigal ([@calebmadrigal](https://github.com/calebmadrigal)), Software Engineer
+- Kavita Maurya ([@Kavita309](https://github.com/Kavita309)), undergraduate student at NSIT
 - Sylvain Perron ([@slvnperron](https://github.com/slvnperron)), SE from Quebec
 - Alexander Kuleshov ([@0xAX](https://github.com/0xAX)), Erlang/Elixir developer at traveping, author of linux-insides
 - Daniel Doubrovkine ([@dblock](https://github.com/dblock)), [Ruby Grape](http://www.ruby-grape.org/), CTO Artsy.net
