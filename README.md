@@ -2238,4 +2238,25 @@ Signed,
 - Rochana Prih H ([@rochanaph](https://github.com/rochanaph)), Student, Indonesia
 - Darsh Patel ([@darshkpatel](https://github.com/darshkpatel/)), Computer Science Undergrad
 - Ye Lin Aung ([@ye-lin-aung](https://github.com/ye-lin-aung)), Software Engineer at [Zwenexsys.com](http://zwenex.com)
+- Prasanna V ([@worldofprasanna](https://github.com/worldofprasanna)), Application Developer at [Thoughtworks](https://www.thoughtworks.com/), India
+- Bindu S ([@BinduST](https://github.com/BinduST)), Developer, India
+- Kishan B ([@kishaningithub](https://github.com/kishaningithub)), Developer
+- Daniel Monazah ([@dmonazah](https://github.com/dmonazah)), Student
+- Elena ([@Eli312](https://github.com/Eli312)), Student, Germany.
+- Nitish Jadia ([@w4rb0y](https://github.com/w4rb0y)), Computer Science Postgraduate at University of Hyderabad, India
+- AndiLee111 (2018) ([@andilee111](https://github.com/andilee111)), Systems Engineer, Munich, Germany
+- Alexis Norech ([@Norech](https://github.com/Norech)), Student, Reunion
+- Santhosh ([@gsanthosh98](https://github.com/gsanthosh98)), Student, Anna University, India
+- Emin Khateeb ([@emin93](https://github.com/emin93)), Developer
+- Burhan Bharmal ([@ibuli](https://github.com/ibuli)), MEAN Stack Developer, Ahmedabad, Gujarat, India
+- Tunap Paul ([@tunap](https://github.com/tunap)), Blockchain Evangelist
+- Anusree Prakash ([@anusreePrakash](https://github.com/anusreePrakash)), Developer, India
+- Farhan ([@FarhanRA](https://github.com/FarhanRA)),Software Engineer, Padalarang, Indonesia
+- Arpit Gupta ([@alphawizard](https://github.com/alphaWizard/)), Computer science undergrad, India
+- Swapnil Panwala ([@panwalas](https://github.com/panwalas)), Machine Learning Enthusiast, India
+- Jaime Velaz ([@jaimevelaz](https://github.com/jaimevelaz)), Developer
+- Sheryansh Kulshreshtha ([@shreyanshkuls](https://github.com/shreyanshkuls)), Student, India
+- Devyanshu Shukla ([@Devyanshu](https://github.com/Devyanshu)), Python Enthusiast, India
+- Skyler Curtis ([@deadPix3l](https://github.com/deadPix3l)), Developer
+- Arunvel Sriram ([@arunvelsriram](https://github.com/arunvelsriram)), Developer, India
 - Set Kyar Wa Lar ([@setkyar](http://github.com/setkyar)), Software Engineer, Singapore
