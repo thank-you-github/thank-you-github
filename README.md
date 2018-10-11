@@ -2259,3 +2259,4 @@ Signed,
 - Devyanshu Shukla ([@Devyanshu](https://github.com/Devyanshu)), Python Enthusiast, India
 - Skyler Curtis ([@deadPix3l](https://github.com/deadPix3l)), Developer
 - Arunvel Sriram ([@arunvelsriram](https://github.com/arunvelsriram)), Developer, India
+- Shakira Ndagire ([@shakirandagire](https://github.com/shakirandagire)), Software Developer, Andela, Uganda
