@@ -241,6 +241,7 @@ Signed,
 - Veaceslav Gaidarji ([@donvigo](https://github.com/donvigo)), Android/iOS Developer
 - Pascal Raszyk ([@posixpascal](https://github.com/posixpascal)), Batman, Full-Stack Web Developer
 - Ashhar Hasan ([@hashhar](https://github.com/hashhar)), Student
+- Collins M Mbulakyalo ([@Musacoli](https://github.com/Musacoli)), Software Developer
 - Nicholas Chum ([@nicholaschum](https://github.com/nicholaschum)), Android Themer and App Developer
 - Alessio Felicioni ([@afelicioni](https://github.com/afelicioni)), Developer & IT Operations, formerly CTO @ [WebDesignProduction](http://www.wdpro.it/), [Lavorint](http://www.lavorint.it/) and [cerca.com](http://www.cerca.com/)
 - Anggiajuang Patria ([@anggiaj](https://github.com/anggiaj)), Software Developer
