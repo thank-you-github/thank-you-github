@@ -2259,3 +2259,4 @@ Signed,
 - Devyanshu Shukla ([@Devyanshu](https://github.com/Devyanshu)), Python Enthusiast, India
 - Skyler Curtis ([@deadPix3l](https://github.com/deadPix3l)), Developer
 - Arunvel Sriram ([@arunvelsriram](https://github.com/arunvelsriram)), Developer, India
+- Khizir Siddiqui ([@khizirsiddiqui](https://github.com/khizirsiddiqui)), Undergraduate at BITS
