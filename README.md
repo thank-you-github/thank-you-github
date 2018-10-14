@@ -2267,3 +2267,4 @@ Signed,
 - Joel Mwanja ([@mwanjajoel](https://github.com/mwanjajoel)), Machine Learning and iOS Developer, Uganda
 - Rajat Hans ([@rajathans](https://github.com/rajathans)), Developer, Bangalore, India
 - Arvind Thangamani ([@dnivra26](https://github.com/dnivra26)), Developer, ThoughtWorks, India
+- Aswin Karthik S ([@aswinkarthik](https://github.com/aswinkarthik)), Developer, India
