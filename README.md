@@ -2268,3 +2268,4 @@ Signed,
 - Rajat Hans ([@rajathans](https://github.com/rajathans)), Developer, Bangalore, India
 - Arvind Thangamani ([@dnivra26](https://github.com/dnivra26)), Developer, ThoughtWorks, India
 - Aswin Karthik S ([@aswinkarthik](https://github.com/aswinkarthik)), Developer, India
+- Vidhi Gupta ([@VidhiG](https://github.com/VidhiG)), Developer, India
