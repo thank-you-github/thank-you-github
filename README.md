@@ -2273,3 +2273,4 @@ Signed,
 - Kavita Maurya ([@Kavita309](https://github.com/Kavita309)), undergraduate student at NSIT
 - Rajat Kumar Maurya ([@rjkumar22](https://github.com/rjkumar22)), Student, Software Engineer
 - Vinoth Kumar K ([@rexaugustus](https://github.com/rexaugustus)), Student, Civil Engineer
+- Jayesh Joshi ([@python-jjlearner](https://github.com/python-jjlearner)), Web developer
