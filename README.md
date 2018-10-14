@@ -2260,3 +2260,4 @@ Signed,
 - Skyler Curtis ([@deadPix3l](https://github.com/deadPix3l)), Developer
 - Arunvel Sriram ([@arunvelsriram](https://github.com/arunvelsriram)), Developer, India
 - Khizir Siddiqui ([@khizirsiddiqui](https://github.com/khizirsiddiqui)), Undergraduate at BITS
+- Gyanendro Khomdram ([@gyanendrokh](https://github.com/gyanendrokh)), Software Developer, India
