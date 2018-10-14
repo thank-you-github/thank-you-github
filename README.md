@@ -2270,3 +2270,4 @@ Signed,
 - Aswin Karthik S ([@aswinkarthik](https://github.com/aswinkarthik)), Developer, India
 - Vidhi Gupta ([@VidhiG](https://github.com/VidhiG)), Developer, India
 - Prabhu Jayakumar ([@prabhu43](https://github.com/prabhu43)), Developer, India
+- Kavita Maurya ([@Kavita309](https://github.com/Kavita309)), undergraduate student at NSIT
