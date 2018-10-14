@@ -2263,3 +2263,4 @@ Signed,
 - Gyanendro Khomdram ([@gyanendrokh](https://github.com/gyanendrokh)), Software Developer, India
 - Kayizzi Sulaiman ([@Sulaiman-Mozes](https://github.com/Sulaiman-Mozes/)), Software Developer, Uganda
 - Collins M Mbulakyalo ([@Musacoli](https://github.com/Musacoli)), Software Developer
+- Shakira Ndagire ([@shakirandagire](https://github.com/shakirandagire)), Software Developer, Andela, Uganda
