@@ -318,6 +318,7 @@ Signed,
 - Alwin Drenth ([@adrenth](https://github.com/adrenth)), Software Engineer
 - James Feigel ([@jfeigel](https://github.com/jfeigel)), Software Developer
 - Tony Adams ([@atadams](https://github.com/atadams)), Web Developer
+- Jayesh Joshi ([@python-jjlearner](https://github.com/python-jjlearner)), Web developer
 - Elias Ponvert ([@eponvert](https://github.com/eponvert)), Director of Data Science, People Pattern
 - Hari KT ([@harikt](https://github.com/harikt)), [Aura PHP](https://github.com/auraphp/) Team Member
 - Ibrahim Jarif ([@jarifibrahim](https://github.com/jarifibrahim)), Student
