@@ -2265,3 +2265,4 @@ Signed,
 - Collins M Mbulakyalo ([@Musacoli](https://github.com/Musacoli)), Software Developer
 - Shakira Ndagire ([@shakirandagire](https://github.com/shakirandagire)), Software Developer, Andela, Uganda
 - Joel Mwanja ([@mwanjajoel](https://github.com/mwanjajoel)), Machine Learning and iOS Developer, Uganda
+- Rajat Hans ([@rajathans](https://github.com/rajathans)), Developer, Bangalore, India
