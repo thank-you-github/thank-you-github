@@ -2262,3 +2262,4 @@ Signed,
 - Khizir Siddiqui ([@khizirsiddiqui](https://github.com/khizirsiddiqui)), Undergraduate at BITS
 - Gyanendro Khomdram ([@gyanendrokh](https://github.com/gyanendrokh)), Software Developer, India
 - Kayizzi Sulaiman ([@Sulaiman-Mozes](https://github.com/Sulaiman-Mozes/)), Software Developer, Uganda
+- Collins M Mbulakyalo ([@Musacoli](https://github.com/Musacoli)), Software Developer
