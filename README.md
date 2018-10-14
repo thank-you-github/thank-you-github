@@ -2261,3 +2261,4 @@ Signed,
 - Arunvel Sriram ([@arunvelsriram](https://github.com/arunvelsriram)), Developer, India
 - Khizir Siddiqui ([@khizirsiddiqui](https://github.com/khizirsiddiqui)), Undergraduate at BITS
 - Gyanendro Khomdram ([@gyanendrokh](https://github.com/gyanendrokh)), Software Developer, India
+- Kayizzi Sulaiman ([@Sulaiman-Mozes](https://github.com/Sulaiman-Mozes/)), Software Developer, Uganda
