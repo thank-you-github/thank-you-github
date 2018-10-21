@@ -2279,3 +2279,4 @@ Signed,
 - Andrew Wijaya ([@andrewdudu](https://github.com/andrewdudu)), Student, Fullstack Developer
 - Lakshay Wadhwa ([@luck-u](https://github.com/luck-u)), Developer
 - Satkar Dhakal ([@satcar77](https://github.com/satcar77)), Developer, Nepal
+- Adwaith D ([@adwaith007](https://github.com/adwaith007)), Student, Software Engineer
