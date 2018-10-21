@@ -2275,3 +2275,4 @@ Signed,
 - Vinoth Kumar K ([@rexaugustus](https://github.com/rexaugustus)), Student, Civil Engineer
 - Jayesh Joshi ([@python-jjlearner](https://github.com/python-jjlearner)), Web developer
 - Lenny Bakkalian ([@lennybakkalian](https://github.com/lennybakkalian)), Developer, Germany
+- Karim Vergnes ([@thesola10](https://github.com/thesola10)), CS student, EPITECH, France, Bordeaux
