@@ -2280,3 +2280,4 @@ Signed,
 - Lakshay Wadhwa ([@luck-u](https://github.com/luck-u)), Developer
 - Satkar Dhakal ([@satcar77](https://github.com/satcar77)), Developer, Nepal
 - Adwaith D ([@adwaith007](https://github.com/adwaith007)), Student, Software Engineer
+- Rishabh Agarwal ([@rishabhagrawal52](https://github.com/rishabhagrawal52/))Student, ML engineer
