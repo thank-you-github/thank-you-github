@@ -2277,3 +2277,4 @@ Signed,
 - Lenny Bakkalian ([@lennybakkalian](https://github.com/lennybakkalian)), Developer, Germany
 - Karim Vergnes ([@thesola10](https://github.com/thesola10)), CS student, EPITECH, France, Bordeaux
 - Andrew Wijaya ([@andrewdudu](https://github.com/andrewdudu)), Student, Fullstack Developer
+- Lakshay Wadhwa ([@luck-u](https://github.com/luck-u)), Developer
