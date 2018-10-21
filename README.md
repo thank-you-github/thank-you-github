@@ -2285,3 +2285,4 @@ Signed,
 - Sandeep Gupta ([@sandeepgupta007](https://github.com/sandeepgupta007/)), Developer, India
 - Vinoth Kumar K ([@rexaugustus](https://github.com/rexaugustus)), Student, Civil Engineer
 - Jayesh Joshi ([@python-jjlearner](https://github.com/python-jjlearner)), Web developer
+- Firi Ofek ([@fireworks9](https://github.com/fireworks9)),
