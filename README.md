@@ -2288,3 +2288,4 @@ Signed,
 - Firi Ofek ([@fireworks9](https://github.com/fireworks9)),
 - Set Kyar Wa Lar ([@setkyar](https://github.com/setkyar)), Software Engineer, Singapore
 - Suyatno Hadi Kusumo Rahardja ([@codenoid](https://github.com/codenoid)), Farmer
+- Ritik Kumar ([@dev-ritik](https://github.com/dev-ritik)), Android Developer at IIT Roorkee
