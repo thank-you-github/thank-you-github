@@ -2291,3 +2291,4 @@ Signed,
 - Ritik Kumar ([@dev-ritik](https://github.com/dev-ritik)), Android Developer at IIT Roorkee
 - Aditya Nalge ([@adityanalge](https://github.com/adityanalge)), Happy, India
 - Lakshay Wadhwa ([@luck-u](https://github.com/luck-u)), Developer
+- Brent Thurber (.[@aman601](https://github.com/aman601)), Student, Aspiring developer because of you
