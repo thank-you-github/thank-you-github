@@ -502,4 +502,4 @@ Signed,
 - Arpan Banerjee ([@arpan98](https://github.com/arpan98)), Developer, Undergrad at IIT-Bombay, India.
 - Haresh Khanna ([@hareshkh](https://github.com/hareshkh)), Developer, Computer Science Undergraduate at IIT Roorkee, India.
 - Karan Desai ([@karandesai-96](https://www.github.com/karandesai-96)), Developer, Electrical Engineering  Undergraduate at IIT Roorkee, India.
-- Ajay Rahul.P ([@ajayrahul97](https://www.github.com/ajayrahul97)), Developer, Electrical Engineering Undergraduate at IIT Roorkee, India.
+- Ajay Rahul P ([@ajayrahul97](https://www.github.com/ajayrahul97)), Developer, Electrical Engineering Undergraduate at IIT Roorkee, India.
