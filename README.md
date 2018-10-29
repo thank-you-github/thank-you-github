@@ -511,4 +511,4 @@ Signed,
 - Annisa Nurul Azhar ([@annisanurulazhar](https://github.com/annisanurulazhar)), Student, Bandung Institute of Technology, Indonesia.
 - Nabarun Pal ([@paliitr](https://github.com/paliitr)), Software Developer, Student, Indian Institute of Technology Roorkee, India
 - Deni Pramulia ([@denipramulia](https://github.com/denipramulia)), Microsoft Student Partner Indonesia, Student at University of Indonesia.
-- Next GoogleCEO ([@thatGuteGuy](https://github.com/thatcuteguy)), Software Developer, Student, Indian Institute of Coding , India
+- Next Google CEO ([@thatGuteGuy](https://github.com/thatcuteguy)), Software Developer, Student, Indian Institute of Coding , India
