@@ -2293,3 +2293,4 @@ Signed,
 - Lakshay Wadhwa ([@luck-u](https://github.com/luck-u)), Developer
 - Michelle Vivita ([@michellevivita] (https://github.com/MichelleVivita)),Student
 - Salahuddin Hairai ([@od3n](https://github.com/od3n)), Full Stack Developer, Johor Bahru, Johor, Malaysia
+- Jatin Jha ([@way2jatin](https://github.com/way2jatin)), Software Engineer(Android), India
