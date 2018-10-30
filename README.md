@@ -2296,3 +2296,4 @@ Signed,
 - Jatin Jha ([@way2jatin](https://github.com/way2jatin)), Software Engineer(Android), India
 - Vaibhav Shrivastava ([@vabhv](https://github.com/vabhv)), Android Developer and Student @[SGSITS](www.sgsits.ac.in), Indore, India
 - Jyotika Yadav ([@jay4jyotika](https://github.com/jay4jyotika)), undergrad student at IIIT Kalyani
+- Brent Thurber ([@aman601](https://github.com/aman601)), Student, Aspiring developer because of you
