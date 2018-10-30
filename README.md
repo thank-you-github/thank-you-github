@@ -2292,3 +2292,5 @@ Signed,
 - Aditya Nalge ([@adityanalge](https://github.com/adityanalge)), Happy, India
 - Lakshay Wadhwa ([@luck-u](https://github.com/luck-u)), Developer
 - Michelle Vivita ([@michellevivita] (https://github.com/MichelleVivita)),Student
+- Henry ([@Henry6162700] (https://github.com/Henry6612700)),Student, Data Analyst
+
