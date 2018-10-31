@@ -23,6 +23,7 @@ Signed,
 - Jose Diaz-Gonzalez ([@josegonzalez](https://github.com/josegonzalez)), CakePHP and Dokku core team member
 - Denis Savitskiy ([@sadfuzzy](https://github.com/sadfuzzy)), Ruby on Rails engineer at Source[Lab]
 - Vishnu Ks ([@hackerkid](https://github.com/hackerkid)), Undergrad at IIIT Allahabad
+- Satyam Kumar([@satyamtg](https://github.com/satyamtg)), Undergrad at IIIT Kalyani
 - David Pacioianu ([@davidpacioianu](https://github.com/davidpacioianu)), CEO at PixelCan
 - Drew Morris ([@drewry](https://github.com/drewry)), Developer
 - John Drago ([@jdrago999](https://github.com/jdrago999)), Developer
