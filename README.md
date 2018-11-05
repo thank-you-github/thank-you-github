@@ -2300,7 +2300,7 @@ Signed,
 - Henry ([@Henry6162700](https://github.com/Henry6612700)), Student, Data Analyst
 - Shuqiao Zhang ([@stevenjoezhang](https://github.com/stevenjoezhang)), Undergraduate student at PKU, China
 - Muhammad Muhajir ([@muhajirframe](https://github.com/muhajirframe)), Software Engineer, Indonesia
-- Satyam Kumar([@satyamtg](https://github.com/satyamtg)), Undergrad at IIIT Kalyani
+- Satyam Kumar ([@satyamtg](https://github.com/satyamtg)), Undergrad at IIIT Kalyani
 - Nithya Natarajan ([@NithyaNatarajan](https://github.com/NithyaNatarajan)), Developer, India
 - Waun Broderick ([@WaunBroderick](https://github.com/WaunBroderick)), TD Bank, Data Science Solutions Engineer
 - Ratna Priya ([@Ratna04priya](https://github.com/Ratna04priya)) , Undergraduate Student ,IIIT Kalyani.
