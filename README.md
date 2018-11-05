@@ -2302,3 +2302,4 @@ Signed,
 - Muhammad Muhajir ([@muhajirframe](https://github.com/muhajirframe)), Software Engineer, Indonesia
 - Satyam Kumar([@satyamtg](https://github.com/satyamtg)), Undergrad at IIIT Kalyani
 - Nithya Natarajan ([@NithyaNatarajan](https://github.com/NithyaNatarajan)), Developer, India
+- Waun Broderick ([@WaunBroderick](https://github.com/WaunBroderick)), TD Bank, Data Science Solutions Engineer
