@@ -2291,10 +2291,11 @@ Signed,
 - Ritik Kumar ([@dev-ritik](https://github.com/dev-ritik)), Android Developer at IIT Roorkee
 - Aditya Nalge ([@adityanalge](https://github.com/adityanalge)), Happy, India
 - Lakshay Wadhwa ([@luck-u](https://github.com/luck-u)), Developer
-- Michelle Vivita ([@michellevivita] (https://github.com/MichelleVivita)),Student
+- Michelle Vivita ([@michellevivita](https://github.com/MichelleVivita)),Student
 - Salahuddin Hairai ([@od3n](https://github.com/od3n)), Full Stack Developer, Johor Bahru, Johor, Malaysia
 - Jatin Jha ([@way2jatin](https://github.com/way2jatin)), Software Engineer(Android), India
 - Vaibhav Shrivastava ([@vabhv](https://github.com/vabhv)), Android Developer and Student @[SGSITS](www.sgsits.ac.in), Indore, India
 - Jyotika Yadav ([@jay4jyotika](https://github.com/jay4jyotika)), undergrad student at IIIT Kalyani
 - Brent Thurber ([@aman601](https://github.com/aman601)), Student, Aspiring developer because of you
 - Henry ([@Henry6162700](https://github.com/Henry6612700)), Student, Data Analyst
+- Shuqiao Zhang ([@stevenjoezhang](https://github.com/stevenjoezhang)), Undergraduate student at PKU, China
