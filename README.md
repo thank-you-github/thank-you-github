@@ -2300,3 +2300,4 @@ Signed,
 - Henry ([@Henry6162700](https://github.com/Henry6612700)), Student, Data Analyst
 - Shuqiao Zhang ([@stevenjoezhang](https://github.com/stevenjoezhang)), Undergraduate student at PKU, China
 - Muhammad Muhajir ([@muhajirframe](https://github.com/muhajirframe)), Software Engineer, Indonesia
+- Satyam Kumar([@satyamtg](https://github.com/satyamtg)), Undergrad at IIIT Kalyani
