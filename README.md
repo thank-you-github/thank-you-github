@@ -1228,7 +1228,6 @@ Signed,
 - Garrett Battaglia ([@gwoplock](https://github.com/gwoplock)), ExOS Lead Devloper
 - Alessio Palumbo ([@alessio-palumbo](https://github.com/alessio-palumbo)), Software Developer, Melbourne(AU)
 - John Paul Ada ([@johnpaulada](https://github.com/johnpaulada)), Software Engineer, Philippines
-- Zadkiel Aslafy-Aharonian ([@aslafy-z](https://github.com/aslafy-z)), Developer, France
 - Deni Junior ([@denidiasjr](https://github.com/denidiasjr)), Student, Brazil
 - Imas Neupane ([@iMoose](https://github.com/iMoose)), Student, New Zealand
 - Jonathan Mouchou ([@jonmouchou](https://github.com/jonmouchou)), Student, Software Developer, United States
