@@ -2304,3 +2304,4 @@ Signed,
 - Waun Broderick ([@WaunBroderick](https://github.com/WaunBroderick)), TD Bank, Data Science Solutions Engineer
 - Ratna Priya ([@Ratna04priya](https://github.com/Ratna04priya)) , Undergraduate Student ,IIIT Kalyani.
 - Michael Treanor ([@Skeptycal](https://github.com/Skeptycal)), skeptic | educator | maker | parent | curious | creative | introvert
+- Otmane Boughaba ([@Otman404](https://github.com/Otman404)), Computer Science Student
