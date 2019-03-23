@@ -2310,3 +2310,4 @@ Signed,
 - Chelwin ([@Chelwin](https://github.com/Chelwin)), CS Engineer + aspiring computer scientist, Switzerland
 - Nguyen Hoang Nam ([@hoangnam2261](https://github.com/hoangnam2261)), Java Software Engineer, Viet Nam
 - Aryan Gautam ([@aryan7778](https://github.com/aryan7778)),Engg. Student and Open Source Enthusiast,India
+- Tobias aka. TheDevMinerTV ([@TheDevMinerTV](https://github.com/TheDevMinerTV)]), Developer and Linux & Open Source Enthusiast, Germany (Saxony)
