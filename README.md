@@ -2313,3 +2313,4 @@ Signed,
 - Brook Mezgebu ([@brookmg](https://github.com/brookmg)), Software Engineer, Student, Ethiopia
 - Kibru Demeke  ([@deqiq](https://github.com/deqiq)), Developer and Undergraduate Student at [ASTU](http://github.com/astucse)
 - Vishnu Raveendranathan ([@captv89](https://github.com/captv89)), 2nd Mate | Sailor, Open Source Love | Coding Addict, Kerala | India
+- Enzo Gladiadis ([@AtomicLemon](https://github.com/AtomicLemon)), Software Engineer, Blockchain Addict, Bitcoiner | New Zealand
