@@ -687,7 +687,7 @@ Signed,
 - Chris Thurber ([@skiman6010](https://github.com/skiman6010)), Software Engineer, Indiana, United States
 - Normand Cyr ([@nccyr](https://github.com/nccyr)), Software Developer
 - Mhar Vic Chicano ([@mharrvic](https://github.com/mharrvic)), IoT Developer, Philippines
-- Khurshid Fayzullaev ([@khfayzullaev](https://github.com/khfayzullaev)), Backend Engineer at Vimeo
+- Khurshid Fayzullaev ([@khfayzullaev](https://github.com/khfayzullaev)), SRE
 - Justin Cypret ([@jcypret](https://github.com/jcypret)), Software Engineer at [TaxJar](https://www.taxjar.com)
 - Ben Damman ([@typesend](https://github.com/typesend)), Entrepreneur and former [U.S. Digital Service](https://www.usds.gov/) engineer
 - Chris Hunter ([@hunt3r](https://github.com/hunt3r)), Sr. Engineering Manager at [URBN](https://www.urbn.com)
