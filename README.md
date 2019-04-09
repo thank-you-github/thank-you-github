@@ -2315,3 +2315,4 @@ Signed,
 - Vishnu Raveendranathan ([@captv89](https://github.com/captv89)), 2nd Mate | Sailor, Open Source Love | Coding Addict, Kerala | India
 - Enzo Gladiadis ([@AtomicLemon](https://github.com/AtomicLemon)), Software Engineer, Blockchain Addict, Bitcoiner | New Zealand
 - Yash Mehrotra ([@YashMeh](https://github.com/YashMeh)), Second Year IT Undergraduate
+- Ashmi Chheda ([@ashmichheda](https://github.com/ashmichheda)), Software Engineer, Accenture | India
