@@ -2318,3 +2318,4 @@ Signed,
 - Ashmi Chheda ([@ashmichheda](https://github.com/ashmichheda)), Software Engineer, Accenture | India
 - Pritimay Sarkar ([@prisar](https://github.com/prisar)), Web Developer, Reliance Industries Ltd. | India
 - Arthur Johnson ([@MoonKingArthur](https://github.com/MoonKingArthur/)), Pizza Enthusiast
+- Bhavik Makwana ([@ibhavikmakwana](https://github.com/ibhavikmakwana/)), Software Engineer | India
