@@ -2320,3 +2320,4 @@ Signed,
 - Arthur Johnson ([@MoonKingArthur](https://github.com/MoonKingArthur/)), Pizza Enthusiast
 - Bhumij Gupta ([@bhumijgupta](https://github.com/bhumijgupta)), Student, VIT University | India
 - Bhavik Makwana ([@ibhavikmakwana](https://github.com/ibhavikmakwana/)), Software Engineer | India
+- Narendra Vaghela ([@narendravaghela](https://github.com/narendravaghela)), CakePHP Developer and Cofounder at [SprintCube](https://www.sprintcube.com) | India
