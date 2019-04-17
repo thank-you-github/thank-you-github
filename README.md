@@ -2319,3 +2319,4 @@ Signed,
 - Pritimay Sarkar ([@prisar](https://github.com/prisar)), Web Developer, Reliance Industries Ltd. | India
 - Arthur Johnson ([@MoonKingArthur](https://github.com/MoonKingArthur/)), Pizza Enthusiast
 - Bhumij Gupta ([@bhumijgupta](https://github.com/bhumijgupta)), Student, VIT University | India
+- Bhavik Makwana ([@ibhavikmakwana](https://github.com/ibhavikmakwana/)), Software Engineer | India
