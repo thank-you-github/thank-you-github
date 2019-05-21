@@ -1997,6 +1997,7 @@ Signed,
 - PNGRU ([@PNGRU](https://github.com/PNGRU)), Student & Developer, Japan
 - Abhishek J M ([@abhi-r3v0](https://github.com/abhi-r3v0)), CEO, NeOnSec, India
 - Marc Ignacio ([@padi](https://github.com/padi)), Software Developer, Philippines
+- Isaya Zachariah Mollel ([@issyzac](https://github.com/issyzac)), Software Developer, Tanzania
 - Abdurrachman Mappuji ([@mappuji](https://github.com/mappuji)), Software Craftsman and Researcher, Jakarta, Indonesia
 - Jian Liew ([@JianLoong](https://github.com/JianLoong)), Developer, Melbourne, Australia
 - Jogendra Singh ([@imjog](https://github.com/imjog)), iOS, Web and Windows Developer, Undergrad, IIT (BHU) Varanasi
