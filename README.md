@@ -2324,3 +2324,4 @@ Signed,
 - TheDevMinerTV ([@TheDevMinerTV](https://github.com/TheDevMinerTV)), JavaScript Developer and Linux Enthusiast | Germany
 - Isaya Zachariah Mollel ([@issyzac](https://github.com/issyzac)), Software Developer, Tanzania
 - Zaid Bourini ([@unknownhacker1125](https://github.com/unknownhacker1125)), Student, Developer, United States
+- Jarek Siedlarz ([@jerryskye](https://github.com/jerryskye)), Developer | Poland
