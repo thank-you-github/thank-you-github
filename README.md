@@ -2322,3 +2322,4 @@ Signed,
 - Bhavik Makwana ([@ibhavikmakwana](https://github.com/ibhavikmakwana/)), Software Engineer | India
 - Narendra Vaghela ([@narendravaghela](https://github.com/narendravaghela)), CakePHP Developer and Cofounder at [SprintCube](https://www.sprintcube.com) | India
 - TheDevMinerTV ([@TheDevMinerTV](https://github.com/TheDevMinerTV)), JavaScript Developer and Linux Enthusiast | Germany
+- Isaya Zachariah Mollel ([@issyzac](https://github.com/issyzac)), Software Developer, Tanzania
