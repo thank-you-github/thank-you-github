@@ -2328,3 +2328,4 @@ Signed,
 - Atharva Kulkarni ([@IronVenom](https://github.com/IronVenom)), Undergraduate Student at IIT Bhubaneswar and Aspiring Python Developer | India
 - Aditya Pal ([@paladitya](https://github.com/paladitya)), Student Developer, IIT Bhubaneswar | India.
 - Rajan Bhattarai ([@cdrrazan](https://github.com/cdrrazan)), Ruby on Rails developer, Kathmandu, Nepal.
+- Daniel Wilkowski ([@Danon](https://github.com/Danon)), Author of [T-Regx](https://t-regx.com) library | Poland
