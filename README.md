@@ -2330,3 +2330,4 @@ Signed,
 - Rajan Bhattarai ([@cdrrazan](https://github.com/cdrrazan)), Ruby on Rails developer, Kathmandu, Nepal.
 - Daniel Wilkowski ([@Danon](https://github.com/Danon)), Author of [T-Regx](https://t-regx.com) library | Poland
 - Abhishek Vishwakarma ([@vabhishek-me](https://github.com/vabhishek-me)), Developer | Hustler | India
+- Onuwa Nnachi Isaac ([@iamonuwa](https://github.com/iamonuwa)), Opensource Engineer | Uyo | Nigeria
