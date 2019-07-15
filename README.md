@@ -2332,3 +2332,4 @@ Signed,
 - Abhishek Vishwakarma ([@vabhishek-me](https://github.com/vabhishek-me)), Developer | Hustler | India
 - Onuwa Nnachi Isaac ([@iamonuwa](https://github.com/iamonuwa)), Opensource Engineer | Uyo | Nigeria
 - Faiz Unisa J ([@p4kl0nc4t](https://github.com/p4kl0nc4t)), Developer and author of [Lcat.dev](https://lcat.dev) | Indonesia
+- Rohan Das ([@rohandas28](https://github.com/rohandas28)), Developer | India.
