@@ -2334,3 +2334,4 @@ Signed,
 - Faiz Unisa J ([@p4kl0nc4t](https://github.com/p4kl0nc4t)), Developer and author of [Lcat.dev](https://lcat.dev) | Indonesia
 - Rohan Das ([@rohandas28](https://github.com/rohandas28)), Developer | India.
 - Feruz Oripov ([@FeruzOripov](https://github.com/FeruzOripov)), Software Engineer
+- James George ([@jamesgeorge007](https://github.com/jamesgeorge007)), Full Stack Engineer and the author of [Mevn-CLI](https://github.com/madlabsinc/mevn-cli)
