@@ -2337,3 +2337,4 @@ Signed,
 - James George ([@jamesgeorge007](https://github.com/jamesgeorge007)), Full Stack Engineer and the author of [Mevn-CLI](https://github.com/madlabsinc/mevn-cli)
 - Sachin Jain ([@sachinjain3677](https://github.com/sachinjain3677)), Computer Science Student, IIT Roorkee, India
 - Sumesh Majhi ([@MajhiRockzZ](https://github.com/MajhiRockzZ)), Computer Science Student & Full stack web developer, DRIEMS Cuttack, India
+- Mike Beliakov ([@kvokka](https://github.com/kvokka)), Software Engineer, Portugal
