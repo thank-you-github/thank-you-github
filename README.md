@@ -2234,7 +2234,6 @@ Signed,
 - Theng ([@vxavictor513](https://github.com/vxavictor513/)), Software Developer
 - Neeraj Pandey ([@Neal0892](https://github.com/neal0892)),Developer,Cognizant Technology Solutions,Kolkata,India
 - Suvin Nimnaka ([@suvink](https://github.com/suvink)),Developer,Student
-- Anurag Natoo ([@anuragnatoo](https://github.com/anuragnatoo)),Undergraduate at IIITDM Kancheepuram,India
 - Rochana Prih H ([@rochanaph](https://github.com/rochanaph)), Student, Indonesia
 - Darsh Patel ([@darshkpatel](https://github.com/darshkpatel/)), Computer Science Undergrad
 - Ye Lin Aung ([@ye-lin-aung](https://github.com/ye-lin-aung)), Software Engineer at [Zwenexsys.com](http://zwenex.com)
@@ -2339,3 +2338,4 @@ Signed,
 - Sachin Jain ([@sachinjain3677](https://github.com/sachinjain3677)), Computer Science Student, IIT Roorkee, India
 - Sumesh Majhi ([@MajhiRockzZ](https://github.com/MajhiRockzZ)), Computer Science Student & Full stack web developer, DRIEMS Cuttack, India
 - Mike Beliakov ([@kvokka](https://github.com/kvokka)), Software Engineer, Portugal
+- Anurag Natoo ([@anuragnatoo](https://github.com/anuragnatoo)),Undergraduate at IIITDM Kancheepuram,India
