@@ -2339,3 +2339,4 @@ Signed,
 - Sumesh Majhi ([@MajhiRockzZ](https://github.com/MajhiRockzZ)), Computer Science Student & Full stack web developer, DRIEMS Cuttack, India
 - Mike Beliakov ([@kvokka](https://github.com/kvokka)), Software Engineer, Portugal
 - Haider Ali ([@Haider8](https://github.com/Haider8)), Electronics Engineering student at [Aligarh Muslim University, India](https://www.amu.ac.in), Software Engineer
+- Adarsh Singh ([@aotrlotr](https://github.com/aotrlotr)), Information Technology Student, KIET GROUP OF INSTITUTIONS, India
