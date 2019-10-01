@@ -2338,3 +2338,4 @@ Signed,
 - Sachin Jain ([@sachinjain3677](https://github.com/sachinjain3677)), Computer Science Student, IIT Roorkee, India
 - Sumesh Majhi ([@MajhiRockzZ](https://github.com/MajhiRockzZ)), Computer Science Student & Full stack web developer, DRIEMS Cuttack, India
 - Mike Beliakov ([@kvokka](https://github.com/kvokka)), Software Engineer, Portugal
+- Haider Ali ([@Haider8](https://github.com/Haider8)), Electronics Engineering student at [Aligarh Muslim University, India](https://www.amu.ac.in), Software Engineer 
