@@ -2344,3 +2344,4 @@ Signed,
 - Anurag Natoo ([@anuragnatoo](https://github.com/anuragnatoo)),Undergraduate at IIITDM Kancheepuram,India
 - Anandi ([@anandikb](https://github.com/anandikb)), Medical student and hobbyist developer, India
 - Geeta Bhanushali ([@gitakb72](https://github.com/gitakb72)), Software enthusiast, Mumbai
+- Patrick "Savage" Lohan ([@PatrickLohan](https://github.com/PatrickLohan)), Vegan, Codeclan bootcamp, UK
