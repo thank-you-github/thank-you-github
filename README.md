@@ -52,6 +52,8 @@ Signed,
 - Vincent Grafé ([@vgrafe](https://github.com/vgrafe)), Developer
 - Jacob Evans ([@jacobtheevans](https://github.com/jacobtheevans)), Developer
 - Sagiv Ofek ([@sagivo](https://github.com/sagivo)), algorithms playground maintainer
+Kunal Jindal ([@kunaljindal](https://github.com/kunaljindal)), Beginner
+
 - Josh Stanfield ([@p5k6](https://github.com/p5k6)), Data Engineer
 - Daniel Lockard ([@daniellockard](https://github.com/daniellockard)), Developer
 - Vikash Tiwari ([@tiwarivikash](https://github.com/tiwarivikash)), Software Engineer
