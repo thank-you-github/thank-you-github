@@ -2345,3 +2345,4 @@ Signed,
 - Anandi ([@anandikb](https://github.com/anandikb)), Medical student and hobbyist developer, India
 - Geeta Bhanushali ([@gitakb72](https://github.com/gitakb72)), Software enthusiast, Mumbai
 - Kunal Sharma ([@kunalYsharma](https://github.com/kunalYsharma)), Full Stack Developer at [OYOROOMS](https://github.com/oyorooms)
+- Patrick "Savage" Lohan ([@PatrickLohan](https://github.com/PatrickLohan)), Vegan, Codeclan bootcamp, UK
