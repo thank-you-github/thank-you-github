@@ -2348,3 +2348,4 @@ Signed,
 - Patrick "Savage" Lohan ([@PatrickLohan](https://github.com/PatrickLohan)), Vegan, Codeclan bootcamp, UK
 - Roshan Sharma ([@roshnet](https://github.com/roshnet)), Student, Web Developer, Aligarh Muslim Univeristy, India
 - Ishaan Kumar ([@Ishaan-Kumar](https://github.com/Ishaan-Kumar)), Student, Netaji Subhash Institute of Technology, India
+- Cranky Supertoon ([@CrankySupertoon](https://github.com/CrankySupertoon)), Student, Web Developer, Minecraft Mod Developer, Massachusetts
