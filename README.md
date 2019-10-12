@@ -2347,6 +2347,7 @@ Signed,
 - Kunal Sharma ([@kunalYsharma](https://github.com/kunalYsharma)), Full Stack Developer at [OYOROOMS](https://github.com/oyorooms)
 - Patrick "Savage" Lohan ([@PatrickLohan](https://github.com/PatrickLohan)), Vegan, Codeclan bootcamp, UK
 - Roshan Sharma ([@roshnet](https://github.com/roshnet)), Student, Web Developer, Aligarh Muslim Univeristy, India
+- Lu Dinh Hai ([@moonhai](https://github.com/moon-hai)), Developer, Ho Chi Minh, Vietnam
 - Ishaan Kumar ([@Ishaan-Kumar](https://github.com/Ishaan-Kumar)), Student, Netaji Subhash Institute of Technology, India
 - Cranky Supertoon ([@CrankySupertoon](https://github.com/CrankySupertoon)), Student, Web Developer, Minecraft Mod Developer, Massachusetts
 - Michael Trần ([@michaelt0520](https://github.com/michaelt0520)), Student, Intern Web Developer, HUFLIT, Vietnam
