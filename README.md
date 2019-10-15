@@ -2352,3 +2352,4 @@ Signed,
 - Cranky Supertoon ([@CrankySupertoon](https://github.com/CrankySupertoon)), Student, Web Developer, Minecraft Mod Developer, Massachusetts
 - Michael Trần ([@michaelt0520](https://github.com/michaelt0520)), Student, Intern Web Developer, HUFLIT, Vietnam
 - Lysander Gustin([@rainbowMeh](https://github.com/rainbowMeh)), Student, University of Sumatera Utara, Indonesia
+- Albert ([@albertng123](https://github.com/albertng123)), Student, Intern Web Developer, USU, Indonesia
