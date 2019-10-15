@@ -2354,3 +2354,4 @@ Signed,
 - Lysander Gustin([@rainbowMeh](https://github.com/rainbowMeh)), Student, University of Sumatera Utara, Indonesia
 - Albert ([@albertng123](https://github.com/albertng123)), Student, Intern Web Developer, USU, Indonesia
 - Manuele Trimarchi ([@mtrimarchi](https://github.com/mtrimarchi)), Sysadmin, Italian company, Italy
+- Kanti ([@kaanti](https://github.com/kaanti)), Hobbyist developer, India
