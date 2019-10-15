@@ -1,10 +1,5 @@
-Please read and remove:
+Thanks for your signature. Make sure the following rules are correctly followed.
 
-Practically all PRs are non-mergeable because they conflict with each other, and
-continually asking for rebases would be impractical.
-
-Because of that, it is likely that your signature is added via a commit that
-references and closes the PR, rather than a regular merge. I have a supervised
-script that processes the patches and commits them individually, referencing
-their origin PR for credit and authenticity. In such case, you'll see said
-commit linked in the notification email and in the page of the PR itself. 
+* Please add your signature at the end of the list, at the bottom.
+* Just one line, following the pattern you can see in the existing ones.
+* Make sure the linked username in the signature matches exactly the GitHub handler of the account that opens the PR. This is the way to ensure the signature belongs to who has written the patch.
