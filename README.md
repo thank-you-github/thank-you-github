@@ -2351,4 +2351,9 @@ Signed,
 - Ishaan Kumar ([@Ishaan-Kumar](https://github.com/Ishaan-Kumar)), Student, Netaji Subhash Institute of Technology, India
 - Cranky Supertoon ([@CrankySupertoon](https://github.com/CrankySupertoon)), Student, Web Developer, Minecraft Mod Developer, Massachusetts
 - Michael Trần ([@michaelt0520](https://github.com/michaelt0520)), Student, Intern Web Developer, HUFLIT, Vietnam
-- Wilyanto ([@geneticdie] (https://github.com/geneticdie)), Student, Android Developer, Universitas Sumatera Utara, Indonesia
+- Wilyanto ([@geneticdie](https://github.com/geneticdie)), Student, Android Developer, Universitas Sumatera Utara, Indonesia
+- Lysander Gustin([@rainbowMeh](https://github.com/rainbowMeh)), Student, University of Sumatera Utara, Indonesia
+- Albert ([@albertng123](https://github.com/albertng123)), Student, Intern Web Developer, USU, Indonesia
+- Manuele Trimarchi ([@mtrimarchi](https://github.com/mtrimarchi)), Sysadmin, Italian company, Italy
+- Kanti ([@kaanti](https://github.com/kaanti)), Hobbyist developer, India
+- Andrew Wijaya ([@andrewdudu](https://github.com/andrewdudu)), Student, Fullstack Developer
