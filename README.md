@@ -2355,3 +2355,4 @@ Signed,
 - Albert ([@albertng123](https://github.com/albertng123)), Student, Intern Web Developer, USU, Indonesia
 - Manuele Trimarchi ([@mtrimarchi](https://github.com/mtrimarchi)), Sysadmin, Italian company, Italy
 - Kanti ([@kaanti](https://github.com/kaanti)), Hobbyist developer, India
+- Andrew Wijaya ([@andrewdudu](https://github.com/andrewdudu)), Student, Fullstack Developer
