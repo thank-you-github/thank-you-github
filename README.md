@@ -28,7 +28,6 @@ Signed,
 - John Drago ([@jdrago999](https://github.com/jdrago999)), Developer
 - Josh Kurz ([@jkurz](https://github.com/jkurz)), BA
 - Joshua Burns ([@jdburnz](https://github.com/jdburnz)), CEO at Message In Action
-- Pravallika Kura ([@PravallikaKura](https://github.com/PravallikaKura)), Undergrad at BVRIT Hyderabad
 - Justin Wayne ([@jcwayne](https://github.com/jcwayne)), CIO at BIG Inventory
 - Mark Story ([@markstory](https://github.com/markstory)), CakePHP core team member
 - Luís Fernando Guedes ([@fernandoguedes](https://github.com/fernandoguedes)), Bower Contributor
@@ -2357,3 +2356,4 @@ Signed,
 - Manuele Trimarchi ([@mtrimarchi](https://github.com/mtrimarchi)), Sysadmin, Italian company, Italy
 - Kanti ([@kaanti](https://github.com/kaanti)), Hobbyist developer, India
 - Andrew Wijaya ([@andrewdudu](https://github.com/andrewdudu)), Student, Fullstack Developer
+- Pravallika Kura ([@PravallikaKura](https://github.com/PravallikaKura)), Undergrad at BVRIT Hyderabad
