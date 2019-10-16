@@ -2356,5 +2356,5 @@ Signed,
 - Manuele Trimarchi ([@mtrimarchi](https://github.com/mtrimarchi)), Sysadmin, Italian company, Italy
 - Kanti ([@kaanti](https://github.com/kaanti)), Hobbyist developer, India
 - Andrew Wijaya ([@andrewdudu](https://github.com/andrewdudu)), Student, Fullstack Developer
-Dear GitHub,
-    - Pravallika Kura ([@PravallikaKura](https://github.com/PravallikaKura)), Undergrad at BVRIT Hyderabad
+- Henry ([@henry6612700](https://github.com/Henry6162700)), Student, Data Analyst
+- Pravallika Kura ([@PravallikaKura](https://github.com/PravallikaKura)), Undergrad at BVRIT Hyderabad
