@@ -2357,3 +2357,4 @@ Signed,
 - Kanti ([@kaanti](https://github.com/kaanti)), Hobbyist developer, India
 - Andrew Wijaya ([@andrewdudu](https://github.com/andrewdudu)), Student, Fullstack Developer
 - Henry ([@henry6612700](https://github.com/Henry6162700)), Student, Data Analyst
+- Pravallika Kura ([@PravallikaKura](https://github.com/PravallikaKura)), Undergrad at BVRIT Hyderabad
