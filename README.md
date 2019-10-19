@@ -2358,3 +2358,4 @@ Signed,
 - Andrew Wijaya ([@andrewdudu](https://github.com/andrewdudu)), Student, Fullstack Developer
 - Henry ([@henry6612700](https://github.com/Henry6162700)), Student, Data Analyst
 - Pravallika Kura ([@PravallikaKura](https://github.com/PravallikaKura)), Undergrad at BVRIT Hyderabad
+- Ricky Julpiter Sipayung ([@rickyjulpiter](https://github.com/rickyjulpiter)), Undergraduate from USU CS, Freelance Web Deleoper
