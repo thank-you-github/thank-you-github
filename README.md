@@ -2359,3 +2359,4 @@ Signed,
 - Henry ([@henry6612700](https://github.com/Henry6162700)), Student, Data Analyst
 - Pravallika Kura ([@PravallikaKura](https://github.com/PravallikaKura)), Undergrad at BVRIT Hyderabad
 - Anchit ([@infyblock](https://github.com/infyblock)), Software Developer
+- Dipo ([@dipooktama](https://github.com/dipooktama)), Universitas Sumatera Utara student, Data Science Enthusiast, Indonesia
