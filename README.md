@@ -2358,4 +2358,8 @@ Signed,
 - Andrew Wijaya ([@andrewdudu](https://github.com/andrewdudu)), Student, Fullstack Developer
 - Henry ([@henry6612700](https://github.com/Henry6162700)), Student, Data Analyst
 - Pravallika Kura ([@PravallikaKura](https://github.com/PravallikaKura)), Undergrad at BVRIT Hyderabad
-- SRamanauskas ([@SRamanauskas])(https://github.com/Sramanauskas), developer, Kaunas, Lithuania
+- Stanis Ram ([@SRamanauskas](https://github.com/Sramanauskas)), developer, Kaunas, Lithuania
+- Anchit ([@infyblock](https://github.com/infyblock)), Software Developer
+- Dipo ([@dipooktama](https://github.com/dipooktama)), Universitas Sumatera Utara student, Data Science Enthusiast, Indonesia
+- Ricky Julpiter Sipayung ([@rickyjulpiter](https://github.com/rickyjulpiter)), Undergraduate from USU CS, Freelance Web Deleoper
+- Chirag Jain ([@chirag-jn](https://github.com/chirag-jn)), Student, IIIT Delhi, India
