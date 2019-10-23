@@ -2362,3 +2362,4 @@ Signed,
 - Dipo ([@dipooktama](https://github.com/dipooktama)), Universitas Sumatera Utara student, Data Science Enthusiast, Indonesia
 - Ricky Julpiter Sipayung ([@rickyjulpiter](https://github.com/rickyjulpiter)), Undergraduate from USU CS, Freelance Web Deleoper
 - Chirag Jain ([@chirag-jn](https://github.com/chirag-jn)), Student, IIIT Delhi, India
+- Kasidech Chumkun ([@kawaeee](https://github.com/Kawaeee)), Student, SIT KMUTT, Bangkok,Thailand
