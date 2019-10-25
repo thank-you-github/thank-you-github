@@ -85,7 +85,6 @@ Signed,
 - Raphael Amorim ([@raphamorim](https://github.com/raphamorim)), Software Developer
 - Juan Camilo Osorio ([@jcoc611](https://github.com/jcoc611)), Undergrad at the University of Toronto
 - Kailan Blanks ([@kblanks](https://github.com/kblanks)), Developer
-- Men Thanasit([@men1164](https://github.com/men1164)),Student at KMUTT, Thailand
 - Ann Paul ([@annp89](https://github.com/annp89)), Engineer at Prism Skylabs
 - Leonardo Ruhland ([@leoruhland](https://github.com/leoruhland)), Developer
 - Paul Knopf ([@theonlylawislove](https://github.com/theonlylawislove)), Developer
@@ -2363,3 +2362,4 @@ Signed,
 - Dipo ([@dipooktama](https://github.com/dipooktama)), Universitas Sumatera Utara student, Data Science Enthusiast, Indonesia
 - Ricky Julpiter Sipayung ([@rickyjulpiter](https://github.com/rickyjulpiter)), Undergraduate from USU CS, Freelance Web Deleoper
 - Chirag Jain ([@chirag-jn](https://github.com/chirag-jn)), Student, IIIT Delhi, India
+- Men Thanasit([@men1164](https://github.com/men1164)),Student at KMUTT, Thailand
