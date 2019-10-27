@@ -2366,3 +2366,4 @@ Signed,
 - Men Thanasit([@men1164](https://github.com/men1164)),Student at KMUTT, Thailand
 - Kasidech Chumkun ([@kawaeee](https://github.com/Kawaeee)), Student, SIT KMUTT, Bangkok,Thailand
 - Stanis Ram ([@SRamanauskas](https://github.com/Sramanauskas)), developer, Kaunas, Lithuania
+- Abed AFR ([@abedafr](https://github.com/abedafr)), Software Engenieer, Marrakech, Morocco
