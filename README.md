@@ -2365,3 +2365,4 @@ Signed,
 - Terence Chan ([@Hackin7](https://github.com/Hackin7)), Student, Singapore
 - Men Thanasit([@men1164](https://github.com/men1164)),Student at KMUTT, Thailand
 - Kasidech Chumkun ([@kawaeee](https://github.com/Kawaeee)), Student, SIT KMUTT, Bangkok,Thailand
+- Stanis Ram ([@SRamanauskas](https://github.com/Sramanauskas)), developer, Kaunas, Lithuania
