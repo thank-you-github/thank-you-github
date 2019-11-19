@@ -42,6 +42,7 @@ Signed,
 - Andrea Bergamasco ([@vjandrea](https://github.com/vjandrea)), Developer
 - Jon Swanson ([@swansong](https://github.com/swansong)), Software Engineer at Rakuten Marketing
 - Caleb Madrigal ([@calebmadrigal](https://github.com/calebmadrigal)), Software Engineer
+- Syed Omar Faruk Towaha ([@SOFTowaha](https://github.com/SOFTowaha)), Author and Data Scientist
 - Sylvain Perron ([@slvnperron](https://github.com/slvnperron)), SE from Quebec
 - Alexander Kuleshov ([@0xAX](https://github.com/0xAX)), Erlang/Elixir developer at traveping, author of linux-insides
 - Daniel Doubrovkine ([@dblock](https://github.com/dblock)), [Ruby Grape](http://www.ruby-grape.org/), CTO Artsy.net
