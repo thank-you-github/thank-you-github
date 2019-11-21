@@ -2373,3 +2373,4 @@ Signed,
 - Abed AFR ([@abedafr](https://github.com/abedafr)), Software Engenieer, Marrakech, Morocco
 - Michael Friedrich ([@dnsmichi](https://github.com/dnsmichi)), Developer, Germany/Austria
 - James W. Lane ([@jameswlane](https://github.com/jameswlane)), Software Engineers, Davenport, IA, USA
+- Syed Omar Faruk Towaha ([@SOFTowaha](https://github.com/SOFTowaha)), Author and Data Scientist
