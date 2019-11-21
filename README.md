@@ -2372,3 +2372,4 @@ Signed,
 - Swapnil Pal([@swapnil131099](https://github.com/swapnil131099)), Student at NSEC,West Bengal
 - Abed AFR ([@abedafr](https://github.com/abedafr)), Software Engenieer, Marrakech, Morocco
 - Michael Friedrich ([@dnsmichi](https://github.com/dnsmichi)), Developer, Germany/Austria
+- James W. Lane ([@jameswlane](https://github.com/jameswlane)), Software Engineers, Davenport, IA, USA
