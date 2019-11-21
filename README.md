@@ -2371,4 +2371,4 @@ Signed,
 - Iolar Demartini Junior ([@demartini](https://github.com/demartini)), Web Developer
 - Swapnil Pal([@swapnil131099](https://github.com/swapnil131099)), Student at NSEC,West Bengal
 - Abed AFR ([@abedafr](https://github.com/abedafr)), Software Engenieer, Marrakech, Morocco
-- Arthur Guiot ([@arguiot](https://github.com/arguiot), Student & Software Engineer, Montreal, Canada
+- Arthur Guiot ([@arguiot](https://github.com/arguiot)), Student & Software Engineer, Montreal, Canada
