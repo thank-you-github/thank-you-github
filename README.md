@@ -2375,3 +2375,4 @@ Signed,
 - James W. Lane ([@jameswlane](https://github.com/jameswlane)), Software Engineers, Davenport, IA, USA
 - Syed Omar Faruk Towaha ([@SOFTowaha](https://github.com/SOFTowaha)), Author and Data Scientist
 - Arthur Guiot ([@arguiot](https://github.com/arguiot)), Student & Software Engineer, Montreal, Canada
+- Muhammad Lahin ([@lahin31](https://github.com/lahin31)), Front End Developer, Sylhet, Bangladesh
