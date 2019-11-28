@@ -2377,3 +2377,4 @@ Signed,
 - Arthur Guiot ([@arguiot](https://github.com/arguiot)), Student & Software Engineer, Montreal, Canada
 - Muhammad Lahin ([@lahin31](https://github.com/lahin31)), Front End Developer, Sylhet, Bangladesh
 - Muhammad Lahin ([@lahin31](https://github.com/lahin31)), Front End Developer, Sylhet, Bangladesh
+- Hasanuzzaman ([@hasanuzzamanbe](https://github.com/hasanuzzamanbe)), Software Developer, Dhaka, Bangladesh
