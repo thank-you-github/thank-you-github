@@ -2378,5 +2378,5 @@ Signed,
 - Muhammad Lahin ([@lahin31](https://github.com/lahin31)), Front End Developer, Sylhet, Bangladesh
 - Hasanuzzaman ([@hasanuzzamanbe](https://github.com/hasanuzzamanbe)), Software Developer, Dhaka, Bangladesh
 - Alfi ([@alfidh02](https://github.com/alfidh02)),Computer Science Student, USU, Indonesia
-- Uno Batbayar ([@unobatbayar](https://github.com/unobatbayar)), Software Engineer, (Mongolia | United Kingdom | Japan) MSC, YAMAHA, Konple, BATU, Queen Mary University of London.
+- Uno Batbayar ([@unobatbayar](https://github.com/unobatbayar)), Software Engineer, Ulaanbaatar, Mongolia
 
