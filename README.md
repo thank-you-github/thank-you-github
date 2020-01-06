@@ -2384,3 +2384,4 @@ Signed,
 - David Allan Ribeiro ([@DavidAllanDev](https://github.com/DavidAllanDev)), Software Engineer, Oracle
 - Md Golam Rahman Tushar([@grtushar](https://github.com/grtushar)), Software Engineer
 - Qazi Fahim Farhan ([@fahimfarhan](https://github.com/fahimfarhan)), Software Developer, Ridmik Labs, Dhaka, Bangladesh
+- Ahmed M. Gamal ([@ahmedmgh67](https://github.com/ahmedmgh67)), Senior Software Engineer and Enterpreneur, Cairo, Egypt
