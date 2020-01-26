@@ -2386,3 +2386,4 @@ Signed,
 - Qazi Fahim Farhan ([@fahimfarhan](https://github.com/fahimfarhan)), Software Developer, Ridmik Labs, Dhaka, Bangladesh
 - Sumit Murari ([@murarisumit](https://github.com/murarisumit)), DevSecOps, Grab India, Bengaluru, India
 - Ahmed M. Gamal ([@ahmedmgh67](https://github.com/ahmedmgh67)), Senior Software Engineer and Enterpreneur, Cairo, Egypt
+- Gabriel Chong ([@gabrielchong1994](https://github.com/gabrielchong1994)), Founder at [Fehux](https://fehux.com), Kuala Lumpur, Malaysia
