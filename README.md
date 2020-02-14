@@ -2391,3 +2391,4 @@ Signed,
 - Pham Huu Nam ([@south1907](https://github.com/south1907)), Developer, Vietnam
 - Muhammad Ilham ([@mhdiiilham](https://github.com/mhdiiilham)), Fullstack Developer, Indonesia
 - Simon Ma ([@Tomotoes](https://github.com/tomotoes)), Front back left right end engineer from China
+- Juan Moyano ([@wincus](https://github.com/wincus)), SRE, Argentina
