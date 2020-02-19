@@ -2363,7 +2363,6 @@ Signed,
 - Dipo ([@dipooktama](https://github.com/dipooktama)), Universitas Sumatera Utara student, Data Science Enthusiast, Indonesia
 - Ricky Julpiter Sipayung ([@rickyjulpiter](https://github.com/rickyjulpiter)), Undergraduate from USU CS, Freelance Web Deleoper
 - Chirag Jain ([@chirag-jn](https://github.com/chirag-jn)), Student, IIIT Delhi, India
-- Joshua Poddoku ([@JoshuaPoddoku](https://github.com/JoshuaPoddoku)), Student, IIIT Vadodara, India
 - Terence Chan ([@Hackin7](https://github.com/Hackin7)), Student, Singapore
 - Men Thanasit([@men1164](https://github.com/men1164)),Student at KMUTT, Thailand
 - Kasidech Chumkun ([@kawaeee](https://github.com/Kawaeee)), Student, SIT KMUTT, Bangkok,Thailand
@@ -2396,3 +2395,4 @@ Signed,
 - Mayank Pathela ([@starkblaze01](https://github.com/starkblaze01)), Fullstack Developer, India
 - Aashutosh Rathi ([@AashutoshRathi](https://github.com/aashutoshrathi)), Developer, India
 - Pushkar Patel ([@thepushkarp](https://github.com/thepushkarp)), Student at IIIT Vadodara, India
+- Joshua Poddoku ([@JoshuaPoddoku](https://github.com/JoshuaPoddoku)), Computer Science Undergrad, IIIT Vadodara, India
