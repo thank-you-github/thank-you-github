@@ -2395,3 +2395,4 @@ Signed,
 - Mayank Pathela ([@starkblaze01](https://github.com/starkblaze01)), Fullstack Developer, India
 - Aashutosh Rathi ([@AashutoshRathi](https://github.com/aashutoshrathi)), Developer, India
 - Pushkar Patel ([@thepushkarp](https://github.com/thepushkarp)), Student at IIIT Vadodara, India
+- Yazeed AlKhalaf ([@yazeedalkhalaf](https://github.com/thepushkarp)), Flutter Developer and Youngest Participant in Hajj Hackathon, Saudi Arabia
