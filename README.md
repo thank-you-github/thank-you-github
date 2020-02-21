@@ -2396,3 +2396,4 @@ Signed,
 - Aashutosh Rathi ([@AashutoshRathi](https://github.com/aashutoshrathi)), Developer, India
 - Pushkar Patel ([@thepushkarp](https://github.com/thepushkarp)), Student at IIIT Vadodara, India
 - Joshua Poddoku ([@JoshuaPoddoku](https://github.com/JoshuaPoddoku)), Computer Science Undergrad, IIIT Vadodara, India
+- Yazeed AlKhalaf ([@YazeedAlKhalaf](https://github.com/YazeedAlKhalaf)), Flutter Developer and Youngest Participant in Hajj Hackathon, Saudi Arabia
