@@ -2397,4 +2397,4 @@ Signed,
 - Pushkar Patel ([@thepushkarp](https://github.com/thepushkarp)), Student at IIIT Vadodara, India
 - Joshua Poddoku ([@JoshuaPoddoku](https://github.com/JoshuaPoddoku)), Computer Science Undergrad, IIIT Vadodara, India
 - Yazeed AlKhalaf ([@YazeedAlKhalaf](https://github.com/YazeedAlKhalaf)), Flutter Developer and Youngest Participant in Hajj Hackathon, Saudi Arabia
-- Joseph Robinson ([@JOSEPHWORKS](https://github.com/josephworks)), Software Developer, Engineer, and **Master of Technology**, GitHub Education Student Member
+- Joseph Robinson ([@JosephWorks](https://github.com/josephworks)), Software Developer, Engineer, **Master of Technology**, GitHub Education Student Member
