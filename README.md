@@ -12,7 +12,7 @@ Nowadays doing Open Source is infinitely easier thanks to you, GitHub. You've
 provided the tools and the social conventions to make those days a thing of the
 past. Your impact in the Open Source movement is unprecedented.
 
-We want to express our gratitude for all you've done and do for Open Source.
+We want to express our gratitude for all you've done and continue to do for Open Source.
 
 GitHub, thank you very much.
 
@@ -2397,3 +2397,4 @@ Signed,
 - Pushkar Patel ([@thepushkarp](https://github.com/thepushkarp)), Student at IIIT Vadodara, India
 - Joshua Poddoku ([@JoshuaPoddoku](https://github.com/JoshuaPoddoku)), Computer Science Undergrad, IIIT Vadodara, India
 - Yazeed AlKhalaf ([@YazeedAlKhalaf](https://github.com/YazeedAlKhalaf)), Flutter Developer and Youngest Participant in Hajj Hackathon, Saudi Arabia
+- Joseph Robinson ([@JOSEPHWORKS](https://github.com/josephworks)), Software Developer, Engineer, and **Master of Technology**, GitHub Education Student Member
