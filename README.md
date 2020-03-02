@@ -12,7 +12,7 @@ Nowadays doing Open Source is infinitely easier thanks to you, GitHub. You've
 provided the tools and the social conventions to make those days a thing of the
 past. Your impact in the Open Source movement is unprecedented.
 
-We want to express our gratitude for all you've done and continue to do for Open Source.
+We want to express our gratitude for all you've done and do for Open Source.
 
 GitHub, thank you very much.
 
