@@ -2398,3 +2398,4 @@ Signed,
 - Joshua Poddoku ([@JoshuaPoddoku](https://github.com/JoshuaPoddoku)), Computer Science Undergrad, IIIT Vadodara, India
 - Yazeed AlKhalaf ([@YazeedAlKhalaf](https://github.com/YazeedAlKhalaf)), Flutter Developer and Youngest Participant in Hajj Hackathon, Saudi Arabia
 - Jan Klinge ([@Klingens13](https://github.com/Klingens13)), Student, doing almost everything from hardware hacking to software developing, Germany
+- Joseph Robinson ([@JosephWorks](https://github.com/josephworks)), Software Developer, Engineer, **Master of Technology**, GitHub Education Student Member
