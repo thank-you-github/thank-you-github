@@ -2400,3 +2400,4 @@ Signed,
 - Jan Klinge ([@Klingens13](https://github.com/Klingens13)), Student, doing almost everything from hardware hacking to software developing, Germany
 - Joseph Robinson ([@JosephWorks](https://github.com/josephworks)), Software Developer, Engineer, **Master of Technology**, GitHub Education Student Member
 - Anubhav Madhav ([@AnubhavMadhav] (https://github.com/AnubhavMadhav)), Student at Indian Institute of Information Technology, Vadodara, India.
+- Hashir Niazi ([@HashirGJ8842](https://github.com/HashirGJ8842)), Student, Software Engineer, Computer Engineering at Aligarh Muslim University, Aligarh, India
