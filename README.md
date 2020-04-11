@@ -2399,6 +2399,7 @@ Signed,
 - Yazeed AlKhalaf ([@YazeedAlKhalaf](https://github.com/YazeedAlKhalaf)), Flutter Developer and Youngest Participant in Hajj Hackathon, Saudi Arabia
 - Jan Klinge ([@Klingens13](https://github.com/Klingens13)), Student, doing almost everything from hardware hacking to software developing, Germany
 - Joseph Robinson ([@JosephWorks](https://github.com/josephworks)), Software Developer, Engineer, **Master of Technology**, GitHub Education Student Member
-- Anubhav Madhav ([@AnubhavMadhav] (https://github.com/AnubhavMadhav)), Student at Indian Institute of Information Technology, Vadodara, India.
+- Anubhav Madhav ([@AnubhavMadhav](https://github.com/AnubhavMadhav)), Student at Indian Institute of Information Technology, Vadodara, India.
 - Hashir Niazi ([@HashirGJ8842](https://github.com/HashirGJ8842)), Student, Software Engineer, Computer Engineering at Aligarh Muslim University, Aligarh, India
-- Priyanshu Tiwari ([@priyanshumay](https://github.com/priyanshumay)), Web Developer & Student ,India
+- Priyanshu Tiwari ([@priyanshumay](https://github.com/priyanshumay)), Web Developer & Student, India
+- Jovial Joe Jayarson - ([`@joe733`](https://github.com/joe733)): Student; `Quantum Programmer`; `Deep Learning Enthusiast`; Bachelor of Technology from [IES College of Engineering](https://iesce.info); Part-time [blogger](https://medium.com/@joe733); Aim: "To be a good person inside-out", India
