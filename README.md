@@ -2402,3 +2402,4 @@ Signed,
 - Anubhav Madhav ([@AnubhavMadhav] (https://github.com/AnubhavMadhav)), Student at Indian Institute of Information Technology, Vadodara, India.
 - Hashir Niazi ([@HashirGJ8842](https://github.com/HashirGJ8842)), Student, Software Engineer, Computer Engineering at Aligarh Muslim University, Aligarh, India
 - Priyanshu Tiwari ([@priyanshumay](https://github.com/priyanshumay)), Web Developer & Student ,India
+- Myat Min Soe ([@dev-myatminsoe](https://github.com/dev-myatminsoe)), CEO DevHouse Myanmar Co., Ltd.
