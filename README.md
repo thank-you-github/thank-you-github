@@ -2405,3 +2405,4 @@ Signed,
 - Myat Min Soe ([@dev-myatminsoe](https://github.com/dev-myatminsoe)), CEO DevHouse Myanmar Co., Ltd.
 - Edu Depetris ([@edudepetris](https://github.com/edudepetris)), Developer, Argentina
 - Jovial Joe Jayarson ([@joe733](https://github.com/joe733)): Student | Bachelor of Technology from [IES College of Engineering](https://iesce.info) | Part-time [blogger](https://medium.com/@joe733) | `Aspiring Quantum Programmer` | `Deep Learning Enthusiast` | **Aim**: "To be a good person inside-out", India
+- Rajeev Shukla ([@rajeevshukla](https://github.com/rajeevshukla)): `FullStack Developer`,`Spring Geek` | Part-time [blogger](https://medium.com/@mail2rajeevshukla) | New Delhi, India
