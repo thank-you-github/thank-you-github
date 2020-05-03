@@ -2407,3 +2407,4 @@ Signed,
 - Jovial Joe Jayarson ([@joe733](https://github.com/joe733)): Student | Bachelor of Technology from [IES College of Engineering](https://iesce.info) | Part-time [blogger](https://medium.com/@joe733) | `Aspiring Quantum Programmer` | `Deep Learning Enthusiast` | **Aim**: "To be a good person inside-out", India
 - Rajeev Shukla ([@rajeevshukla](https://github.com/rajeevshukla)): `Fullstack Developer`,`Spring Geek` | Part-time [blogger](https://medium.com/@mail2rajeevshukla) | New Delhi, India
 - Natnael Abebaw ([@natiabebaw](https://github.com/natiabebaw)): `Fullstack Developer`,`Computer Science Student` | Freelancer [Linkedin](https://www.linkedin.com/in/natnael-abebaw/) | Ethiopia, Addis Abeba
+- Nitesh Mahawar ([@EdOates84](https://github.com/EdOates84)): `Machine Learning`,`Android Developer`| Undergraduate at IIT, Roorkee
