@@ -26,6 +26,7 @@ Signed,
 - David Pacioianu ([@davidpacioianu](https://github.com/davidpacioianu)), CEO at PixelCan
 - Drew Morris ([@drewry](https://github.com/drewry)), Developer
 - John Drago ([@jdrago999](https://github.com/jdrago999)), Developer
+- Tushar Rohilla ([@CapTen101](https://github.com/CapTen101)), Sophomore and Developer, IIT Roorkee
 - Lakshay Wadhwa ([@luck-u](https://github.com/luck-u)), Developer
 - Josh Kurz ([@jkurz](https://github.com/jkurz)), BA
 - Joshua Burns ([@jdburnz](https://github.com/jdburnz)), CEO at Message In Action
