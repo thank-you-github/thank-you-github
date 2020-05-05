@@ -2409,3 +2409,4 @@ Signed,
 - Natnael Abebaw ([@natiabebaw](https://github.com/natiabebaw)): `Fullstack Developer`,`Computer Science Student` | Freelancer [Linkedin](https://www.linkedin.com/in/natnael-abebaw/) | Ethiopia, Addis Abeba
 - Nitesh Mahawar ([@EdOates84](https://github.com/EdOates84)): `Machine Learning Enthusiast`,`Android Developer`| Undergraduate at IIT, Roorkee
 - Tushar Rohilla ([@CapTen101](https://github.com/CapTen101)), Flutter and Android Developer, Student at IIT Roorkee
+- Sehej Jain ([@sehejjain](https://github.com/sehejjain)), `Flutter Developer`, `Machine Learning Enthusiast`| Student at IIITDM Jabalpur
