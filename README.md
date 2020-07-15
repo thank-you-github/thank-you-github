@@ -2412,4 +2412,4 @@ Signed,
 - Sehej Jain ([@sehejjain](https://github.com/sehejjain)), `Flutter Developer`, `Machine Learning Enthusiast`| Student at IIITDM Jabalpur
 - Tuyen Nguyen Gia ([@giatuyentiensinh](https://github.com/giatuyentiensinh)), Software Engineer, Vietnam
 - Kasun Harshana Peiris ([@peiris](https://github.com/peiris)), `Fullstack software Engineer` / `UI Tech Lead` based in Colombo, Sri Lanka. [Kasun.IO](https://kasun.io)
--Ramesh Kummara ([@rameshkum](https://github.com/rameshkum)), `Fullstack software Engineer` / `System Analyst`  based in Hyderabad, India
+- Ramesh Kummara ([@rameshkum](https://github.com/rameshkum)), `Fullstack software Engineer` / `System Analyst`  based in Hyderabad, India
