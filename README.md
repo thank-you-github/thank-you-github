@@ -2412,3 +2412,4 @@ Signed,
 - Sehej Jain ([@sehejjain](https://github.com/sehejjain)), `Flutter Developer`, `Machine Learning Enthusiast`| Student at IIITDM Jabalpur
 - Tuyen Nguyen Gia ([@giatuyentiensinh](https://github.com/giatuyentiensinh)), Software Engineer, Vietnam
 - Kasun Harshana Peiris ([@peiris](https://github.com/peiris)), `Fullstack software Engineer` / `UI Tech Lead` based in Colombo, Sri Lanka. [Kasun.IO](https://kasun.io)
+- Nomit Rawat ([@NomitRwt](https://github.com/NomitRwt)), 'GIS Engineer' | University of Petroleum and Energy Studies
