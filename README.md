@@ -2415,3 +2415,4 @@ Signed,
 - Nomit Rawat ([@NomitRwt](https://github.com/NomitRwt)), 'GIS Engineer' | University of Petroleum and Energy Studies
 - Ramesh Kummara ([@rameshkum](https://github.com/rameshkum)), `Fullstack software Engineer` / `System Analyst`  based in Hyderabad, India
 Gaurav Ratnawat ([@gauravratnawat](https://github.com/gauravratnawat)), `Fullstack software developer` | `IOT Developer` based in Gurgaon, India
+- Arnaud Zheng ([@arnaud-zg](https://github.com/arnaud-zg)), Software Engineer
