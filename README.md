@@ -2417,3 +2417,4 @@ Signed,
 Gaurav Ratnawat ([@gauravratnawat](https://github.com/gauravratnawat)), `Fullstack software developer` | `IOT Developer` based in Gurgaon, India
 - Arnaud Zheng ([@arnaud-zg](https://github.com/arnaud-zg)), Software Engineer
 - Mohd Danish Khursheed ([@thatdanish](https://github.com/thatdanish)), Electronics Engineering Student & Deep Learning Enthusiast,Aligarh Muslim University(AMU), Aligarh ,India
+- Dhruv Patel ([@iamdhrv](https://github.com/iamdhrv)), Software Engineer
