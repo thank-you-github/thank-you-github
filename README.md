@@ -2419,3 +2419,4 @@ Gaurav Ratnawat ([@gauravratnawat](https://github.com/gauravratnawat)), `Fullsta
 - Mohd Danish Khursheed ([@thatdanish](https://github.com/thatdanish)), Electronics Engineering Student & Deep Learning Enthusiast,Aligarh Muslim University(AMU), Aligarh ,India
 - Dhruv Patel ([@iamdhrv](https://github.com/iamdhrv)), Software Engineer
 - Apurva Wadekar ([@devapurva](https://github.com/devapurva)), `Frontend Developer` based in Mumbai, India.
+- Wang Yiding 王怡丁 ([@yidingww](https://github.com/yidingww)), Software Engineer, China / Singapore
