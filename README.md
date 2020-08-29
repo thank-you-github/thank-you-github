@@ -2420,3 +2420,4 @@ Gaurav Ratnawat ([@gauravratnawat](https://github.com/gauravratnawat)), `Fullsta
 - Dhruv Patel ([@iamdhrv](https://github.com/iamdhrv)), Software Engineer
 - Apurva Wadekar ([@devapurva](https://github.com/devapurva)), `Frontend Developer` based in Mumbai, India.
 - Wang Yiding 王怡丁 ([@yidingww](https://github.com/yidingww)), Software Engineer, China / Singapore
+- Android Dev Notes ([@androiddevnotes](https://github.com/androiddevnotes)), Open-source contributor.
