@@ -1,7 +1,7 @@
 Dear GitHub,
 
 Before 2007, the way to participate in Open Source was fragmented. Each project
-had their own workflow, patches circulated in emails, issues were reported in
+had its own workflow, patches circulated in emails, issues were reported in
 a myriad of ways, and if anyone wanted to contribute they had to figure out every
 project's rules.
 
@@ -2420,3 +2420,4 @@ Gaurav Ratnawat ([@gauravratnawat](https://github.com/gauravratnawat)), `Fullsta
 - Dhruv Patel ([@iamdhrv](https://github.com/iamdhrv)), Software Engineer
 - Apurva Wadekar ([@devapurva](https://github.com/devapurva)), `Frontend Developer` based in Mumbai, India.
 - Wang Yiding 王怡丁 ([@yidingww](https://github.com/yidingww)), Software Engineer, China / Singapore
+- Android Dev Notes ([@androiddevnotes](https://github.com/androiddevnotes)), Open-source contributor.
