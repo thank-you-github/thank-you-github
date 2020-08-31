@@ -2426,3 +2426,4 @@ Gaurav Ratnawat ([@gauravratnawat](https://github.com/gauravratnawat)), `Fullsta
 - Marwa Eltayeb ([@Marwa-Eltayeb](https://github.com/Marwa-Eltayeb)), Software Engineer
 - Hassan Ramadan ([@Hasssan-Ramadan](https://github.com/Hasssan-Ramadan)), Computer Science Student
 - Tawfik Yasser Tawfik ([@TawfikYasser](https://github.com/TawfikYasser)), `Student at Faculty of Comuters and Artificial Intelligence`, Data Man, Android Developer.
+- Jan Celada ([@raquezha](https://github.com/raquezha)), `Just another dev`, Android Developer.
