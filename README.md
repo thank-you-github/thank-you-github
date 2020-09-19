@@ -2429,3 +2429,4 @@ Gaurav Ratnawat ([@gauravratnawat](https://github.com/gauravratnawat)), `Fullsta
 - Jan Celada ([@raquezha](https://github.com/raquezha)), `Just another dev`, Android Developer.
 - Meher Changlani ([@meherc99](https://github.com/meherc99)), Undergrad at IIT Kharagpur
 - Eyoatam Tamirat ([@Eyoatam](https://github.com/eyoatam)), Developer From Addis Ababa Ethiopia
+- Sagnik Chattopadhyaya ([@sagnik20](https://github.com/sagnik20)), `Microsoft Learn Student Ambassador` | `Final year Undergrad` , Kolkata, India
