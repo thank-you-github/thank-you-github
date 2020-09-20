@@ -2429,3 +2429,4 @@ Gaurav Ratnawat ([@gauravratnawat](https://github.com/gauravratnawat)), `Fullsta
 - Jan Celada ([@raquezha](https://github.com/raquezha)), `Just another dev`, Android Developer.
 - Meher Changlani ([@meherc99](https://github.com/meherc99)), Undergrad at IIT Kharagpur
 - Eyoatam Tamirat ([@Eyoatam](https://github.com/eyoatam)), Developer From Addis Ababa Ethiopia
+- Avisek Shaw ([@shawavisek35](https://github.com/shawavisek35)), Developer Student Clubs Lead, CIEM | CSE Undergrad at Calcutta Institute of Engineering and Management.
