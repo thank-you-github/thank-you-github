@@ -2430,3 +2430,4 @@ Gaurav Ratnawat ([@gauravratnawat](https://github.com/gauravratnawat)), `Fullsta
 - Meher Changlani ([@meherc99](https://github.com/meherc99)), Undergrad at IIT Kharagpur
 - Eyoatam Tamirat ([@Eyoatam](https://github.com/eyoatam)), Developer From Addis Ababa Ethiopia
 - Subhayu Kumar Bala ([@subhayu99](https://github.com/subhayu99)), Undergrad at CIEM Kolkata
+- Avisek Shaw ([@shawavisek35](https://github.com/shawavisek35)), Developer Student Clubs Lead, CIEM | CSE Undergrad at Calcutta Institute of Engineering and Management.
