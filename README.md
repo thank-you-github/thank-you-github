@@ -2429,3 +2429,4 @@ Gaurav Ratnawat ([@gauravratnawat](https://github.com/gauravratnawat)), `Fullsta
 - Jan Celada ([@raquezha](https://github.com/raquezha)), `Just another dev`, Android Developer.
 - Meher Changlani ([@meherc99](https://github.com/meherc99)), Undergrad at IIT Kharagpur
 - Eyoatam Tamirat ([@Eyoatam](https://github.com/eyoatam)), Developer From Addis Ababa Ethiopia
+- Prateek Majumder ([@prateekmaj21](https://github.com/prateekmaj21)), Student from India
