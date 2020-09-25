@@ -2430,3 +2430,8 @@ Gaurav Ratnawat ([@gauravratnawat](https://github.com/gauravratnawat)), `Fullsta
 - Meher Changlani ([@meherc99](https://github.com/meherc99)), Undergrad at IIT Kharagpur
 - Eyoatam Tamirat ([@Eyoatam](https://github.com/eyoatam)), Developer From Addis Ababa Ethiopia
 - Prateek Majumder ([@prateekmaj21](https://github.com/prateekmaj21)), Student from India
+- Subhayu Kumar Bala ([@subhayu99](https://github.com/subhayu99)), Undergrad at CIEM Kolkata
+- Avisek Shaw ([@shawavisek35](https://github.com/shawavisek35)), Developer Student Clubs Lead, CIEM | CSE Undergrad at Calcutta Institute of Engineering and Management.
+- Sagnik Chattopadhyaya ([@sagnik20](https://github.com/sagnik20)), `Microsoft Learn Student Ambassador` | `Final year Undergrad` , Kolkata, India
+- Aleksandar Mijatović ([@amijat257](https://github.com/amijat257)), Software Engineer, Serbia
+
