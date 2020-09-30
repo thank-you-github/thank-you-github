@@ -2433,3 +2433,4 @@ Gaurav Ratnawat ([@gauravratnawat](https://github.com/gauravratnawat)), `Fullsta
 - Avisek Shaw ([@shawavisek35](https://github.com/shawavisek35)), Developer Student Clubs Lead, CIEM | CSE Undergrad at Calcutta Institute of Engineering and Management.
 - Sagnik Chattopadhyaya ([@sagnik20](https://github.com/sagnik20)), `Microsoft Learn Student Ambassador` | `Final year Undergrad` , Kolkata, India
 - Aleksandar Mijatović ([@amijat257](https://github.com/amijat257)), Software Engineer, Serbia
+- Malika Arora ([@MalikaArora](https://github.com/MalikaArora)), Undergrad at MIT, Manipal
