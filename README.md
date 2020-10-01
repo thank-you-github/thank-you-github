@@ -2340,7 +2340,9 @@ Signed,
 - Sumesh Majhi ([@MajhiRockzZ](https://github.com/MajhiRockzZ)), Computer Science Student & Full stack web developer, DRIEMS Cuttack, India
 - Mike Beliakov ([@kvokka](https://github.com/kvokka)), Software Engineer, Portugal
 - Vikash Maurya ([@kvikky12345](https://github.com/vikky12345)), CS Student, India
-- Haider Ali ([@Haider8](https://github.com/Haider8)), Electronics Engineering student at [Aligarh Muslim University, India](https://www.amu.ac.in), Software Engineer
+- Haider Ali ([@Haider8](https://github.com/Haider8)), Electronics Engineering student at [Aligarh Muslim University, India](https://www.amu.ac.in), Software 
+- Vedansh Kumar([@raunak-vo](https://github.com/raunak-vo)), Student in SAPS.
+Engineer
 - Adarsh Singh ([@aotrlotr](https://github.com/aotrlotr)), Information Technology Student, KIET GROUP OF INSTITUTIONS, India
 - Anurag Natoo ([@anuragnatoo](https://github.com/anuragnatoo)),Undergraduate at IIITDM Kancheepuram,India
 - Anandi ([@anandikb](https://github.com/anandikb)), Medical student and hobbyist developer, India
