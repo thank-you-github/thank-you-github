@@ -403,7 +403,6 @@ Signed,
 - Rik van der Heijden ([@rikvdh](https://github.com/rikvdh)), Full Stack Developer, Netherlands
 - Gianluca Casati ([@fibo](https://github.com/fibo)), Mathematician
 - Edwin Kupara ([@andela-ekupara](https://github.com/andela-ekupara)), Software Developer
-- Hritik Gupta ([@hritikgupta](https://github.com/hritikgupta)), Software Developer
 - Jerry Ajay ([@jerryant](https://github.com/jerryant)), Student Developer
 - Meet Udeshi ([@udiboy1209](https://github.com/udiboy1209)), Undergrad at IIT Bombay
 - AJ Farley ([@selfresonator](https://github.com/selfresonator)), Student, Developer and Saxophonist
@@ -2434,3 +2433,4 @@ Signed,
 - Avisek Shaw ([@shawavisek35](https://github.com/shawavisek35)), Developer Student Clubs Lead, CIEM | CSE Undergrad at Calcutta Institute of Engineering and Management.
 - Sagnik Chattopadhyaya ([@sagnik20](https://github.com/sagnik20)), `Microsoft Learn Student Ambassador` | `Final year Undergrad` , Kolkata, India
 - Aleksandar Mijatović ([@amijat257](https://github.com/amijat257)), Software Engineer, Serbia
+- Hritik Gupta ([@hritikgupta](https://github.com/hritikgupta)), Software Developer
