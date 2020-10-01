@@ -2437,3 +2437,4 @@ Gaurav Ratnawat ([@gauravratnawat](https://github.com/gauravratnawat)), `Fullsta
 - Malika Arora ([@MalikaArora](https://github.com/MalikaArora)), Undergrad at MIT, Manipal
 - Daksh P. Jain ([@Daksh777](https://github.com/Daksh777)), Programmer & Photographer | New Delhi, India
 - Bereket Semagn ([@bereketsemagn](https://github.com/bereketsemagn)), Developer
+- Prateek Majumder ([@prateekmaj21](https://github.com/prateekmaj21)), Student from India
