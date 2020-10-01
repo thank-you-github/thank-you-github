@@ -2434,3 +2434,4 @@ Gaurav Ratnawat ([@gauravratnawat](https://github.com/gauravratnawat)), `Fullsta
 - Sagnik Chattopadhyaya ([@sagnik20](https://github.com/sagnik20)), `Microsoft Learn Student Ambassador` | `Final year Undergrad` , Kolkata, India
 - Aleksandar Mijatović ([@amijat257](https://github.com/amijat257)), Software Engineer, Serbia
 - Isaac Moore ([@rmsy](https://github.com/rmsy)), Software Developer, Texas, United States
+- Malika Arora ([@MalikaArora](https://github.com/MalikaArora)), Undergrad at MIT, Manipal
