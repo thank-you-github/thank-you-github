@@ -2436,3 +2436,4 @@ Gaurav Ratnawat ([@gauravratnawat](https://github.com/gauravratnawat)), `Fullsta
 - Isaac Moore ([@rmsy](https://github.com/rmsy)), Software Developer, Texas, United States
 - Malika Arora ([@MalikaArora](https://github.com/MalikaArora)), Undergrad at MIT, Manipal
 - Daksh P. Jain ([@Daksh777](https://github.com/Daksh777)), Programmer & Photographer | New Delhi, India
+- Bereket Semagn ([@bereketsemagn](https://github.com/bereketsemagn)), Developer
