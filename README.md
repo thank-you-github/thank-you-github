@@ -2435,3 +2435,4 @@ Gaurav Ratnawat ([@gauravratnawat](https://github.com/gauravratnawat)), `Fullsta
 - Aleksandar Mijatović ([@amijat257](https://github.com/amijat257)), Software Engineer, Serbia
 - Isaac Moore ([@rmsy](https://github.com/rmsy)), Software Developer, Texas, United States
 - Malika Arora ([@MalikaArora](https://github.com/MalikaArora)), Undergrad at MIT, Manipal
+- Daksh P. Jain ([@Daksh777](https://github.com/Daksh777)), Programmer & Photographer | New Delhi, India
