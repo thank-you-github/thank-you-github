@@ -2438,3 +2438,4 @@ Gaurav Ratnawat ([@gauravratnawat](https://github.com/gauravratnawat)), `Fullsta
 - Daksh P. Jain ([@Daksh777](https://github.com/Daksh777)), Programmer & Photographer | New Delhi, India
 - Bereket Semagn ([@bereketsemagn](https://github.com/bereketsemagn)), Developer
 - Prateek Majumder ([@prateekmaj21](https://github.com/prateekmaj21)), Student from India
+- Sristi Dakshit ([@SDakshit](https://github.com/SDakshit)), Developer Student Clubs, CIEM | CSE Undergrad , Kolkata, India
