@@ -2439,3 +2439,4 @@ Gaurav Ratnawat ([@gauravratnawat](https://github.com/gauravratnawat)), `Fullsta
 - Bereket Semagn ([@bereketsemagn](https://github.com/bereketsemagn)), Developer
 - Prateek Majumder ([@prateekmaj21](https://github.com/prateekmaj21)), Student from India
 - Sristi Dakshit ([@SDakshit](https://github.com/SDakshit)), Developer Student Clubs, CIEM | CSE Undergrad , Kolkata, India
+- Hritik Gupta ([@hritikgupta](https://github.com/hritikgupta)), Software Developer
