@@ -17,13 +17,14 @@ We want to express our gratitude for all you've done and do for Open Source.
 GitHub, thank you very much.
 
 Signed,
-
+ 
 - Xavier Noria ([@fxn](https://github.com/fxn)), Ruby on Rails core team member
 - Sriram Ravichandran ([@digi0ps](https://github.com/digi0ps)), CS Freshman at VIT Chennai
 - Jose Diaz-Gonzalez ([@josegonzalez](https://github.com/josegonzalez)), CakePHP and Dokku core team member
 - Denis Savitskiy ([@sadfuzzy](https://github.com/sadfuzzy)), Ruby on Rails engineer at Source[Lab]
 - Vishnu Ks ([@hackerkid](https://github.com/hackerkid)), Undergrad at IIIT Allahabad
 - David Pacioianu ([@davidpacioianu](https://github.com/davidpacioianu)), CEO at PixelCan
+- Chiraag Kakar ([@0212Chiraag](https://github.com/chiraag-kakar)), Full Stack Developer, CS Undergrad
 - Drew Morris ([@drewry](https://github.com/drewry)), Developer
 - John Drago ([@jdrago999](https://github.com/jdrago999)), Developer
 - Josh Kurz ([@jkurz](https://github.com/jkurz)), BA
