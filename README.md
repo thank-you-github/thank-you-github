@@ -24,7 +24,7 @@ Signed,
 - Denis Savitskiy ([@sadfuzzy](https://github.com/sadfuzzy)), Ruby on Rails engineer at Source[Lab]
 - Vishnu Ks ([@hackerkid](https://github.com/hackerkid)), Undergrad at IIIT Allahabad
 - David Pacioianu ([@davidpacioianu](https://github.com/davidpacioianu)), CEO at PixelCan
-- Chiraag Kakar ([@0212Chiraag](https://github.com/chiraag-kakar)), Full Stack Developer, CS Undergrad, India.
+- Chiraag Kakar [@0212Chiraag](https://github.com/chiraag-kakar)), Full Stack Developer, CS Undergrad, India.
 - Drew Morris ([@drewry](https://github.com/drewry)), Developer
 - John Drago ([@jdrago999](https://github.com/jdrago999)), Developer
 - Josh Kurz ([@jkurz](https://github.com/jkurz)), BA
