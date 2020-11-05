@@ -2442,4 +2442,4 @@ Gaurav Ratnawat ([@gauravratnawat](https://github.com/gauravratnawat)), `Fullsta
 - Hritik Gupta ([@hritikgupta](https://github.com/hritikgupta)), Software Developer
 - Mazedur Rahman ([@yamaszone](https://github.com/yamaszone)), Lead Software Engineer
 - Deepesh Kumar R ([@Deepesh316](https://github.com/Deepesh316/)), Developer, Senior Engineer
-- Nitanshu Lokhande([@nlok5923](https://github.com/nlok5923)), Computer Science and Engineering Undergrad at IIIT Vadodara, India
+- Nitanshu Lokhande ([@nlok5923](https://github.com/nlok5923)), Computer Science and Engineering Undergrad at IIIT Vadodara, India
