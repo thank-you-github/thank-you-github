@@ -2445,3 +2445,4 @@ Gaurav Ratnawat ([@gauravratnawat](https://github.com/gauravratnawat)), `Fullsta
 - Dipankar Pal ([@deep5050](https://github.com/deep5050)), A kernel hacker from India
 - Bharat Kumar ([@bghanchi](https://github.com/bghanchi)), Software Engineer
 - Aditya Pal ([@sciencepal](https://github.com/sciencepal/)), Software Developer | Bangalore, India
+- Mohammed Nokri ([@nok91](https://github.com/nok91)), Software Engineer.
