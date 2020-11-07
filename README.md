@@ -2446,3 +2446,4 @@ Gaurav Ratnawat ([@gauravratnawat](https://github.com/gauravratnawat)), `Fullsta
 - Bharat Kumar ([@bghanchi](https://github.com/bghanchi)), Software Engineer
 - Aditya Pal ([@sciencepal](https://github.com/sciencepal/)), Software Developer | Bangalore, India
 - Mohammed Nokri ([@nok91](https://github.com/nok91)), Software Engineer.
+- Nitanshu Lokhande ([@nlok5923](https://github.com/nlok5923)), Computer Science and Engineering Undergrad at IIIT Vadodara, India
