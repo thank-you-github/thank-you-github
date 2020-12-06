@@ -2449,3 +2449,4 @@ Gaurav Ratnawat ([@gauravratnawat](https://github.com/gauravratnawat)), `Fullsta
 - Nitanshu Lokhande ([@nlok5923](https://github.com/nlok5923)), Computer Science and Engineering Undergrad at IIIT Vadodara, India
 - Nguyen Duy Khang ([@khang-nd](https://github.com/khang-nd)), Software Developer, Vietnam
 - Abu Bakar Siddique ([@siddique000](https://github.com/siddique000/)),CSE Undergraduate | Web Developer, Sylhet, Bangladesh
+- Rami Mohammed ([@rami](https://github.com/RamiMohammedSeid)), 16y old Full-Stack Developer | Adiss Ababa, Ethiopia
