@@ -2449,3 +2449,4 @@ Gaurav Ratnawat ([@gauravratnawat](https://github.com/gauravratnawat)), `Fullsta
 - Nitanshu Lokhande ([@nlok5923](https://github.com/nlok5923)), Computer Science and Engineering Undergrad at IIIT Vadodara, India
 - Nguyen Duy Khang ([@khang-nd](https://github.com/khang-nd)), Software Developer, Vietnam
 - Abu Bakar Siddique ([@siddique000](https://github.com/siddique000/)),CSE Undergraduate | Web Developer, Sylhet, Bangladesh
+- Sujal Goel ([@sujalgoel](https://github.com/sujalgoel/)), School Student | Front-end UI developer, Discord bot developer 
