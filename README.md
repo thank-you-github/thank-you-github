@@ -2450,3 +2450,4 @@ Gaurav Ratnawat ([@gauravratnawat](https://github.com/gauravratnawat)), `Fullsta
 - Nguyen Duy Khang ([@khang-nd](https://github.com/khang-nd)), Software Developer, Vietnam
 - Abu Bakar Siddique ([@siddique000](https://github.com/siddique000/)),CSE Undergraduate | Web Developer, Sylhet, Bangladesh
 - Emmanuel ROY ([@acksop](https://github.com/Acksop/)), Web Developer && PHP Architect, Besançon, France
+- Sujal Goel ([@sujalgoel](https://github.com/sujalgoel/)), School Student | Front-end UI developer, Discord bot developer
