@@ -2455,3 +2455,4 @@ Gaurav Ratnawat ([@gauravratnawat](https://github.com/gauravratnawat)), `Fullsta
 - Rami Mohammed ([@RamiMohammedSeid](https://github.com/RamiMohammedSeid)), 16y old Full-Stack Developer | Adiss Ababa, Ethiopia
 - Peter Li ([@cutePanda123](https://github.com/cutePanda123)), Software Developer, Seattle, USA
 - Adlan Sadou ([@AdlanSadou](https://github.com/AdlanSadou/)) Chechen, Epitech Student France
+- Lebyy_Dev ([@Lebyy](https://github.com/Lebyy)), School Student | Web Developer, Verified Discord Bot Developer and Back-end system developer. From Mumbai, India
