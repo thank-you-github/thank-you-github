@@ -2458,3 +2458,4 @@ Gaurav Ratnawat ([@gauravratnawat](https://github.com/gauravratnawat)), `Fullsta
 - Aditya Rana ([@ranaaditya](https://github.com/ranaaditya/)), Engineering Student, Trichy, India
 - Samuel Godwin ([@SamuelGodwin](https://github.com/SamuelGodwin/)), Developer
 - Mitch Yeo ([@ZenovaLogic](https://github.com/ZenovaLogic)), Software Developer, UK
+- Lebyy_Dev ([@Lebyy](https://github.com/Lebyy)), School Student | Web Developer, Verified Discord Bot Developer, Back-end system developer and Roblox Game Developer. From Mumbai, India
