@@ -2457,3 +2457,4 @@ Gaurav Ratnawat ([@gauravratnawat](https://github.com/gauravratnawat)), `Fullsta
 - Adlan Sadou ([@AdlanSadou](https://github.com/AdlanSadou/)) Chechen, Epitech Student France
 - Aditya Rana ([@ranaaditya](https://github.com/ranaaditya/)), Engineering Student, Trichy, India
 - Samuel Godwin ([@SamuelGodwin](https://github.com/SamuelGodwin/)), Developer
+- Mitch Yeo ([@ZenovaLogic](https://github.com/ZenovaLogic)), Software Developer, UK
