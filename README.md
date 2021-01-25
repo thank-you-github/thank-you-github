@@ -2461,3 +2461,4 @@ Gaurav Ratnawat ([@gauravratnawat](https://github.com/gauravratnawat)), `Fullsta
 - Lebyy_Dev ([@Lebyy](https://github.com/Lebyy)), School Student | Web Developer, Verified Discord Bot Developer, Back-end system developer and Roblox Game Developer. From Mumbai, India
 - Bahyu Sanciko ([@bahyusanciko](https://github.com/bahyusanciko)), Full-Stack Developer, Jakarta, Indonesia
 - Devansh Patil ([@subtra3t](https://github.com/subtra3t/)), High school student | Web developer | Python & Rust enthusiast
+- Victor Login ([@batazor](https://github.com/batazor)), Software Engineer
