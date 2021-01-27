@@ -2471,3 +2471,4 @@ Gaurav Ratnawat ([@gauravratnawat](https://github.com/gauravratnawat)), `Fullsta
 - Andrii Lavryniuk ([@splaa](https://github.com/splaa)), Web Developer, Ukraine
 - Faizan Akram ([@faizanakram99](https://github.com/faizanakram99)), Software Engineer, Kashmir
 - Lyubomir Grozdanov ([@lubo13](https://github.com/lubo13)), Backend Developer (Symfony Certified Developer and Zend Certified Engineer (PHP 7)), Bulgaria
+- Leonardo Teixeira ([@LeonardoTeixeira](https://github.com/LeonardoTeixeira)), Software Engineer, Brazil
