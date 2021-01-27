@@ -2469,3 +2469,4 @@ Gaurav Ratnawat ([@gauravratnawat](https://github.com/gauravratnawat)), `Fullsta
 - Nasim Uddin ([@thenasim](https://github.com/thenasim/)), COE Undergraduate | Web Developer | Typescript and C# enthusiast
 - Anatoliy Poloz ([@tolyod](https://github.com/tolyod)), Software Engineer, Russia/Ukraine
 - Andrii Lavryniuk ([@splaa](https://github.com/splaa)), Web Developer, Ukraine
+- Faizan Akram ([@faizanakram99](https://github.com/faizanakram99)), Software Engineer, Kashmir
