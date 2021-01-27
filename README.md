@@ -2465,3 +2465,4 @@ Gaurav Ratnawat ([@gauravratnawat](https://github.com/gauravratnawat)), `Fullsta
 - Victor Login ([@batazor](https://github.com/batazor)), Software Engineer
 - Vladimirs Nordholm ([@vladdeSV](https://github.com/vladdeSV)), Software Engineer, Sweden
 - Jayesh Katta Ramalingaiah ([@jayeshkattar](https://github.com/jayeshkattar)), Full Stack Developer and Tech Speaker, Bangalore, India
+- Gennaro Landolfi ([@rinodrummer](https://github.com/rinodrummer)), Web Enthusiast, Programming Lover & Full-stack Web Developer, Italy
