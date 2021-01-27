@@ -2462,3 +2462,4 @@ Gaurav Ratnawat ([@gauravratnawat](https://github.com/gauravratnawat)), `Fullsta
 - Bahyu Sanciko ([@bahyusanciko](https://github.com/bahyusanciko)), Full-Stack Developer, Jakarta, Indonesia
 - Devansh Patil ([@subtra3t](https://github.com/subtra3t/)), High school student | Web developer | Python & Rust enthusiast
 - Dinesh Katwal ([@k2glyph](https://github.com/k2glyph/)), Programmer & DevOps man, Kathmandu, Nepal
+- Victor Login ([@batazor](https://github.com/batazor)), Software Engineer
