@@ -2463,3 +2463,4 @@ Gaurav Ratnawat ([@gauravratnawat](https://github.com/gauravratnawat)), `Fullsta
 - Devansh Patil ([@subtra3t](https://github.com/subtra3t/)), High school student | Web developer | Python & Rust enthusiast
 - Dinesh Katwal ([@k2glyph](https://github.com/k2glyph/)), Programmer & DevOps man, Kathmandu, Nepal
 - Victor Login ([@batazor](https://github.com/batazor)), Software Engineer
+- Vladimirs Nordholm ([@vladdeSV](https://github.com/vladdeSV)), Software Engineer, Sweden
