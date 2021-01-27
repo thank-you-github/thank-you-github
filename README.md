@@ -2464,3 +2464,4 @@ Gaurav Ratnawat ([@gauravratnawat](https://github.com/gauravratnawat)), `Fullsta
 - Dinesh Katwal ([@k2glyph](https://github.com/k2glyph/)), Programmer & DevOps man, Kathmandu, Nepal
 - Victor Login ([@batazor](https://github.com/batazor)), Software Engineer
 - Vladimirs Nordholm ([@vladdeSV](https://github.com/vladdeSV)), Software Engineer, Sweden
+- Jayesh Katta Ramalingaiah ([@jayeshkattar](https://github.com/jayeshkattar)), Full Stack Developer and Tech Speaker, Bangalore, India
