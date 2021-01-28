@@ -628,6 +628,7 @@ Signed,
 - Sergio Arboleda ([@SergioGeeK7](https://github.com/sergiogeek7)), Javascript Full-Stack Developer, Colombia.
 - Anibal Sólon ([@anibalsolon](https://github.com/anibalsolon)), CTO@[planejei.com](https://planejei.com/), Brazil
 - Pradeep Reddy Raamana ([@raamana](https://github.com/raamana)), Neuroscientist
+- Fitsum Sileshi (@FII78), Developer
 - Sanyam Jain ([@xerosanyam](https://github.com/xerosanyam)), Machine Learning Enthusiast, IIITB, Bangalore
 - Leonardo Valencia ([@leovafme](https://github.com/leovafme)), Full-Stack Developer, Colombia.
 - Vasily Fedoseyev ([@Vasfed](https://github.com/Vasfed)), Developer, Moscow, Russia
