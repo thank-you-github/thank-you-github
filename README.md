@@ -2474,3 +2474,4 @@ Gaurav Ratnawat ([@gauravratnawat](https://github.com/gauravratnawat)), `Fullsta
 - Benjamin Temitope ([@benjamintemitope](https://github.com/benjamintemitope)). Web Developer, Nigeria
 - Rumon ([@msrumon](https://github.com/msrumon)), Self-taught JS and PHP developer from Bangladesh
 - Joachim de Fourestier ([@joedf](https://github.com/joedf)), Developer, Ottawa, Canada
+- Joe Lee ([@joeleeofficial](https://github.com/joeleeofficial)), Developer, Student, Malaysia
