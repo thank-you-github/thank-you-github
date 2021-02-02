@@ -1555,7 +1555,6 @@ Signed,
 - Alexander Fyrdahl ([@fyrdahl](https://github.com/fyrdahl)), Physicist, Stockholm, Sweden
 - Daniel alias Sawyer ([@Sawyer13](https://github.com/Sawyer13)), Espesiah, Madrid, España
 - Sophus Stein George ([@sstein98](https://github.com/sstein98)) , wed developer , kerala ,India
-- Thomas Kuntz ([@thomaskuntzz](https://github.com/thomaskuntzz)), High School Student, Grenoble, France
 - Saurabh Daalia ([@saurabhdaalia](https://github.com/saurabhdaalia)), Computer Science Undergraduate, India
 - Julian Rapp ([@julianwue](https://github.com/julianwue)), UX Designer & Developer, Germany
 - Spyros Ioakeimidis ([@spirosikmd](https://github.com/spirosikmd/)), Software Engineer, Amsterdam, The Netherlands
@@ -2461,4 +2460,19 @@ Gaurav Ratnawat ([@gauravratnawat](https://github.com/gauravratnawat)), `Fullsta
 - Lebyy_Dev ([@Lebyy](https://github.com/Lebyy)), School Student | Web Developer, Verified Discord Bot Developer, Back-end system developer and Roblox Game Developer. From Mumbai, India
 - Bahyu Sanciko ([@bahyusanciko](https://github.com/bahyusanciko)), Full-Stack Developer, Jakarta, Indonesia
 - Devansh Patil ([@subtra3t](https://github.com/subtra3t/)), High school student | Web developer | Python & Rust enthusiast
+- Dinesh Katwal ([@k2glyph](https://github.com/k2glyph/)), Programmer & DevOps man, Kathmandu, Nepal
+- Victor Login ([@batazor](https://github.com/batazor)), Software Engineer
+- Vladimirs Nordholm ([@vladdeSV](https://github.com/vladdeSV)), Software Engineer, Sweden
+- Jayesh Katta Ramalingaiah ([@jayeshkattar](https://github.com/jayeshkattar)), Full Stack Developer and Tech Speaker, Bangalore, India
+- Gennaro Landolfi ([@rinodrummer](https://github.com/rinodrummer)), Web Enthusiast, Programming Lover & Full-stack Web Developer, Italy
+- Nasim Uddin ([@thenasim](https://github.com/thenasim/)), COE Undergraduate | Web Developer | Typescript and C# enthusiast
+- Anatoliy Poloz ([@tolyod](https://github.com/tolyod)), Software Engineer, Russia/Ukraine
+- Andrii Lavryniuk ([@splaa](https://github.com/splaa)), Web Developer, Ukraine
+- Faizan Akram ([@faizanakram99](https://github.com/faizanakram99)), Software Engineer, Kashmir
+- Lyubomir Grozdanov ([@lubo13](https://github.com/lubo13)), Backend Developer (Symfony Certified Developer and Zend Certified Engineer (PHP 7)), Bulgaria
+- Leonardo Teixeira ([@LeonardoTeixeira](https://github.com/LeonardoTeixeira)), Software Engineer, Brazil
+- Benjamin Temitope ([@benjamintemitope](https://github.com/benjamintemitope)). Web Developer, Nigeria
+- Rumon ([@msrumon](https://github.com/msrumon)), Self-taught JS and PHP developer from Bangladesh
+- Joachim de Fourestier ([@joedf](https://github.com/joedf)), Developer, Ottawa, Canada
+- Joe Lee ([@joeleeofficial](https://github.com/joeleeofficial)), Developer, Student, Malaysia
 - Roman Khadka ([@raumteuder](https://github.com/romankhadka/)), Software Engineer | Ruby | Kathmandu, Nepal
