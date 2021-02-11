@@ -2476,3 +2476,4 @@ Gaurav Ratnawat ([@gauravratnawat](https://github.com/gauravratnawat)), `Fullsta
 - Joachim de Fourestier ([@joedf](https://github.com/joedf)), Developer, Ottawa, Canada
 - Joe Lee ([@joeleeofficial](https://github.com/joeleeofficial)), Developer, Student, Malaysia
 - Sudhan ([@SudhanPlayz](https://github.com/SudhanPlayz)), Self-taught Web Developer at India
+- Navaneeth K M ([@navaneethkm004](https://github.com/navaneethkm004)), Web Enthusiast, Programming Lover & Full-stack Developer. From Trivandrum, India 🇮🇳
