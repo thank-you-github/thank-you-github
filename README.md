@@ -2479,3 +2479,4 @@ Gaurav Ratnawat ([@gauravratnawat](https://github.com/gauravratnawat)), `Fullsta
 - Navaneeth K M ([@navaneethkm004](https://github.com/navaneethkm004)), Web Enthusiast, Programming Lover & Full-stack Developer. From Trivandrum, India 🇮🇳
 - Farid Hawami ([@faridhawami](https://github.com/faridhawami)), Student, STT Malang, Indonesia.
 - AmiT Kadam ([@amitbk](https://github.com/amitbk)), Full Stack Developer, Loves Laravel & VueJs, Fan of SOLID | India.
+- Kok Weng ([@kokweng911](https://github.com/kokweng911)), Software Enthusiast at [Techies](https://techies.app), Malaysia
