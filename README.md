@@ -2480,3 +2480,4 @@ Gaurav Ratnawat ([@gauravratnawat](https://github.com/gauravratnawat)), `Fullsta
 - Farid Hawami ([@faridhawami](https://github.com/faridhawami)), Student, STT Malang, Indonesia.
 - AmiT Kadam ([@amitbk](https://github.com/amitbk)), Full Stack Developer, Loves Laravel & VueJs, Fan of SOLID | India.
 - Muhammad Sanjar Afaq ([@sanjarcode](https://github.com/sanjarcode)), Undergrad at VJTI, Mumbai | ♥ FOSS | From India
+- Kok Weng ([@kokweng911](https://github.com/kokweng911)), Software Enthusiast at [Techies](https://techies.app), Malaysia
