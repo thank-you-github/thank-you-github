@@ -2481,4 +2481,5 @@ Gaurav Ratnawat ([@gauravratnawat](https://github.com/gauravratnawat)), `Fullsta
 - AmiT Kadam ([@amitbk](https://github.com/amitbk)), Full Stack Developer, Loves Laravel & VueJs, Fan of SOLID | India.
 - Muhammad Sanjar Afaq ([@sanjarcode](https://github.com/sanjarcode)), Undergrad at VJTI, Mumbai | ♥ FOSS | From India
 - Kok Weng ([@kokweng911](https://github.com/kokweng911)), Software Enthusiast at [Techies](https://techies.app), Malaysia
-- Sooraj E P ([@epsooraj](https://github.com/epsooraj)), Django-React Full Stack Developer | Kochi, Inida
+- Sooraj E P ([@epsooraj](https://github.com/epsooraj)), Django-React Full Stack Developer | Kochi, India
+- Rhutik Giradkar ([@rhutikcodes](https://github.com/rhutikcodes)), Flutter Developer and Student, India
