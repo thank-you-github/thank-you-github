@@ -2482,3 +2482,4 @@ Gaurav Ratnawat ([@gauravratnawat](https://github.com/gauravratnawat)), `Fullsta
 - Muhammad Sanjar Afaq ([@sanjarcode](https://github.com/sanjarcode)), Undergrad at VJTI, Mumbai | ♥ FOSS | From India
 - Kok Weng ([@kokweng911](https://github.com/kokweng911)), Software Enthusiast at [Techies](https://techies.app), Malaysia
 - Sooraj E P ([@epsooraj](https://github.com/epsooraj)), Django-React Full Stack Developer | Kochi, Inida
+- Jovid Khamrokulov ([@jovidon](https://github.com/jovidon)), Software Engineer from Samarkand, Uzbekistan.
