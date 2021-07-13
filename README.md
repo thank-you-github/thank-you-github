@@ -97,6 +97,7 @@ Signed,
 - Waldir Bertazzi Junior ([@waldirbertazzijr](https://github.com/waldirbertazzijr)), Cofounder at geocast.com.br
 - José Luis Quintana ([@joseluisq](https://github.com/joseluisq)), Web Developer
 - Leo Natan ([@LeoNatan](https://github.com/LeoNatan))
+- Yashita Namdeo ([@yashitanamdeo](https://github.com/yashitanamdeo)), Computer Science Student at SVVV,Indore
 - `Dear Github` ([@dear-github](https://github.com/dear-github/dear-github)), OSS maintainers who love GitHub and want to improve it
 - Aman Gautam ([@aman-gautam](https://github.com/aman-gautam)), CTO, ClickEinstein.com
 - Manuel Ebert ([@maebert](https://github.com/maebert)), Founder of [summer.ai](http://summer.ai/) & [open source](https://github.com/maebert/jrnl) developer
