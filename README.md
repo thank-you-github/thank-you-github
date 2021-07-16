@@ -2489,3 +2489,4 @@ Gaurav Ratnawat ([@gauravratnawat](https://github.com/gauravratnawat)), `Fullsta
 - Nitin Bhandari ([@bhandari-nitin](https://github.com/bhandari-nitin)), NLP Engineer | San Francisco, CA
 - Aaron Kebede ([@aaronkebede](https://github.com/aaronkebede)), Physicist & CS Enthusiast | USA
 - Jovid Khamrokulov ([@jovidon](https://github.com/jovidon)), Software Engineer from Samarkand, Uzbekistan.
+- Anis Ajmeri ([@anis-ajmeri](https://github.com/anis-ajmeri)) Full Stack Developer, Ujjain, India
