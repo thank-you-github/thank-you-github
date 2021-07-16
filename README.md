@@ -2490,3 +2490,4 @@ Gaurav Ratnawat ([@gauravratnawat](https://github.com/gauravratnawat)), `Fullsta
 - Aaron Kebede ([@aaronkebede](https://github.com/aaronkebede)), Physicist & CS Enthusiast | USA
 - Jovid Khamrokulov ([@jovidon](https://github.com/jovidon)), Software Engineer from Samarkand, Uzbekistan.
 - Anis Ajmeri ([@anis-ajmeri](https://github.com/anis-ajmeri)) Full Stack Developer, Ujjain, India
+- Rizky Tegar Pratama ([@rizkytegar](https://github.com/rizkytegar)), Full stack web developer, Indonesia
