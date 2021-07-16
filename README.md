@@ -2487,3 +2487,4 @@ Gaurav Ratnawat ([@gauravratnawat](https://github.com/gauravratnawat)), `Fullsta
 - Omar Villafuerte ([@ovillafuerte94](https://github.com/ovillafuerte94)), Full Stack Developer, Cuba
 - Max Base ([@BaseMax](https://github.com/BaseMax)), Software Engineer, GitHub Developer Maintainer ❤️
 - Nitin Bhandari ([@bhandari-nitin](https://github.com/bhandari-nitin)), NLP Engineer | San Francisco, CA
+- Aaron Kebede ([@aaronkebede](https://github.com/aaronkebede)), Physicist & CS Enthusiast | USA
