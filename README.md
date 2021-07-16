@@ -2488,3 +2488,4 @@ Gaurav Ratnawat ([@gauravratnawat](https://github.com/gauravratnawat)), `Fullsta
 - Max Base ([@BaseMax](https://github.com/BaseMax)), Software Engineer, GitHub Developer Maintainer ❤️
 - Nitin Bhandari ([@bhandari-nitin](https://github.com/bhandari-nitin)), NLP Engineer | San Francisco, CA
 - Aaron Kebede ([@aaronkebede](https://github.com/aaronkebede)), Physicist & CS Enthusiast | USA
+- Jovid Khamrokulov ([@jovidon](https://github.com/jovidon)), Software Engineer from Samarkand, Uzbekistan.
