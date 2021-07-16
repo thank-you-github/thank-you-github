@@ -2485,3 +2485,4 @@ Gaurav Ratnawat ([@gauravratnawat](https://github.com/gauravratnawat)), `Fullsta
 - Yashita Namdeo ([@yashitanamdeo](https://github.com/yashitanamdeo)), Computer Science Student at SVVV,Indore
 - Kieran Kirschner ([@adrinites](https://github.com/adrinites)), Network Administrator, Full Stack JavaScript Developer | England, United Kingdom
 - Omar Villafuerte ([@ovillafuerte94](https://github.com/ovillafuerte94)), Full Stack Developer, Cuba
+- Max Base ([@BaseMax](https://github.com/BaseMax)), Software Engineer, GitHub Developer Maintainer ❤️
