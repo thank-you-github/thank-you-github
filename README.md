@@ -2486,3 +2486,4 @@ Gaurav Ratnawat ([@gauravratnawat](https://github.com/gauravratnawat)), `Fullsta
 - Kieran Kirschner ([@adrinites](https://github.com/adrinites)), Network Administrator, Full Stack JavaScript Developer | England, United Kingdom
 - Omar Villafuerte ([@ovillafuerte94](https://github.com/ovillafuerte94)), Full Stack Developer, Cuba
 - Max Base ([@BaseMax](https://github.com/BaseMax)), Software Engineer, GitHub Developer Maintainer ❤️
+- Nitin Bhandari ([@bhandari-nitin](https://github.com/bhandari-nitin)), NLP Engineer | San Francisco, CA
