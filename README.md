@@ -2493,3 +2493,4 @@ Gaurav Ratnawat ([@gauravratnawat](https://github.com/gauravratnawat)), `Fullsta
 - Rizky Tegar Pratama ([@rizkytegar](https://github.com/rizkytegar)), Full stack web developer, Indonesia
 - Bhavesh Mandhan ([@bhavesh0327](https://github.com/bhavesh0327)), Undergrad at NIT Trichy, India
 - Premkumar ([@PremApk](https://github.com/PremApk)), Software Engineer at Temenos, TamilNadu, India. ❤
+- Jishan Shaikh ([@jishanshaikh4](https://github.com/jishanshaikh4)), Software Engineer and Designer from India ❤️
