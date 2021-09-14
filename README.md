@@ -2494,3 +2494,4 @@ Gaurav Ratnawat ([@gauravratnawat](https://github.com/gauravratnawat)), `Fullsta
 - Bhavesh Mandhan ([@bhavesh0327](https://github.com/bhavesh0327)), Undergrad at NIT Trichy, India
 - Premkumar ([@PremApk](https://github.com/PremApk)), Software Engineer at Temenos, TamilNadu, India. ❤
 - Minasie Shibeshi ([@minasploit](https://github.com/minasploit)), Full-Stack Software Developer • Addis Ababa, Ethiopia 🇪🇹
+- Ruchika Modgil ([@Ruchikamodgil](https://github.com/Ruchikamodgil)), Software Engineer
