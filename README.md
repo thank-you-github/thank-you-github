@@ -2496,3 +2496,4 @@ Gaurav Ratnawat ([@gauravratnawat](https://github.com/gauravratnawat)), `Fullsta
 - Minasie Shibeshi ([@minasploit](https://github.com/minasploit)), Full-Stack Software Developer • Addis Ababa, Ethiopia 🇪🇹
 - Ruchika Modgil ([@Ruchikamodgil](https://github.com/Ruchikamodgil)), Software Engineer
 - Shishir ([@ShishirModi](https://github.com/ShishirModi)), Student/Developer, India ❤️
+- Zaú Júlio ([@zaujulio](https://github.com/ZauJulio)), Student and Web Developer | Brazil ❤️
