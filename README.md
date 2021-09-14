@@ -2495,3 +2495,4 @@ Gaurav Ratnawat ([@gauravratnawat](https://github.com/gauravratnawat)), `Fullsta
 - Premkumar ([@PremApk](https://github.com/PremApk)), Software Engineer at Temenos, TamilNadu, India. ❤
 - Minasie Shibeshi ([@minasploit](https://github.com/minasploit)), Full-Stack Software Developer • Addis Ababa, Ethiopia 🇪🇹
 - Ruchika Modgil ([@Ruchikamodgil](https://github.com/Ruchikamodgil)), Software Engineer
+- Shishir ([@ShishirModi](https://github.com/ShishirModi)), Student/Developer, India ❤️
