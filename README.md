@@ -2498,3 +2498,4 @@ Gaurav Ratnawat ([@gauravratnawat](https://github.com/gauravratnawat)), `Fullsta
 - Shishir ([@ShishirModi](https://github.com/ShishirModi)), Student/Developer, India ❤️
 - Zaú Júlio ([@zaujulio](https://github.com/ZauJulio)), Student and Web Developer | Brazil ❤️
 - Jishan Shaikh ([@jishanshaikh4](https://github.com/jishanshaikh4)), Software Engineer and Designer from India ❤️
+- Rhutik Giradkar ([@rhutikcodes](https://github.com/rhutikcodes)), Flutter Developer, Student, India
