@@ -2499,3 +2499,5 @@ Gaurav Ratnawat ([@gauravratnawat](https://github.com/gauravratnawat)), `Fullsta
 - Jishan Shaikh ([@jishanshaikh4](https://github.com/jishanshaikh4)), Software Engineer and Designer from India ❤️
 - Rhutik Giradkar ([@rhutikcodes](https://github.com/rhutikcodes)), Flutter Developer, Student, India
 - Aaron K([@aaronkebede](https://github.com/aaronkebede))], Physicist & Open Source Enthusiast
+- Eyuel ([@Elysium09](https://github.com/elysium09)), Android Developer, Addis Ababa, Ethiopia. ❤️
+
