@@ -18,7 +18,6 @@ GitHub, thank you very much.
 
 Signed,
 
-- Echo ([@3kh0](https://3kh0.github.io)), Online Javascript Devloper
 - Xavier Noria ([@fxn](https://github.com/fxn)), Ruby on Rails core team member
 - Sriram Ravichandran ([@digi0ps](https://github.com/digi0ps)), CS Freshman at VIT Chennai
 - Jose Diaz-Gonzalez ([@josegonzalez](https://github.com/josegonzalez)), CakePHP and Dokku core team member
@@ -2504,3 +2503,4 @@ Gaurav Ratnawat ([@gauravratnawat](https://github.com/gauravratnawat)), `Fullsta
 - Calsias ([@Calsias](https://github.com/calsias)), Student, US.
 - Chee Yong ([@leecheeyong](https://github.com/leecheeyong)), Software Developer, Student, MY
 - Aaron K([@aaronkebede](https://github.com/aaronkebede))], Physicist & Open Source Enthusiast
+- Echo ([@3kh0](https://3kh0.github.io)), Online Javascript Devloper with 2 braincells :)
