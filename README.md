@@ -2503,3 +2503,4 @@ Gaurav Ratnawat ([@gauravratnawat](https://github.com/gauravratnawat)), `Fullsta
 - Calsias ([@Calsias](https://github.com/calsias)), Student, US.
 - Chee Yong ([@leecheeyong](https://github.com/leecheeyong)), Software Developer, Student, MY
 - Aaron K([@aaronkebede](https://github.com/aaronkebede))], Physicist & Open Source Enthusiast
+- Nikitha Reddy ([@Nikitha2309](https://github.com/Nikitha2309)), B.Tech Undegrad Student, Indian Instution of Technology Guwahati ( IITG )
