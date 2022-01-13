@@ -2503,6 +2503,8 @@ Gaurav Ratnawat ([@gauravratnawat](https://github.com/gauravratnawat)), `Fullsta
 - Calsias ([@Calsias](https://github.com/calsias)), Student, US.
 - Chee Yong ([@leecheeyong](https://github.com/leecheeyong)), Software Developer, Student, MY
 - Aaron K([@aaronkebede](https://github.com/aaronkebede))], Physicist & Open Source Enthusiast
+- Luthfi ([@udluthfi](https://github.com/udluthfi)), Property Material [Ceramic](https://udluthfi.co.id), Jepara
+- smujib ([@smujib](https://github.com/smujib)), Article Technology [Jepara Update](https://jeparaupdate.com) Partner [smujib](https://smujib.id), Jepara Central Java
 - Nikitha Reddy ([@Nikitha2309](https://github.com/Nikitha2309)), B.Tech Undegrad Student, Indian Instution of Technology Guwahati ( IITG )
 - Rajdeep Ghosh ([@rajdeep-ghosh](https://github.com/rajdeep-ghosh)), Undergrad, Full Stack and Flutter developer & Open Source Enthusiast
 - Nisarga Adhikary ([@Nisarga-Developer](https://github.com/Nisarga-Developer)), Software Developer, Student, India
