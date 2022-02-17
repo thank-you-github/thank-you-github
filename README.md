@@ -2506,3 +2506,4 @@ Gaurav Ratnawat ([@gauravratnawat](https://github.com/gauravratnawat)), `Fullsta
 - Nikitha Reddy ([@Nikitha2309](https://github.com/Nikitha2309)), B.Tech Undegrad Student, Indian Instution of Technology Guwahati ( IITG )
 - Rajdeep Ghosh ([@rajdeep-ghosh](https://github.com/rajdeep-ghosh)), Undergrad, Full Stack and Flutter developer & Open Source Enthusiast
 - Nisarga Adhikary ([@Nisarga-Developer](https://github.com/Nisarga-Developer)), Software Developer, Student, India
+- Jayant Bhuskat ([@jayant7b](https://github.com/jayant7b)), Software Developer, Avid Learner, Yavatmal, India ❤
