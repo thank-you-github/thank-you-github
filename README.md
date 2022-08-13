@@ -18,6 +18,7 @@ GitHub, thank you very much.
 
 Signed,
 
+- Wilgerth Mouton ([@l33th](https://github.com/l33th)), Full-Stack Software Engineer
 - Xavier Noria ([@fxn](https://github.com/fxn)), Ruby on Rails core team member
 - Sriram Ravichandran ([@digi0ps](https://github.com/digi0ps)), CS Freshman at VIT Chennai
 - Jose Diaz-Gonzalez ([@josegonzalez](https://github.com/josegonzalez)), CakePHP and Dokku core team member
