@@ -869,6 +869,7 @@ Signed,
 - Khaled Mohammad ([@itskhaledmohammad](https://github.com/itskhaledmohammad)), Full Stack Developer, Bangladesh
 - Austen Madden ([@austenmadden](https://github.com/austenmadden)), Software Developer
 - Ernesto Anaya ([@texai](https://github.com/texai)), Software Developer, Peru
+- Harunur Rashid ([@harunBdtask](https://github.com/harunBdtask)), Full Stack Developer, 🇧🇩 Bangladesh
 - Helmy Abdulelah ([@731MY](https://github.com/731MY)), Full Stack Developer, Yemen
 - Sina Soltanieh ([@AdeptLink](https://github.com/AdeptLink)), Student Developer, Buffalo, NY
 - Manish Jung Thapa ([@emp3ror](https://github.com/emp3ror)), Nepali developer, Open source lover
